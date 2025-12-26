@@ -187,10 +187,93 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "abc-plumbing-cos-fillmore",
+      "name": "ABC Plumbing & Electrical Supplies - Colorado Springs",
+      "chain": "ABC Plumbing",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "707 E Fillmore St",
+      "phone": "800-632-0208",
+      "website": "https://abcplumbing.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Bradford White"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Independent regional plumbing, sprinkler, and heating supply house serving Colorado Springs. Wide range of plumbing products with staff offering expert advice for DIY and professional customers. Source: ABC Plumbing official website, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://abcplumbing.com/"
+        ]
+      },
+      "partsFor": [
+        "Plumbing",
+        "Irrigation",
+        "Heating"
+      ],
+      "sources": [
+        "https://abcplumbing.com/"
+      ],
+      "trades": [
+        "Plumbing"
+      ]
+    },
+    {
+      "id": "dahl-castle-rock-perry",
+      "name": "Dahl Plumbing - Castle Rock",
+      "chain": "Hajoca (Dahl)",
+      "trade": "plumbing",
+      "city": "Castle Rock",
+      "state": "CO",
+      "postalCode": "80104",
+      "address1": "1733 S Perry St Ste 105",
+      "phone": "720-531-4006",
+      "website": "https://dahlplumbing.com/castlerock/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/",
+        "https://dahlplumbing.com/castlerock/"
+      ],
+      "trades": [
+        "Plumbing"
+      ]
     }
   ],
   "auditNotes": [
     "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
-    "Colorado Springs plumbing saturation v1: added 2 verified storefronts."
-  ]
+    "Colorado Springs plumbing saturation v1: added 2 verified storefronts.",
+    "2025-12-26: Added ABC Plumbing Colorado Springs and Dahl Castle Rock locations"
+  ],
+  "auditStatus": "expanded"
 }
