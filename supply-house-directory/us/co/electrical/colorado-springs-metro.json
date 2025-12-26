@@ -3,11 +3,11 @@
   "trade": "electrical",
   "metro": "Colorado Springs Metro",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "branches": [
     {
       "id": "cos-graybar",
-      "name": "Graybar Electric \u2013 Colorado Springs",
+      "name": "Graybar Electric – Colorado Springs",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -26,7 +26,7 @@
     },
     {
       "id": "cos-ced",
-      "name": "CED \u2013 Colorado Springs",
+      "name": "CED – Colorado Springs",
       "chain": "CED",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -45,7 +45,7 @@
     },
     {
       "id": "cos-ces",
-      "name": "City Electric Supply \u2013 Colorado Springs",
+      "name": "City Electric Supply – Colorado Springs",
       "chain": "City Electric Supply",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -61,14 +61,77 @@
       "verification": {
         "coords_verified": "2025-12-26"
       }
+    },
+    {
+      "id": "co-colorado-springs-blazer-electric-1",
+      "name": "Blazer Electric Supply",
+      "chain": "Blazer Electric Supply",
+      "trade": "electrical",
+      "address1": "6125 Omaha Blvd",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "phone": "719-596-1333",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "Blazer Electric Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.buyblazer.com/"
+      ]
+    },
+    {
+      "id": "rexel-colorado-springs-3224",
+      "name": "Rexel - Colorado Springs (#3224)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4945 Northpark Drive",
+      "phone": "719-596-1234",
+      "website": "https://www.rexelusa.com/locations/co/colorado-springs/3224",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Colorado Springs.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/colorado-springs/3224"
+        ]
+      }
     }
   ],
   "auditStatus": "pending_web_verification",
   "auditNotes": [
-    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",
-    "Coordinates verified for all listed branches."
+    "Coordinates verified for all listed branches.",
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
   ]
 }

@@ -3,10 +3,87 @@
   "trade": "electrical",
   "metro": "Eastern Plains",
   "state": "CO",
-  "branches": [],
+  "branches": [
+    {
+      "id": "co-sterling-ced-1",
+      "name": "CED Sterling",
+      "chain": "CED",
+      "trade": "electrical",
+      "address1": "100 Broadway St, #5A",
+      "address2": "",
+      "city": "Sterling",
+      "state": "CO",
+      "postalCode": "80751",
+      "phone": "970-580-1912",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "CED"
+      ],
+      "services": [],
+      "sources": [
+        "https://sterlingco.portalced.com/"
+      ]
+    },
+    {
+      "id": "co-sterling-crescent-electric-1",
+      "name": "Crescent Electric Supply",
+      "chain": "Crescent Electric Supply",
+      "trade": "electrical",
+      "address1": "104 California St",
+      "address2": "",
+      "city": "Sterling",
+      "state": "CO",
+      "postalCode": "80751",
+      "phone": "970-522-6161",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "Crescent Electric Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+      ]
+    }
+  ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
   ],
-  "updated": "2025-12-26"
+  "updated": "2025-12-25"
 }

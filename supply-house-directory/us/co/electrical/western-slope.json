@@ -3,10 +3,150 @@
   "trade": "electrical",
   "metro": "Western Slope",
   "state": "CO",
-  "branches": [],
+  "branches": [
+    {
+      "id": "co-durango-ced-1",
+      "name": "CED Durango",
+      "chain": "CED",
+      "trade": "electrical",
+      "address1": "56 Stewart St",
+      "address2": "",
+      "city": "Durango",
+      "state": "CO",
+      "postalCode": "81303",
+      "phone": "970-259-1530",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "CED"
+      ],
+      "services": [],
+      "sources": [
+        "https://ceddgo.com/contact/"
+      ]
+    },
+    {
+      "id": "co-grand-junction-ced-1",
+      "name": "CED Grand Junction",
+      "chain": "CED",
+      "trade": "electrical",
+      "address1": "310 S 12th St",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81501",
+      "phone": "970-243-1430",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "CED"
+      ],
+      "services": [],
+      "sources": [
+        "https://gjced.portalced.com/ContactUs"
+      ]
+    },
+    {
+      "id": "co-grand-junction-city-electric-supply-1",
+      "name": "City Electric Supply",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "address1": "1005 Pitkin Ave",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81501",
+      "phone": "970-986-6126",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "City Electric Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+      ]
+    },
+    {
+      "id": "rexel-glenwood-springs-3204",
+      "name": "Rexel - Glenwood Springs (#3204)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "postalCode": "81601",
+      "address1": "7910 SH-82 W",
+      "phone": "970-945-8265",
+      "website": "https://www.rexelusa.com/locations/co/glenwood-springs/3204",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Glenwood Springs / Roaring Fork Valley.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
+        ]
+      }
+    }
+  ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
-    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
   ],
-  "updated": "2025-12-26"
+  "updated": "2025-12-25"
 }

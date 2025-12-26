@@ -3,11 +3,11 @@
   "trade": "electrical",
   "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "branches": [
     {
       "id": "foco-graybar",
-      "name": "Graybar Electric \u2013 Fort Collins",
+      "name": "Graybar Electric – Fort Collins",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Fort Collins",
@@ -26,7 +26,7 @@
     },
     {
       "id": "greeley-ced",
-      "name": "CED \u2013 Greeley",
+      "name": "CED – Greeley",
       "chain": "CED",
       "trade": "electrical",
       "city": "Greeley",
@@ -42,14 +42,63 @@
       "verification": {
         "coords_verified": "2025-12-26"
       }
+    },
+    {
+      "id": "rexel-greeley-3255",
+      "name": "Rexel - Greeley (#3255)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "2808 1st Ave, Unit F",
+      "phone": "970-351-8320",
+      "website": "https://www.rexelusa.com/locations/co/greeley/3255",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Greeley.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/greeley/3255"
+        ]
+      }
+    },
+    {
+      "id": "rexel-ft-collins-7619",
+      "name": "Rexel - Ft Collins (#7619)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Ft Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "address1": "4530 Innovation Drive",
+      "phone": "970-223-1247",
+      "website": "https://www.rexelusa.com/locations/co/ft-collins/7619",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Fort Collins area.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/ft-collins/7619"
+        ]
+      }
     }
   ],
   "auditStatus": "pending_web_verification",
   "auditNotes": [
-    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",
-    "Coordinates verified for all listed branches."
+    "Coordinates verified for all listed branches.",
+    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages)."
   ]
 }

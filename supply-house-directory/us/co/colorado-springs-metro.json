@@ -2,11 +2,11 @@
   "version": "1.1",
   "metro": "Colorado Springs",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25T23:59:00Z",
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Colorado Springs",
+      "name": "Comfort Air Distributing – Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -23,7 +23,7 @@
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply \u2013 Colorado Springs",
+      "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3320 N El Paso St",
       "city": "Colorado Springs",
@@ -40,7 +40,7 @@
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Colorado Springs",
+      "name": "Lennox Stores – Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -57,7 +57,7 @@
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Colorado Springs",
+      "name": "WinSupply HVAC – Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
@@ -74,7 +74,7 @@
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey \u2013 Colorado Springs",
+      "name": "Sid Harvey – Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -91,7 +91,7 @@
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply \u2013 Colorado Springs",
+      "name": "CT Supply – Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -118,7 +118,7 @@
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries \u2013 Colorado Springs",
+      "name": "Hercules Industries – Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -149,6 +149,119 @@
       "verification": {
         "coords_verified": "2025-12-26"
       }
+    },
+    {
+      "id": "co-colorado-springs-united-refrigeration-1",
+      "name": "United Refrigeration Inc (Branch 408)",
+      "chain": "United Refrigeration",
+      "address1": "772 Clark Pl",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80915",
+      "phone": "+17196356700",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "United Refrigeration"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "tags": [
+        "hvac",
+        "refrigeration",
+        "wholesale"
+      ],
+      "website": "https://www.uri.com/",
+      "sources": [
+        "https://www.uri.com/locations/Branch/408"
+      ]
+    },
+    {
+      "id": "co-colorado-springs-blazer-electric-supply-1",
+      "name": "Blazer Electric Supply",
+      "chain": "Blazer Electric Supply",
+      "address1": "6125 Omaha Blvd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80915",
+      "phone": "+17195961333",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Blazer Electric Supply"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "https://www.buyblazer.com/",
+      "sources": [
+        "https://www.buyblazer.com/"
+      ]
+    },
+    {
+      "id": "co-cos-graybar-001",
+      "name": "Graybar (Colorado Springs)",
+      "chain": "Graybar",
+      "address1": "4635 Galley Rd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80915",
+      "phone": "719-380-4500",
+      "lat": 38.84663,
+      "lon": -104.74123,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-cos-city-electric-001",
+      "name": "City Electric Supply (Colorado Springs - Northpark)",
+      "chain": "City Electric Supply",
+      "address1": "4626 Northpark Dr",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80918",
+      "phone": "719-895-1400",
+      "lat": 38.89877,
+      "lon": -104.82783,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-cos-city-electric-002",
+      "name": "City Electric Supply (Colorado Springs - Woolsey Hts)",
+      "chain": "City Electric Supply",
+      "address1": "1478 Woolsey Hts",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80915",
+      "phone": "",
+      "lat": 38.85057,
+      "lon": -104.68583,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-cos-ferguson-002",
+      "name": "Ferguson Plumbing Supply (Colorado Springs - Northpark)",
+      "chain": "Ferguson",
+      "address1": "4875 Northpark Dr",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80918",
+      "phone": "719-260-9446",
+      "lat": 38.90178,
+      "lon": -104.82659,
+      "tags": [
+        "plumbing"
+      ]
     }
   ]
 }

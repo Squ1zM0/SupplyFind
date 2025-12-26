@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "trade": "hvac",
+  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+  "state": "CO",
+  "branches": [
+    {
+      "id": "co-fort-collins-galarson-redman-001",
+      "name": "Gustave A. Larson – Fort Collins",
+      "chain": "Gustave A. Larson",
+      "trade": "hvac",
+      "address1": "4036 Redman Dr, Suite 130",
+      "address2": "",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524-2764",
+      "phone": "970-224-2053",
+      "website": "https://www.galarson.com/locations",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Gustave A. Larson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.galarson.com/locations"
+      ]
+    }
+  ],
+  "auditStatus": "pending_web_verification",
+  "auditNotes": [
+    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+    "2025-12-25: Added Gustave A. Larson branch (Fort Collins)."
+  ],
+  "updated": "2025-12-25"
+}

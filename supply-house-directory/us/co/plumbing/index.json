@@ -1,7 +1,7 @@
 {
   "trade": "plumbing",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "metros": [
     {
       "id": "denver-metro",
@@ -27,6 +27,16 @@
       "id": "boulder-broomfield-longmont",
       "name": "Boulder / Broomfield / Longmont",
       "file": "boulder-broomfield-longmont.json"
+    },
+    {
+      "id": "western-slope",
+      "name": "Western Slope",
+      "file": "us/co/plumbing/western-slope.json"
+    },
+    {
+      "id": "eastern-plains",
+      "name": "Eastern Plains",
+      "file": "us/co/plumbing/eastern-plains.json"
     }
   ]
 }

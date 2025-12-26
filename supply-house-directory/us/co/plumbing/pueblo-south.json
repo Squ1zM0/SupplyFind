@@ -66,50 +66,8 @@
       }
     },
     {
-      "id": "ferguson-plumbing-pueblo-0113",
-      "name": "Ferguson Plumbing Supply (Pueblo)",
-      "chain": "Ferguson",
-      "trade": "plumbing",
-      "city": "Pueblo",
-      "state": "CO",
-      "postalCode": "81006",
-      "address1": "1109 S Santa Fe Ave",
-      "phone": "719-547-3077",
-      "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page.",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26"
-      }
-    },
-    {
-      "id": "rampart-supply-pueblo-320-e-4th",
-      "name": "Rampart Supply (Pueblo)",
-      "chain": "Rampart Supply",
-      "trade": "plumbing",
-      "city": "Pueblo",
-      "state": "CO",
-      "postalCode": "81003",
-      "address1": "320 E 4th St",
-      "phone": "719-583-0111",
-      "website": "https://www.rampartsupply.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "notes": "Local plumbing wholesaler/showroom.",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26"
-      }
-    },
-    {
       "id": "winnelson-pueblo-300-ilex",
-      "name": "Winnelson \u2013 Pueblo (Winsupply of Pueblo)",
+      "name": "Winnelson – Pueblo (Winsupply of Pueblo)",
       "chain": "Winsupply",
       "trade": "plumbing",
       "city": "Pueblo",

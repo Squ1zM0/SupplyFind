@@ -2,7 +2,7 @@
   "version": "1.2-corrected",
   "metro": "Front Range North",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25T23:59:00Z",
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
@@ -95,6 +95,66 @@
       "tags": [
         "hvac",
         "wholesale"
+      ]
+    },
+    {
+      "id": "co-frn-city-electric-002",
+      "name": "City Electric Supply (Fort Collins)",
+      "chain": "City Electric Supply",
+      "address1": "2415 E Mulberry St",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "970-776-6400",
+      "lat": 40.58048,
+      "lon": -105.03158,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-frn-ferguson-002",
+      "name": "Ferguson Plumbing Supply (Fort Collins)",
+      "chain": "Ferguson",
+      "address1": "2321 Donella Ct",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "970-372-3311",
+      "lat": 40.58568,
+      "lon": -105.03354,
+      "tags": [
+        "plumbing"
+      ]
+    },
+    {
+      "id": "co-frn-ced-001",
+      "name": "Consolidated Electrical Distributors (Fort Collins)",
+      "chain": "Consolidated Electrical Distributors",
+      "address1": "1717 Heath Pkwy",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "970-484-4377",
+      "lat": 40.58544,
+      "lon": -105.04535,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-frn-city-electric-003",
+      "name": "City Electric Supply (Loveland)",
+      "chain": "City Electric Supply",
+      "address1": "1082 Denver Ave",
+      "city": "Loveland",
+      "state": "CO",
+      "zip": "80537",
+      "phone": "970-663-3333",
+      "lat": 40.40289,
+      "lon": -105.04406,
+      "tags": [
+        "electrical"
       ]
     }
   ],

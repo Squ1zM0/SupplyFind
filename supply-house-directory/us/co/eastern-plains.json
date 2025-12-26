@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-12-25",
+  "state": "CO",
+  "metro": "Eastern Plains",
+  "branches": [
+    {
+      "id": "co-sterling-ced-1",
+      "name": "CED Sterling",
+      "chain": "CED",
+      "address1": "100 Broadway St, #5A",
+      "city": "Sterling",
+      "state": "CO",
+      "zip": "80751",
+      "phone": "+19705801912",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "CED"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "",
+      "sources": [
+        "https://sterlingco.portalced.com/"
+      ]
+    },
+    {
+      "id": "co-sterling-crescent-electric-1",
+      "name": "Crescent Electric Supply",
+      "chain": "Crescent Electric Supply",
+      "address1": "104 California St",
+      "city": "Sterling",
+      "state": "CO",
+      "zip": "80751",
+      "phone": "+19705226161",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Crescent Electric Supply"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "",
+      "sources": [
+        "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+      ]
+    }
+  ]
+}

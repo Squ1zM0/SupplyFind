@@ -2,7 +2,7 @@
   "version": "1.1",
   "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
@@ -63,6 +63,32 @@
       "tags": [
         "hvac-hydronics",
         "wholesale"
+      ]
+    },
+    {
+      "id": "co-pueblo-blazer-electric-supply-1",
+      "name": "Blazer Electric Supply",
+      "chain": "Blazer Electric Supply",
+      "address1": "230 S Santa Fe Ave",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81003",
+      "phone": "+17195464444",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Blazer Electric Supply"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "https://www.buyblazer.com/",
+      "sources": [
+        "https://www.buyblazer.com/"
       ]
     }
   ]

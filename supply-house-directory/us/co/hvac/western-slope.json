@@ -3,10 +3,88 @@
   "trade": "hvac",
   "metro": "Western Slope",
   "state": "CO",
-  "branches": [],
+  "branches": [
+    {
+      "id": "co-grand-junction-johnstone-1",
+      "name": "Johnstone Supply",
+      "chain": "Johnstone Supply",
+      "trade": "hvac",
+      "address1": "567 S 15th St",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81501",
+      "phone": "970-434-1374",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Johnstone Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.johnstonesupply.com/"
+      ]
+    },
+    {
+      "id": "co-grand-junction-galarson-north-ave-001",
+      "name": "Gustave A. Larson – Grand Junction",
+      "chain": "Gustave A. Larson",
+      "trade": "hvac",
+      "address1": "2930 North Ave",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81504-5490",
+      "phone": "970-245-6278",
+      "website": "https://www.galarson.com/locations",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Gustave A. Larson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.galarson.com/locations"
+      ]
+    }
+  ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
-    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-25: Added Gustave A. Larson branch (Grand Junction)."
   ],
-  "updated": "2025-12-26"
+  "updated": "2025-12-25"
 }

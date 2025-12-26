@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "trade": "hvac",
+  "metro": "Colorado Springs Metro",
+  "state": "CO",
+  "branches": [
+    {
+      "id": "co-colorado-springs-galarson-aeroplaza-001",
+      "name": "Gustave A. Larson – Colorado Springs",
+      "chain": "Gustave A. Larson",
+      "trade": "hvac",
+      "address1": "855 Aeroplaza Dr, Suite 100",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80916",
+      "phone": "719-268-6644",
+      "website": "https://www.galarson.com/locations",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Gustave A. Larson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.galarson.com/locations"
+      ]
+    }
+  ],
+  "auditStatus": "pending_web_verification",
+  "auditNotes": [
+    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+    "2025-12-25: Added Gustave A. Larson branch (Colorado Springs)."
+  ],
+  "updated": "2025-12-25"
+}

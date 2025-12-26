@@ -3,11 +3,11 @@
   "trade": "electrical",
   "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "branches": [
     {
       "id": "pueblo-graybar",
-      "name": "Graybar Electric \u2013 Pueblo",
+      "name": "Graybar Electric – Pueblo",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Pueblo",
@@ -20,14 +20,77 @@
       "lon": -104.6147,
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront"
+    },
+    {
+      "id": "co-pueblo-blazer-electric-1",
+      "name": "Blazer Electric Supply",
+      "chain": "Blazer Electric Supply",
+      "trade": "electrical",
+      "address1": "230 S Santa Fe Ave",
+      "address2": "",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "phone": "719-546-4444",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "Blazer Electric Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.buyblazer.com/"
+      ]
+    },
+    {
+      "id": "rexel-pueblo-3223",
+      "name": "Rexel - Pueblo (#3223)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81001",
+      "address1": "737 Desert Flower Blvd",
+      "phone": "719-543-2300",
+      "website": "https://www.rexelusa.com/locations/co/pueblo/3223",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Pueblo.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/pueblo/3223"
+        ]
+      }
     }
   ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
-    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added verified Graybar Pueblo storefront.",
-    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
   ]
 }
