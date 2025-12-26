@@ -297,6 +297,55 @@
       "lon": -104.9626,
       "coordsStatus": "verified",
       "notes": "Independent plumbing wholesaler storefront"
+    },
+    {
+      "id": "ferguson-plumbing-arvada-sheridan-001",
+      "name": "Ferguson Plumbing & HVAC Supply - Arvada",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Arvada",
+      "state": "CO",
+      "postalCode": "80003",
+      "address1": "8175 Sheridan Boulevard, Unit S",
+      "phone": "(303) 650-0700",
+      "website": "https://www.ferguson.com/store/co/arvada/hvac-1805",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Arvada area",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.ferguson.com/store/co/arvada/hvac-1805",
+          "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
+        ]
+      }
+    },
+    {
+      "id": "ferguson-showroom-aurora-25th-001",
+      "name": "Ferguson Aurora Showroom",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80011",
+      "address1": "17655 East 25th Drive",
+      "phone": "(303) 739-8000",
+      "website": "https://www.ferguson.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing showroom and supply",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
+        ]
+      }
     }
   ],
   "auditNotes": [
@@ -304,7 +353,8 @@
     "All entries verified as physical storefront plumbing wholesalers.",
     "Chains normalized (Hajoca / Winsupply).",
     "No false storefronts detected; no removals required.",
-    "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr"
+    "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr",
+    "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research."
   ],
-  "auditStatus": "in_progress"
+  "auditStatus": "expanded"
 }

@@ -82,15 +82,41 @@
           "https://www.rexelusa.com/locations/co/pueblo/3223"
         ]
       }
+    },
+    {
+      "id": "ced-pueblo-wc-001",
+      "name": "CED - Pueblo",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "125 W C Street",
+      "phone": "(719) 543-7510",
+      "website": "https://aecpueblo.portalced.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Pueblo and southern Colorado",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://aecpueblo.portalced.com/ContactUs",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
+        ]
+      }
     }
   ],
-  "auditStatus": "audit_complete_no_storefronts",
+  "auditStatus": "expanded",
   "auditNotes": [
     "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added verified Graybar Pueblo storefront.",
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
-    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Added CED Pueblo location identified in expansion research."
   ]
 }

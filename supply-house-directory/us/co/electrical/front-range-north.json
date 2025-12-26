@@ -90,15 +90,66 @@
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
         ]
       }
+    },
+    {
+      "id": "ced-fortcollins-sharp-001",
+      "name": "CED - Fort Collins",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "address1": "2025 Sharp Point Dr",
+      "phone": "(970) 484-4377",
+      "website": "https://cedfortcollins.portalced.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Fort Collins area",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://cedfortcollins.portalced.com/ContactUs",
+          "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
+        ]
+      }
+    },
+    {
+      "id": "borderstates-greeley-4th-001",
+      "name": "Border States Electric - Greeley",
+      "chain": "Border States",
+      "trade": "electrical",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "2414 4th Ave",
+      "phone": "",
+      "website": "https://solutions.borderstates.com/branch-locations/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Border States serving Greeley and northern Colorado",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://solutions.borderstates.com/branch-locations/",
+          "https://servlectric.com/branch/border-states-greeley-2414-4th-ave-greeley-co-80631"
+        ]
+      }
     }
   ],
-  "auditStatus": "pending_web_verification",
+  "auditStatus": "expanded",
   "auditNotes": [
     "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",
     "Coordinates verified for all listed branches.",
-    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages)."
+    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Added CED Fort Collins and Border States Greeley locations identified in expansion research."
   ]
 }
