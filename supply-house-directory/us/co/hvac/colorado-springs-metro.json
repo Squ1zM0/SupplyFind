@@ -41,12 +41,55 @@
       "sources": [
         "https://www.galarson.com/locations"
       ]
+    },
+    {
+      "id": "co-cosprings-tranesupply-list-001",
+      "name": "Trane Supply - Colorado Springs",
+      "chain": "Trane Supply",
+      "trade": "hvac",
+      "address1": "4840 List Drive",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80919",
+      "phone": "(719) 266-8800",
+      "website": "https://www.tranesupply.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Full line of HVAC parts, supplies, equipment, and commercial sales",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Trane",
+        "American Standard"
+      ],
+      "brandsRep": [
+        "Trane",
+        "American Standard"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.mapquest.com/us/colorado/trane-supply-375393975",
+        "https://www.tranesupply.com/store-locator"
+      ]
     }
   ],
-  "auditStatus": "pending_web_verification",
+  "auditStatus": "expanded",
   "auditNotes": [
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Colorado Springs)."
+    "2025-12-25: Added Gustave A. Larson branch (Colorado Springs).",
+    "2025-12-26: Added Trane Supply Colorado Springs location."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }

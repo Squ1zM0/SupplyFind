@@ -175,13 +175,56 @@
       "sources": [
         "https://www.rsd.net/locations/"
       ]
+    },
+    {
+      "id": "co-englewood-tranesupply-inverness-001",
+      "name": "Trane Supply - Englewood",
+      "chain": "Trane Supply",
+      "trade": "hvac",
+      "address1": "67 Inverness Dr E Ste 120",
+      "address2": "",
+      "city": "Englewood",
+      "state": "CO",
+      "postalCode": "80112",
+      "phone": "(720) 709-3190",
+      "website": "https://www.tranesupply.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Trane Supply HVAC parts and equipment distributor",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Trane",
+        "American Standard"
+      ],
+      "brandsRep": [
+        "Trane",
+        "American Standard"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.yellowpages.com/denver-co/trane-supply",
+        "https://www.tranesupply.com/store-locator"
+      ]
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
     "2025-12-25: Added Gustave A. Larson branch (Englewood).",
-    "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research."
+    "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
+    "2025-12-26: Added Trane Supply Englewood location."
   ],
   "updated": "2025-12-26"
 }

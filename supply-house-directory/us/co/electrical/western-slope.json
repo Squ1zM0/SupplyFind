@@ -141,12 +141,86 @@
           "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
         ]
       }
+    },
+    {
+      "id": "ced-glenwoodsprings-cr154-001",
+      "name": "CED - Glenwood Springs",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "postalCode": "81601",
+      "address1": "5392 County Road 154",
+      "phone": "",
+      "website": "https://cedcareers.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Roaring Fork Valley",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
+        ]
+      }
+    },
+    {
+      "id": "ced-montrose-ngrand-001",
+      "name": "CED - Montrose",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Montrose",
+      "state": "CO",
+      "postalCode": "81401",
+      "address1": "910 North Grand Ave",
+      "phone": "",
+      "website": "https://cedcareers.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Montrose area",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.loc8nearme.com/colorado/montrose/consolidated-electrical-distribution/3246381/",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
+        ]
+      }
+    },
+    {
+      "id": "ced-gunnison-s10th-001",
+      "name": "CED - Gunnison",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Gunnison",
+      "state": "CO",
+      "postalCode": "81230",
+      "address1": "318 S 10th St",
+      "phone": "",
+      "website": "https://cedcareers.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Gunnison County",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
+        ]
+      }
     }
   ],
-  "auditStatus": "audit_complete_no_storefronts",
+  "auditStatus": "expanded",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
-    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Added CED locations in Glenwood Springs, Montrose, and Gunnison identified in expansion research."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }
