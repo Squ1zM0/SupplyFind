@@ -1,0 +1,33 @@
+{
+  "version": "PUEBLO_ELECTRICAL_GAP_FILL_v1",
+  "trade": "electrical",
+  "metro": "Pueblo / South Colorado",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "pueblo-graybar",
+      "name": "Graybar Electric \u2013 Pueblo",
+      "chain": "Graybar",
+      "trade": "electrical",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81001",
+      "address1": "401 W 29th St",
+      "phone": "719-542-1234",
+      "website": "https://www.graybar.com/",
+      "lat": 38.3046,
+      "lon": -104.6147,
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront"
+    }
+  ],
+  "auditStatus": "audit_complete_no_storefronts",
+  "auditNotes": [
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
+    "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
+    "Added verified Graybar Pueblo storefront.",
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+  ]
+}

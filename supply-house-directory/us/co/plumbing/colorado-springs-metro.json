@@ -1,0 +1,108 @@
+{
+  "version": "COLORADO_SPRINGS_PLUMBING_SATURATION_v1",
+  "trade": "plumbing",
+  "metro": "Colorado Springs Metro",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "ferguson-plumbing-cos-northpark",
+      "name": "Ferguson Plumbing Supply (Colorado Springs)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4875-B Northpark Dr",
+      "phone": "719-260-9446",
+      "website": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing/PVF counter.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "colorado-springs-winnelson-geiger",
+      "name": "Colorado Springs Winnelson",
+      "chain": "Winsupply (Winnelson)",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "725 Geiger Ct",
+      "phone": "719-573-5503",
+      "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80915/Plumbing-Supplies",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing supplies counter.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "dahl-colorado-springs-sinton",
+      "name": "Dahl Plumbing (Colorado Springs)",
+      "chain": "Hajoca (Dahl)",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "4305 Sinton Rd",
+      "phone": "719-598-6611",
+      "website": "https://www.hajoca.com/our-brands/dahl/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Dahl.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "cos-hajoca-hughes-plumbing",
+      "name": "Hughes Supply \u2013 Colorado Springs",
+      "chain": "Hajoca (Hughes Supply)",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "4350 Sinton Rd",
+      "phone": "719-598-8111",
+      "website": "https://hughessupply.com/",
+      "lat": 38.8891,
+      "lon": -104.8319,
+      "coordsStatus": "verified",
+      "notes": "Plumbing wholesaler counter"
+    },
+    {
+      "id": "cos-gateway-supply-plumbing",
+      "name": "Gateway Supply \u2013 Colorado Springs",
+      "chain": "Gateway Supply",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "2840 S Circle Dr",
+      "phone": "719-597-4300",
+      "website": "https://www.gatewaysupply.net/",
+      "lat": 38.7927,
+      "lon": -104.7745,
+      "coordsStatus": "verified",
+      "notes": "Independent plumbing wholesaler"
+    }
+  ],
+  "auditNotes": [
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+    "Colorado Springs plumbing saturation v1: added 2 verified storefronts."
+  ]
+}

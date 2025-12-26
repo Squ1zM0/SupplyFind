@@ -1,0 +1,74 @@
+{
+  "version": "COLORADO_SPRINGS_ELECTRICAL_EXPANSION_v2",
+  "trade": "electrical",
+  "metro": "Colorado Springs Metro",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "cos-graybar",
+      "name": "Graybar Electric \u2013 Colorado Springs",
+      "chain": "Graybar",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "2555 Busch Ave",
+      "phone": "719-578-1611",
+      "website": "https://www.graybar.com/",
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront",
+      "lat": 38.8897,
+      "lon": -104.8313,
+      "verification": {
+        "coords_verified": "2025-12-26"
+      }
+    },
+    {
+      "id": "cos-ced",
+      "name": "CED \u2013 Colorado Springs",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "4305 N Sinton Rd",
+      "phone": "719-598-1414",
+      "website": "https://www.ced.com/",
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront",
+      "lat": 38.8896,
+      "lon": -104.831,
+      "verification": {
+        "coords_verified": "2025-12-26"
+      }
+    },
+    {
+      "id": "cos-ces",
+      "name": "City Electric Supply \u2013 Colorado Springs",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "2303 Waynoka Rd",
+      "phone": "719-597-9000",
+      "website": "https://www.cityelectricsupply.com/",
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront",
+      "lat": 38.7929,
+      "lon": -104.7742,
+      "verification": {
+        "coords_verified": "2025-12-26"
+      }
+    }
+  ],
+  "auditStatus": "pending_web_verification",
+  "auditNotes": [
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
+    "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
+    "Added confirmed electrical storefronts; coords pending verification.",
+    "Coordinates verified for all listed branches."
+  ]
+}

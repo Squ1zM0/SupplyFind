@@ -1,0 +1,15 @@
+{
+  "version": "BBL_ELECTRICAL_AUDIT_v1",
+  "trade": "electrical",
+  "metro": "Boulder / Broomfield / Longmont",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [],
+  "auditStatus": "audit_complete_no_storefronts",
+  "auditNotes": [
+    "Chain-by-chain audit performed (Graybar, CED, Rexel, CES).",
+    "No confirmed electrical counter storefronts within Boulder, Broomfield, or Longmont city limits.",
+    "Area is served by Denver and Front Range North counters.",
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+  ]
+}

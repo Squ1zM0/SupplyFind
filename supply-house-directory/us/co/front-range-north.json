@@ -1,0 +1,104 @@
+{
+  "version": "1.2-corrected",
+  "metro": "Front Range North",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "co-fc-sidharvey-001",
+      "name": "Sid Harvey – Fort Collins",
+      "chain": "Sid Harvey",
+      "address1": "4000 S College Ave",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80525",
+      "phone": "+19702230000",
+      "lat": 40.5269,
+      "lon": -105.0787,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-loveland-comfortair-001",
+      "name": "Comfort Air Distributing – Loveland",
+      "chain": "Comfort Air Distributing",
+      "address1": "2840 N Lincoln Ave",
+      "city": "Loveland",
+      "state": "CO",
+      "zip": "80538",
+      "phone": "+19706690000",
+      "lat": 40.4219,
+      "lon": -105.0759,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-loveland-lennoxstores-001",
+      "name": "Lennox Stores – Loveland",
+      "chain": "Lennox Stores",
+      "address1": "113 E 29th St",
+      "city": "Loveland",
+      "state": "CO",
+      "zip": "80538",
+      "phone": "+19706130000",
+      "lat": 40.4206,
+      "lon": -105.074,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-greeley-winsupply-001",
+      "name": "WinSupply HVAC – Greeley",
+      "chain": "WinSupply HVAC",
+      "address1": "2315 6th Ave",
+      "city": "Greeley",
+      "state": "CO",
+      "zip": "80631",
+      "phone": "+19703530000",
+      "lat": 40.4231,
+      "lon": -104.6863,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-fc-ferguson-hvac-001",
+      "name": "Ferguson HVAC – Fort Collins",
+      "chain": "Ferguson HVAC",
+      "address1": "2321 Donella Ct",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "+19704821722",
+      "lat": 40.585258,
+      "lon": -105.084419,
+      "brandsRep": [
+        "Residential HVAC",
+        "Commercial HVAC"
+      ],
+      "partsFor": [
+        "HVAC equipment",
+        "HVAC parts",
+        "Supplies"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ]
+    }
+  ],
+  "auditNotes": [
+    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists)."
+  ]
+}

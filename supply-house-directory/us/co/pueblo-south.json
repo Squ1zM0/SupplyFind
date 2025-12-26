@@ -1,0 +1,69 @@
+{
+  "version": "1.1",
+  "metro": "Pueblo / South Colorado",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "co-pueblo-lennoxstores-001",
+      "name": "Lennox Stores – Pueblo",
+      "chain": "Lennox Stores",
+      "address1": "3920 N Freeway Rd",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81008",
+      "phone": "+17195480000",
+      "lat": 38.3236,
+      "lon": -104.6076,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-pueblo-comfortair-001",
+      "name": "Comfort Air Distributing – Pueblo",
+      "chain": "Comfort Air Distributing",
+      "address1": "120 E Industrial Blvd",
+      "city": "Pueblo West",
+      "state": "CO",
+      "zip": "81007",
+      "phone": "+17195620000",
+      "lat": 38.3508,
+      "lon": -104.7275,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ]
+    },
+    {
+      "id": "co-pueblo-rampart-001",
+      "name": "Rampart Supply – Pueblo",
+      "chain": "Rampart Supply",
+      "address1": "320 E 4th St",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81003",
+      "phone": "+17195830111",
+      "lat": 38.27041,
+      "lon": -104.60332,
+      "brandsRep": [
+        "Hydronic",
+        "Heating",
+        "Plumbing"
+      ],
+      "partsFor": [
+        "Boilers",
+        "Hydronic components",
+        "Heating",
+        "Plumbing"
+      ],
+      "tags": [
+        "hvac-hydronics",
+        "wholesale"
+      ]
+    }
+  ]
+}

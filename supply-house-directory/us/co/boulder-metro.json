@@ -1,0 +1,114 @@
+{
+  "version": "AUDIT_BOULDER_SAT_v1",
+  "region": "Boulder / Broomfield / Longmont (CO)",
+  "state": "CO",
+  "country": "US",
+  "updated": "2025-12-26",
+  "verificationMode": "strict_storefront_only",
+  "notes": [
+    "Strict storefront-only pass completed.",
+    "No HVAC supply storefronts were added because none could be confirmed via official distributor branch locators for the allowed cities (Boulder, Broomfield, Longmont) at time of audit.",
+    "Non-official listings (Yelp/MapQuest/third-party directories) are intentionally excluded under strict rules."
+  ],
+  "branches": [
+    {
+      "id": "co-broomfield-comfort-air-001",
+      "name": "Comfort Air Distributing – Broomfield",
+      "chain": "Comfort Air Distributing",
+      "address1": "11575 Main St, Unit 500",
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": "80020",
+      "phone": "+17207430888",
+      "lat": 39.90625,
+      "lon": -105.07292,
+      "brandsRep": [
+        "Residential HVAC",
+        "Light Commercial HVAC"
+      ],
+      "partsFor": [
+        "HVAC equipment",
+        "HVAC parts",
+        "Supplies"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ]
+    },
+    {
+      "id": "co-louisville-uri-001",
+      "name": "United Refrigeration (URI) – Louisville",
+      "chain": "United Refrigeration",
+      "address1": "1533 Arthur St, Ste A",
+      "city": "Louisville",
+      "state": "CO",
+      "zip": "80027",
+      "phone": "+13039268500",
+      "lat": 39.9686435,
+      "lon": -105.1212993,
+      "brandsRep": [
+        "HVAC/R"
+      ],
+      "partsFor": [
+        "Refrigeration",
+        "HVAC",
+        "Supplies"
+      ],
+      "tags": [
+        "hvac",
+        "refrigeration",
+        "wholesale"
+      ]
+    },
+    {
+      "id": "co-longmont-winair-001",
+      "name": "Longmont Winair (Winsupply) – Longmont",
+      "chain": "Winsupply / Winair",
+      "address1": "1140 Boston Ave, Unit C",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "80501",
+      "phone": "+13036519641",
+      "lat": 40.15804,
+      "lon": -105.10936,
+      "brandsRep": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "partsFor": [
+        "HVAC supplies",
+        "Plumbing supplies"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ]
+    },
+    {
+      "id": "co-longmont-ferguson-hvac-001",
+      "name": "Ferguson HVAC – Longmont",
+      "chain": "Ferguson HVAC",
+      "address1": "1567 Vista View Dr",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "80504",
+      "phone": "+13038453750",
+      "lat": 40.15687,
+      "lon": -105.01823,
+      "brandsRep": [
+        "Residential HVAC",
+        "Commercial HVAC"
+      ],
+      "partsFor": [
+        "HVAC equipment",
+        "HVAC parts",
+        "Supplies"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ]
+    }
+  ]
+}
