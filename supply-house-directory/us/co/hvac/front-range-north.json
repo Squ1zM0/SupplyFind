@@ -41,12 +41,53 @@
       "sources": [
         "https://www.galarson.com/locations"
       ]
+    },
+    {
+      "id": "co-fortcollins-lennoxstores-academy-001",
+      "name": "Lennox Stores (PartsPlus) - Fort Collins",
+      "chain": "Lennox Stores",
+      "trade": "hvac",
+      "address1": "1101 Academy Ct, Unit 1B",
+      "address2": "",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "phone": "(970) 825-7300",
+      "website": "https://www.lennoxpros.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Lennox parts and supplies for licensed HVAC professionals",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Lennox"
+      ],
+      "brandsRep": [
+        "Lennox"
+      ],
+      "services": [],
+      "sources": [
+        "https://m.lennoxpros.com/stores/location/fort-collins-co",
+        "https://find-open.com/fort-collins/lennox-stores-partsplus-5951644"
+      ]
     }
   ],
-  "auditStatus": "pending_web_verification",
+  "auditStatus": "expanded",
   "auditNotes": [
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Fort Collins)."
+    "2025-12-25: Added Gustave A. Larson branch (Fort Collins).",
+    "2025-12-26: Added Lennox Stores Fort Collins location."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }

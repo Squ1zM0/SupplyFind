@@ -79,12 +79,103 @@
       "sources": [
         "https://www.galarson.com/locations"
       ]
+    },
+    {
+      "id": "co-durango-johnstone-girard-001",
+      "name": "Johnstone Supply - Durango",
+      "chain": "Johnstone Supply",
+      "trade": "hvac",
+      "address1": "120-B Girard Street",
+      "address2": "",
+      "city": "Durango",
+      "state": "CO",
+      "postalCode": "81303",
+      "phone": "(970) 382-8075",
+      "website": "https://www.johnstonesupply.com",
+      "lat": null,
+      "lon": null,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Serves southwestern Colorado HVAC contractors",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.johnstonesupply.com/",
+        "https://www.mystore411.com/store/list_state/1508/Colorado/Johnstone-Supply-store-locations"
+      ]
+    },
+    {
+      "id": "co-grandjunction-sidharvey-i70-001",
+      "name": "Sid Harvey - Grand Junction",
+      "chain": "Sid Harvey",
+      "trade": "hvac",
+      "address1": "2922A I-70 Business Loop",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81504",
+      "phone": "(970) 256-0700",
+      "website": "https://www.sidharvey.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Western slope HVAC distributor",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi",
+        "Honeywell",
+        "Fujitsu"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.sidharvey.com/wps/portal/c/Locations",
+        "https://supplynearme.com/hvac-supply/sidharveys"
+      ]
     }
   ],
-  "auditStatus": "audit_complete_no_storefronts",
+  "auditStatus": "expanded",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
-    "2025-12-25: Added Gustave A. Larson branch (Grand Junction)."
+    "2025-12-25: Added Gustave A. Larson branch (Grand Junction).",
+    "2025-12-26: Added Johnstone Supply Durango and Sid Harvey Grand Junction locations identified in expansion research."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }

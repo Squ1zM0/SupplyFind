@@ -41,12 +41,190 @@
       "sources": [
         "https://www.galarson.com/locations"
       ]
+    },
+    {
+      "id": "co-denver-sidharvey-w6th-001",
+      "name": "Sid Harvey - Denver",
+      "chain": "Sid Harvey",
+      "trade": "hvac",
+      "address1": "2700 W. 6th Ave",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80204",
+      "phone": "(303) 623-1236",
+      "website": "https://www.sidharvey.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Major HVAC distributor serving Denver metro contractors",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi",
+        "Honeywell",
+        "Fujitsu"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.sidharvey.com/wps/portal/c/Locations",
+        "https://www.mapquest.com/us/colorado/sid-harveys-9964334"
+      ]
+    },
+    {
+      "id": "co-centennial-sidharvey-revere-001",
+      "name": "Sid Harvey - Centennial",
+      "chain": "Sid Harvey",
+      "trade": "hvac",
+      "address1": "7086 S Revere Pkwy, Suite 200",
+      "address2": "",
+      "city": "Centennial",
+      "state": "CO",
+      "postalCode": "80112",
+      "phone": "(303) 649-9800",
+      "website": "https://www.sidharvey.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "South Denver metro location",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi",
+        "Honeywell",
+        "Fujitsu"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.sidharvey.com/wps/portal/c/Locations",
+        "https://www.chamberofcommerce.com/business-directory/colorado/centennial/hvac-contractor/2003830674-sid-harvey-s"
+      ]
+    },
+    {
+      "id": "co-aurora-rsd-lisbon-001",
+      "name": "RSD - Aurora",
+      "chain": "RSD",
+      "trade": "hvac",
+      "address1": "3220 Lisbon St. Bldg. D",
+      "address2": "",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80011",
+      "phone": "(303) 568-5301",
+      "website": "https://www.rsd.net/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Refrigeration Supplies Distributor - eastern metro location",
+      "tags": [
+        "hvac",
+        "refrigeration",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration",
+        "Commercial Refrigeration"
+      ],
+      "brandsRep": [
+        "Copeland",
+        "Tecumseh",
+        "Danfoss",
+        "Sporlan"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.rsd.net/locations/"
+      ]
+    },
+    {
+      "id": "co-englewood-tranesupply-inverness-001",
+      "name": "Trane Supply - Englewood",
+      "chain": "Trane Supply",
+      "trade": "hvac",
+      "address1": "67 Inverness Dr E Ste 120",
+      "address2": "",
+      "city": "Englewood",
+      "state": "CO",
+      "postalCode": "80112",
+      "phone": "(720) 709-3190",
+      "website": "https://www.tranesupply.com/",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "needs_geocoding"
+      },
+      "notes": "Trane Supply HVAC parts and equipment distributor",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Trane",
+        "American Standard"
+      ],
+      "brandsRep": [
+        "Trane",
+        "American Standard"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.yellowpages.com/denver-co/trane-supply",
+        "https://www.tranesupply.com/store-locator"
+      ]
     }
   ],
-  "auditStatus": "pending_web_verification",
+  "auditStatus": "expanded",
   "auditNotes": [
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Englewood)."
+    "2025-12-25: Added Gustave A. Larson branch (Englewood).",
+    "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
+    "2025-12-26: Added Trane Supply Englewood location."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }

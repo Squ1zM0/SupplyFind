@@ -79,11 +79,36 @@
       "sources": [
         "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
       ]
+    },
+    {
+      "id": "ced-alamosa-rd10665-001",
+      "name": "CED - Alamosa",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Alamosa",
+      "state": "CO",
+      "postalCode": "81101",
+      "address1": "6310 Road 10665 S",
+      "phone": "",
+      "website": "https://cedcareers.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving San Luis Valley region",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
+        ]
+      }
     }
   ],
-  "auditStatus": "audit_complete_no_storefronts",
+  "auditStatus": "expanded",
   "auditNotes": [
-    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-26: Added CED Alamosa location identified in expansion research."
   ],
-  "updated": "2025-12-25"
+  "updated": "2025-12-26"
 }

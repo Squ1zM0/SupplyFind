@@ -324,13 +324,88 @@
           "https://www.rexelusa.com/locations/co/centennial/7611"
         ]
       }
+    },
+    {
+      "id": "ced-centennial-jordan-001",
+      "name": "CED - Centennial",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Centennial",
+      "state": "CO",
+      "postalCode": "80112",
+      "address1": "6999 S. Jordan Road",
+      "phone": "(303) 733-2211",
+      "website": "https://cedcentennial.portalced.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving south Denver metro",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://cedcentennial.portalced.com/",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
+        ]
+      }
+    },
+    {
+      "id": "rexel-denver-quivas-001",
+      "name": "Rexel - Denver (Quivas St)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80204",
+      "address1": "425 Quivas Street",
+      "phone": "(303) 572-7100",
+      "website": "https://www.rexelusa.com/locations/CO/Denver/7325",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Main Rexel Denver branch with will-call and counter service",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.rexelusa.com/locations/CO/Denver/7325",
+          "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
+        ]
+      }
+    },
+    {
+      "id": "borderstates-brighton-havana-001",
+      "name": "Border States Electric - Brighton",
+      "chain": "Border States",
+      "trade": "electrical",
+      "city": "Brighton",
+      "state": "CO",
+      "postalCode": "80601",
+      "address1": "10899 Havana Street",
+      "phone": "",
+      "website": "https://solutions.borderstates.com/branch-locations/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Border States serving northern metro Denver area",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://solutions.borderstates.com/branch-locations/"
+        ]
+      }
     }
   ],
-  "auditStatus": "final_audit_complete",
+  "auditStatus": "expanded",
   "auditNotes": [
     "2025-12-25: Chain-by-chain web storefront audit for Denver Metro. Added confirmed storefronts with addresses/phones; coordinates left as needs_verify unless sourced.",
     "Next: verify remaining CES satellite branches (Commerce City, Stapleton, etc.) and Platt presence using official locator; coordinate verification for all branches.",
     "Final Denver Metro electrical audit complete. All entries verified as physical storefront counters.",
-    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages)."
+    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research."
   ]
 }

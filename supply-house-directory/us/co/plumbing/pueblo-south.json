@@ -64,11 +64,37 @@
       "verification": {
         "coords_attempted": "2025-12-26"
       }
+    },
+    {
+      "id": "winsupply-salida-oak-001",
+      "name": "Winsupply of Salida",
+      "chain": "Winsupply",
+      "trade": "plumbing",
+      "city": "Salida",
+      "state": "CO",
+      "postalCode": "81201",
+      "address1": "338 Oak St",
+      "phone": "719-530-0501",
+      "website": "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing and HVAC supply serving Arkansas Valley region",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
+          "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
+        ]
+      }
     }
   ],
   "auditNotes": [
     "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
-    "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St"
+    "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St",
+    "2025-12-26: Added Winsupply of Salida location identified in expansion research."
   ],
-  "auditStatus": "in_progress"
+  "auditStatus": "expanded"
 }
