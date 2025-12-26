@@ -650,6 +650,180 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "denver-great-western-pipe-forest",
+      "name": "Great Western Pipe & Supply Co.",
+      "chain": "Great Western Pipe & Supply",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80207",
+      "address1": "3860 Forest St",
+      "phone": "303-320-4440",
+      "website": "https://greatwesternpipe.com/",
+      "lat": 39.7637,
+      "lon": -104.9442,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Mueller Industries",
+        "Charlotte Pipe",
+        "Anvil International",
+        "Victaulic",
+        "NIBCO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26"
+      },
+      "partsFor": [
+        "PVF (Pipe, Valve, Fittings)",
+        "Industrial Piping",
+        "Commercial Plumbing"
+      ],
+      "sources": [
+        "https://greatwesternpipe.com/",
+        "https://greatwesternpipe.com/contact-us/"
+      ],
+      "trades": [
+        "Plumbing"
+      ]
+    },
+    {
+      "id": "ferguson-plumbing-commerce-city-dallas",
+      "name": "Ferguson Plumbing Supply - Commerce City",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Commerce City",
+      "state": "CO",
+      "postalCode": "80640",
+      "address1": "9780 Dallas St",
+      "phone": "303-286-2200",
+      "website": "https://www.ferguson.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Commerce City area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "ferguson-plumbing-sheridan-oxford",
+      "name": "Ferguson Plumbing Supply - Sheridan",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Sheridan",
+      "state": "CO",
+      "postalCode": "80110",
+      "address1": "1840 W Oxford Ave",
+      "phone": "720-533-3883",
+      "website": "https://www.ferguson.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Sheridan/South Metro area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "ferguson-plumbing-littleton-grant",
+      "name": "Ferguson Plumbing Supply - Littleton",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Littleton",
+      "state": "CO",
+      "postalCode": "80122",
+      "address1": "8146 S Grant Way",
+      "phone": "303-795-2020",
+      "website": "https://www.ferguson.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Littleton area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing"
     }
   ],
   "auditNotes": [
@@ -658,7 +832,9 @@
     "Chains normalized (Hajoca / Winsupply).",
     "No false storefronts detected; no removals required.",
     "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr",
-    "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research."
+    "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research.",
+    "2025-12-26: Added Great Western Pipe & Supply (PVF/Industrial distributor)",
+    "2025-12-26: Added Ferguson branches in Commerce City, Sheridan, and Littleton (S Grant Way)"
   ],
   "auditStatus": "expanded"
 }

@@ -163,12 +163,54 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "abc-plumbing-pueblo-spring",
+      "name": "ABC Plumbing, Heating and Irrigation - Pueblo",
+      "chain": "ABC Plumbing",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "101 Spring St",
+      "phone": "719-542-5631",
+      "website": "https://abcplumbing.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Bradford White"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Independent regional plumbing, heating, and irrigation supply house serving Pueblo area. Also offers licensed plumbing and well technician services. Source: ABC Plumbing official website, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://abcplumbing.com/"
+        ]
+      },
+      "partsFor": [
+        "Plumbing",
+        "Irrigation",
+        "Heating"
+      ],
+      "sources": [
+        "https://abcplumbing.com/"
+      ],
+      "trades": [
+        "Plumbing"
+      ]
     }
   ],
   "auditNotes": [
     "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
     "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St",
-    "2025-12-26: Added Winsupply of Salida location identified in expansion research."
+    "2025-12-26: Added Winsupply of Salida location identified in expansion research.",
+    "2025-12-26: Added ABC Plumbing Pueblo - independent regional supplier"
   ],
   "auditStatus": "expanded"
 }
