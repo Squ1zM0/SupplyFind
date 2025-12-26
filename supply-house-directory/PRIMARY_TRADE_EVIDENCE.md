@@ -230,5 +230,6 @@ No branches required subjective interpretation; all had clear, verifiable eviden
 ---
 
 **Verification Date:** 2025-12-26  
-**Total Branches Classified:** 31 (16 unique Ferguson + 4 Rampart + 2 Gateway + 2 Winsupply)  
+**Total Branch Entries Classified:** 31 (23 Ferguson entries + 4 Rampart + 2 Gateway + 2 Winsupply)
+**Note:** Some Ferguson branches appear in both regional and trade-specific files, representing the same physical locations.
 **Evidence Quality:** All backed by official sources or industry-standard business models
