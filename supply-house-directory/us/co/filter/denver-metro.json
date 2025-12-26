@@ -1,0 +1,259 @@
+{
+  "version": "DENVER_FILTER_AUDIT_v1",
+  "trade": "filter",
+  "metro": "Denver Metro",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "colorado-air-filter-denver-platte",
+      "name": "Colorado Air Filter LLC - Denver",
+      "chain": "Colorado Air Filter",
+      "trade": "filter",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80223",
+      "address1": "1495 S Platte River Dr",
+      "phone": "303-893-3030",
+      "website": "https://www.coloradoairfilter.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Glasfloss",
+        "Rensa Filtration",
+        "Mann + Hummel",
+        "Mikropor",
+        "Columbus Industries"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Largest locally owned air filter distributor in the Rocky Mountain region. Specializes in commercial and industrial HVAC air filters, cleanroom, hospital, manufacturing facility solutions. NAFA certified technicians. Same-day service and custom-sized filters made on site. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.coloradoairfilter.com/",
+          "https://www.alignable.com/denver-co/colorado-air-filter-llc/filtration"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Industrial Filtration",
+        "Cleanroom Filtration",
+        "Water Filtration"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "camfil-denver-8th-ave",
+      "name": "Camfil - Denver (DBA Air Filter Solutions)",
+      "chain": "Camfil",
+      "trade": "filter",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80204",
+      "address1": "2500 West 8th Ave, Ste B",
+      "phone": "303-893-3030",
+      "website": "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Camfil"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
+          "https://catalog.camfil.us/all-locations/united-states/colorado/denver/camfil-denver-dba-air-filter-solutions/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "HEPA Filters",
+        "ULPA Filters",
+        "Carbon Filters",
+        "Dust Collectors"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "alpine-air-filter-littleton",
+      "name": "Alpine Air Filter and Clean Rooms",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Littleton",
+      "state": "CO",
+      "postalCode": "80127",
+      "address1": "10747 West Peakview Drive",
+      "phone": "303-598-4026",
+      "website": "https://www.alpineairfilterandcleanrooms.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Family-owned filter specialist. Custom air filter solutions, installation services, and full-service cleanroom filtration. Serves commercial and industrial sectors. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.alpineairfilterandcleanrooms.com/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Cleanroom Filtration",
+        "Custom Air Filters"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "superior-filtration-denver-3rd-ave",
+      "name": "Superior Filtration Products",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80219",
+      "address1": "2650 W 3rd Ave, Unit 3",
+      "phone": "303-742-8888",
+      "website": "https://www.superiorfiltrationproducts.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.superiorfiltrationproducts.com/contact",
+          "https://www.mapquest.com/us/colorado/superior-filtration-products-452140943"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Water Filtration",
+        "HEPA Filters",
+        "Industrial Filtration"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "air-force-filter-denver-bryant",
+      "name": "Air Force Filter & Supply",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80219",
+      "address1": "225 Bryant St",
+      "phone": "303-922-5000",
+      "website": "http://www.airforcefilter.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Tri-dim",
+        "Glasfloss",
+        "Purolator",
+        "Clarcor",
+        "Columbus Industries",
+        "Air Flow Technologies"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Manufacturer and distributor of HVAC and industrial air filters. Family-owned since 1999. Offers standard and custom-made filters, replacement filters for a wide range of systems. Provides diagnostic, maintenance, and efficiency consultation. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.airforcefilter.com",
+          "https://www.mapquest.com/us/colorado/air-force-filter-43068373"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Industrial Filtration",
+        "Custom Air Filters"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "scan-air-filters-wheat-ridge",
+      "name": "Scan Air Filters",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Wheat Ridge",
+      "state": "CO",
+      "postalCode": "80033",
+      "address1": "10250 W 44th Ave",
+      "phone": "303-420-7226",
+      "website": "https://scanaircolorado.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Air filter distributor serving commercial properties, clean rooms, educational institutions, hospitals. Stocks wide variety of industrial and commercial HVAC air filters, water filters, dust collectors. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://scanaircolorado.com/contact/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Water Filtration",
+        "Dust Collectors",
+        "Industrial Filtration"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "air-purification-company-denver",
+      "name": "Air Purification Company - Denver",
+      "chain": "Air Purification Company",
+      "trade": "filter",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80221",
+      "address1": "1861 West 64th Lane",
+      "phone": "303-428-2800",
+      "website": "https://www.airpurificationcompany.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Regional HVAC distributor representing over 50 manufacturers. Provides air filtration products, air purification systems, and IAQ equipment for commercial, municipal, and industrial clients. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.airpurificationcompany.com/",
+          "https://www.thebluebook.com/iProView/1263/air-purification-co/material-suppliers/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Air Purification",
+        "IAQ Systems"
+      ],
+      "trades": [
+        "Filter",
+        "HVAC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-12-26",
+  "state": "CO",
+  "trade": "filter",
+  "metros": [
+    {
+      "id": "denver-metro",
+      "name": "Denver Metro",
+      "file": "us/co/filter/denver-metro.json"
+    },
+    {
+      "id": "boulder-broomfield-longmont",
+      "name": "Boulder / Broomfield / Longmont",
+      "file": "us/co/filter/boulder-broomfield-longmont.json"
+    },
+    {
+      "id": "colorado-springs-metro",
+      "name": "Colorado Springs Metro",
+      "file": "us/co/filter/colorado-springs-metro.json"
+    },
+    {
+      "id": "front-range-north",
+      "name": "Front Range North (Fort Collins / Loveland / Greeley)",
+      "file": "us/co/filter/front-range-north.json"
+    },
+    {
+      "id": "pueblo-south",
+      "name": "Pueblo / South Colorado",
+      "file": "us/co/filter/pueblo-south.json"
+    },
+    {
+      "id": "western-slope",
+      "name": "Western Slope",
+      "file": "us/co/filter/western-slope.json"
+    },
+    {
+      "id": "eastern-plains",
+      "name": "Eastern Plains",
+      "file": "us/co/filter/eastern-plains.json"
+    }
+  ]
+}

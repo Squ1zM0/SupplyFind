@@ -1,6 +1,6 @@
 {
-  "version": "1.91",
-  "updated": "2025-12-25",
+  "version": "1.92",
+  "updated": "2025-12-26",
   "state": "CO",
   "metros": [
     {
@@ -52,6 +52,9 @@
     },
     "electrical": {
       "index": "us/co/electrical/index.json"
+    },
+    "filter": {
+      "index": "us/co/filter/index.json"
     }
   }
 }
