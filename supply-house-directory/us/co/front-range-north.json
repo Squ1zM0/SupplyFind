@@ -132,31 +132,43 @@
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson HVAC – Fort Collins",
-      "chain": "Ferguson HVAC",
+      "name": "Ferguson Plumbing Supply – Fort Collins",
+      "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
       "state": "CO",
       "zip": "80524",
       "phone": "+19704821722",
+      "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
       "lat": 40.585258,
       "lon": -105.084419,
       "brandsRep": [
         "Residential HVAC",
-        "Commercial HVAC"
+        "Commercial HVAC",
+        "Kohler",
+        "Moen",
+        "Delta"
       ],
       "partsFor": [
         "HVAC equipment",
         "HVAC parts",
+        "Plumbing",
         "Supplies"
       ],
       "tags": [
         "hvac",
+        "plumbing",
         "wholesale"
       ],
+      "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-0112. Source: Ferguson official website, verified 2025-12-26",
+      "sources": [
+        "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112"
+      ],
       "trades": [
-        "HVAC"
-      ]
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-frn-city-electric-002",
