@@ -1,0 +1,14 @@
+# Archive files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
