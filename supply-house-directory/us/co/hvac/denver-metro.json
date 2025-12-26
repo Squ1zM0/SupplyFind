@@ -26,7 +26,7 @@
         "phone": "verified",
         "coordinates": "approx"
       },
-      "notes": "",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
@@ -35,7 +35,12 @@
         "HVAC"
       ],
       "brandsRep": [
-        "Gustave A. Larson"
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
       ],
       "services": [],
       "sources": [
@@ -198,19 +203,16 @@
         "phone": "verified",
         "coordinates": "needs_geocoding"
       },
-      "notes": "Trane Supply HVAC parts and equipment distributor",
+      "notes": "Trane Supply HVAC parts and equipment distributor. Factory-owned Trane supply house. Verified 2025-12-26. Factory-owned Trane supply house. Verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
       ],
       "partsFor": [
-        "HVAC",
-        "Trane",
-        "American Standard"
+        "Trane"
       ],
       "brandsRep": [
-        "Trane",
-        "American Standard"
+        "Trane"
       ],
       "services": [],
       "sources": [

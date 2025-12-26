@@ -19,12 +19,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter.",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "ferguson-plumbing-denver-north-48th",
@@ -40,12 +69,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Listed as North Denver Ferguson Plumbing Supply.",
+      "notes": "Listed as North Denver Ferguson Plumbing Supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "denver-winnelson-2nd-ave",
@@ -61,13 +119,29 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing supplies counter.",
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
       },
-      "parentChain": "Winsupply"
+      "parentChain": "Winsupply",
+      "partsFor": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     },
     {
       "id": "dahl-denver-s-santa-fe",
@@ -83,13 +157,33 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl.",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
       },
-      "parentChain": "Hajoca"
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "hughes-denver-bryant-st",
@@ -105,13 +199,33 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply.",
+      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
       },
-      "parentChain": "Hajoca"
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "martz-denver-53rd-pl",
@@ -127,13 +241,33 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Martz Supply.",
+      "notes": "Hajoca trade name: Martz Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
       },
-      "parentChain": "Hajoca"
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "rampart-supply-denver-rio-grande",
@@ -149,16 +283,25 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Boilers",
+        "Hydronic Equipment",
+        "Radiant Heating"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing showroom/counter; also HVAC in some contexts. Kept as plumbing supply house.",
+      "notes": "Plumbing showroom/counter; also HVAC in some contexts. Kept as plumbing supply house. Hydronic heating and plumbing specialist. Verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Boilers",
+        "Hydronic Equipment",
+        "Radiant Heating"
+      ]
     },
     {
       "id": "denver-apex-supply",
-      "name": "Apex Supply Company \u2013 Denver",
+      "name": "Apex Supply Company – Denver",
       "chain": "Apex Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -170,13 +313,24 @@
       "lat": 39.7749,
       "lon": -104.9188,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing wholesaler counter"
+      "notes": "Plumbing wholesaler counter. Plumbing distributor. Regional plumbing supply, verified 2025-12-26",
+      "partsFor": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ]
     },
     {
       "id": "denver-hdsupply-plumbing",
-      "name": "HD Supply Facilities Maintenance \u2013 Denver (Plumbing)",
+      "name": "HD Supply Facilities Maintenance – Denver (Plumbing)",
       "chain": "HD Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -188,13 +342,26 @@
       "lat": 39.7852,
       "lon": -104.9216,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Charlotte Pipe"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Facilities / plumbing counter"
+      "notes": "Facilities / plumbing counter. National facilities maintenance and plumbing distributor. Verified 2025-12-26",
+      "partsFor": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Charlotte Pipe"
+      ]
     },
     {
       "id": "denver-gateway-supply",
-      "name": "Gateway Supply \u2013 Denver",
+      "name": "Gateway Supply – Denver",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -206,13 +373,24 @@
       "lat": 39.7861,
       "lon": -104.9583,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Independent plumbing supply house"
+      "notes": "Independent plumbing supply house. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26",
+      "partsFor": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ]
     },
     {
       "id": "englewood-dahl-plumbing",
-      "name": "Dahl Plumbing \u2013 Englewood",
+      "name": "Dahl Plumbing – Englewood",
       "chain": "Hajoca (Dahl)",
       "trade": "plumbing",
       "city": "Englewood",
@@ -224,12 +402,33 @@
       "lat": 39.6539,
       "lon": -104.9925,
       "coordsStatus": "verified",
-      "notes": "Plumbing counter storefront",
-      "parentChain": "Hajoca"
+      "notes": "Plumbing counter storefront. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "parentChain": "Hajoca",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "littleton-hughes-supply",
-      "name": "Hughes Supply \u2013 Littleton",
+      "name": "Hughes Supply – Littleton",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Littleton",
@@ -241,12 +440,33 @@
       "lat": 39.6044,
       "lon": -105.0088,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesaler counter",
-      "parentChain": "Hajoca"
+      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "parentChain": "Hajoca",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "centennial-ferguson-plumbing",
-      "name": "Ferguson Plumbing Supply \u2013 Centennial",
+      "name": "Ferguson Plumbing Supply – Centennial",
       "chain": "Ferguson",
       "trade": "plumbing",
       "city": "Centennial",
@@ -258,7 +478,37 @@
       "lat": 39.5849,
       "lon": -104.8457,
       "coordsStatus": "verified",
-      "notes": "Plumbing/PVF counter"
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "winnelson-denver-w-2nd-2300-1b",
@@ -274,17 +524,33 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Winsupply plumbing counter (verify hours on official Winsupply location page).",
-      "brandsRep": [],
+      "notes": "Winsupply plumbing counter (verify hours on official Winsupply location page). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
       },
-      "parentChain": "Winsupply"
+      "parentChain": "Winsupply",
+      "partsFor": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     },
     {
       "id": "denver-flink-plumbing",
-      "name": "Flink Supply Company \u2013 Denver",
+      "name": "Flink Supply Company – Denver",
       "chain": "Flink Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -296,7 +562,19 @@
       "lat": 39.7871,
       "lon": -104.9626,
       "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler storefront"
+      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
+      "partsFor": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ]
     },
     {
       "id": "ferguson-plumbing-arvada-sheridan-001",
@@ -312,16 +590,45 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Ferguson plumbing and HVAC supply serving Arvada area",
+      "notes": "Ferguson plumbing and HVAC supply serving Arvada area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.ferguson.com/store/co/arvada/hvac-1805",
           "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
         ]
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "ferguson-showroom-aurora-25th-001",
@@ -337,15 +644,44 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Ferguson plumbing showroom and supply",
+      "notes": "Ferguson plumbing showroom and supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
         ]
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     }
   ],
   "auditNotes": [

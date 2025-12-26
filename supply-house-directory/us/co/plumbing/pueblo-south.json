@@ -19,12 +19,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter.",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "pueblo-winnelson-ilex",
@@ -40,9 +69,25 @@
       "lat": 38.2577236,
       "lon": -104.6039515,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Coordinates sourced from public distributor listing."
+      "notes": "Coordinates sourced from public distributor listing. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "partsFor": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     },
     {
       "id": "rampart-supply-pueblo-4th",
@@ -58,12 +103,21 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Boilers",
+        "Hydronic Equipment",
+        "Radiant Heating"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing supply house; also HVAC in some contexts.",
+      "notes": "Plumbing supply house; also HVAC in some contexts. Hydronic heating and plumbing specialist. Verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Boilers",
+        "Hydronic Equipment",
+        "Radiant Heating"
+      ]
     },
     {
       "id": "winsupply-salida-oak-001",
@@ -79,16 +133,32 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing and HVAC supply serving Arkansas Valley region",
+      "notes": "Plumbing and HVAC supply serving Arkansas Valley region. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
           "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
         ]
-      }
+      },
+      "partsFor": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     }
   ],
   "auditNotes": [

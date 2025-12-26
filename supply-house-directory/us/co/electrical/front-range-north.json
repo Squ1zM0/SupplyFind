@@ -17,12 +17,46 @@
       "phone": "970-206-0700",
       "website": "https://www.graybar.com/",
       "coordsStatus": "verified",
-      "notes": "Electrical supply counter storefront",
+      "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "lat": 40.5204,
       "lon": -105.0511,
       "verification": {
         "coords_verified": "2025-12-26"
-      }
+      },
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
+      "partsFor": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
+      "sources": [
+        "https://info.graybar.com/welcome-line-cards/",
+        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ]
     },
     {
       "id": "greeley-ced",
@@ -36,12 +70,50 @@
       "phone": "970-353-1850",
       "website": "https://www.ced.com/",
       "coordsStatus": "verified",
-      "notes": "Electrical supply counter storefront",
+      "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "lat": 40.4233,
       "lon": -104.709,
       "verification": {
         "coords_verified": "2025-12-26"
-      }
+      },
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
+      "partsFor": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "rexel-greeley-3255",
@@ -57,15 +129,49 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Greeley.",
+      "notes": "Rexel branch serving Greeley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/greeley/3255"
         ]
-      }
+      },
+      "partsFor": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "rexel-ft-collins-7619",
@@ -81,15 +187,49 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Fort Collins area.",
+      "notes": "Rexel branch serving Fort Collins area. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
         ]
-      }
+      },
+      "partsFor": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "ced-fortcollins-sharp-001",
@@ -105,16 +245,53 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Fort Collins area",
+      "notes": "CED electrical supply serving Fort Collins area. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://cedfortcollins.portalced.com/ContactUs",
           "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
         ]
-      }
+      },
+      "partsFor": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "borderstates-greeley-4th-001",
@@ -130,16 +307,46 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Border States serving Greeley and northern Colorado",
+      "notes": "Border States serving Greeley and northern Colorado. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://solutions.borderstates.com/branch-locations/",
           "https://servlectric.com/branch/border-states-greeley-2414-4th-ave-greeley-co-80631"
         ]
-      }
+      },
+      "partsFor": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
+      ],
+      "sources": [
+        "https://www.borderstates.com/brands"
+      ]
     }
   ],
   "auditStatus": "expanded",

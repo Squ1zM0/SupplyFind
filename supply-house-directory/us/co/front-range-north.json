@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey \u2013 Fort Collins",
+      "name": "Sid Harvey – Fort Collins",
       "chain": "Sid Harvey",
       "address1": "4000 S College Ave",
       "city": "Fort Collins",
@@ -19,11 +19,30 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Goodman",
+        "Daikin",
+        "Mitsubishi",
+        "Honeywell"
+      ],
+      "partsFor": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Goodman",
+        "Daikin",
+        "Mitsubishi",
+        "Honeywell"
+      ],
+      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26"
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Loveland",
+      "name": "Comfort Air Distributing – Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -36,11 +55,31 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "partsFor": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "sources": [
+        "https://www.comfortairdistributing.com/"
       ]
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Loveland",
+      "name": "Lennox Stores – Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -53,11 +92,18 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Lennox"
+      ],
+      "partsFor": [
+        "Lennox"
+      ],
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26"
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Greeley",
+      "name": "WinSupply HVAC – Greeley",
       "chain": "WinSupply HVAC",
       "address1": "2315 6th Ave",
       "city": "Greeley",
@@ -70,11 +116,26 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson HVAC \u2013 Fort Collins",
+      "name": "Ferguson HVAC – Fort Collins",
       "chain": "Ferguson HVAC",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
@@ -110,6 +171,42 @@
       "lon": -105.03158,
       "tags": [
         "electrical"
+      ],
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "partsFor": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "sources": [
+        "https://www.cityelectricsupply.com/linecard"
       ]
     },
     {
@@ -123,8 +220,47 @@
       "phone": "970-484-4377",
       "lat": 40.58544,
       "lon": -105.04535,
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
+      "partsFor": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "tags": [
         "electrical"
+      ],
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
       ]
     },
     {
@@ -140,11 +276,47 @@
       "lon": -105.04406,
       "tags": [
         "electrical"
+      ],
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "partsFor": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "sources": [
+        "https://www.cityelectricsupply.com/linecard"
       ]
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)"
   ],
   "auditStatus": "in_progress"

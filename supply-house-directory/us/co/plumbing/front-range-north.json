@@ -19,12 +19,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter.",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "hughes-supply-ftc-lincoln",
@@ -40,12 +69,32 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply (Fort Collins).",
+      "notes": "Hajoca trade name: Hughes Supply (Fort Collins). Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "ferguson-plumbing-fort-collins-0112",
@@ -61,12 +110,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page.",
-      "brandsRep": [],
+      "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "dahl-fort-collins-523",
@@ -82,16 +160,36 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Hajoca trade name listing with address/phone; verify via Dahl/Hajoca if desired.",
-      "brandsRep": [],
+      "notes": "Hajoca trade name listing with address/phone; verify via Dahl/Hajoca if desired. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "dahl-greeley-199-evans",
-      "name": "Dahl \u2013 Greeley (Evans)",
+      "name": "Dahl – Greeley (Evans)",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Evans",
@@ -103,12 +201,32 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Counter/Warehouse/Office location serving Greeley area.",
-      "brandsRep": [],
+      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "winsupply-greeley-1979-2nd",
@@ -124,12 +242,28 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Plumbing wholesale distributor (chamber listing).",
-      "brandsRep": [],
+      "notes": "Plumbing wholesale distributor (chamber listing). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     },
     {
       "id": "dahl-loveland-11th-100",
@@ -145,12 +279,32 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Dahl (Hajoca) Loveland branch.",
-      "brandsRep": [],
+      "notes": "Dahl (Hajoca) Loveland branch. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     }
   ],
   "auditNotes": [

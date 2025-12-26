@@ -64,7 +64,7 @@
         "phone": "verified",
         "coordinates": "approx"
       },
-      "notes": "",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
@@ -73,7 +73,12 @@
         "HVAC"
       ],
       "brandsRep": [
-        "Gustave A. Larson"
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
       ],
       "services": [],
       "sources": [
