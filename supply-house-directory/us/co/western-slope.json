@@ -446,15 +446,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Goodman",
-        "Amana",
-        "Lennox",
-        "Daikin",
-        "Bosch",
-        "Fujitsu",
-        "Copeland",
-        "Honeywell",
-        "Aprilaire"
+        "HVAC"
       ],
       "tags": [
         "hvac"

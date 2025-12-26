@@ -30,13 +30,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Goodman",
-        "Daikin",
-        "Mitsubishi",
-        "Honeywell"
+        "HVAC"
       ],
       "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26"
     },
@@ -65,12 +59,7 @@
         "Nu-Calgon"
       ],
       "partsFor": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
+        "HVAC"
       ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
@@ -97,7 +86,7 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
@@ -125,11 +114,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
     },

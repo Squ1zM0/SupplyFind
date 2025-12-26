@@ -27,9 +27,7 @@
         "Daikin"
       ],
       "partsFor": [
-        "Goodman",
-        "Daikin",
-        "Aprilaire"
+        "HVAC"
       ],
       "tags": [
         "residential",
@@ -53,8 +51,7 @@
         "Goodman"
       ],
       "partsFor": [
-        "Daikin",
-        "Goodman"
+        "HVAC"
       ],
       "tags": [
         "commercial",
@@ -91,17 +88,8 @@
         "Delta"
       ],
       "partsFor": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi Electric",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
+        "HVAC",
+        "Plumbing"
       ],
       "tags": [
         "plumbing",
@@ -134,12 +122,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Trane",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "tags": [
         "hvacr",
@@ -207,15 +190,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Goodman",
-        "Amana",
-        "Lennox",
-        "Daikin",
-        "Bosch",
-        "Fujitsu",
-        "Copeland",
-        "Honeywell",
-        "Aprilaire"
+        "HVAC"
       ],
       "tags": [
         "hvacr",
@@ -244,7 +219,7 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -271,9 +246,7 @@
         "Payne"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -302,9 +275,7 @@
         "Payne"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -340,17 +311,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Copeland",
-        "Emerson",
-        "Fujitsu",
-        "LG",
-        "Mitsubishi",
-        "Honeywell",
-        "Trane",
-        "York",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "tags": [
         "hvacr",
@@ -409,14 +370,7 @@
         "Mueller Industries"
       ],
       "partsFor": [
-        "Copeland",
-        "Daikin",
-        "Bosch",
-        "Amana",
-        "Honeywell",
-        "Emerson",
-        "Aprilaire",
-        "Mueller Industries"
+        "HVAC"
       ],
       "tags": [
         "hvacr",
@@ -451,11 +405,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -485,11 +435,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -518,7 +464,7 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
@@ -542,7 +488,7 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
@@ -572,12 +518,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Honeywell"
+        "HVAC"
       ],
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
@@ -608,13 +549,7 @@
         "Daikin"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Goodman",
-        "Daikin"
+        "HVAC"
       ],
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
@@ -644,12 +579,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Honeywell"
+        "HVAC"
       ],
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
@@ -680,13 +610,7 @@
         "Daikin"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Goodman",
-        "Daikin"
+        "HVAC"
       ],
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
@@ -715,12 +639,7 @@
         "Nu-Calgon"
       ],
       "partsFor": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
+        "HVAC"
       ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
@@ -751,11 +670,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
     },
@@ -784,12 +699,7 @@
         "Nu-Calgon"
       ],
       "partsFor": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
+        "HVAC"
       ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
@@ -826,17 +736,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Copeland",
-        "Emerson",
-        "Fujitsu",
-        "LG",
-        "Mitsubishi",
-        "Honeywell",
-        "Trane",
-        "York",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
       "sources": [

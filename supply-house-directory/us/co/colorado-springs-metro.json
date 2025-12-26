@@ -29,12 +29,7 @@
         "Nu-Calgon"
       ],
       "partsFor": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
+        "HVAC"
       ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
@@ -66,14 +61,7 @@
         "Fujitsu"
       ],
       "partsFor": [
-        "Goodman",
-        "Amana",
-        "Lennox",
-        "Daikin",
-        "Bosch",
-        "Fujitsu",
-        "Copeland",
-        "Honeywell"
+        "HVAC"
       ],
       "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
       "sources": [
@@ -100,7 +88,7 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
@@ -128,11 +116,7 @@
         "Ruud"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
+        "HVAC"
       ],
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
     },
@@ -161,14 +145,7 @@
         "Fujitsu"
       ],
       "partsFor": [
-        "Goodman",
-        "Armstrong Air",
-        "Rheem",
-        "Mitsubishi",
-        "Honeywell",
-        "Fujitsu",
-        "Aprilaire",
-        "Copeland"
+        "HVAC"
       ],
       "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26",
       "sources": [
@@ -452,17 +429,7 @@
         "Delta"
       ],
       "partsFor": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi Electric",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
+        "Plumbing"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "sources": [
