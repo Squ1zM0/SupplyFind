@@ -117,31 +117,43 @@
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
-      "name": "Ferguson HVAC – Longmont",
-      "chain": "Ferguson HVAC",
+      "name": "Ferguson Plumbing Supply – Longmont",
+      "chain": "Ferguson",
       "address1": "1567 Vista View Dr",
       "city": "Longmont",
       "state": "CO",
       "zip": "80504",
       "phone": "+13038453750",
+      "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
       "lat": 40.15687,
       "lon": -105.01823,
       "brandsRep": [
         "Residential HVAC",
-        "Commercial HVAC"
+        "Commercial HVAC",
+        "Kohler",
+        "Moen",
+        "Delta"
       ],
       "partsFor": [
         "HVAC equipment",
         "HVAC parts",
+        "Plumbing",
         "Supplies"
       ],
       "tags": [
         "hvac",
+        "plumbing",
         "wholesale"
       ],
+      "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-1178. Source: Ferguson official website, verified 2025-12-26",
+      "sources": [
+        "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178"
+      ],
       "trades": [
-        "HVAC"
-      ]
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing"
     }
   ]
 }
