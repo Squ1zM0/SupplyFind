@@ -47,7 +47,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "hughes-supply-ftc-lincoln",
@@ -129,7 +130,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "dahl-fort-collins-523",

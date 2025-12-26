@@ -475,7 +475,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     }
   ],
   "auditStatus": "in_progress",

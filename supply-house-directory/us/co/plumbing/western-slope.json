@@ -57,7 +57,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-grand-junction-keenan-dahl-1",
@@ -153,7 +154,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -207,7 +209,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-granby-ferguson-plumbing-1",
@@ -261,7 +264,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-silverthorne-ferguson-plumbing-1",
@@ -316,7 +320,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     }
   ],
   "auditStatus": "audit_complete_no_storefronts",

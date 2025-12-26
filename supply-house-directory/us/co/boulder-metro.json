@@ -112,7 +112,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",

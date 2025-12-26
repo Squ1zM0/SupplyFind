@@ -95,7 +95,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",

@@ -47,7 +47,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "ferguson-plumbing-denver-north-48th",
@@ -91,7 +92,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "denver-winnelson-2nd-ave",
@@ -283,7 +285,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "denver-apex-supply",
@@ -372,7 +375,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "englewood-dahl-plumbing",
@@ -482,7 +486,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "winnelson-denver-w-2nd-2300-1b",
@@ -595,7 +600,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "ferguson-showroom-aurora-25th-001",
@@ -642,7 +648,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     }
   ],
   "auditNotes": [
