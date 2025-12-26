@@ -34,6 +34,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -66,6 +69,9 @@
       "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
       "sources": [
         "https://www.johnstonesupply.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -90,7 +96,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-cos-winsupply-001",
@@ -118,7 +127,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-cos-sidharvey-001",
@@ -150,6 +162,9 @@
       "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26",
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/OurBrands"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -177,7 +192,10 @@
       ],
       "latLonSource": "MapQuest address page (6260 Omaha Blvd)",
       "latLonVerifiedAt": "2025-12-25",
-      "latLonVerified": true
+      "latLonVerified": true,
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-cos-hercules-001",
@@ -211,7 +229,10 @@
       "latLonVerifiedAt": "2025-12-25",
       "verification": {
         "coords_verified": "2025-12-26"
-      }
+      },
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
@@ -247,7 +268,10 @@
         "https://www.uri.com/locations/Branch/408",
         "https://www.uri.com/"
       ],
-      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26"
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
@@ -273,6 +297,9 @@
       "website": "https://www.buyblazer.com/",
       "sources": [
         "https://www.buyblazer.com/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -315,6 +342,9 @@
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
         "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -357,6 +387,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -399,6 +432,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -435,6 +471,10 @@
       "sources": [
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ]
     }
   ],

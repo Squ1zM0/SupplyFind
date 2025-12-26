@@ -43,6 +43,9 @@
         "Wire & Cable",
         "Tools",
         "Controls"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -91,6 +94,9 @@
       ],
       "sources": [
         "https://www.borderstates.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -143,6 +149,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -194,6 +203,9 @@
       ],
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -234,6 +246,9 @@
         "Wire & Cable",
         "Tools",
         "Controls"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -284,6 +299,9 @@
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
         "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -322,6 +340,9 @@
         "Wire & Cable",
         "Tools",
         "Controls"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -371,6 +392,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -420,6 +444,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -469,6 +496,9 @@
       ],
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -517,6 +547,9 @@
       ],
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -566,6 +599,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -615,6 +651,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -667,6 +706,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -717,6 +759,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -764,6 +809,9 @@
       ],
       "sources": [
         "https://www.borderstates.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ],

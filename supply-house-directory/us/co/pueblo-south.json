@@ -26,7 +26,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-pueblo-comfortair-001",
@@ -58,6 +61,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -85,6 +91,10 @@
       "tags": [
         "hvac-hydronics",
         "wholesale"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ]
     },
     {
@@ -111,6 +121,9 @@
       "website": "https://www.buyblazer.com/",
       "sources": [
         "https://www.buyblazer.com/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ]

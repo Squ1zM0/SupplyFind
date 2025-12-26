@@ -5,6 +5,9 @@
     "address": "110 S Beech St, Cortez, CO 81321",
     "phone": "970-565-9044",
     "lat": 37.3499,
-    "lon": -108.5859
+    "lon": -108.5859,
+    "trades": [
+      "Plumbing"
+    ]
   }
 ]

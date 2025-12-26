@@ -5,6 +5,9 @@
     "address": "212 W 7th St, Leadville, CO 80461",
     "phone": "719-486-1700",
     "lat": 39.2508,
-    "lon": -106.2925
+    "lon": -106.2925,
+    "trades": [
+      "Electrical"
+    ]
   }
 ]

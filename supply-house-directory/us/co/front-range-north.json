@@ -32,7 +32,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26"
+      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-loveland-comfortair-001",
@@ -64,6 +67,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -88,7 +94,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-greeley-winsupply-001",
@@ -116,7 +125,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-fc-ferguson-hvac-001",
@@ -141,6 +153,9 @@
       "tags": [
         "hvac",
         "wholesale"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -183,6 +198,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -227,6 +245,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -269,6 +290,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ],

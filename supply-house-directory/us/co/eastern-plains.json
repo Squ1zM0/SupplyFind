@@ -45,7 +45,10 @@
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
       ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26"
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-sterling-crescent-electric-1",
@@ -71,6 +74,9 @@
       "website": "",
       "sources": [
         "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ]

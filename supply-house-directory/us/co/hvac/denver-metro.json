@@ -45,6 +45,9 @@
       "services": [],
       "sources": [
         "https://www.galarson.com/locations"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -90,6 +93,9 @@
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/Locations",
         "https://www.mapquest.com/us/colorado/sid-harveys-9964334"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -135,6 +141,9 @@
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/Locations",
         "https://www.chamberofcommerce.com/business-directory/colorado/centennial/hvac-contractor/2003830674-sid-harvey-s"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -179,6 +188,9 @@
       "services": [],
       "sources": [
         "https://www.rsd.net/locations/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -218,6 +230,9 @@
       "sources": [
         "https://www.yellowpages.com/denver-co/trane-supply",
         "https://www.tranesupply.com/store-locator"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ],
