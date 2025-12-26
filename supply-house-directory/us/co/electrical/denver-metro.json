@@ -949,8 +949,8 @@
       "city": "Boulder",
       "state": "CO",
       "postalCode": "80301",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "3245 Prairie Ave",
+      "phone": "720-974-4774",
       "website": "https://www.cityelectricsupply.com",
       "lat": null,
       "lon": null,
@@ -964,11 +964,12 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Boulder branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "notes": "City Electric Supply Boulder branch. Full-service electrical distributor for residential, commercial, and industrial contractors. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+          "https://www.cityelectricsupply.com/branches/co/boulder/boulder",
+          "https://www.yellowpages.com/boulder-co/mip/city-electric-supply-boulder-472810970"
         ]
       },
       "partsFor": [
@@ -983,14 +984,14 @@
     },
     {
       "id": "ces-centennial-001",
-      "name": "City Electric Supply - Centennial",
+      "name": "City Electric Supply - Centennial (Denver South)",
       "chain": "City Electric Supply",
       "trade": "electrical",
       "city": "Centennial",
       "state": "CO",
       "postalCode": "80112",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "7039 S Jordan Rd",
+      "phone": "303-790-7370",
       "website": "https://www.cityelectricsupply.com",
       "lat": null,
       "lon": null,
@@ -1004,11 +1005,12 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Centennial branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+          "https://servlectric.com/branch/city-electric-supply-denver-south-centennial-7039-s-jordan-rd-centennial-co-80112",
+          "https://www.manta.com/c/mm3jbz1/city-electric-supply-denver-south"
         ]
       },
       "partsFor": [
@@ -1029,8 +1031,8 @@
       "city": "Broomfield",
       "state": "CO",
       "postalCode": "80020",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "2380 W Midway Blvd, Suite 2",
+      "phone": "303-466-4618",
       "website": "https://www.cityelectricsupply.com",
       "lat": null,
       "lon": null,
@@ -1044,11 +1046,12 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Broomfield branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+          "https://www.mapquest.com/us/colorado/city-electric-supply-broomfield-351406282",
+          "https://www.chamberofcommerce.com/business-directory/colorado/broomfield/electrical-supply-store/36695964-city-electric-supply-broomfield"
         ]
       },
       "partsFor": [

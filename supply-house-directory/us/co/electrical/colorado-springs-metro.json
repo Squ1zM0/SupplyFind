@@ -252,8 +252,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "postalCode": "80918",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "4626 Northpark Drive",
+      "phone": "719-785-0600",
       "website": "https://www.cityelectricsupply.com",
       "lat": null,
       "lon": null,
@@ -267,12 +267,12 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Colorado Springs Central branch with showroom. One of two new locations opened in 2024 to support Colorado Springs growth. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://blog.cityelectricsupply.com/city-electric-supply-continues-to-add-locations-in-colorado/",
-          "https://distributionstrategy.com/city-electric-supply-opens-2-locations-in-colorado/"
+          "https://www.cityelectricsupply.com/branch/1019",
+          "https://www.yellowpages.com/colorado-springs-co/mip/city-electric-supply-colorado-springs-central-573238387"
         ]
       },
       "partsFor": [
@@ -280,48 +280,6 @@
         "Lighting",
         "Wire & Cable",
         "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ]
-    },
-    {
-      "id": "ces-colorado-springs-pipeyard-001",
-      "name": "City Electric Supply - Colorado Springs (Pipe Yard)",
-      "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "postalCode": "80918",
-      "address1": "TBD",
-      "phone": "TBD",
-      "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "brandsRep": [
-        "Eaton",
-        "Square D",
-        "Leviton",
-        "Lutron",
-        "Hubbell",
-        "Legrand"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Colorado Springs branch with large pipe yard. One of two new locations opened in 2024. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
-      "verification": {
-        "storefront_confirmed": "2025-12-26",
-        "sources": [
-          "https://blog.cityelectricsupply.com/city-electric-supply-continues-to-add-locations-in-colorado/",
-          "https://distributionstrategy.com/city-electric-supply-opens-2-locations-in-colorado/"
-        ]
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Conduit"
       ],
       "trades": [
         "Electrical"
@@ -336,6 +294,6 @@
     "Added confirmed electrical storefronts; coords pending verification.",
     "Coordinates verified for all listed branches.",
     "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Comprehensive expansion - Added two new City Electric Supply branches opened in 2024. Verified via official announcements and industry publications."
+    "2025-12-26: Comprehensive expansion - Added City Electric Supply Colorado Springs Central (new 2024 location with verified address and phone). Removed second CES branch pending address verification."
   ]
 }

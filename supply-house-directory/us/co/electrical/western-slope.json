@@ -396,8 +396,8 @@
       "city": "Craig",
       "state": "CO",
       "postalCode": "81625",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "165 W 16th St",
+      "phone": "970-824-4471",
       "website": "https://www.portalced.com",
       "lat": null,
       "lon": null,
@@ -412,12 +412,12 @@
         "Lithonia Lighting"
       ],
       "manufacturersPartsFor": [],
-      "notes": "CED Craig branch. Serves northwestern Colorado electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "notes": "CED Craig branch. Serves northwestern Colorado electrical contractors. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://www.hoursguide.com/consolidated-electrical-distributors/colorado/",
-          "https://servlectric.com/region/colorado/company/consolidated-electrical-distributors"
+          "https://cedcraig.portalced.com/ContactUs",
+          "https://www.yellowpages.com/craig-co/mip/consolidated-electrical-distributors-7039976"
         ]
       },
       "partsFor": [
@@ -439,8 +439,8 @@
       "city": "Steamboat Springs",
       "state": "CO",
       "postalCode": "80487",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "1955 Bridge Lane, Ste. 1100",
+      "phone": "970-879-9751",
       "website": "https://www.portalced.com",
       "lat": null,
       "lon": null,
@@ -455,12 +455,12 @@
         "Lithonia Lighting"
       ],
       "manufacturersPartsFor": [],
-      "notes": "CED Steamboat Springs branch. Serves northwestern Colorado resort area electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "notes": "CED Steamboat Springs branch. Serves northwestern Colorado resort area electrical contractors. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://www.hoursguide.com/consolidated-electrical-distributors/colorado/",
-          "https://servlectric.com/region/colorado/company/consolidated-electrical-distributors"
+          "https://cedstmbt.portalced.com/",
+          "https://www.steamboatchamber.com/listing/ced-consolidated-electrical-distributors-inc/2417/"
         ]
       },
       "partsFor": [
@@ -482,8 +482,8 @@
       "city": "Montrose",
       "state": "CO",
       "postalCode": "81401",
-      "address1": "TBD",
-      "phone": "TBD",
+      "address1": "3410 N Townsend Ave",
+      "phone": "970-615-6200",
       "website": "https://www.rexelusa.com",
       "lat": null,
       "lon": null,
@@ -498,11 +498,12 @@
         "ABB"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
-          "https://nextdoor.com/pages/rexel-montrose-co/"
+          "https://www.rexelusa.com/locations/co/montrose/3228",
+          "https://www.yellowpages.com/montrose-co/mip/rexel-579075374"
         ]
       },
       "partsFor": [
