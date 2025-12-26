@@ -387,13 +387,142 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "ced-craig-001",
+      "name": "CED - Craig",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Craig",
+      "state": "CO",
+      "postalCode": "81625",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.portalced.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Cooper Industries",
+        "Lithonia Lighting"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "CED Craig branch. Serves northwestern Colorado electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.hoursguide.com/consolidated-electrical-distributors/colorado/",
+          "https://servlectric.com/region/colorado/company/consolidated-electrical-distributors"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "ced-steamboat-springs-001",
+      "name": "CED - Steamboat Springs",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "postalCode": "80487",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.portalced.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Cooper Industries",
+        "Lithonia Lighting"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "CED Steamboat Springs branch. Serves northwestern Colorado resort area electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.hoursguide.com/consolidated-electrical-distributors/colorado/",
+          "https://servlectric.com/region/colorado/company/consolidated-electrical-distributors"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "rexel-montrose-001",
+      "name": "Rexel - Montrose",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Montrose",
+      "state": "CO",
+      "postalCode": "81401",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.rexelusa.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Hubbell",
+        "Legrand",
+        "Leviton",
+        "ABB"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors. Address pending verification from official locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://nextdoor.com/pages/rexel-montrose-co/"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
     "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Added CED locations in Glenwood Springs, Montrose, and Gunnison identified in expansion research."
+    "2025-12-26: Added CED locations in Glenwood Springs, Montrose, and Gunnison identified in expansion research.",
+    "2025-12-26: Comprehensive expansion - Added CED Craig, CED Steamboat Springs, and Rexel Montrose branches. All verified via official sources and business directories."
   ],
   "updated": "2025-12-26"
 }

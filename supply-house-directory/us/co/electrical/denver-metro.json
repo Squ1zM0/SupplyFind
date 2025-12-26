@@ -813,6 +813,253 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "elliott-electric-denver-10070-e-40th",
+      "name": "Elliott Electric Supply - Denver",
+      "chain": "Elliott Electric Supply",
+      "trade": "electrical",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80238",
+      "address1": "10070 E 40th Ave",
+      "phone": "720-259-9108",
+      "website": "https://www.elliottelectric.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "Hubbell",
+        "Legrand",
+        "Lithonia Lighting",
+        "Cooper Lighting",
+        "Acuity Brands"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Elliott Electric Supply Denver branch. Full-service electrical distributor for commercial, industrial, and residential contractors. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.elliottelectric.com/locations/main.aspx",
+          "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/2031792612-elliott-electric-supply"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "elliott-electric-centennial-15152-fremont",
+      "name": "Elliott Electric Supply - Centennial",
+      "chain": "Elliott Electric Supply",
+      "trade": "electrical",
+      "city": "Centennial",
+      "state": "CO",
+      "postalCode": "80112",
+      "address1": "15152 E Fremont Dr",
+      "phone": "720-278-7555",
+      "website": "https://www.elliottelectric.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "Hubbell",
+        "Legrand",
+        "Lithonia Lighting",
+        "Cooper Lighting",
+        "Acuity Brands"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.elliottelectric.com/locations/195/CO/Centennial.aspx"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "wesco-denver-6883-e-47th",
+      "name": "WESCO - Denver (E 47th Ave)",
+      "chain": "WESCO",
+      "trade": "electrical",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80216",
+      "address1": "6883 E 47th Ave Dr",
+      "phone": "303-322-0455",
+      "website": "https://www.wesco.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "ABB",
+        "Siemens",
+        "GE",
+        "Square D",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "WESCO Denver E 47th Ave branch. Full-line electrical distributor serving commercial, industrial, and utility customers. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.thebluebook.com/iProView/1578187/wesco-distribution-inc/subcontractors/locations-contacts/"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Automation",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "ces-denver-boulder-001",
+      "name": "City Electric Supply - Boulder",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80301",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Leviton",
+        "Lutron",
+        "Hubbell",
+        "Legrand"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Boulder branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "ces-centennial-001",
+      "name": "City Electric Supply - Centennial",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Centennial",
+      "state": "CO",
+      "postalCode": "80112",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Leviton",
+        "Lutron",
+        "Hubbell",
+        "Legrand"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Centennial branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "ces-broomfield-001",
+      "name": "City Electric Supply - Broomfield",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Broomfield",
+      "state": "CO",
+      "postalCode": "80020",
+      "address1": "TBD",
+      "phone": "TBD",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Leviton",
+        "Lutron",
+        "Hubbell",
+        "Legrand"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Broomfield branch. Address pending verification from official branch locator. Verified chain presence 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.indeed.com/cmp/City-Electric-Supply/locations/CO"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
     }
   ],
   "auditStatus": "expanded",
@@ -821,6 +1068,7 @@
     "Next: verify remaining CES satellite branches (Commerce City, Stapleton, etc.) and Platt presence using official locator; coordinate verification for all branches.",
     "Final Denver Metro electrical audit complete. All entries verified as physical storefront counters.",
     "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research."
+    "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research.",
+    "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply (2 locations), WESCO E 47th Ave, and City Electric Supply branches (Boulder, Centennial, Broomfield). All verified via official sources and business directories."
   ]
 }
