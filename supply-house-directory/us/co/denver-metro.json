@@ -1,12 +1,19 @@
 {
-  "version": "DENVER_SOUTH_DEEP_FILL_v1",
-  "updated": "2025-12-25",
+  "version": "DENVER_AUDIT_v1",
+  "updated": "2025-12-26",
+  "auditStatus": "in_progress",
+  "auditNotes": [
+    "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
+    "2025-12-26: Added source documentation for Baker Distributing, Ferguson, Hercules Industries",
+    "2025-12-26: Verified physical locations for major chains via web research",
+    "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal"
+  ],
   "state": "CO",
   "metro": "Denver Metro",
   "branches": [
     {
       "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing – Englewood (South Denver)",
+      "name": "Baker Distributing \u2013 Englewood (South Denver)",
       "chain": "Baker Distributing",
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
@@ -25,12 +32,14 @@
         "Aprilaire"
       ],
       "tags": [
-        "residential"
-      ]
+        "residential",
+        "hvac"
+      ],
+      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26"
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing – Ice Design Center (Denver)",
+      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -49,13 +58,14 @@
       ],
       "tags": [
         "commercial",
-        "refrigeration"
+        "refrigeration",
+        "hvac"
       ],
-      "notes": "Ice Design Center"
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
-      "name": "Ferguson - Denver (Plumbing/PVF)",
+      "name": "Ferguson - Denver (Plumbing/PVF & HVAC)",
       "chain": "Ferguson",
       "address1": "550 Raritan Way",
       "address2": "",
@@ -70,35 +80,15 @@
       "brandsRep": [],
       "partsFor": [],
       "tags": [
-        "hvac"
-      ],
-      "notes": "https://www.ferguson.com/store/co/denver/plumbingpvf-0383"
-    },
-    {
-      "id": "co-denver-fergusonhvac-raritan-001",
-      "name": "Ferguson HVAC – Denver",
-      "chain": "Ferguson HVAC",
-      "address1": "550 Raritan Way",
-      "address2": "Unit A",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80204-4931",
-      "phone": "+13039428036",
-      "lat": 39.7337,
-      "lon": -105.0356,
-      "brandsRep": [],
-      "partsFor": [],
-      "tags": [
+        "plumbing",
         "hvac",
         "wholesale"
       ],
-      "sources": [
-        "https://www.ferguson.com/store/co/denver/hvac-0383"
-      ]
+      "notes": "Co-located plumbing/PVF and HVAC departments at same physical location. Source: Ferguson official website, verified 2025-12-26"
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson – Denver",
+      "name": "Gustave A. Larson \u2013 Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -138,12 +128,12 @@
         "ductwork",
         "supply-house"
       ],
-      "notes": "Verified via Hercules Industries locations page (Denver HQ).",
+      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www.herculesindustries.com/locations/, verified 2025-12-26",
       "id": "co-herculesindu-d7ea9ca0"
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply – Denver (#5)",
+      "name": "Johnstone Supply \u2013 Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -191,7 +181,7 @@
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) – Denver",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -222,7 +212,7 @@
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) – Englewood",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -252,7 +242,7 @@
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -273,34 +263,8 @@
       ]
     },
     {
-      "id": "co-denver-rsd-denver-osage-001",
-      "name": "RSD – Denver (Store #72)",
-      "chain": "RSD (Refrigeration Supplies Distributor)",
-      "address1": "4800 Osage St. Suite 800",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80221",
-      "phone": "+13035685300",
-      "lat": 39.7866,
-      "lon": -105.0045,
-      "brandsRep": [
-        "Trane",
-        "Carrier",
-        "Lennox"
-      ],
-      "partsFor": [
-        "Trane",
-        "Carrier",
-        "Lennox"
-      ],
-      "tags": [
-        "commercial",
-        "residential"
-      ]
-    },
-    {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply – Denver (Bryant)",
+      "name": "Trane Supply \u2013 Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -322,7 +286,7 @@
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration – Denver",
+      "name": "United Refrigeration \u2013 Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -343,32 +307,6 @@
         "https://www.mapquest.com/us/colorado/united-refrigeration-9987080",
         "https://www.yelp.com/biz/united-refrigeration-denver"
       ]
-    },
-    {
-      "id": "co-denver-united-denver-pecos-001",
-      "name": "United Refrigeration – Denver (Pecos)",
-      "chain": "United Refrigeration",
-      "address1": "140 South Pecos Street, Units A and B",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80223-1781",
-      "phone": "+13037449100",
-      "lat": 39.7126,
-      "lon": -105.0059,
-      "brandsRep": [
-        "Carrier",
-        "Lennox"
-      ],
-      "partsFor": [
-        "Carrier",
-        "Lennox",
-        "Honeywell"
-      ],
-      "tags": [
-        "commercial",
-        "residential"
-      ],
-      "notes": ""
     },
     {
       "name": "Denver Winair",
@@ -416,7 +354,7 @@
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores – Denver",
+      "name": "Lennox Stores \u2013 Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -433,7 +371,7 @@
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores – Aurora",
+      "name": "Lennox Stores \u2013 Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -449,25 +387,8 @@
       ]
     },
     {
-      "id": "co-denver-winsupply-hvac-001",
-      "name": "WinSupply HVAC – Denver",
-      "chain": "WinSupply HVAC",
-      "address1": "5151 Bannock St",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80216",
-      "phone": "+13032952800",
-      "lat": 39.7901,
-      "lon": -104.9908,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ]
-    },
-    {
       "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co – Denver",
+      "name": "HVAC Distributors Co \u2013 Denver",
       "chain": "HVAC Distributors Co",
       "address1": "4900 Washington St",
       "city": "Denver",
@@ -484,26 +405,8 @@
       ]
     },
     {
-      "id": "co-denver-usair-001",
-      "name": "US Air Distributors – Denver",
-      "chain": "US Air Distributors",
-      "address1": "5151 Bannock St",
-      "city": "Denver",
-      "state": "CO",
-      "zip": "80216",
-      "phone": "+13032952800",
-      "lat": 39.7901,
-      "lon": -104.9908,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts",
-        "local"
-      ]
-    },
-    {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors – Denver",
+      "name": "A/C Distributors \u2013 Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -521,7 +424,7 @@
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co – Commerce City",
+      "name": "HVAC Distributors Co \u2013 Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -539,7 +442,7 @@
     },
     {
       "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors – Thornton",
+      "name": "A/C Distributors \u2013 Thornton",
       "chain": "A/C Distributors",
       "address1": "899 E 84th Ave",
       "city": "Thornton",
@@ -557,7 +460,7 @@
     },
     {
       "id": "co-englewood-comfortair-001",
-      "name": "Comfort Air Distributing – Englewood",
+      "name": "Comfort Air Distributing \u2013 Englewood",
       "chain": "Comfort Air Distributing",
       "address1": "333 W Hampden Ave",
       "city": "Englewood",
@@ -573,25 +476,8 @@
       ]
     },
     {
-      "id": "co-centennial-lennoxstores-001",
-      "name": "Lennox Stores – Centennial",
-      "chain": "Lennox Stores",
-      "address1": "7367 S Revere Pkwy Unit 1D",
-      "city": "Centennial",
-      "state": "CO",
-      "zip": "80112",
-      "phone": "+13037908800",
-      "lat": 39.5862,
-      "lon": -104.8454,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ]
-    },
-    {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir – Wheat Ridge",
+      "name": "WinAir \u2013 Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -608,7 +494,7 @@
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing – Centennial",
+      "name": "Comfort Air Distributing \u2013 Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "7347 S Revere Pkwy",
       "city": "Centennial",
@@ -625,7 +511,7 @@
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD – Centennial",
+      "name": "RSD \u2013 Centennial",
       "chain": "RSD",
       "address1": "6825 S Galena St",
       "city": "Centennial",
@@ -642,7 +528,7 @@
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply – Denver",
+      "name": "Rampart Supply \u2013 Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
