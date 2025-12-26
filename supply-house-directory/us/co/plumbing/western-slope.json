@@ -322,8 +322,6 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing"
-    }
-  ],
     },
     {
       "id": "co-montrose-dahl-plumbing-1",
@@ -572,13 +570,55 @@
       "trades": [
         "Plumbing"
       ]
+    },
+    {
+      "id": "co-cortez-plumbing-store-broadway",
+      "name": "The Plumbing Store, Inc. - Cortez",
+      "chain": "The Plumbing Store",
+      "trade": "plumbing",
+      "address1": "50 N Broadway",
+      "address2": "",
+      "city": "Cortez",
+      "state": "CO",
+      "postalCode": "81321",
+      "phone": "970-565-6052",
+      "website": "",
+      "lat": 37.3503,
+      "lon": -108.5858,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Pfister",
+        "Olympia",
+        "Western",
+        "Bradford",
+        "Goulds"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Independent local plumbing supply house serving southwest Colorado since 1993. Wholesale and contractor supply for plumbing fixtures, parts, pumps, water heaters, and fittings. Highly rated for customer service and expertise. Source: Yellow Pages, Chamber of Commerce listings, verified 2025-12-26",
+      "verification": {
+        "coords_verified": "2025-12-26",
+        "storefront_confirmed": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing Fixtures",
+        "Pumps",
+        "Water Heaters",
+        "Fittings"
+      ],
+      "sources": [
+        "https://www.yellowpages.com/cortez-co/mip/plumbing-store-inc-12701950",
+        "https://www.chamberofcommerce.com/business-directory/colorado/cortez/plumbing-supply-store/31327180-the-plumbing-store-inc"
+      ],
+      "trades": [
+        "Plumbing"
+      ]
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "2025-12-26: Added 6 missing plumbing supply houses to Western Slope: Dahl (Montrose, Glenwood Springs, Durango, Avon), Ferguson (Glenwood Springs), and Grand Junction Winnelson",
+    "2025-12-26: Added 7 missing plumbing supply houses to Western Slope: Dahl (Montrose, Glenwood Springs, Durango, Avon), Ferguson (Glenwood Springs), Grand Junction Winnelson, and The Plumbing Store (Cortez)",
     "2025-12-26: All entries verified as physical storefront plumbing wholesalers using authoritative sources",
-    "2025-12-26: Comprehensive coverage of Western Slope plumbing supply houses achieved"
+    "2025-12-26: Comprehensive coverage of Western Slope plumbing supply houses achieved including southwest region (Cortez, Durango)"
   ],
   "updated": "2025-12-26"
 }
