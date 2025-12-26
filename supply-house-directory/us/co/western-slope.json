@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2025-12-25T23:59:00Z",
+  "updated": "2025-12-26",
   "state": "CO",
   "metro": "Western Slope",
   "branches": [
@@ -297,21 +297,10 @@
       "tags": [
         "hvac"
       ]
-    },
-    {
-      "id": "co-ws-ferguson-003",
-      "name": "Ferguson Plumbing Supply (Grand Junction)",
-      "chain": "Ferguson",
-      "address1": "620 S 12th St",
-      "city": "Grand Junction",
-      "state": "CO",
-      "zip": "81501",
-      "phone": "970-243-8570",
-      "lat": null,
-      "lon": null,
-      "tags": [
-        "plumbing"
-      ]
     }
+  ],
+  "auditStatus": "in_progress",
+  "auditNotes": [
+    "2025-12-26: Removed 1 duplicate entry(ies)"
   ]
 }
