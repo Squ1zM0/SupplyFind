@@ -110,7 +110,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-denver-galarson-washington-001",
@@ -845,7 +846,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",

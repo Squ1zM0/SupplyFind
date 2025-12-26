@@ -47,7 +47,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "pueblo-winnelson-ilex",
@@ -118,7 +119,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "HVAC"
     },
     {
       "id": "winsupply-salida-oak-001",
@@ -159,7 +161,8 @@
       "trades": [
         "HVAC",
         "Plumbing"
-      ]
+      ],
+      "primaryTrade": "Plumbing"
     }
   ],
   "auditNotes": [
