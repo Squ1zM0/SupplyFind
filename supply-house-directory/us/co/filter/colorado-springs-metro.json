@@ -1,0 +1,79 @@
+{
+  "version": "COLORADO_SPRINGS_FILTER_AUDIT_v1",
+  "trade": "filter",
+  "metro": "Colorado Springs Metro",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "camfil-colorado-springs-elkton",
+      "name": "Camfil - Colorado Springs",
+      "chain": "Camfil",
+      "trade": "filter",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "870 Elkton Drive, Suite 106",
+      "phone": "719-475-7307",
+      "website": "https://cleanair.camfil.us/camfil-usa-airfilters-colorado-springs-co/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Camfil"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Air filters and filtration solutions for industrial, healthcare, and commercial sectors. Provides HEPA, ULPA, dust collectors, and custom clean air solutions. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://cleanair.camfil.us/camfil-usa-airfilters-colorado-springs-co/",
+          "https://catalog.camfil.us/all-locations/united-states/colorado/colorado-springs/camfil-colorado-springs/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "HEPA Filters",
+        "ULPA Filters",
+        "Dust Collectors",
+        "Cleanroom Filtration"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    },
+    {
+      "id": "air-purification-company-colorado-springs",
+      "name": "Air Purification Company - Colorado Springs",
+      "chain": "Air Purification Company",
+      "trade": "filter",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "",
+      "address1": "",
+      "phone": "303-428-2800",
+      "website": "https://www.airpurificationcompany.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Regional office of Air Purification Company serving Colorado Springs area. Provides air filtration products and IAQ equipment for commercial and industrial clients. Main headquarters in Denver. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.airpurificationcompany.com/"
+        ]
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Air Purification",
+        "IAQ Systems"
+      ],
+      "trades": [
+        "Filter",
+        "HVAC"
+      ]
+    }
+  ]
+}

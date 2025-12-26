@@ -1,0 +1,44 @@
+{
+  "version": "FRONT_RANGE_NORTH_FILTER_AUDIT_v1",
+  "trade": "filter",
+  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "filtersource-fort-collins",
+      "name": "FilterSource LLC",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "328 S Link Ln #14",
+      "phone": "970-204-4758",
+      "website": "https://www.industrialfiltersource.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Industrial filters distributor offering air, liquid, gas, hydraulic, and water filtration products. Specializes in OEM replacements, custom applications, and short lead times for manufacturing, cleanrooms, wastewater. Serves manufacturing, bakeries, breweries, chemical plants, HVAC, oil & gas, power generation, water/wastewater treatment. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.industrialfiltersource.com/",
+          "https://opengovco.com/business/20131666942"
+        ]
+      },
+      "partsFor": [
+        "Industrial Filtration",
+        "HVAC Air Filters",
+        "Water Filtration",
+        "Hydraulic Filters",
+        "Gas Filters"
+      ],
+      "trades": [
+        "Filter"
+      ]
+    }
+  ]
+}
