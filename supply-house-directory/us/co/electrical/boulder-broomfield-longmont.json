@@ -3,13 +3,39 @@
   "trade": "electrical",
   "metro": "Boulder / Broomfield / Longmont",
   "state": "CO",
-  "updated": "2025-12-26",
-  "branches": [],
+  "updated": "2025-12-25",
+  "branches": [
+    {
+      "id": "rexel-longmont-3252",
+      "name": "Rexel - Longmont (#3252)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Longmont",
+      "state": "CO",
+      "postalCode": "80504-3558",
+      "address1": "4250 Salazar Way",
+      "phone": "303-772-6571",
+      "website": "https://www.rexelusa.com/locations/co/longmont/3252",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Longmont.",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/longmont/3252"
+        ]
+      }
+    }
+  ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
     "Chain-by-chain audit performed (Graybar, CED, Rexel, CES).",
     "No confirmed electrical counter storefronts within Boulder, Broomfield, or Longmont city limits.",
     "Area is served by Denver and Front Range North counters.",
-    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
   ]
 }

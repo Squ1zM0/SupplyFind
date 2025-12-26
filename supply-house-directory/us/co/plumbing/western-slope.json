@@ -3,10 +3,242 @@
   "trade": "plumbing",
   "metro": "Western Slope",
   "state": "CO",
-  "branches": [],
+  "branches": [
+    {
+      "id": "co-grand-junction-ferguson-plumbing-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "address1": "620 S 12th St",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81501",
+      "phone": "970-243-8570",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.fernco.com/locations/united-states/wholesale-plumbing/ferguson/81501"
+      ]
+    },
+    {
+      "id": "co-grand-junction-keenan-dahl-1",
+      "name": "Keenan-Dahl Supply",
+      "chain": "Keenan-Dahl Supply",
+      "trade": "plumbing",
+      "address1": "2469 Commerce Blvd",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81505",
+      "phone": "970-434-3225",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Keenan-Dahl Supply"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.yelp.com/biz/keenan-dahl-supply-grand-junction-2"
+      ]
+    },
+    {
+      "id": "co-montrose-ferguson-plumbing-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "address1": "924 Spring Creek Rd",
+      "address2": "",
+      "city": "Montrose",
+      "state": "CO",
+      "postalCode": "81403",
+      "phone": "970-252-1100",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.waze.com/live-map/directions/us/co/montrose/ferguson-plumbing-supply?to=place.ChIJ_7g1hvBQP4cRyHPaVHEK3Ww"
+      ]
+    },
+    {
+      "id": "co-durango-ferguson-home-1",
+      "name": "Ferguson Home",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "address1": "76 Sheppard Dr",
+      "address2": "",
+      "city": "Durango",
+      "state": "CO",
+      "postalCode": "81303",
+      "phone": "970-259-5005",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "showroom"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.yelp.com/biz/ferguson-home-durango"
+      ]
+    },
+    {
+      "id": "co-granby-ferguson-plumbing-1",
+      "name": "Ferguson Plumbing Supply",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "address1": "23 Ten Mile Rd",
+      "address2": "",
+      "city": "Granby",
+      "state": "CO",
+      "postalCode": "80446",
+      "phone": "970-887-2426",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.destinationgranby.com/listing/ferguson-plumbing-supply/661/"
+      ]
+    },
+    {
+      "id": "co-silverthorne-ferguson-plumbing-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "address1": "519 Adams Avenue",
+      "address2": "",
+      "city": "Silverthorne",
+      "state": "CO",
+      "postalCode": "80498",
+      "phone": "970-262-6171",
+      "website": "",
+      "lat": null,
+      "lon": null,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "approx"
+      },
+      "notes": "",
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431"
+      ]
+    }
+  ],
   "auditStatus": "audit_complete_no_storefronts",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
   ],
-  "updated": "2025-12-26"
+  "updated": "2025-12-25"
 }

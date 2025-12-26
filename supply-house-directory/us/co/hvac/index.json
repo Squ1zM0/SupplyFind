@@ -1,7 +1,8 @@
 {
-  "trade": "electrical",
-  "state": "CO",
+  "version": "1.0.0",
   "updated": "2025-12-25",
+  "state": "CO",
+  "trade": "hvac",
   "metros": [
     {
       "id": "denver-metro",
@@ -24,19 +25,14 @@
       "file": "pueblo-south.json"
     },
     {
-      "id": "boulder-broomfield-longmont",
-      "name": "Boulder / Broomfield / Longmont",
-      "file": "boulder-broomfield-longmont.json"
-    },
-    {
       "id": "western-slope",
       "name": "Western Slope",
-      "file": "us/co/electrical/western-slope.json"
+      "file": "us/co/hvac/western-slope.json"
     },
     {
       "id": "eastern-plains",
       "name": "Eastern Plains",
-      "file": "us/co/electrical/eastern-plains.json"
+      "file": "us/co/hvac/eastern-plains.json"
     }
   ]
 }

@@ -1,0 +1,317 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-12-25T23:59:00Z",
+  "state": "CO",
+  "metro": "Western Slope",
+  "branches": [
+    {
+      "id": "co-grand-junction-ferguson-plumbingpvf-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "address1": "620 S 12th St",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "+19702438570",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "website": "https://www.ferguson.com/",
+      "sources": [
+        "https://www.fernco.com/locations/united-states/wholesale-plumbing/ferguson/81501"
+      ]
+    },
+    {
+      "id": "co-grand-junction-keenan-dahl-supply-1",
+      "name": "Keenan-Dahl Supply",
+      "chain": "Keenan-Dahl Supply",
+      "address1": "2469 Commerce Blvd",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81505",
+      "phone": "+19704343225",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Keenan-Dahl Supply"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "wholesale"
+      ],
+      "website": "http://keenandahl.com",
+      "sources": [
+        "https://www.yelp.com/biz/keenan-dahl-supply-grand-junction-2"
+      ]
+    },
+    {
+      "id": "co-montrose-ferguson-plumbingpvf-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "address1": "924 Spring Creek Rd",
+      "city": "Montrose",
+      "state": "CO",
+      "zip": "81403",
+      "phone": "+19702521100",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "website": "https://www.ferguson.com/",
+      "sources": [
+        "https://www.waze.com/live-map/directions/us/co/montrose/ferguson-plumbing-supply?to=place.ChIJ_7g1hvBQP4cRyHPaVHEK3Ww"
+      ]
+    },
+    {
+      "id": "co-durango-ferguson-home-1",
+      "name": "Ferguson Home",
+      "chain": "Ferguson",
+      "address1": "76 Sheppard Dr",
+      "city": "Durango",
+      "state": "CO",
+      "zip": "81303",
+      "phone": "+19702595005",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "showroom"
+      ],
+      "website": "https://www.fergusonhome.com/",
+      "sources": [
+        "https://www.yelp.com/biz/ferguson-home-durango"
+      ]
+    },
+    {
+      "id": "co-granby-ferguson-plumbing-supply-1",
+      "name": "Ferguson Plumbing Supply",
+      "chain": "Ferguson",
+      "address1": "23 Ten Mile Rd",
+      "city": "Granby",
+      "state": "CO",
+      "zip": "80446",
+      "phone": "+19708872426",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "wholesale"
+      ],
+      "website": "https://www.ferguson.com/",
+      "sources": [
+        "https://www.destinationgranby.com/listing/ferguson-plumbing-supply/661/"
+      ]
+    },
+    {
+      "id": "co-silverthorne-ferguson-plumbingpvf-1",
+      "name": "Ferguson Plumbing Supply (Plumbing/PVF)",
+      "chain": "Ferguson",
+      "address1": "519 Adams Avenue",
+      "address2": "Unit A-D",
+      "city": "Silverthorne",
+      "state": "CO",
+      "zip": "80498",
+      "phone": "+19702626171",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Ferguson"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "tags": [
+        "plumbing",
+        "pvf",
+        "wholesale"
+      ],
+      "website": "https://www.ferguson.com/",
+      "sources": [
+        "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431"
+      ]
+    },
+    {
+      "id": "co-durango-ced-1",
+      "name": "CED Durango",
+      "chain": "CED",
+      "address1": "56 Stewart St",
+      "city": "Durango",
+      "state": "CO",
+      "zip": "81303",
+      "phone": "+19702591530",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "CED"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "https://ceddgo.com/",
+      "sources": [
+        "https://ceddgo.com/"
+      ]
+    },
+    {
+      "id": "co-grand-junction-ced-1",
+      "name": "CED Grand Junction",
+      "chain": "CED",
+      "address1": "310 S 12th St",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "+19702431430",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "CED"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "https://gjced.portalced.com/",
+      "sources": [
+        "https://gjced.portalced.com/"
+      ]
+    },
+    {
+      "id": "co-grand-junction-city-electric-supply-1",
+      "name": "City Electric Supply",
+      "chain": "City Electric Supply",
+      "address1": "1005 Pitkin Ave",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "+19709866126",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "City Electric Supply"
+      ],
+      "partsFor": [
+        "Electrical"
+      ],
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "website": "https://www.cityelectricsupply.com/",
+      "sources": [
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+      ]
+    },
+    {
+      "id": "co-grand-junction-johnstone-supply-1",
+      "name": "Johnstone Supply",
+      "chain": "Johnstone Supply",
+      "address1": "567 S 15th St",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "+19704341374",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Johnstone Supply"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "website": "https://www.johnstonesupply.com/",
+      "sources": [
+        "https://www.johnstonesupply.com/storefront/#/branch/CT428?"
+      ]
+    },
+    {
+      "id": "co-ws-city-electric-001",
+      "name": "City Electric Supply (Grand Junction)",
+      "chain": "City Electric Supply",
+      "address1": "1005 Pitkin Ave",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "970-986-6126",
+      "lat": 39.064,
+      "lon": -108.55557,
+      "tags": [
+        "electrical"
+      ]
+    },
+    {
+      "id": "co-ws-johnstone-002",
+      "name": "Johnstone Supply (Grand Junction)",
+      "chain": "Johnstone Supply",
+      "address1": "3192 Hall Ave",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81504",
+      "phone": "970-434-1374",
+      "lat": 39.08339,
+      "lon": -108.48662,
+      "tags": [
+        "hvac"
+      ]
+    },
+    {
+      "id": "co-ws-ferguson-003",
+      "name": "Ferguson Plumbing Supply (Grand Junction)",
+      "chain": "Ferguson",
+      "address1": "620 S 12th St",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81501",
+      "phone": "970-243-8570",
+      "lat": null,
+      "lon": null,
+      "tags": [
+        "plumbing"
+      ]
+    }
+  ]
+}

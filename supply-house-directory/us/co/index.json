@@ -1,6 +1,6 @@
 {
   "version": "1.91",
-  "updated": "2025-12-26",
+  "updated": "2025-12-25",
   "state": "CO",
   "metros": [
     {
@@ -15,22 +15,32 @@
     {
       "id": "boulder-metro",
       "name": "Boulder / Broomfield / Longmont",
-      "file": "boulder-metro.json"
+      "file": "us/co/boulder-metro.json"
     },
     {
       "id": "colorado-springs-metro",
       "name": "Colorado Springs",
-      "file": "colorado-springs-metro.json"
+      "file": "us/co/colorado-springs-metro.json"
     },
     {
       "id": "front-range-north",
       "name": "Front Range North (Fort Collins / Loveland / Greeley)",
-      "file": "front-range-north.json"
+      "file": "us/co/front-range-north.json"
     },
     {
       "id": "pueblo-south",
       "name": "Pueblo / South Colorado",
-      "file": "pueblo-south.json"
+      "file": "us/co/pueblo-south.json"
+    },
+    {
+      "id": "western-slope",
+      "name": "Western Slope",
+      "file": "us/co/western-slope.json"
+    },
+    {
+      "id": "eastern-plains",
+      "name": "Eastern Plains",
+      "file": "us/co/eastern-plains.json"
     }
   ],
   "trades": {
@@ -39,6 +49,9 @@
     },
     "electrical": {
       "path": "electrical/index.json"
+    },
+    "hvac": {
+      "path": "hvac/index.json"
     }
   }
 }
