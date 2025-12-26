@@ -13,7 +13,7 @@
   "branches": [
     {
       "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing \u2013 Englewood (South Denver)",
+      "name": "Baker Distributing – Englewood (South Denver)",
       "chain": "Baker Distributing",
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
@@ -27,9 +27,7 @@
         "Daikin"
       ],
       "partsFor": [
-        "Goodman",
-        "Daikin",
-        "Aprilaire"
+        "HVAC"
       ],
       "tags": [
         "residential",
@@ -39,7 +37,7 @@
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
+      "name": "Baker Distributing – Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -53,8 +51,7 @@
         "Goodman"
       ],
       "partsFor": [
-        "Daikin",
-        "Goodman"
+        "HVAC"
       ],
       "tags": [
         "commercial",
@@ -77,18 +74,37 @@
       "hours": "",
       "lat": 39.72406,
       "lon": -105.00913,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Plumbing"
+      ],
       "tags": [
         "plumbing",
         "hvac",
         "wholesale"
       ],
-      "notes": "Co-located plumbing/PVF and HVAC departments at same physical location. Source: Ferguson official website, verified 2025-12-26"
+      "notes": "Co-located plumbing/PVF and HVAC departments at same physical location. Source: Ferguson official website, verified 2025-12-26. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson \u2013 Denver",
+      "name": "Gustave A. Larson – Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -97,8 +113,17 @@
       "phone": "+13038921550",
       "lat": 39.8072,
       "lon": -104.9786,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "tags": [
         "hvacr",
         "wholesale"
@@ -106,7 +131,8 @@
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.achrnews.com/directories/2937-hvacr-directory/listing/10077-gustave-a-larson-co"
-      ]
+      ],
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26"
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -121,19 +147,30 @@
       "hours": "",
       "lat": 39.67839,
       "lon": -105.00272,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Sheet Metal",
+        "Ductwork",
+        "HVAC Accessories"
+      ],
+      "partsFor": [
+        "Sheet Metal",
+        "Ductwork",
+        "HVAC Accessories"
+      ],
       "tags": [
         "hvac",
         "ductwork",
         "supply-house"
       ],
-      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www.herculesindustries.com/locations/, verified 2025-12-26",
-      "id": "co-herculesindu-d7ea9ca0"
+      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries.",
+      "id": "co-herculesindu-d7ea9ca0",
+      "sources": [
+        "https://www.herculesindustries.com/locations/"
+      ]
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply \u2013 Denver (#5)",
+      "name": "Johnstone Supply – Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -153,15 +190,7 @@
         "Honeywell"
       ],
       "partsFor": [
-        "Goodman",
-        "Amana",
-        "Lennox",
-        "Daikin",
-        "Bosch",
-        "Fujitsu",
-        "Copeland",
-        "Honeywell",
-        "Aprilaire"
+        "HVAC"
       ],
       "tags": [
         "hvacr",
@@ -190,19 +219,19 @@
         "Lennox"
       ],
       "partsFor": [
-        "Lennox"
+        "HVAC"
       ],
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "notes": "Verified via LennoxPros Denver area stores page.",
+      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "id": "co-lennoxstores-95d62dda"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
+      "name": "Lohmiller & Company (Carrier West) – Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -217,9 +246,7 @@
         "Payne"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -233,7 +260,7 @@
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
+      "name": "Lohmiller & Company (Carrier West) – Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -248,9 +275,7 @@
         "Payne"
       ],
       "partsFor": [
-        "Carrier",
-        "Bryant",
-        "Payne"
+        "HVAC"
       ],
       "tags": [
         "hvac",
@@ -263,7 +288,7 @@
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -272,20 +297,36 @@
       "phone": "+13035685300",
       "lat": 39.783,
       "lon": -105.0066,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Carrier",
+        "Copeland",
+        "Emerson",
+        "Fujitsu",
+        "LG",
+        "Mitsubishi",
+        "Honeywell",
+        "Trane",
+        "York",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "tags": [
         "hvacr",
         "wholesale"
       ],
       "sources": [
         "https://www.rsd.net/store/0072-denver-co",
-        "https://www.mapquest.com/us/colorado/refrigeration-supplies-distributor-380660905"
-      ]
+        "https://www.mapquest.com/us/colorado/refrigeration-supplies-distributor-380660905",
+        "https://www.rsd.net/manufacturers/"
+      ],
+      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply \u2013 Denver (Bryant)",
+      "name": "Trane Supply – Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -303,11 +344,12 @@
       "tags": [
         "commercial",
         "residential"
-      ]
+      ],
+      "notes": "Factory-owned Trane supply house. Verified 2025-12-26."
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration \u2013 Denver",
+      "name": "United Refrigeration – Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -317,8 +359,19 @@
       "phone": "+13037449100",
       "lat": 39.7127,
       "lon": -105.005,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Copeland",
+        "Daikin",
+        "Bosch",
+        "Amana",
+        "Honeywell",
+        "Emerson",
+        "Aprilaire",
+        "Mueller Industries"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "tags": [
         "hvacr",
         "wholesale"
@@ -326,8 +379,10 @@
       "sources": [
         "https://www.achrnews.com/directories/2937-hvacr-directory/listing/15246-united-refrigeration-inc-denver-co",
         "https://www.mapquest.com/us/colorado/united-refrigeration-9987080",
-        "https://www.yelp.com/biz/united-refrigeration-denver"
-      ]
+        "https://www.yelp.com/biz/united-refrigeration-denver",
+        "https://www.uri.com/"
+      ],
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26"
     },
     {
       "name": "Denver Winair",
@@ -342,13 +397,21 @@
       "hours": "",
       "lat": 39.67752,
       "lon": -105.00594,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "tags": [
         "hvac",
         "supply-house"
       ],
-      "notes": "Verified via Denver Winair contact page.",
+      "notes": "Verified via Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
       "id": "co-winairwinsup-ca256015"
     },
     {
@@ -364,18 +427,26 @@
       "hours": "",
       "lat": 39.8318,
       "lon": -104.98188,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "tags": [
         "hvac",
         "supply-house"
       ],
-      "notes": "Verified via Winsupply/North Denver Winair contact page.",
+      "notes": "Verified via Winsupply/North Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
       "id": "co-winairwinsup-97b08e60"
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Denver",
+      "name": "Lennox Stores – Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -388,11 +459,18 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Lennox"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Aurora",
+      "name": "Lennox Stores – Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -405,11 +483,18 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Lennox"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
     {
       "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Denver",
+      "name": "HVAC Distributors Co – Denver",
       "chain": "HVAC Distributors Co",
       "address1": "4900 Washington St",
       "city": "Denver",
@@ -423,11 +508,23 @@
         "equipment",
         "parts",
         "local"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Honeywell"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors \u2013 Denver",
+      "name": "A/C Distributors – Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -441,11 +538,24 @@
         "equipment",
         "parts",
         "local"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Goodman",
+        "Daikin"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Commerce City",
+      "name": "HVAC Distributors Co – Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -459,11 +569,23 @@
         "equipment",
         "parts",
         "local"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Honeywell"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
     {
       "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors \u2013 Thornton",
+      "name": "A/C Distributors – Thornton",
       "chain": "A/C Distributors",
       "address1": "899 E 84th Ave",
       "city": "Thornton",
@@ -477,11 +599,24 @@
         "equipment",
         "parts",
         "local"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Goodman",
+        "Daikin"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
     },
     {
       "id": "co-englewood-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Englewood",
+      "name": "Comfort Air Distributing – Englewood",
       "chain": "Comfort Air Distributing",
       "address1": "333 W Hampden Ave",
       "city": "Englewood",
@@ -494,11 +629,26 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "sources": [
+        "https://www.comfortairdistributing.com/"
       ]
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir \u2013 Wheat Ridge",
+      "name": "WinAir – Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -511,11 +661,22 @@
         "hvac",
         "equipment",
         "parts"
-      ]
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing \u2013 Centennial",
+      "name": "Comfort Air Distributing – Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "7347 S Revere Pkwy",
       "city": "Centennial",
@@ -528,11 +689,26 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "sources": [
+        "https://www.comfortairdistributing.com/"
       ]
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD \u2013 Centennial",
+      "name": "RSD – Centennial",
       "chain": "RSD",
       "address1": "6825 S Galena St",
       "city": "Centennial",
@@ -545,11 +721,31 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Copeland",
+        "Emerson",
+        "Fujitsu",
+        "LG",
+        "Mitsubishi",
+        "Honeywell",
+        "Trane",
+        "York",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
+      "sources": [
+        "https://www.rsd.net/manufacturers/"
       ]
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply \u2013 Denver",
+      "name": "Rampart Supply – Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
@@ -585,11 +781,36 @@
       "phone": "+17206024400",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
+      "sources": [
+        "https://info.graybar.com/welcome-line-cards/",
+        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
       ]
     },
     {
@@ -603,11 +824,36 @@
       "phone": "+13035727100",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "sources": [
+        "https://www.rexelusa.com/brands"
       ]
     },
     {
@@ -621,11 +867,36 @@
       "phone": "+13037285888",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "sources": [
+        "https://www.rexelusa.com/brands"
       ]
     },
     {
@@ -639,11 +910,38 @@
       "phone": "+13036231233",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
       ]
     },
     {
@@ -657,11 +955,36 @@
       "phone": "+13039960111",
       "lat": 39.719771,
       "lon": -105.019647,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "sources": [
+        "https://www.cityelectricsupply.com/linecard"
       ]
     },
     {
@@ -675,11 +998,34 @@
       "phone": "+17205319895",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
+      "sources": [
+        "https://www.borderstates.com/brands"
       ]
     },
     {
@@ -693,12 +1039,28 @@
       "phone": "+13036291188",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
-      ]
+      ],
+      "notes": "Electrical supply distributor. National electrical distributor, verified 2025-12-26"
     },
     {
       "id": "co-denver-electrical-wesco-denver-11198-e-45th",
@@ -711,11 +1073,35 @@
       "phone": "+13033221722",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Leviton",
+        "Hubbell",
+        "Panduit",
+        "Southwire",
+        "Belden",
+        "Fluke",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
+      "sources": [
+        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
       ]
     },
     {
@@ -729,12 +1115,27 @@
       "phone": "+13033739200",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Panduit",
+        "Belden",
+        "CommScope",
+        "Cisco",
+        "Fluke",
+        "3M",
+        "Hubbell"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
-      ]
+      ],
+      "notes": "Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -747,12 +1148,25 @@
       "phone": "+13038255011",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Leviton",
+        "Hubbell",
+        "Lithonia"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
-      ]
+      ],
+      "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26"
     },
     {
       "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
@@ -765,11 +1179,35 @@
       "phone": "+13037338600",
       "lat": null,
       "lon": null,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Leviton",
+        "Hubbell",
+        "Panduit",
+        "Southwire",
+        "Belden",
+        "Fluke",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
+      ],
+      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
+      "sources": [
+        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
       ]
     }
   ]

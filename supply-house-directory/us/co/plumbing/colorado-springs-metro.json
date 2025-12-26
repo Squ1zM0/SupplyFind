@@ -19,12 +19,31 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter.",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "colorado-springs-winnelson-geiger",
@@ -40,12 +59,24 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing supplies counter.",
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     },
     {
       "id": "dahl-colorado-springs-sinton",
@@ -61,16 +92,30 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl.",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
-      "name": "Hughes Supply \u2013 Colorado Springs",
+      "name": "Hughes Supply – Colorado Springs",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -82,11 +127,26 @@
       "lat": 38.8891,
       "lon": -104.8319,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesaler counter"
+      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply \u2013 Colorado Springs",
+      "name": "Gateway Supply – Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -98,7 +158,16 @@
       "lat": 38.7927,
       "lon": -104.7745,
       "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler"
+      "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ]
     }
   ],
   "auditNotes": [

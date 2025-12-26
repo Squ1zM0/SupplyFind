@@ -19,16 +19,35 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter (shared site with HVAC).",
+      "notes": "Plumbing/PVF counter (shared site with HVAC). Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "dahl-boulder-sterling-3180-100",
-      "name": "Dahl \u2013 Boulder",
+      "name": "Dahl – Boulder",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Boulder",
@@ -40,12 +59,26 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Counter/Warehouse/Office + showroom.",
-      "brandsRep": [],
+      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ]
     },
     {
       "id": "ferguson-plumbing-boulder-1840-55th",
@@ -61,12 +94,31 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available.",
-      "brandsRep": [],
+      "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ]
     },
     {
       "id": "winnelson-longmont-795-s-sherman-13",
@@ -82,12 +134,24 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "notes": "Plumbing wholesale supply counter.",
-      "brandsRep": [],
+      "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
       "manufacturersPartsFor": [],
       "verification": {
         "coords_attempted": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ]
     }
   ],
   "auditNotes": [

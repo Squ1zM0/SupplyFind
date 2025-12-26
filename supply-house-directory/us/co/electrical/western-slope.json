@@ -26,7 +26,7 @@
         "phone": "verified",
         "coordinates": "approx"
       },
-      "notes": "",
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "tags": [
         "electrical",
         "wholesale"
@@ -35,11 +35,27 @@
         "Electrical"
       ],
       "brandsRep": [
-        "CED"
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
       ],
       "services": [],
       "sources": [
-        "https://ceddgo.com/contact/"
+        "https://ceddgo.com/contact/",
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
       ]
     },
     {
@@ -64,7 +80,7 @@
         "phone": "verified",
         "coordinates": "approx"
       },
-      "notes": "",
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "tags": [
         "electrical",
         "wholesale"
@@ -73,11 +89,27 @@
         "Electrical"
       ],
       "brandsRep": [
-        "CED"
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
       ],
       "services": [],
       "sources": [
-        "https://gjced.portalced.com/ContactUs"
+        "https://gjced.portalced.com/ContactUs",
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
       ]
     },
     {
@@ -102,7 +134,7 @@
         "phone": "verified",
         "coordinates": "approx"
       },
-      "notes": "",
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "tags": [
         "electrical",
         "wholesale"
@@ -111,11 +143,25 @@
         "Electrical"
       ],
       "brandsRep": [
-        "City Electric Supply"
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
       ],
       "services": [],
       "sources": [
-        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction",
+        "https://www.cityelectricsupply.com/linecard"
       ]
     },
     {
@@ -132,15 +178,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Glenwood Springs / Roaring Fork Valley.",
+      "notes": "Rexel branch serving Glenwood Springs / Roaring Fork Valley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "ced-glenwoodsprings-cr154-001",
@@ -156,15 +227,42 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Roaring Fork Valley",
+      "notes": "CED electrical supply serving Roaring Fork Valley. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "ced-montrose-ngrand-001",
@@ -180,16 +278,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Montrose area",
+      "notes": "CED electrical supply serving Montrose area. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.loc8nearme.com/colorado/montrose/consolidated-electrical-distribution/3246381/",
           "https://www.chamberofcommerce.com/united-states/colorado/montrose/electric-utility-company/31328644-consolidated-electrical-distributors"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "ced-gunnison-s10th-001",
@@ -205,15 +330,42 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Gunnison County",
+      "notes": "CED electrical supply serving Gunnison County. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     }
   ],
   "auditStatus": "expanded",

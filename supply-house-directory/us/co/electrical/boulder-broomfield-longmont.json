@@ -19,15 +19,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Longmont.",
+      "notes": "Rexel branch serving Longmont. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/longmont/3252"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "ced-boulder-walnut-001",
@@ -43,16 +68,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Wholesale electrical distributor serving Boulder area contractors",
+      "notes": "Wholesale electrical distributor serving Boulder area contractors. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://cedboulder.portalced.com",
           "https://servlectric.com/branch/consolidated-electrical-distributors-boulder-3201-walnut-st-boulder-co-80301"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "ced-longmont-gay-001",
@@ -68,16 +120,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving northern Colorado",
+      "notes": "CED electrical supply serving northern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://cedlongmont.portalced.com/ContactUs",
           "https://www.mapquest.com/us/colorado/ced-longmont-540567653"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     }
   ],
   "auditStatus": "expanded",

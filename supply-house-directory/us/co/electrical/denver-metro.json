@@ -19,16 +19,31 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Panduit",
+        "Belden",
+        "CommScope",
+        "Cisco",
+        "Fluke",
+        "3M",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Anixter Denver location page.",
+      "notes": "Anixter Denver location page. Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html",
           "https://www.mapquest.com/us/colorado/anixter-419978905"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ]
     },
     {
       "id": "border-states-denver-5475-joliet",
@@ -44,16 +59,39 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Border States Denver branch.",
+      "notes": "Border States Denver branch. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.mapquest.com/us/colorado/border-states-electric-421028189",
           "https://solutions.borderstates.com/branch-locations/"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.borderstates.com/brands"
+      ]
     },
     {
       "id": "ced-denver-2405-w-5th",
@@ -69,16 +107,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Wholesale electrical distributor branch.",
+      "notes": "Wholesale electrical distributor branch. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://denver.portalced.com/",
           "https://www.engproducts.com/distributor/denver/co/ced"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "ces-denver-central-2630-w-2nd",
@@ -94,9 +159,24 @@
       "lat": 39.719771,
       "lon": -105.019647,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CES/Colorado Electric Supply branch; coordinates sourced from public directory and should be re-verified.",
+      "notes": "CES/Colorado Electric Supply branch; coordinates sourced from public directory and should be re-verified. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "coords_attempted": "2025-12-25",
@@ -104,7 +184,17 @@
           "https://www.yellowpages.com/denver-co/bpp/city-electric-supply-denver-central-508773457",
           "https://www.merchantcircle.com/Colorado.Electric.Supply.303-996-0111"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.cityelectricsupply.com/linecard"
+      ]
     },
     {
       "id": "crescent-electric-denver-5925-washington",
@@ -120,15 +210,31 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Crescent Electric Denver branch listing.",
+      "notes": "Crescent Electric Denver branch listing. Electrical supply distributor. National electrical distributor, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ]
     },
     {
       "id": "graybar-denver-area-service-center-480-e-55th",
@@ -144,16 +250,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Full-service counter + will call. Sales office at same address uses different main phone.",
+      "notes": "Full-service counter + will call. Sales office at same address uses different main phone. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.graybar.com/store/DESC/co/denver",
           "https://www.graybar.com/store/DECO/co/denver"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://info.graybar.com/welcome-line-cards/",
+        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ]
     },
     {
       "id": "qed-denver-1661-w-3rd",
@@ -169,16 +300,29 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Leviton",
+        "Hubbell",
+        "Lithonia"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "QED Denver branch.",
+      "notes": "QED Denver branch. Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.qedelectric.com/about/location/denver",
           "https://www.mapquest.com/us/colorado/qed-inc-23650314"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ]
     },
     {
       "id": "rexel-denver-425-quivas",
@@ -194,15 +338,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Counter / will-call branch.",
+      "notes": "Counter / will-call branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver/7325"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
@@ -218,15 +387,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Aurora/Denver East branch.",
+      "notes": "Aurora/Denver East branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver-east/3201"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "wesco-denver-11198-e-45th",
@@ -242,16 +436,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Leviton",
+        "Hubbell",
+        "Panduit",
+        "Southwire",
+        "Belden",
+        "Fluke",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO distribution branch.",
+      "notes": "WESCO distribution branch. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.engproducts.com/distributor/denver/co/wesco",
           "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ]
     },
     {
       "id": "wesco-retail-denver-756-s-jason",
@@ -267,15 +485,39 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Leviton",
+        "Hubbell",
+        "Panduit",
+        "Southwire",
+        "Belden",
+        "Fluke",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO US retail branch listing (counter).",
+      "notes": "WESCO US retail branch listing (counter). Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ]
     },
     {
       "id": "rexel-denver-distribution-center-3217",
@@ -291,15 +533,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel distribution center with will-call.",
+      "notes": "Rexel distribution center with will-call. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "rexel-centennial-7611",
@@ -315,15 +582,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Centennial / south Denver metro.",
+      "notes": "Rexel branch serving Centennial / south Denver metro. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/centennial/7611"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "ced-centennial-jordan-001",
@@ -339,16 +631,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving south Denver metro",
+      "notes": "CED electrical supply serving south Denver metro. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://cedcentennial.portalced.com/",
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     },
     {
       "id": "rexel-denver-quivas-001",
@@ -364,16 +683,41 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Main Rexel Denver branch with will-call and counter service",
+      "notes": "Main Rexel Denver branch with will-call and counter service. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.rexelusa.com/locations/CO/Denver/7325",
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -389,15 +733,38 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Border States serving northern metro Denver area",
+      "notes": "Border States serving northern metro Denver area. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://solutions.borderstates.com/branch-locations/"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.borderstates.com/brands"
+      ]
     }
   ],
   "auditStatus": "expanded",

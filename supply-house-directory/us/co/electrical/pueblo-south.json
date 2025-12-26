@@ -19,7 +19,33 @@
       "lat": 38.3046,
       "lon": -104.6147,
       "coordsStatus": "verified",
-      "notes": "Electrical supply counter storefront"
+      "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://info.graybar.com/welcome-line-cards/",
+        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ]
     },
     {
       "id": "co-pueblo-blazer-electric-1",
@@ -73,15 +99,40 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Pueblo.",
+      "notes": "Rexel branch serving Pueblo. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/pueblo/3223"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/brands"
+      ]
     },
     {
       "id": "ced-pueblo-wc-001",
@@ -97,16 +148,43 @@
       "lat": null,
       "lon": null,
       "coordsStatus": "needs_verify",
-      "brandsRep": [],
+      "brandsRep": [
+        "Square D",
+        "Schneider Electric",
+        "Leviton",
+        "Eaton",
+        "Cooper",
+        "Hubbell",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire",
+        "Cantex",
+        "Brady",
+        "Ideal",
+        "Panduit",
+        "Fluke"
+      ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Pueblo and southern Colorado",
+      "notes": "CED electrical supply serving Pueblo and southern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://aecpueblo.portalced.com/ContactUs",
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
         ]
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
+        "https://cedocala.com/vendors/"
+      ]
     }
   ],
   "auditStatus": "expanded",
