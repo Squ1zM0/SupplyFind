@@ -666,14 +666,14 @@
       "lon": -104.9442,
       "coordsStatus": "verified",
       "brandsRep": [
-        "Carbon Steel Pipe",
-        "Stainless Steel Pipe",
-        "PVC",
-        "CPVC",
-        "HDPE"
+        "Mueller Industries",
+        "Charlotte Pipe",
+        "Anvil International",
+        "Victaulic",
+        "NIBCO"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes, valves, and fittings for industrial, municipal, and commercial clients. Source: Great Western Pipe official website, verified 2025-12-26",
+      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26",
       "verification": {
         "storefront_confirmed": "2025-12-26"
       },
