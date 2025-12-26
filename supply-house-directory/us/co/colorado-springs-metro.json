@@ -477,10 +477,122 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing"
+    },
+    {
+      "id": "co-cos-charlesdjones-sierramadre-001",
+      "name": "Charles D Jones Company - Colorado Springs",
+      "chain": "Charles D Jones Company",
+      "address1": "822 S Sierra Madre St, Ste A",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80903",
+      "phone": "719-635-5573",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Lennox",
+        "Rheem",
+        "Goodman"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale",
+        "refrigeration"
+      ],
+      "notes": "Wholesale HVAC/R distributor serving contractors since 1939. Equipment, parts, and training for professionals. Hours: M-F 7:30 AM - 4:30 PM. Source: Charles D Jones official website, verified 2025-12-26",
+      "sources": [
+        "https://www.cdjones.com/",
+        "https://www.mapquest.com/us/colorado/charles-d-jones-401304732"
+      ],
+      "trades": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "co-cos-lohmiller-newport-001",
+      "name": "Lohmiller & Company - Colorado Springs",
+      "chain": "Lohmiller & Company",
+      "address1": "930 N Newport Rd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80916",
+      "phone": "719-444-0505",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "notes": "Carrier, Bryant, and Payne distributor. Part of Carrier West network. Source: Lohmiller & Company official website, verified 2025-12-26",
+      "sources": [
+        "https://www.lohmillercompany.com/locations/colorado-springs/",
+        "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/air-conditioning-system-supplier/2023557831-carrier-west"
+      ],
+      "trades": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "co-cos-rampart-union-001",
+      "name": "Rampart Supply - Colorado Springs",
+      "chain": "Rampart Supply",
+      "address1": "1801 N Union Blvd",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80909",
+      "phone": "719-471-7200",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Lochinvar",
+        "Weil-McLain",
+        "Viessmann",
+        "Navien",
+        "Rinnai",
+        "Bradford White"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "tags": [
+        "hvac",
+        "plumbing",
+        "wholesale",
+        "boilers",
+        "hydronics"
+      ],
+      "notes": "Wholesale distributor specializing in boilers, hydronic heating equipment, water heaters, and plumbing supplies. Source: Rampart Supply official website, verified 2025-12-26",
+      "sources": [
+        "https://www.rampartsupply.com/",
+        "https://www.yellowpages.com/colorado-springs-co/mip/rampart-supply-576600743"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC"
     }
   ],
   "auditStatus": "in_progress",
   "auditNotes": [
-    "2025-12-26: Added brand verification for Sid Harvey and Johnstone Supply"
+    "2025-12-26: Added brand verification for Sid Harvey and Johnstone Supply",
+    "2025-12-26: Added 3 new HVAC distributors: Charles D Jones Company, Lohmiller & Company, Rampart Supply"
   ]
 }

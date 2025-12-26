@@ -1321,6 +1321,80 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "co-denver-sdi-oneida-001",
+      "name": "Select Distributing (SDI Denver)",
+      "chain": "Select Distributing",
+      "address1": "4201 Oneida St, Unit B",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80216",
+      "phone": "720-570-7801",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Rheem",
+        "Ruud",
+        "Fujitsu",
+        "Daikin",
+        "Mitsubishi"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale",
+        "residential",
+        "commercial"
+      ],
+      "notes": "HVAC wholesale supplier for residential, commercial, and multi-family construction. Hours: M-F 7:00 AM - 3:30 PM. Source: SDI Denver official website, verified 2025-12-26",
+      "sources": [
+        "https://sdidenver.com",
+        "https://www.mapquest.com/us/colorado/select-distributing-inc-350583807"
+      ],
+      "trades": [
+        "HVAC"
+      ]
+    },
+    {
+      "id": "co-denver-northwinair-76th-001",
+      "name": "North Denver Winair",
+      "chain": "Winair",
+      "address1": "490 E 76th Ave, Building 6B",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80229",
+      "phone": "303-287-4511",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "American Standard",
+        "Trane",
+        "Rheem",
+        "Ruud",
+        "Mitsubishi"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration",
+        "Hydronics"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale",
+        "refrigeration",
+        "hydronics"
+      ],
+      "notes": "HVAC, refrigeration, and hydronics wholesaler. Part of Winsupply network. Hours: M-F 7:00 AM - 4:30 PM. Source: North Denver Winair official website, verified 2025-12-26",
+      "sources": [
+        "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies/contact-us",
+        "https://www.chamberofcommerce.com/business-directory/colorado/denver/air-conditioning-contractor/2001522446-north-denver-winair"
+      ],
+      "trades": [
+        "HVAC"
+      ]
     }
   ]
 }

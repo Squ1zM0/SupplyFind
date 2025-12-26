@@ -394,35 +394,6 @@
       ]
     },
     {
-      "id": "co-grand-junction-johnstone-supply-1",
-      "name": "Johnstone Supply",
-      "chain": "Johnstone Supply",
-      "address1": "567 S 15th St",
-      "city": "Grand Junction",
-      "state": "CO",
-      "zip": "81501",
-      "phone": "+19704341374",
-      "lat": null,
-      "lon": null,
-      "brandsRep": [
-        "Johnstone Supply"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "tags": [
-        "hvac",
-        "wholesale"
-      ],
-      "website": "https://www.johnstonesupply.com/",
-      "sources": [
-        "https://www.johnstonesupply.com/storefront/#/branch/CT428?"
-      ],
-      "trades": [
-        "HVAC"
-      ]
-    },
-    {
       "id": "co-ws-city-electric-001",
       "name": "City Electric Supply (Grand Junction)",
       "chain": "City Electric Supply",

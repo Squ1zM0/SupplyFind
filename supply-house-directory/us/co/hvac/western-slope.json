@@ -6,27 +6,27 @@
   "branches": [
     {
       "id": "co-grand-junction-johnstone-1",
-      "name": "Johnstone Supply",
+      "name": "Johnstone Supply - Grand Junction",
       "chain": "Johnstone Supply",
       "trade": "hvac",
-      "address1": "567 S 15th St",
+      "address1": "3192 Hall Ave",
       "address2": "",
       "city": "Grand Junction",
       "state": "CO",
-      "postalCode": "81501",
+      "postalCode": "81504",
       "phone": "970-434-1374",
-      "website": "",
-      "lat": null,
-      "lon": null,
+      "website": "https://www.johnstonesupply.com/",
+      "lat": 39.08339,
+      "lon": -108.48662,
       "coverage": "metro",
-      "verified": "needs_verification",
-      "verifiedDate": "",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
       "accuracy": {
         "address": "verified",
         "phone": "verified",
-        "coordinates": "approx"
+        "coordinates": "verified"
       },
-      "notes": "",
+      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
@@ -35,11 +35,19 @@
         "HVAC"
       ],
       "brandsRep": [
-        "Johnstone Supply"
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
       ],
       "services": [],
       "sources": [
-        "https://www.johnstonesupply.com/"
+        "https://www.johnstonesupply.com/",
+        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
       ],
       "trades": [
         "HVAC"

@@ -126,6 +126,43 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "co-pueblo-pueblowinair-ilex-001",
+      "name": "Pueblo Winair",
+      "chain": "Winair",
+      "address1": "300 Ilex St, Ste B",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81003",
+      "phone": "719-542-7288",
+      "lat": 38.2577236,
+      "lon": -104.6039515,
+      "brandsRep": [
+        "American Standard",
+        "Trane",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "tags": [
+        "hvac",
+        "plumbing",
+        "wholesale"
+      ],
+      "notes": "HVAC and plumbing supplier. Part of Winsupply network. Also operates as Winnelson for plumbing. Hours: M-F 7:30 AM - 5:00 PM. Source: Pueblo Winair official website, verified 2025-12-26",
+      "sources": [
+        "https://www.pueblowinair.com/",
+        "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/HVAC-Supplies/contact-us"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC"
     }
   ]
 }

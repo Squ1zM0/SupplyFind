@@ -306,11 +306,43 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "co-fortcollins-tranesupply-donella-001",
+      "name": "Trane Supply - Fort Collins",
+      "chain": "Trane Supply",
+      "address1": "2416 Donella Court, Unit D",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "970-484-4139",
+      "lat": null,
+      "lon": null,
+      "brandsRep": [
+        "Trane",
+        "American Standard"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "notes": "Factory-owned Trane Supply house serving HVAC professionals. Hours: M-F 7:00 AM - 5:00 PM. Source: Trane official website, verified 2025-12-26",
+      "sources": [
+        "https://www.trane.com/commercial/north-america/us/en/contact-us/locate-sales-offices/fortcollins/fort-collins-trane-affiliated-products.html",
+        "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/heating-equipment-supplier/31281764-trane-supply"
+      ],
+      "trades": [
+        "HVAC"
+      ]
     }
   ],
   "auditNotes": [
     "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
-    "2025-12-26: Removed 1 duplicate entry(ies)"
+    "2025-12-26: Removed 1 duplicate entry(ies)",
+    "2025-12-26: Added Trane Supply Fort Collins location"
   ],
   "auditStatus": "in_progress"
 }
