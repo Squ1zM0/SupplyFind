@@ -261,28 +261,6 @@
       "notes": "Plumbing/PVF counter"
     },
     {
-      "id": "dahl-denver-s-santa-fe-280",
-      "name": "Dahl \u2013 Denver",
-      "chain": "Dahl (Hajoca)",
-      "trade": "plumbing",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80223",
-      "address1": "280 S Santa Fe Dr",
-      "phone": "303-744-3423",
-      "website": "https://dahlplumbing.com/denver/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "notes": "Counter/Warehouse/Office + showroom.",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26"
-      },
-      "parentChain": "Hajoca"
-    },
-    {
       "id": "winnelson-denver-w-2nd-2300-1b",
       "name": "Denver Winnelson",
       "chain": "Winsupply",
@@ -325,7 +303,8 @@
     "Final Denver Metro plumbing audit complete.",
     "All entries verified as physical storefront plumbing wholesalers.",
     "Chains normalized (Hajoca / Winsupply).",
-    "No false storefronts detected; no removals required."
+    "No false storefronts detected; no removals required.",
+    "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr"
   ],
-  "auditStatus": "final_audit_complete"
+  "auditStatus": "in_progress"
 }

@@ -2,11 +2,11 @@
   "version": "1.2-corrected",
   "metro": "Front Range North",
   "state": "CO",
-  "updated": "2025-12-25T23:59:00Z",
+  "updated": "2025-12-26",
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey – Fort Collins",
+      "name": "Sid Harvey \u2013 Fort Collins",
       "chain": "Sid Harvey",
       "address1": "4000 S College Ave",
       "city": "Fort Collins",
@@ -23,7 +23,7 @@
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing – Loveland",
+      "name": "Comfort Air Distributing \u2013 Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -40,7 +40,7 @@
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores – Loveland",
+      "name": "Lennox Stores \u2013 Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -57,7 +57,7 @@
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC – Greeley",
+      "name": "WinSupply HVAC \u2013 Greeley",
       "chain": "WinSupply HVAC",
       "address1": "2315 6th Ave",
       "city": "Greeley",
@@ -74,7 +74,7 @@
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson HVAC – Fort Collins",
+      "name": "Ferguson HVAC \u2013 Fort Collins",
       "chain": "Ferguson HVAC",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
@@ -113,21 +113,6 @@
       ]
     },
     {
-      "id": "co-frn-ferguson-002",
-      "name": "Ferguson Plumbing Supply (Fort Collins)",
-      "chain": "Ferguson",
-      "address1": "2321 Donella Ct",
-      "city": "Fort Collins",
-      "state": "CO",
-      "zip": "80524",
-      "phone": "970-372-3311",
-      "lat": 40.58568,
-      "lon": -105.03354,
-      "tags": [
-        "plumbing"
-      ]
-    },
-    {
       "id": "co-frn-ced-001",
       "name": "Consolidated Electrical Distributors (Fort Collins)",
       "chain": "Consolidated Electrical Distributors",
@@ -159,6 +144,8 @@
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists)."
-  ]
+    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
+    "2025-12-26: Removed 1 duplicate entry(ies)"
+  ],
+  "auditStatus": "in_progress"
 }
