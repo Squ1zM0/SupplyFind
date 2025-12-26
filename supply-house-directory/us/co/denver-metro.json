@@ -142,15 +142,36 @@
       "phone": "+13035735626",
       "lat": 39.7279,
       "lon": -105.0219,
-      "brandsRep": [],
-      "partsFor": [],
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
+      ],
+      "partsFor": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell",
+        "Aprilaire"
+      ],
       "tags": [
         "hvacr",
         "wholesale"
       ],
       "sources": [
-        "https://www.johnstonesupply.com/store5/contact-us"
-      ]
+        "https://www.johnstonesupply.com/store5/contact-us",
+        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+      ],
+      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26"
     },
     {
       "name": "Lennox Stores - Centennial",

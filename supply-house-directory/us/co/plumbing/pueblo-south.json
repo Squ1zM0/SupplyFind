@@ -64,30 +64,11 @@
       "verification": {
         "coords_attempted": "2025-12-26"
       }
-    },
-    {
-      "id": "winnelson-pueblo-300-ilex",
-      "name": "Winnelson – Pueblo (Winsupply of Pueblo)",
-      "chain": "Winsupply",
-      "trade": "plumbing",
-      "city": "Pueblo",
-      "state": "CO",
-      "postalCode": "81003",
-      "address1": "300 Ilex St",
-      "phone": "719-544-1584",
-      "website": "https://quartz.locationlandingpages.com/United-States/CO/Pueblo/Winnelson-Pueblo/935/8492",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "notes": "Plumbing wholesale supply counter.",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26"
-      }
     }
   ],
   "auditNotes": [
-    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification."
-  ]
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+    "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St"
+  ],
+  "auditStatus": "in_progress"
 }
