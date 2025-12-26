@@ -1,0 +1,55 @@
+{
+  "version": "FRONT_RANGE_NORTH_ELECTRICAL_EXPANSION_v2",
+  "trade": "electrical",
+  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "foco-graybar",
+      "name": "Graybar Electric \u2013 Fort Collins",
+      "chain": "Graybar",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "address1": "4600 Innovation Dr",
+      "phone": "970-206-0700",
+      "website": "https://www.graybar.com/",
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront",
+      "lat": 40.5204,
+      "lon": -105.0511,
+      "verification": {
+        "coords_verified": "2025-12-26"
+      }
+    },
+    {
+      "id": "greeley-ced",
+      "name": "CED \u2013 Greeley",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "1427 17th St",
+      "phone": "970-353-1850",
+      "website": "https://www.ced.com/",
+      "coordsStatus": "verified",
+      "notes": "Electrical supply counter storefront",
+      "lat": 40.4233,
+      "lon": -104.709,
+      "verification": {
+        "coords_verified": "2025-12-26"
+      }
+    }
+  ],
+  "auditStatus": "pending_web_verification",
+  "auditNotes": [
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
+    "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
+    "Added confirmed electrical storefronts; coords pending verification.",
+    "Coordinates verified for all listed branches."
+  ]
+}

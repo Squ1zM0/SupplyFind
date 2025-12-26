@@ -1,0 +1,135 @@
+{
+  "version": "1.0-plumbing-seed__ADD5",
+  "trade": "plumbing",
+  "metro": "Pueblo / South Colorado",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "ferguson-plumbing-pueblo-s-santa-fe",
+      "name": "Ferguson Plumbing Supply (Pueblo)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81006",
+      "address1": "1109 S Santa Fe Ave",
+      "phone": "719-547-3077",
+      "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing/PVF counter.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "pueblo-winnelson-ilex",
+      "name": "Pueblo Winnelson",
+      "chain": "Winsupply (Winnelson)",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "300 Ilex St",
+      "phone": "719-544-1584",
+      "website": "http://www.pueblowinnelson.com/",
+      "lat": 38.2577236,
+      "lon": -104.6039515,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Coordinates sourced from public distributor listing."
+    },
+    {
+      "id": "rampart-supply-pueblo-4th",
+      "name": "Rampart Supply (Pueblo)",
+      "chain": "Rampart Supply",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "320 E 4th St",
+      "phone": "719-583-0111",
+      "website": "https://www.rampartsupply.com/storelocator",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing supply house; also HVAC in some contexts.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "ferguson-plumbing-pueblo-0113",
+      "name": "Ferguson Plumbing Supply (Pueblo)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81006",
+      "address1": "1109 S Santa Fe Ave",
+      "phone": "719-547-3077",
+      "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "rampart-supply-pueblo-320-e-4th",
+      "name": "Rampart Supply (Pueblo)",
+      "chain": "Rampart Supply",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "320 E 4th St",
+      "phone": "719-583-0111",
+      "website": "https://www.rampartsupply.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Local plumbing wholesaler/showroom.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "winnelson-pueblo-300-ilex",
+      "name": "Winnelson \u2013 Pueblo (Winsupply of Pueblo)",
+      "chain": "Winsupply",
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "300 Ilex St",
+      "phone": "719-544-1584",
+      "website": "https://quartz.locationlandingpages.com/United-States/CO/Pueblo/Winnelson-Pueblo/935/8492",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing wholesale supply counter.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    }
+  ],
+  "auditNotes": [
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification."
+  ]
+}

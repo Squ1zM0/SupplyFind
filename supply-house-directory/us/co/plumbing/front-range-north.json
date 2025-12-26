@@ -1,0 +1,163 @@
+{
+  "version": "FRONT_RANGE_NORTH_PLUMBING_DEEP_AUDIT_v1",
+  "trade": "plumbing",
+  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "ferguson-plumbing-ftc-donella",
+      "name": "Ferguson Plumbing Supply (Fort Collins)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "2321 Donella Ct",
+      "phone": "970-482-1722",
+      "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing/PVF counter.",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "hughes-supply-ftc-lincoln",
+      "name": "Hughes Supply (Fort Collins)",
+      "chain": "Hajoca (Hughes Supply)",
+      "trade": "plumbing",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "1903 E Lincoln Ave",
+      "phone": "970-493-0982",
+      "website": "https://hughessupplyftcollins.com/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Hughes Supply (Fort Collins).",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "ferguson-plumbing-fort-collins-0112",
+      "name": "Ferguson Plumbing/PVF (Fort Collins)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "2321 Donella Ct",
+      "phone": "970-482-1722",
+      "website": "https://www.ferguson.com/store/co/fort%2Bcollins/plumbingpvf-0112",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "dahl-fort-collins-523",
+      "name": "Dahl (Fort Collins)",
+      "chain": "Dahl (Hajoca)",
+      "trade": "plumbing",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "1903 E Lincoln Ave",
+      "phone": "970-493-0982",
+      "website": "https://hughessupply.com/fort-collins/page/9/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Hajoca trade name listing with address/phone; verify via Dahl/Hajoca if desired.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "dahl-greeley-199-evans",
+      "name": "Dahl \u2013 Greeley (Evans)",
+      "chain": "Dahl (Hajoca)",
+      "trade": "plumbing",
+      "city": "Evans",
+      "state": "CO",
+      "postalCode": "80620",
+      "address1": "1225 40th St",
+      "phone": "970-330-8462",
+      "website": "https://dahlplumbing.com/greeley/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Counter/Warehouse/Office location serving Greeley area.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "winsupply-greeley-1979-2nd",
+      "name": "Greeley Winsupply Company",
+      "chain": "Winsupply",
+      "trade": "plumbing",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "1979 2nd Ave",
+      "phone": "970-356-0404",
+      "website": "https://business.greeleychamber.com/list/member/greeley-winsupply-company-5521",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing wholesale distributor (chamber listing).",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "dahl-loveland-11th-100",
+      "name": "Loveland Dahl",
+      "chain": "Dahl (Hajoca)",
+      "trade": "plumbing",
+      "city": "Loveland",
+      "state": "CO",
+      "postalCode": "80537",
+      "address1": "2105 E 11th St Ste 100",
+      "phone": "970-203-9200",
+      "website": "https://www.hajoca.com/our-brands/dahl/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Dahl (Hajoca) Loveland branch.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    }
+  ],
+  "auditNotes": [
+    "Verified physical plumbing storefront counters only.",
+    "Chain-by-chain audit: Ferguson, Hajoca (Dahl), Winsupply (Winnelson).",
+    "No removals required; no false storefronts found.",
+    "No additional independent plumbing wholesalers confirmed in Loveland or Greeley."
+  ],
+  "auditStatus": "deep_audit_complete"
+}

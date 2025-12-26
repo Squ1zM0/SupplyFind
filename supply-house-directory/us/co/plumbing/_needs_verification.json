@@ -1,0 +1,28 @@
+{
+  "trade": "plumbing",
+  "state": "CO",
+  "created": "2025-12-26",
+  "entries": [
+    {
+      "name": "M & N Plumbing Supply Co",
+      "city": "Denver",
+      "state": "CO",
+      "reason": "Directory-only presence; no official storefront page found",
+      "status": "needs_verification"
+    },
+    {
+      "name": "Canplas",
+      "city": "Denver",
+      "state": "CO",
+      "reason": "Manufacturer/warehouse listing; storefront counter unclear",
+      "status": "needs_verification"
+    },
+    {
+      "name": "George T. Sanders",
+      "city": "Denver",
+      "state": "CO",
+      "reason": "Historical listings found; modern storefront unverified",
+      "status": "needs_verification"
+    }
+  ]
+}

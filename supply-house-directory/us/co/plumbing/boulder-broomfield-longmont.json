@@ -1,0 +1,98 @@
+{
+  "version": "1.0-plumbing-seed__ADD5",
+  "trade": "plumbing",
+  "metro": "Boulder / Broomfield / Longmont",
+  "state": "CO",
+  "updated": "2025-12-26",
+  "branches": [
+    {
+      "id": "ferguson-plumbing-longmont-vista-view",
+      "name": "Ferguson Plumbing Supply (Longmont)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Longmont",
+      "state": "CO",
+      "postalCode": "80504",
+      "address1": "1567 Vista View Dr",
+      "phone": "303-845-3750",
+      "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing/PVF counter (shared site with HVAC).",
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "dahl-boulder-sterling-3180-100",
+      "name": "Dahl \u2013 Boulder",
+      "chain": "Dahl (Hajoca)",
+      "trade": "plumbing",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80301",
+      "address1": "3180 Sterling Cir Ste 100",
+      "phone": "303-955-4460",
+      "website": "https://dahlplumbing.com/boulder/",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Counter/Warehouse/Office + showroom.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "ferguson-plumbing-boulder-1840-55th",
+      "name": "Ferguson Plumbing Supply (Boulder)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80301",
+      "address1": "1840 55th St",
+      "phone": "303-245-0456",
+      "website": "https://www.yelp.com/biz/ferguson-plumbing-supply-boulder-2",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    },
+    {
+      "id": "winnelson-longmont-795-s-sherman-13",
+      "name": "Longmont Winnelson",
+      "chain": "Winsupply",
+      "trade": "plumbing",
+      "city": "Longmont",
+      "state": "CO",
+      "postalCode": "80501",
+      "address1": "795 S Sherman St Ste 13",
+      "phone": "303-772-5460",
+      "website": "https://www.yelp.com/biz/longmont-winnelson-longmont",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "notes": "Plumbing wholesale supply counter.",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "verification": {
+        "coords_attempted": "2025-12-26"
+      }
+    }
+  ],
+  "auditNotes": [
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+    "Gap-fill review performed; no additional physical plumbing storefronts confirmed."
+  ],
+  "auditStatus": "gap_fill_review_complete"
+}

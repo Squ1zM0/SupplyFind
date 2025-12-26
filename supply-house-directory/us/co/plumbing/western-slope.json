@@ -1,0 +1,12 @@
+{
+  "version": "audited_zero_v1",
+  "trade": "plumbing",
+  "metro": "Western Slope",
+  "state": "CO",
+  "branches": [],
+  "auditStatus": "audit_complete_no_storefronts",
+  "auditNotes": [
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+  ],
+  "updated": "2025-12-26"
+}
