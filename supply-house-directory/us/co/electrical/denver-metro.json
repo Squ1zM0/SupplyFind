@@ -38,13 +38,11 @@
         ]
       },
       "partsFor": [
-        "Panduit",
-        "Belden",
-        "CommScope",
-        "Cisco",
-        "Fluke",
-        "3M",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ]
     },
     {
@@ -85,18 +83,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Acuity Brands",
-        "Eaton",
-        "Hubbell",
-        "Schneider Electric",
-        "Legrand",
-        "Leviton",
-        "Milwaukee",
-        "nVent",
-        "Rockwell Automation",
-        "Southwire",
-        "Belden"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.borderstates.com/brands"
@@ -143,21 +134,11 @@
         ]
       },
       "partsFor": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
@@ -205,20 +186,11 @@
         ]
       },
       "partsFor": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
@@ -257,14 +229,11 @@
         ]
       },
       "partsFor": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ]
     },
     {
@@ -306,19 +275,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
@@ -356,11 +317,11 @@
         ]
       },
       "partsFor": [
-        "Square D",
-        "Eaton",
-        "Leviton",
-        "Hubbell",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ]
     },
     {
@@ -402,20 +363,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
@@ -460,20 +412,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
@@ -518,19 +461,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
@@ -574,19 +509,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
@@ -631,20 +558,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
@@ -689,20 +607,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
@@ -749,21 +658,11 @@
         ]
       },
       "partsFor": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
@@ -810,20 +709,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
@@ -866,18 +756,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Acuity Brands",
-        "Eaton",
-        "Hubbell",
-        "Schneider Electric",
-        "Legrand",
-        "Leviton",
-        "Milwaukee",
-        "nVent",
-        "Rockwell Automation",
-        "Southwire",
-        "Belden"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.borderstates.com/brands"

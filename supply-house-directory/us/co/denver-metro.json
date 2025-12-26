@@ -179,7 +179,7 @@
         "ductwork",
         "supply-house"
       ],
-      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www.herculesindustries.com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: herculesindustries.com/locations/, verified 2025-12-26",
+      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries.",
       "id": "co-herculesindu-d7ea9ca0",
       "sources": [
         "https://www.herculesindustries.com/locations/"
@@ -251,7 +251,7 @@
         "equipment",
         "parts"
       ],
-      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26",
+      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "id": "co-lennoxstores-95d62dda"
     },
     {
@@ -384,7 +384,7 @@
         "commercial",
         "residential"
       ],
-      "notes": "Factory-owned Trane supply house. Verified 2025-12-26. Factory-owned Trane supply house. Verified 2025-12-26"
+      "notes": "Factory-owned Trane supply house. Verified 2025-12-26."
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -520,7 +520,7 @@
       "partsFor": [
         "Lennox"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26"
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -544,7 +544,7 @@
       "partsFor": [
         "Lennox"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26"
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
     {
       "id": "co-denver-hvacdistco-001",
@@ -897,19 +897,11 @@
         "3M"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -949,20 +941,11 @@
         "Hubbell"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1001,20 +984,11 @@
         "Hubbell"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1054,21 +1028,11 @@
         "Fluke"
       ],
       "partsFor": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1108,20 +1072,11 @@
         "Leviton"
       ],
       "partsFor": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1158,18 +1113,11 @@
         "Belden"
       ],
       "partsFor": [
-        "ABB",
-        "Acuity Brands",
-        "Eaton",
-        "Hubbell",
-        "Schneider Electric",
-        "Legrand",
-        "Leviton",
-        "Milwaukee",
-        "nVent",
-        "Rockwell Automation",
-        "Southwire",
-        "Belden"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1202,14 +1150,11 @@
         "Southwire"
       ],
       "partsFor": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1244,19 +1189,11 @@
         "Lithonia"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1288,13 +1225,11 @@
         "Hubbell"
       ],
       "partsFor": [
-        "Panduit",
-        "Belden",
-        "CommScope",
-        "Cisco",
-        "Fluke",
-        "3M",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1321,11 +1256,11 @@
         "Lithonia"
       ],
       "partsFor": [
-        "Square D",
-        "Eaton",
-        "Leviton",
-        "Hubbell",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",
@@ -1360,19 +1295,11 @@
         "Lithonia"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "tags": [
         "electrical",

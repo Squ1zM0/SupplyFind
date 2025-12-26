@@ -39,19 +39,11 @@
         "3M"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
@@ -94,21 +86,11 @@
         "Fluke"
       ],
       "partsFor": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
@@ -150,20 +132,11 @@
         "Leviton"
       ],
       "partsFor": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
@@ -246,20 +219,11 @@
         ]
       },
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "sources": [
         "https://www.rexelusa.com/brands"

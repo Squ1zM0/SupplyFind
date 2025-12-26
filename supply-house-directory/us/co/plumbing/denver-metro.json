@@ -284,9 +284,12 @@
       "lon": null,
       "coordsStatus": "needs_verify",
       "brandsRep": [
-        "Boilers",
-        "Hydronic Equipment",
-        "Radiant Heating"
+        "Weil-McLain",
+        "Buderus",
+        "Lochinvar",
+        "Triangle Tube",
+        "HTP",
+        "Laars"
       ],
       "manufacturersPartsFor": [],
       "notes": "Plumbing showroom/counter; also HVAC in some contexts. Kept as plumbing supply house. Hydronic heating and plumbing specialist. Verified 2025-12-26",
@@ -296,7 +299,8 @@
       "partsFor": [
         "Boilers",
         "Hydronic Equipment",
-        "Radiant Heating"
+        "Radiant Heating",
+        "Steam Systems"
       ]
     },
     {

@@ -102,7 +102,7 @@
       "partsFor": [
         "Lennox"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26"
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
     },
     {
       "id": "co-cos-winsupply-001",
@@ -328,19 +328,11 @@
         "3M"
       ],
       "partsFor": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
@@ -379,20 +371,11 @@
         "Leviton"
       ],
       "partsFor": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
@@ -430,20 +413,11 @@
         "Leviton"
       ],
       "partsFor": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
