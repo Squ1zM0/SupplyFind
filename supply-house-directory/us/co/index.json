@@ -44,14 +44,14 @@
     }
   ],
   "trades": {
+    "hvac": {
+      "index": "us/co/hvac/index.json"
+    },
     "plumbing": {
-      "path": "plumbing/index.json"
+      "index": "us/co/plumbing/index.json"
     },
     "electrical": {
-      "path": "electrical/index.json"
-    },
-    "hvac": {
-      "path": "hvac/index.json"
+      "index": "us/co/electrical/index.json"
     }
   }
 }
