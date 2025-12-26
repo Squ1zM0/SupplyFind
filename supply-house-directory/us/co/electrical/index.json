@@ -6,27 +6,27 @@
     {
       "id": "denver-metro",
       "name": "Denver Metro",
-      "file": "denver-metro.json"
+      "file": "us/co/electrical/denver-metro.json"
     },
     {
       "id": "colorado-springs-metro",
       "name": "Colorado Springs Metro",
-      "file": "colorado-springs-metro.json"
+      "file": "us/co/electrical/colorado-springs-metro.json"
     },
     {
       "id": "front-range-north",
       "name": "Front Range North (Fort Collins / Loveland / Greeley)",
-      "file": "front-range-north.json"
+      "file": "us/co/electrical/front-range-north.json"
     },
     {
       "id": "pueblo-south",
       "name": "Pueblo / South Colorado",
-      "file": "pueblo-south.json"
+      "file": "us/co/electrical/pueblo-south.json"
     },
     {
       "id": "boulder-broomfield-longmont",
       "name": "Boulder / Broomfield / Longmont",
-      "file": "boulder-broomfield-longmont.json"
+      "file": "us/co/electrical/boulder-broomfield-longmont.json"
     },
     {
       "id": "western-slope",
