@@ -42,7 +42,11 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26"
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ]
     },
     {
       "id": "co-grand-junction-keenan-dahl-supply-1",
@@ -68,6 +72,9 @@
       "website": "http://keenandahl.com",
       "sources": [
         "https://www.yelp.com/biz/keenan-dahl-supply-grand-junction-2"
+      ],
+      "trades": [
+        "Plumbing"
       ]
     },
     {
@@ -108,7 +115,11 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26"
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ]
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -147,7 +158,11 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26"
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ]
     },
     {
       "id": "co-granby-ferguson-plumbing-supply-1",
@@ -186,7 +201,11 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26"
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ]
     },
     {
       "id": "co-silverthorne-ferguson-plumbingpvf-1",
@@ -227,7 +246,11 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26"
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ]
     },
     {
       "id": "co-durango-ced-1",
@@ -270,7 +293,10 @@
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
       ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26"
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -313,7 +339,10 @@
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
       ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26"
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-grand-junction-city-electric-supply-1",
@@ -354,7 +383,10 @@
         "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction",
         "https://www.cityelectricsupply.com/linecard"
       ],
-      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26"
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-grand-junction-johnstone-supply-1",
@@ -380,6 +412,9 @@
       "website": "https://www.johnstonesupply.com/",
       "sources": [
         "https://www.johnstonesupply.com/storefront/#/branch/CT428?"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -422,6 +457,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -455,6 +493,9 @@
       "sources": [
         "https://www.johnstonesupply.com/",
         "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ],

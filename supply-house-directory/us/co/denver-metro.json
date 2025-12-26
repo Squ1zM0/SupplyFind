@@ -33,7 +33,10 @@
         "residential",
         "hvac"
       ],
-      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26"
+      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
@@ -58,7 +61,10 @@
         "refrigeration",
         "hvac"
       ],
-      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26"
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -100,6 +106,10 @@
       "sources": [
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ]
     },
     {
@@ -132,7 +142,10 @@
         "https://www.galarson.com/locations",
         "https://www.achrnews.com/directories/2937-hvacr-directory/listing/10077-gustave-a-larson-co"
       ],
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26"
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -166,6 +179,9 @@
       "id": "co-herculesindu-d7ea9ca0",
       "sources": [
         "https://www.herculesindustries.com/locations/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -200,7 +216,10 @@
         "https://www.johnstonesupply.com/store5/contact-us",
         "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
       ],
-      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26"
+      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "name": "Lennox Stores - Centennial",
@@ -227,7 +246,10 @@
         "parts"
       ],
       "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
-      "id": "co-lennoxstores-95d62dda"
+      "id": "co-lennoxstores-95d62dda",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -256,6 +278,9 @@
       "sources": [
         "https://www.lohmillercompany.com/locations/denver/",
         "https://www.lohmillercompany.com/locations/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -284,6 +309,9 @@
       ],
       "sources": [
         "https://www.lohmillercompany.com/locations/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -322,7 +350,10 @@
         "https://www.mapquest.com/us/colorado/refrigeration-supplies-distributor-380660905",
         "https://www.rsd.net/manufacturers/"
       ],
-      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26"
+      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
@@ -345,7 +376,10 @@
         "commercial",
         "residential"
       ],
-      "notes": "Factory-owned Trane supply house. Verified 2025-12-26."
+      "notes": "Factory-owned Trane supply house. Verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -382,7 +416,10 @@
         "https://www.yelp.com/biz/united-refrigeration-denver",
         "https://www.uri.com/"
       ],
-      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26"
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "name": "Denver Winair",
@@ -412,7 +449,10 @@
         "supply-house"
       ],
       "notes": "Verified via Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
-      "id": "co-winairwinsup-ca256015"
+      "id": "co-winairwinsup-ca256015",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "name": "North Denver Winair",
@@ -442,7 +482,10 @@
         "supply-house"
       ],
       "notes": "Verified via Winsupply/North Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
-      "id": "co-winairwinsup-97b08e60"
+      "id": "co-winairwinsup-97b08e60",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-lennoxstores-001",
@@ -466,7 +509,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -490,7 +536,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26."
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-hvacdistco-001",
@@ -520,7 +569,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-denver-acdist-001",
@@ -551,7 +603,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-commercecity-hvacdistco-001",
@@ -581,7 +636,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-thornton-acdist-001",
@@ -612,7 +670,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26"
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-englewood-comfortair-001",
@@ -644,6 +705,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -672,7 +736,10 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26"
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ]
     },
     {
       "id": "co-centennial-comfortair-002",
@@ -704,6 +771,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -741,6 +811,9 @@
       "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
       "sources": [
         "https://www.rsd.net/manufacturers/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -768,6 +841,10 @@
       "tags": [
         "hvac-hydronics",
         "wholesale"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ]
     },
     {
@@ -811,6 +888,9 @@
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
         "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -854,6 +934,9 @@
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -897,6 +980,9 @@
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -942,6 +1028,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -985,6 +1074,9 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -1026,6 +1118,9 @@
       "notes": "Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
       "sources": [
         "https://www.borderstates.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -1060,7 +1155,10 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Electrical supply distributor. National electrical distributor, verified 2025-12-26"
+      "notes": "Electrical supply distributor. National electrical distributor, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-denver-electrical-wesco-denver-11198-e-45th",
@@ -1102,6 +1200,9 @@
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -1135,7 +1236,10 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26"
+      "notes": "Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -1166,7 +1270,10 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26"
+      "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26",
+      "trades": [
+        "Electrical"
+      ]
     },
     {
       "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
@@ -1208,6 +1315,9 @@
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
         "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ]

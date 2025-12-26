@@ -42,6 +42,9 @@
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
       "sources": [
         "https://www.comfortairdistributing.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -78,6 +81,9 @@
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "sources": [
         "https://www.uri.com/"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -102,6 +108,10 @@
       "tags": [
         "hvac",
         "wholesale"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ]
     },
     {
@@ -127,6 +137,9 @@
       "tags": [
         "hvac",
         "wholesale"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ]

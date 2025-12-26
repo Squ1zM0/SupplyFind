@@ -45,6 +45,9 @@
       "services": [],
       "sources": [
         "https://www.galarson.com/locations"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ],

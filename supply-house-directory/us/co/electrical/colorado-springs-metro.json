@@ -48,6 +48,9 @@
       "sources": [
         "https://info.graybar.com/welcome-line-cards/",
         "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -95,6 +98,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -140,6 +146,9 @@
       ],
       "sources": [
         "https://www.cityelectricsupply.com/linecard"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -178,6 +187,9 @@
       "services": [],
       "sources": [
         "https://www.buyblazer.com/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -227,6 +239,9 @@
       ],
       "sources": [
         "https://www.rexelusa.com/brands"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ],

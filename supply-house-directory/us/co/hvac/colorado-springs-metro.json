@@ -45,6 +45,9 @@
       "services": [],
       "sources": [
         "https://www.galarson.com/locations"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -84,6 +87,9 @@
       "sources": [
         "https://www.mapquest.com/us/colorado/trane-supply-375393975",
         "https://www.tranesupply.com/store-locator"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ],

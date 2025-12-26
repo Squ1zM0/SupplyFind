@@ -45,6 +45,9 @@
       "services": [],
       "sources": [
         "https://www.galarson.com/locations"
+      ],
+      "trades": [
+        "HVAC"
       ]
     },
     {
@@ -84,6 +87,9 @@
       "sources": [
         "https://m.lennoxpros.com/stores/location/fort-collins-co",
         "https://find-open.com/fort-collins/lennox-stores-partsplus-5951644"
+      ],
+      "trades": [
+        "HVAC"
       ]
     }
   ],

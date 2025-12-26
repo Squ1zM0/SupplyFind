@@ -56,6 +56,9 @@
         "https://sterlingco.portalced.com/",
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -94,6 +97,9 @@
       "services": [],
       "sources": [
         "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+      ],
+      "trades": [
+        "Electrical"
       ]
     },
     {
@@ -145,6 +151,9 @@
       "sources": [
         "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
         "https://cedocala.com/vendors/"
+      ],
+      "trades": [
+        "Electrical"
       ]
     }
   ],
