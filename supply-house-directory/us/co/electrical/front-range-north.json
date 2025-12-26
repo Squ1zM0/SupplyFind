@@ -312,6 +312,172 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "elliott-electric-fort-collins-3942-automation",
+      "name": "Elliott Electric Supply - Fort Collins",
+      "chain": "Elliott Electric Supply",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "address1": "3942 Automation Way",
+      "phone": "970-305-3593",
+      "website": "https://www.elliottelectric.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "Hubbell",
+        "Legrand",
+        "Lithonia Lighting",
+        "Cooper Lighting",
+        "Acuity Brands"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Elliott Electric Supply Fort Collins branch, opened in 2024 as their second Colorado location. Full-service electrical distributor. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.elliottelectric.com/locations/186/CO/Fort%20Collins.aspx",
+          "https://www.youtube.com/watch?v=zD9eAK_hFxA"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "wesco-fort-collins-133-commerce",
+      "name": "WESCO - Fort Collins",
+      "chain": "WESCO",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "133 Commerce Dr",
+      "phone": "970-221-2002",
+      "website": "https://www.wesco.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "ABB",
+        "Siemens",
+        "GE",
+        "Square D",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "WESCO Fort Collins branch. Full-line electrical distributor serving commercial, industrial, and construction customers. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.finduslocal.com/electric-equipment-supplies-wholesale/colorado/fort-collins/wesco-distributing-inc"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Automation",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "crescent-electric-fort-collins-1404-magnolia",
+      "name": "Crescent Electric Supply - Fort Collins",
+      "chain": "Crescent Electric",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "1404 E Magnolia St",
+      "phone": "970-484-4333",
+      "website": "https://www.crescentelectric.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Hubbell",
+        "Legrand",
+        "Cooper Industries",
+        "Lithonia Lighting"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Crescent Electric Supply Fort Collins branch. Full-service electrical distributor with national inventory access. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.crescentelectric.com/locations/co/fort-collins/1404-e-magnolia-st"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "trades": [
+        "Electrical"
+      ]
+    },
+    {
+      "id": "ces-fort-collins-2415-mulberry",
+      "name": "City Electric Supply - Fort Collins",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "2415 E Mulberry St, Suite 5",
+      "phone": "970-493-0101",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Leviton",
+        "Lutron",
+        "Hubbell",
+        "Legrand"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/contractors/electrical-lighting/electrical-supply-store/"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
     }
   ],
   "auditStatus": "expanded",
@@ -322,6 +488,7 @@
     "Added confirmed electrical storefronts; coords pending verification.",
     "Coordinates verified for all listed branches.",
     "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Added CED Fort Collins and Border States Greeley locations identified in expansion research."
+    "2025-12-26: Added CED Fort Collins and Border States Greeley locations identified in expansion research.",
+    "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply, WESCO, Crescent Electric, and City Electric Supply Fort Collins branches. All verified via official sources."
   ]
 }

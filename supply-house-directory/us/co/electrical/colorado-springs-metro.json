@@ -243,15 +243,57 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "ces-colorado-springs-central-001",
+      "name": "City Electric Supply - Colorado Springs Central",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4626 Northpark Drive",
+      "phone": "719-785-0600",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Square D",
+        "Leviton",
+        "Lutron",
+        "Hubbell",
+        "Legrand"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.cityelectricsupply.com/branch/1019",
+          "https://www.yellowpages.com/colorado-springs-co/mip/city-electric-supply-colorado-springs-central-573238387"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
     }
   ],
-  "auditStatus": "pending_web_verification",
+  "auditStatus": "expanded",
   "auditNotes": [
     "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",
     "Coordinates verified for all listed branches.",
-    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages)."
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Comprehensive expansion - Added City Electric Supply Colorado Springs Central (new 2024 location with verified address and phone). Removed second CES branch pending address verification."
   ]
 }

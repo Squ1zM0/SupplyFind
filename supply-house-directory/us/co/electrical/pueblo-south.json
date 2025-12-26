@@ -197,6 +197,49 @@
       "trades": [
         "Electrical"
       ]
+    },
+    {
+      "id": "wesco-pueblo-115-s-main",
+      "name": "WESCO - Pueblo",
+      "chain": "WESCO",
+      "trade": "electrical",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "115 S Main St",
+      "phone": "719-545-1141",
+      "website": "https://www.wesco.com",
+      "lat": null,
+      "lon": null,
+      "coordsStatus": "needs_verify",
+      "brandsRep": [
+        "Eaton",
+        "Schneider Electric",
+        "ABB",
+        "Siemens",
+        "GE",
+        "Square D",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.mapquest.com/us/colorado/wesco-distribution-inc-10088440",
+          "https://www.manta.com/c/mmfmgjx/wesco-distribution-inc"
+        ]
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Automation",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ]
     }
   ],
   "auditStatus": "expanded",
@@ -207,6 +250,7 @@
     "Added verified Graybar Pueblo storefront.",
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
     "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Added CED Pueblo location identified in expansion research."
+    "2025-12-26: Added CED Pueblo location identified in expansion research.",
+    "2025-12-26: Added WESCO Pueblo branch. Verified via official sources."
   ]
 }
