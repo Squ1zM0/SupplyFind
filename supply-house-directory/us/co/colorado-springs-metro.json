@@ -2,11 +2,11 @@
   "version": "1.1",
   "metro": "Colorado Springs",
   "state": "CO",
-  "updated": "2025-12-25T23:59:00Z",
+  "updated": "2025-12-26",
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing – Colorado Springs",
+      "name": "Comfort Air Distributing \u2013 Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -23,7 +23,7 @@
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply – Colorado Springs",
+      "name": "Johnstone Supply \u2013 Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3320 N El Paso St",
       "city": "Colorado Springs",
@@ -36,11 +36,33 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu"
+      ],
+      "partsFor": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
+      ],
+      "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
+      "sources": [
+        "https://www.johnstonesupply.com/"
       ]
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores – Colorado Springs",
+      "name": "Lennox Stores \u2013 Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -57,7 +79,7 @@
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC – Colorado Springs",
+      "name": "WinSupply HVAC \u2013 Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
@@ -74,7 +96,7 @@
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey – Colorado Springs",
+      "name": "Sid Harvey \u2013 Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -87,11 +109,33 @@
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi",
+        "Honeywell",
+        "Fujitsu"
+      ],
+      "partsFor": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi",
+        "Honeywell",
+        "Fujitsu",
+        "Aprilaire",
+        "Copeland"
+      ],
+      "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26",
+      "sources": [
+        "https://www.sidharvey.com/wps/portal/c/OurBrands"
       ]
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply – Colorado Springs",
+      "name": "CT Supply \u2013 Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -118,7 +162,7 @@
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries – Colorado Springs",
+      "name": "Hercules Industries \u2013 Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -263,5 +307,9 @@
         "plumbing"
       ]
     }
+  ],
+  "auditStatus": "in_progress",
+  "auditNotes": [
+    "2025-12-26: Added brand verification for Sid Harvey and Johnstone Supply"
   ]
 }
