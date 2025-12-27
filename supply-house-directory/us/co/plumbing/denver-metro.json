@@ -458,49 +458,6 @@
       ]
     },
     {
-      "id": "englewood-dahl-plumbing",
-      "name": "Dahl Plumbing \u2013 Englewood",
-      "chain": "Hajoca (Dahl)",
-      "trade": "plumbing",
-      "city": "Englewood",
-      "state": "CO",
-      "postalCode": "80110",
-      "address1": "333 W Hampden Ave",
-      "phone": "303-761-6800",
-      "website": "https://www.hajoca.com/our-brands/dahl/",
-      "lat": 39.6539,
-      "lon": -104.9925,
-      "coordsStatus": "verified",
-      "notes": "Plumbing counter storefront. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
-      "parentChain": "Hajoca",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "AO Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      }
-    },
-    {
       "id": "littleton-hughes-supply",
       "name": "Hughes Supply \u2013 Littleton",
       "chain": "Hajoca (Hughes Supply)",
@@ -984,7 +941,8 @@
     "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr",
     "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research.",
     "2025-12-26: Added Great Western Pipe & Supply (PVF/Industrial distributor)",
-    "2025-12-26: Added Ferguson branches in Commerce City, Sheridan, and Littleton (S Grant Way)"
+    "2025-12-26: Added Ferguson branches in Commerce City, Sheridan, and Littleton (S Grant Way)",
+    "2025-12-27: Removed duplicate Dahl Plumbing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 280 S Santa Fe Dr, Denver."
   ],
   "auditStatus": "expanded"
 }
