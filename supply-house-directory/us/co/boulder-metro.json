@@ -3,7 +3,7 @@
   "region": "Boulder / Broomfield / Longmont (CO)",
   "state": "CO",
   "country": "US",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "verificationMode": "strict_storefront_only",
   "notes": [
     "Strict storefront-only pass completed.",
@@ -18,7 +18,6 @@
       "address1": "11575 Main St, Unit 500",
       "city": "Broomfield",
       "state": "CO",
-      "zip": "80020",
       "phone": "+17207430888",
       "lat": 39.90625,
       "lon": -105.07292,
@@ -45,7 +44,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80020",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-louisville-uri-001",
@@ -54,7 +60,6 @@
       "address1": "1533 Arthur St, Ste A",
       "city": "Louisville",
       "state": "CO",
-      "zip": "80027",
       "phone": "+13039268500",
       "lat": 39.9686435,
       "lon": -105.1212993,
@@ -84,7 +89,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80027",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-longmont-winair-001",
@@ -93,7 +105,6 @@
       "address1": "1140 Boston Ave, Unit C",
       "city": "Longmont",
       "state": "CO",
-      "zip": "80501",
       "phone": "+13036519641",
       "lat": 40.15804,
       "lon": -105.10936,
@@ -113,7 +124,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC"
+      "primaryTrade": "HVAC",
+      "postalCode": "80501",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
@@ -122,7 +140,6 @@
       "address1": "1567 Vista View Dr",
       "city": "Longmont",
       "state": "CO",
-      "zip": "80504",
       "phone": "+13038453750",
       "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
       "lat": 40.15687,
@@ -153,7 +170,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80504",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "trade": "plumbing",
   "metro": "Denver Metro",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "ferguson-plumbing-denver-raritan",
@@ -329,7 +329,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "denver-hdsupply-plumbing",
@@ -359,7 +364,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "denver-gateway-supply",
@@ -390,7 +400,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "englewood-dahl-plumbing",
@@ -425,7 +440,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "littleton-hughes-supply",
@@ -460,7 +480,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "centennial-ferguson-plumbing",
@@ -501,7 +526,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "winnelson-denver-w-2nd-2300-1b",
@@ -568,7 +598,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "ferguson-plumbing-arvada-sheridan-001",

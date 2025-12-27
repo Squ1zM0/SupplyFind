@@ -3,7 +3,7 @@
   "trade": "plumbing",
   "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "ferguson-plumbing-pueblo-s-santa-fe",
@@ -83,7 +83,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "rampart-supply-pueblo-4th",

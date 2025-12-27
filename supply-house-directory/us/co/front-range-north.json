@@ -2,16 +2,15 @@
   "version": "1.2-corrected",
   "metro": "Front Range North",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey – Fort Collins",
+      "name": "Sid Harvey \u2013 Fort Collins",
       "chain": "Sid Harvey",
       "address1": "4000 S College Ave",
       "city": "Fort Collins",
       "state": "CO",
-      "zip": "80525",
       "phone": "+19702230000",
       "lat": 40.5269,
       "lon": -105.0787,
@@ -35,16 +34,22 @@
       "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80525",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing – Loveland",
+      "name": "Comfort Air Distributing \u2013 Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
       "state": "CO",
-      "zip": "80538",
       "phone": "+19706690000",
       "lat": 40.4219,
       "lon": -105.0759,
@@ -70,16 +75,22 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80538",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores – Loveland",
+      "name": "Lennox Stores \u2013 Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
       "state": "CO",
-      "zip": "80538",
       "phone": "+19706130000",
       "lat": 40.4206,
       "lon": -105.074,
@@ -97,16 +108,22 @@
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80538",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC – Greeley",
+      "name": "WinSupply HVAC \u2013 Greeley",
       "chain": "WinSupply HVAC",
       "address1": "2315 6th Ave",
       "city": "Greeley",
       "state": "CO",
-      "zip": "80631",
       "phone": "+19703530000",
       "lat": 40.4231,
       "lon": -104.6863,
@@ -128,16 +145,22 @@
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80631",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Fort Collins",
+      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
       "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
       "state": "CO",
-      "zip": "80524",
       "phone": "+19704821722",
       "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
       "lat": 40.585258,
@@ -168,7 +191,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80524",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-frn-city-electric-002",
@@ -177,7 +207,6 @@
       "address1": "2415 E Mulberry St",
       "city": "Fort Collins",
       "state": "CO",
-      "zip": "80524",
       "phone": "970-776-6400",
       "lat": 40.58048,
       "lon": -105.03158,
@@ -213,7 +242,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80524",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-frn-ced-001",
@@ -222,7 +258,6 @@
       "address1": "1717 Heath Pkwy",
       "city": "Fort Collins",
       "state": "CO",
-      "zip": "80524",
       "phone": "970-484-4377",
       "lat": 40.58544,
       "lon": -105.04535,
@@ -260,7 +295,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80524",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-frn-city-electric-003",
@@ -269,7 +311,6 @@
       "address1": "1082 Denver Ave",
       "city": "Loveland",
       "state": "CO",
-      "zip": "80537",
       "phone": "970-663-3333",
       "lat": 40.40289,
       "lon": -105.04406,
@@ -305,7 +346,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80537",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-fortcollins-tranesupply-donella-001",
@@ -314,10 +362,9 @@
       "address1": "2416 Donella Court, Unit D",
       "city": "Fort Collins",
       "state": "CO",
-      "zip": "80524",
       "phone": "970-484-4139",
-      "lat": null,
-      "lon": null,
+      "lat": 40.5528,
+      "lon": -105.0447,
       "brandsRep": [
         "Trane",
         "American Standard"
@@ -336,11 +383,21 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80524",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.tranesupply.com/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)",
     "2025-12-26: Added Trane Supply Fort Collins location"
   ],

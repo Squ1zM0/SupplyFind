@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "state": "CO",
   "metro": "Western Slope",
   "branches": [
@@ -11,10 +11,9 @@
       "address1": "620 S 12th St",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81501",
       "phone": "+19702438570",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0593,
+      "lon": -108.5538,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -47,7 +46,17 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "81501",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1804"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Ferguson official store locator and Google Maps"
+      }
     },
     {
       "id": "co-grand-junction-keenan-dahl-supply-1",
@@ -56,10 +65,9 @@
       "address1": "2469 Commerce Blvd",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81505",
       "phone": "+19704343225",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0861,
+      "lon": -108.5259,
       "brandsRep": [
         "Keenan-Dahl Supply"
       ],
@@ -76,7 +84,17 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "postalCode": "81505",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.keenan-dahl.com/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     },
     {
       "id": "co-montrose-ferguson-plumbingpvf-1",
@@ -85,10 +103,9 @@
       "address1": "924 Spring Creek Rd",
       "city": "Montrose",
       "state": "CO",
-      "zip": "81403",
       "phone": "+19702521100",
-      "lat": null,
-      "lon": null,
+      "lat": 38.4641,
+      "lon": -107.8596,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -121,7 +138,17 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "81403",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Ferguson official store locator and Google Maps"
+      }
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -130,10 +157,9 @@
       "address1": "76 Sheppard Dr",
       "city": "Durango",
       "state": "CO",
-      "zip": "81303",
       "phone": "+19702595005",
-      "lat": null,
-      "lon": null,
+      "lat": 37.267884,
+      "lon": -107.879903,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -165,7 +191,13 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "81303",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-granby-ferguson-plumbing-supply-1",
@@ -174,10 +206,9 @@
       "address1": "23 Ten Mile Rd",
       "city": "Granby",
       "state": "CO",
-      "zip": "80446",
       "phone": "+19708872426",
-      "lat": null,
-      "lon": null,
+      "lat": 40.0925,
+      "lon": -105.9395,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -209,7 +240,17 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80446",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/granby/plumbing-supply-2091"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Ferguson official store locator and Google Maps"
+      }
     },
     {
       "id": "co-silverthorne-ferguson-plumbingpvf-1",
@@ -219,10 +260,9 @@
       "address2": "Unit A-D",
       "city": "Silverthorne",
       "state": "CO",
-      "zip": "80498",
       "phone": "+19702626171",
-      "lat": null,
-      "lon": null,
+      "lat": 39.6297,
+      "lon": -106.0717,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -255,7 +295,17 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80498",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-1807"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Ferguson official store locator and Google Maps"
+      }
     },
     {
       "id": "co-durango-ced-1",
@@ -264,10 +314,9 @@
       "address1": "56 Stewart St",
       "city": "Durango",
       "state": "CO",
-      "zip": "81303",
       "phone": "+19702591530",
-      "lat": null,
-      "lon": null,
+      "lat": 37.227571,
+      "lon": -107.877494,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -301,7 +350,13 @@
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "81303",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -310,10 +365,9 @@
       "address1": "310 S 12th St",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81501",
       "phone": "+19702431430",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0592,
+      "lon": -108.5545,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -347,7 +401,13 @@
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "81501",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-grand-junction-city-electric-supply-1",
@@ -356,10 +416,9 @@
       "address1": "1005 Pitkin Ave",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81501",
       "phone": "+19709866126",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0631,
+      "lon": -108.5565,
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -391,7 +450,13 @@
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "81501",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-ws-city-electric-001",
@@ -400,7 +465,6 @@
       "address1": "1005 Pitkin Ave",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81501",
       "phone": "970-986-6126",
       "lat": 39.064,
       "lon": -108.55557,
@@ -436,7 +500,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "81501",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-ws-johnstone-002",
@@ -445,7 +516,6 @@
       "address1": "3192 Hall Ave",
       "city": "Grand Junction",
       "state": "CO",
-      "zip": "81504",
       "phone": "970-434-1374",
       "lat": 39.08339,
       "lon": -108.48662,
@@ -472,7 +542,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "81504",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     }
   ],
   "auditStatus": "in_progress",

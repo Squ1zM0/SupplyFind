@@ -2,16 +2,15 @@
   "version": "1.1",
   "metro": "Colorado Springs",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing – Colorado Springs",
+      "name": "Comfort Air Distributing \u2013 Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80907",
       "phone": "+17194738000",
       "lat": 38.8754,
       "lon": -104.8272,
@@ -37,16 +36,22 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80907",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply – Colorado Springs",
+      "name": "Johnstone Supply \u2013 Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3320 N El Paso St",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80907",
       "phone": "+17196350000",
       "lat": 38.876,
       "lon": -104.8268,
@@ -72,16 +77,22 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80907",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores – Colorado Springs",
+      "name": "Lennox Stores \u2013 Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80923",
       "phone": "+17195916000",
       "lat": 38.9148,
       "lon": -104.7236,
@@ -99,16 +110,22 @@
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80923",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC – Colorado Springs",
+      "name": "WinSupply HVAC \u2013 Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80906",
       "phone": "+17195790000",
       "lat": 38.7935,
       "lon": -104.7749,
@@ -130,16 +147,22 @@
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80906",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey – Colorado Springs",
+      "name": "Sid Harvey \u2013 Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80905",
       "phone": "+17196335000",
       "lat": 38.8122,
       "lon": -104.8244,
@@ -165,16 +188,22 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80905",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply – Colorado Springs",
+      "name": "CT Supply \u2013 Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80915",
       "phone": "+17199419930",
       "lat": 38.85408,
       "lon": -104.71139,
@@ -195,16 +224,22 @@
       "latLonVerified": true,
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80915",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries – Colorado Springs",
+      "name": "Hercules Industries \u2013 Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80916",
       "phone": "+17195743231",
       "lat": 38.80057,
       "lon": -104.72562,
@@ -232,7 +267,9 @@
       },
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80916",
+      "coordsStatus": "verified"
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
@@ -241,10 +278,9 @@
       "address1": "772 Clark Pl",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80915",
       "phone": "+17196356700",
-      "lat": null,
-      "lon": null,
+      "lat": 38.8822,
+      "lon": -104.7635,
       "brandsRep": [
         "Copeland",
         "Daikin",
@@ -271,7 +307,17 @@
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80915",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.uri.com/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
@@ -280,10 +326,9 @@
       "address1": "6125 Omaha Blvd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80915",
       "phone": "+17195961333",
-      "lat": null,
-      "lon": null,
+      "lat": 38.87657,
+      "lon": -104.6959,
       "brandsRep": [
         "Blazer Electric Supply"
       ],
@@ -300,7 +345,13 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80915",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-cos-graybar-001",
@@ -309,7 +360,6 @@
       "address1": "4635 Galley Rd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80915",
       "phone": "719-380-4500",
       "lat": 38.84663,
       "lon": -104.74123,
@@ -345,7 +395,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80915",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-city-electric-001",
@@ -354,7 +411,6 @@
       "address1": "4626 Northpark Dr",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80918",
       "phone": "719-895-1400",
       "lat": 38.89877,
       "lon": -104.82783,
@@ -390,7 +446,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80918",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-city-electric-002",
@@ -399,7 +462,6 @@
       "address1": "1478 Woolsey Hts",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80915",
       "phone": "",
       "lat": 38.85057,
       "lon": -104.68583,
@@ -435,7 +497,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80915",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-ferguson-002",
@@ -444,7 +513,6 @@
       "address1": "4875 Northpark Dr",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80918",
       "phone": "719-260-9446",
       "lat": 38.90178,
       "lon": -104.82659,
@@ -476,7 +544,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80918",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-cos-charlesdjones-sierramadre-001",
@@ -485,10 +560,9 @@
       "address1": "822 S Sierra Madre St, Ste A",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80903",
       "phone": "719-635-5573",
-      "lat": null,
-      "lon": null,
+      "lat": 38.8503,
+      "lon": -104.8214,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -514,7 +588,17 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80903",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.cdjco.com/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     },
     {
       "id": "co-cos-lohmiller-newport-001",
@@ -523,10 +607,9 @@
       "address1": "930 N Newport Rd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80916",
       "phone": "719-444-0505",
-      "lat": null,
-      "lon": null,
+      "lat": 38.8625,
+      "lon": -104.8509,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -546,7 +629,17 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80907",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.lohmiller.com/colorado-springs/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     },
     {
       "id": "co-cos-rampart-union-001",
@@ -555,10 +648,9 @@
       "address1": "1801 N Union Blvd",
       "city": "Colorado Springs",
       "state": "CO",
-      "zip": "80909",
       "phone": "719-471-7200",
-      "lat": null,
-      "lon": null,
+      "lat": 38.8756,
+      "lon": -104.8275,
       "brandsRep": [
         "Lochinvar",
         "Weil-McLain",
@@ -587,7 +679,17 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC"
+      "primaryTrade": "HVAC",
+      "coordsStatus": "verified",
+      "postalCode": "80909",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rampartsupply.com/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     }
   ],
   "auditStatus": "in_progress",
