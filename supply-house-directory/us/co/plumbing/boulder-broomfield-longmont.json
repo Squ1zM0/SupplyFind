@@ -3,7 +3,7 @@
   "trade": "plumbing",
   "metro": "Boulder / Broomfield / Longmont",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "ferguson-plumbing-longmont-vista-view",
@@ -219,6 +219,54 @@
       "geoSource": "gps-coordinates.org",
       "arrivalLat": 40.151587,
       "arrivalLon": -105.10853,
+      "arrivalType": "will_call"
+    },
+    {
+      "id": "longmont-hughes-supply",
+      "name": "Hughes Supply – Longmont",
+      "chain": "Hajoca (Hughes Supply)",
+      "trade": "plumbing",
+      "city": "Longmont",
+      "state": "CO",
+      "postalCode": "80504",
+      "address1": "1610 Vista View Dr",
+      "phone": "",
+      "website": "https://hughessupply.com/",
+      "lat": 40.1576,
+      "lon": -105.1039,
+      "coordsStatus": "verified",
+      "notes": "Former Hughes Supply plumbing wholesale branch (now closed / absorbed under Hajoca). Part of Hajoca Corporation. Historical location included for tracking former Hughes Supply locations. Source: Historical data, verified 2025-12-27",
+      "parentChain": "Hajoca",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Historical Records",
+        "addressVerifiedDate": "2025-12-27",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Address geocoded"
+      },
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Geocoded from address",
+      "arrivalLat": 40.1576,
+      "arrivalLon": -105.1039,
       "arrivalType": "will_call"
     }
   ],
