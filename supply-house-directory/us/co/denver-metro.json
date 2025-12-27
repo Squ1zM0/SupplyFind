@@ -6,7 +6,8 @@
     "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
     "2025-12-26: Added source documentation for Baker Distributing, Ferguson, Hercules Industries",
     "2025-12-26: Verified physical locations for major chains via web research",
-    "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal"
+    "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal",
+    "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial."
   ],
   "state": "CO",
   "metro": "Denver Metro",
@@ -905,50 +906,6 @@
       "sources": [
         "Official company contact required"
       ]
-    },
-    {
-      "id": "co-englewood-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Englewood",
-      "chain": "Comfort Air Distributing",
-      "address1": "333 W Hampden Ave",
-      "city": "Englewood",
-      "state": "CO",
-      "phone": "+13037616800",
-      "lat": 39.6539,
-      "lon": -104.9925,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
-      "sources": [
-        "https://www.comfortairdistributing.com/"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80110",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified"
     },
     {
       "id": "co-wheatridge-winair-001",
