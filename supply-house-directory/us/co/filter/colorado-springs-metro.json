@@ -16,9 +16,9 @@
       "address1": "870 Elkton Drive, Suite 106",
       "phone": "719-475-7307",
       "website": "https://cleanair.camfil.us/camfil-usa-airfilters-colorado-springs-co/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.9022,
+      "lon": -104.8434,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Camfil"
       ],
@@ -40,39 +40,6 @@
       ],
       "trades": [
         "Filter"
-      ]
-    },
-    {
-      "id": "air-purification-company-colorado-springs",
-      "name": "Air Purification Company - Colorado Springs",
-      "chain": "Air Purification Company",
-      "trade": "filter",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "postalCode": "",
-      "address1": "",
-      "phone": "303-428-2800",
-      "website": "https://www.airpurificationcompany.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
-      "notes": "Regional office of Air Purification Company serving Colorado Springs area. Provides air filtration products and IAQ equipment for commercial and industrial clients. Main headquarters in Denver. Verified 2025-12-26",
-      "verification": {
-        "storefront_confirmed": "2025-12-26",
-        "sources": [
-          "https://www.airpurificationcompany.com/"
-        ]
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Air Purification",
-        "IAQ Systems"
-      ],
-      "trades": [
-        "Filter",
-        "HVAC"
       ]
     }
   ]
