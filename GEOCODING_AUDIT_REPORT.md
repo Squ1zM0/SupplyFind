@@ -22,7 +22,7 @@ All coordinates were obtained through systematic web searches using verified geo
 - **Primary Sources**: gps-coordinates.org, latlong.net, mapcoordinates.net
 - **Verification**: Each address queried through multiple independent sources
 - **Accuracy**: Address-specific coordinates (NO city or ZIP centroids used)
-- **Precision**: 6 decimal places (±0.1 meter accuracy)
+- **Precision**: Up to 6 decimal places (approximately ±0.11 meter to ±11 meter accuracy depending on source precision)
 
 ### Quality Standards
 ✅ **Acceptable Methods Used**:
@@ -200,9 +200,11 @@ This audit successfully improved geolocation data quality from 21% to 63% verifi
 
 The systematic, web-verified approach ensures:
 - ✅ No city/ZIP centroid approximations
-- ✅ High precision (6 decimal places)
+- ✅ High precision (4-6 decimal places based on source data)
 - ✅ Multiple source verification  
 - ✅ Full metadata documentation
 - ✅ Production-quality coordinates
+
+**Note on Duplicate Coordinates**: Some branches (e.g., Rexel Denver East and Rexel Denver Distribution Center) share identical coordinates as they occupy the same physical building at different units/suites.
 
 **Status**: Significant progress achieved. Ready for production use with 63% coverage. Remaining 37% can be completed following the same verified methodology.
