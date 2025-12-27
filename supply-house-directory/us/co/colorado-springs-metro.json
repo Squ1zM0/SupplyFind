@@ -162,8 +162,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "(719) 578-0722",
-      "lat": 38.7935,
-      "lon": -104.7749,
+      "lat": 38.87698,
+      "lon": -104.81656,
       "tags": [
         "hvac",
         "equipment",
@@ -186,7 +186,7 @@
       "postalCode": "80907",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
+        "geocoding_method": "GPS coordinates from web verification",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Winsupply Store Locator",
@@ -200,11 +200,11 @@
       "sources": [
         "https://www.winsupplyinc.com/locations"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.793556,
-      "arrivalLon": -104.774844,
+      "geoSource": "Web search verified coordinates",
+      "arrivalLat": 38.87698,
+      "arrivalLon": -104.81656,
       "arrivalType": "will_call",
       "address2": "Suite 180"
     },

@@ -390,8 +390,8 @@
       "address1": "10000 E 56th Ave",
       "phone": "(800) 431-3000",
       "website": "https://hdsupplysolutions.com/",
-      "lat": 39.7852,
-      "lon": -104.9216,
+      "lat": 39.7971,
+      "lon": -104.8675,
       "coordsStatus": "verified",
       "brandsRep": [
         "Kohler",
@@ -410,7 +410,7 @@
       ],
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
+        "geocoding_method": "GPS coordinates from web verification",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official HD Supply Website & Business Directories",
@@ -423,11 +423,11 @@
       "sources": [
         "https://www.hdsupplysolutions.com/locations"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.785256,
-      "arrivalLon": -104.921544,
+      "geoSource": "Web search verified coordinates",
+      "arrivalLat": 39.7971,
+      "arrivalLon": -104.8675,
       "arrivalType": "will_call",
       "address2": ""
     },
@@ -649,8 +649,8 @@
       "address1": "58 S. Galapago St",
       "phone": "(303) 744-7123",
       "website": "https://www.flinksupply.com/",
-      "lat": 39.7871,
-      "lon": -104.9626,
+      "lat": 39.715576,
+      "lon": -104.996172,
       "coordsStatus": "verified",
       "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [RELOCATED 2025: Moved from 5150 Race Ct to 58 S. Galapago St]",
       "brandsRep": [
@@ -667,7 +667,7 @@
       ],
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
+        "geocoding_method": "GPS coordinates from web verification",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Company Website & Business Directories",
@@ -680,11 +680,11 @@
       "sources": [
         "Official company contact required"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.787156,
-      "arrivalLon": -104.962544,
+      "geoSource": "Web search verified coordinates",
+      "arrivalLat": 39.715576,
+      "arrivalLon": -104.996172,
       "arrivalType": "will_call"
     },
     {
