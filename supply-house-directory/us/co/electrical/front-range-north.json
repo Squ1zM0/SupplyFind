@@ -204,7 +204,7 @@
       "city": "Ft Collins",
       "state": "CO",
       "postalCode": "80525",
-      "address1": "4530 Innovation Drive",
+      "address1": "4530 Innovation Dr",
       "phone": "970-223-1247",
       "website": "https://www.rexelusa.com/locations/co/ft-collins/7619",
       "lat": 40.532844,
@@ -257,6 +257,71 @@
       "geoSource": "gps-coordinates.org",
       "arrivalLat": 40.532844,
       "arrivalLon": -105.042323,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "rexel-loveland-3214",
+      "name": "Rexel Loveland (#3214)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Loveland",
+      "state": "CO",
+      "postalCode": "80538",
+      "address1": "3680 Draft Horse Dr",
+      "phone": "970-461-4700",
+      "website": "https://www.rexelusa.com/locations/co/loveland/3214",
+      "lat": 40.4123,
+      "lon": -105.0389,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Loveland and northern Colorado. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/loveland/3214",
+          "https://www.mapquest.com/us/colorado/rexel-429923500"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/locations/co/loveland/3214",
+        "https://www.mapquest.com/us/colorado/rexel-429923500"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.4123,
+      "arrivalLon": -105.0389,
       "arrivalType": "storefront"
     },
     {

@@ -487,13 +487,13 @@
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
-      "name": "Rexel Denver East (#3201)",
+      "name": "Rexel Denver East / Aurora (#3201)",
       "chain": "Rexel",
       "trade": "electrical",
       "city": "Denver",
       "state": "CO",
       "postalCode": "80239",
-      "address1": "11175 E 55TH AVE, UNIT 100",
+      "address1": "11175 E 55th Ave, Unit 100",
       "phone": "303-728-5888",
       "website": "https://www.rexelusa.com/locations/co/denver-east/3201",
       "lat": 39.7962,
@@ -516,7 +516,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Aurora/Denver East branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "notes": "DC + will-call at same physical site — single entry only. Aurora/Denver East branch combining distribution center and customer counter. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -613,69 +613,7 @@
       "arrivalLon": -104.856006,
       "arrivalType": "storefront"
     },
-    {
-      "id": "rexel-denver-distribution-center-3217",
-      "name": "Rexel - Denver Distribution Center (#3217)",
-      "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80239",
-      "address1": "11175 East 55th Avenue, Suite 100",
-      "phone": "720-417-7100",
-      "website": "https://www.rexelusa.com/locations/co/denver-distribution-center/3217",
-      "lat": 39.7962,
-      "lon": -104.7836,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Rexel distribution center with will-call. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "sources": [
-          "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.796256,
-      "arrivalLon": -104.783544,
-      "arrivalType": "storefront"
-    },
+
     {
       "id": "rexel-centennial-7611",
       "name": "Rexel - Centennial (#7611)",
@@ -805,71 +743,7 @@
       "arrivalLon": -104.8772,
       "arrivalType": "storefront"
     },
-    {
-      "id": "rexel-denver-quivas-001",
-      "name": "Rexel - Denver (Quivas St)",
-      "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80204",
-      "address1": "425 Quivas Street",
-      "phone": "(303) 572-7100",
-      "website": "https://www.rexelusa.com/locations/CO/Denver/7325",
-      "lat": 39.7247,
-      "lon": -105.0044,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Main Rexel Denver branch with will-call and counter service. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
-      "verification": {
-        "storefront_confirmed": "2025-12-26",
-        "sources": [
-          "https://www.rexelusa.com/locations/CO/Denver/7325",
-          "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/CO/Denver/7325",
-        "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7247,
-      "arrivalLon": -105.0044,
-      "arrivalType": "storefront"
-    },
+
     {
       "id": "borderstates-brighton-havana-001",
       "name": "Border States Electric - Brighton",
