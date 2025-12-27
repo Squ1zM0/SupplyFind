@@ -3,21 +3,21 @@
 Date: 2025-12-26
 
 ## Outcome
-- Kept (verified in this audit run): 6
-- Removed (unverified/incorrect/assumed): 56
+- Kept (verified in this audit run): 5
+- Removed (unverified/incorrect/assumed): 57
 
 ## Kept branches
-- Denver Metro (us/co/denver-metro.json) — 6 branch(es)
+- Denver Metro (us/co/denver-metro.json) — 5 branch(es)
 
 ### Kept IDs
 - co-denver-ferguson-denver-0383 (Denver Metro)
 - co-denver-united-denver-pecos-001 (Denver Metro)
 - co-denver-rsd-denver-osage-001 (Denver Metro)
 - co-denver-tranesupply-denver-bryant-001 (Denver Metro)
-- co-denver-baker-englewood-platte-001 (Denver Metro)
 - co-denver-baker-ice-denver-osage-001 (Denver Metro)
 
 ## Removed branches (IDs)
+- co-denver-baker-englewood-platte-001 (Denver Metro) — Baker Distributing – Englewood (South Denver) — 3107 S Platte River Dr — +13037831120 — Location does not exist (removed 2025-12-27)
 - co-denver-rsd-001 (Denver Metro) — RSD – Denver — 4900 Washington St — +13032975500
 - co-denver-baker-001 (Denver Metro) — Baker Distributing – Denver — 5000 Florence St — +13033717000
 - co-denver-trane-001 (Denver Metro) — Trane Supply – Denver — 11301 E 53rd Ave — +13033754000
