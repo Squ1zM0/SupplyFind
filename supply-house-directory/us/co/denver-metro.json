@@ -1,6 +1,6 @@
 {
   "version": "DENVER_AUDIT_v1",
-  "updated": "2025-12-26",
+  "updated": "2025-12-27",
   "auditStatus": "in_progress",
   "auditNotes": [
     "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
@@ -18,7 +18,6 @@
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
       "state": "CO",
-      "zip": "80110",
       "phone": "+13037831120",
       "lat": 39.6594,
       "lon": -104.9976,
@@ -36,7 +35,14 @@
       "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80110",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
@@ -45,7 +51,6 @@
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
       "state": "CO",
-      "zip": "80221",
       "phone": "+13038931120",
       "lat": 39.7917,
       "lon": -105.0023,
@@ -64,7 +69,14 @@
       "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80221",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -74,7 +86,6 @@
       "address2": "",
       "city": "Denver",
       "state": "CO",
-      "zip": "80204-4931",
       "phone": "+13039428036",
       "website": "https://www.ferguson.com/store/co/denver/plumbingpvf-0383",
       "hours": "",
@@ -111,7 +122,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "postalCode": "80204-4931",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-galarson-washington-001",
@@ -120,7 +138,6 @@
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
       "state": "CO",
-      "zip": "80216",
       "phone": "+13038921550",
       "lat": 39.8072,
       "lon": -104.9786,
@@ -146,7 +163,14 @@
       "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80216",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -155,7 +179,6 @@
       "address2": "",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223",
       "phone": "+13037777241",
       "website": "https://www.herculesindustries.com/locations/",
       "hours": "",
@@ -183,7 +206,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80223",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-johnstone-7th-001",
@@ -192,7 +222,6 @@
       "address1": "2701 W 7th Ave",
       "city": "Denver",
       "state": "CO",
-      "zip": "80204-4114",
       "phone": "+13035735626",
       "lat": 39.7279,
       "lon": -105.0219,
@@ -220,7 +249,14 @@
       "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80204-4114",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "name": "Lennox Stores - Centennial",
@@ -229,7 +265,6 @@
       "address2": "Unit 1D",
       "city": "Centennial",
       "state": "CO",
-      "zip": "80112",
       "phone": "+17205311678",
       "website": "https://m.lennoxpros.com/stores/location/denver",
       "hours": "M-F: 7:30 am - 4:30 pm (Drive-Thru)",
@@ -250,7 +285,14 @@
       "id": "co-lennoxstores-95d62dda",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80112",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -259,7 +301,6 @@
       "address1": "4800 Osage St",
       "city": "Denver",
       "state": "CO",
-      "zip": "80221",
       "phone": "+13038254328",
       "lat": 39.7831,
       "lon": -105.0068,
@@ -282,7 +323,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80221",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
@@ -291,7 +339,6 @@
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
       "state": "CO",
-      "zip": "80112",
       "phone": "+13033711244",
       "lat": 39.5587,
       "lon": -104.846,
@@ -313,7 +360,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80112",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-rsd-osage-001",
@@ -322,7 +376,6 @@
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
       "state": "CO",
-      "zip": "80221",
       "phone": "+13035685300",
       "lat": 39.783,
       "lon": -105.0066,
@@ -354,7 +407,14 @@
       "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80221",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
@@ -363,7 +423,6 @@
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
       "state": "CO",
-      "zip": "80204",
       "phone": "+13032283310",
       "lat": 39.7277,
       "lon": -105.0182,
@@ -380,7 +439,14 @@
       "notes": "Factory-owned Trane supply house. Verified 2025-12-26.",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80204",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -390,7 +456,6 @@
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223-1781",
       "phone": "+13037449100",
       "lat": 39.7127,
       "lon": -105.005,
@@ -420,7 +485,14 @@
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80223-1781",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "name": "Denver Winair",
@@ -429,7 +501,6 @@
       "address2": "Unit M",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223",
       "phone": "+13037650663",
       "website": "https://www.denverwinair.com",
       "hours": "",
@@ -453,7 +524,14 @@
       "id": "co-winairwinsup-ca256015",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80223",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "name": "North Denver Winair",
@@ -462,7 +540,6 @@
       "address2": "Unit 6B",
       "city": "Denver",
       "state": "CO",
-      "zip": "80229",
       "phone": "+13032872633",
       "website": "https://www.northdenverwinair.com",
       "hours": "",
@@ -486,7 +563,14 @@
       "id": "co-winairwinsup-97b08e60",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80229",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-lennoxstores-001",
@@ -495,7 +579,6 @@
       "address1": "2000 W 64th Ln",
       "city": "Denver",
       "state": "CO",
-      "zip": "80221",
       "phone": "+13034288200",
       "lat": 39.8124,
       "lon": -105.0157,
@@ -513,7 +596,14 @@
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80221",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -522,7 +612,6 @@
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
       "state": "CO",
-      "zip": "80011",
       "phone": "+13033638100",
       "lat": 39.7475,
       "lon": -104.7638,
@@ -540,7 +629,14 @@
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80011",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-hvacdistco-001",
@@ -549,7 +645,6 @@
       "address1": "4900 Washington St",
       "city": "Denver",
       "state": "CO",
-      "zip": "80216",
       "phone": "+13032973200",
       "lat": 39.7879,
       "lon": -104.9789,
@@ -573,7 +668,14 @@
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80216",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-acdist-001",
@@ -582,7 +684,6 @@
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
       "state": "CO",
-      "zip": "80219",
       "phone": "+13039340000",
       "lat": 39.7098,
       "lon": -105.0219,
@@ -607,7 +708,14 @@
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80219",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
@@ -616,7 +724,6 @@
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
       "state": "CO",
-      "zip": "80022",
       "phone": "+13032881111",
       "lat": 39.8006,
       "lon": -104.9157,
@@ -640,7 +747,14 @@
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80022",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-thornton-acdist-001",
@@ -649,7 +763,6 @@
       "address1": "899 E 84th Ave",
       "city": "Thornton",
       "state": "CO",
-      "zip": "80229",
       "phone": "+13032870800",
       "lat": 39.8465,
       "lon": -104.9762,
@@ -674,7 +787,14 @@
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80229",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-englewood-comfortair-001",
@@ -683,7 +803,6 @@
       "address1": "333 W Hampden Ave",
       "city": "Englewood",
       "state": "CO",
-      "zip": "80110",
       "phone": "+13037616800",
       "lat": 39.6539,
       "lon": -104.9925,
@@ -709,7 +828,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80110",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-wheatridge-winair-001",
@@ -718,7 +844,6 @@
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
       "state": "CO",
-      "zip": "80033",
       "phone": "+13034231100",
       "lat": 39.7847,
       "lon": -105.1376,
@@ -740,7 +865,14 @@
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80033",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-centennial-comfortair-002",
@@ -749,7 +881,6 @@
       "address1": "7347 S Revere Pkwy",
       "city": "Centennial",
       "state": "CO",
-      "zip": "80112",
       "phone": "+13037908800",
       "lat": 39.5858,
       "lon": -104.845,
@@ -775,7 +906,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80112",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-centennial-rsd-001",
@@ -784,7 +922,6 @@
       "address1": "6825 S Galena St",
       "city": "Centennial",
       "state": "CO",
-      "zip": "80112",
       "phone": "+13037904000",
       "lat": 39.5951,
       "lon": -104.8895,
@@ -815,7 +952,14 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "postalCode": "80112",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-rampart-001",
@@ -824,7 +968,6 @@
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223",
       "phone": "+13036296122",
       "lat": 39.69296,
       "lon": -105.00534,
@@ -847,7 +990,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC"
+      "primaryTrade": "HVAC",
+      "postalCode": "80223",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
@@ -856,10 +1006,9 @@
       "address1": "480 E 55TH AVE UNIT 500",
       "city": "Denver",
       "state": "CO",
-      "zip": "80216",
       "phone": "+17206024400",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7972,
+      "lon": -104.9816,
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -893,7 +1042,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80216",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.graybar.com/store-locator"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-rexel-denver-425-quivas",
@@ -902,10 +1061,9 @@
       "address1": "425 Quivas Street",
       "city": "Denver",
       "state": "CO",
-      "zip": "80204",
       "phone": "+13035727100",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7247,
+      "lon": -105.0044,
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -939,7 +1097,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80204",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/denver/7325"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-rexel-denver-east-11175-e-55th",
@@ -948,10 +1116,9 @@
       "address1": "11175 E 55TH AVE, UNIT 100",
       "city": "Denver",
       "state": "CO",
-      "zip": "80239",
       "phone": "+13037285888",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7962,
+      "lon": -104.7836,
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -985,7 +1152,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80239",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/denver/3201"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
@@ -994,10 +1171,9 @@
       "address1": "2405 W 5th Avenue",
       "city": "Denver",
       "state": "CO",
-      "zip": "80204",
       "phone": "+13036231233",
-      "lat": null,
-      "lon": null,
+      "lat": 39.72423,
+      "lon": -105.01515,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -1033,7 +1209,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80204",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.cedColorado.com/locations"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-ces-denver-central-2630-w-2nd",
@@ -1042,7 +1228,6 @@
       "address1": "2630 W 2nd Ave",
       "city": "Denver",
       "state": "CO",
-      "zip": "80219",
       "phone": "+13039960111",
       "lat": 39.719771,
       "lon": -105.019647,
@@ -1079,7 +1264,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80219",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      },
+      "coordsStatus": "verified"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
@@ -1088,10 +1280,9 @@
       "address1": "5475 Joliet St Unit B",
       "city": "Denver",
       "state": "CO",
-      "zip": "80239",
       "phone": "+17205319895",
-      "lat": null,
-      "lon": null,
+      "lat": 39.794972,
+      "lon": -104.860753,
       "brandsRep": [
         "ABB",
         "Acuity Brands",
@@ -1123,7 +1314,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80239",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.mapquest.com/us/colorado/border-states-electric-421028189"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
@@ -1132,10 +1333,9 @@
       "address1": "5925 Washington St Ste 300",
       "city": "Denver",
       "state": "CO",
-      "zip": "80216",
       "phone": "+13036291188",
-      "lat": null,
-      "lon": null,
+      "lat": 39.804388,
+      "lon": -104.977336,
       "brandsRep": [
         "Square D",
         "Eaton",
@@ -1160,7 +1360,17 @@
       "notes": "Electrical supply distributor. National electrical distributor, verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80216",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.cesco.com/locations"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-wesco-denver-11198-e-45th",
@@ -1169,10 +1379,9 @@
       "address1": "11198 E 45th Ave",
       "city": "Denver",
       "state": "CO",
-      "zip": "80239",
       "phone": "+13033221722",
-      "lat": null,
-      "lon": null,
+      "lat": 39.779135,
+      "lon": -104.856062,
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -1205,7 +1414,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80239",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.wesco.com/us/en/locations.html"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
@@ -1214,10 +1433,9 @@
       "address1": "10432 E 49th Avenue",
       "city": "Denver",
       "state": "CO",
-      "zip": "80238",
       "phone": "+13033739200",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7862,
+      "lon": -104.8655,
       "brandsRep": [
         "Panduit",
         "Belden",
@@ -1241,7 +1459,17 @@
       "notes": "Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80238",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -1250,10 +1478,9 @@
       "address1": "1661 W 3rd Ave",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223",
       "phone": "+13038255011",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7154,
+      "lon": -105.0052,
       "brandsRep": [
         "Square D",
         "Eaton",
@@ -1275,7 +1502,17 @@
       "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26",
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80223",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://qeddistribution.com/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
@@ -1284,10 +1521,9 @@
       "address1": "756 S Jason St Unit 1",
       "city": "Denver",
       "state": "CO",
-      "zip": "80223",
       "phone": "+13037338600",
-      "lat": null,
-      "lon": null,
+      "lat": 39.703204,
+      "lon": -105.004379,
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -1320,7 +1556,17 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "postalCode": "80223",
+      "coordsStatus": "verified",
+      "verification": {
+        "storefront_confirmed": "2025-12-25",
+        "sources": [
+          "https://www.wesco.com/us/en/locations.html"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-sdi-oneida-001",
@@ -1331,8 +1577,8 @@
       "state": "CO",
       "zip": "80216",
       "phone": "720-570-7801",
-      "lat": null,
-      "lon": null,
+      "lat": 39.7847,
+      "lon": -104.9995,
       "brandsRep": [
         "Rheem",
         "Ruud",
@@ -1356,7 +1602,17 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80221",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.selectdistributing.com/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     },
     {
       "id": "co-denver-northwinair-76th-001",
@@ -1367,8 +1623,8 @@
       "state": "CO",
       "zip": "80229",
       "phone": "303-287-4511",
-      "lat": null,
-      "lon": null,
+      "lat": 39.8383,
+      "lon": -104.8869,
       "brandsRep": [
         "American Standard",
         "Trane",
@@ -1394,7 +1650,17 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80229",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.winair.us/locations/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Company website and Google Maps"
+      }
     }
   ]
 }

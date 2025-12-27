@@ -3,7 +3,7 @@
   "trade": "electrical",
   "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "updated": "2025-12-25",
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "pueblo-graybar",
@@ -48,7 +48,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass"
+      }
     },
     {
       "id": "co-pueblo-blazer-electric-1",
