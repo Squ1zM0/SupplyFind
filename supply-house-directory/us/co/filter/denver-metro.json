@@ -142,31 +142,34 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "superior-filtration-denver-3rd-ave",
+      "id": "superior-filtration-denver-yuma",
       "name": "Superior Filtration Products",
       "chain": "Independent",
       "trade": "filter",
       "city": "Denver",
       "state": "CO",
       "postalCode": "80219",
-      "address1": "2650 W 3rd Ave, Unit 3",
+      "address1": "209 Yuma St, Unit 3",
       "phone": "303-742-8888",
       "website": "https://www.superiorfiltrationproducts.com/",
-      "lat": 39.72073,
-      "lon": -105.01978,
+      "lat": 39.7129,
+      "lon": -105.0111,
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
+      "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. ADDRESS CORRECTED 2025-12-27: Updated from 2650 W 3rd Ave Unit 3 to 209 Yuma St Unit 3 (official website and Google Business Profile confirmed address). Multi-tenant industrial complex - Unit 3 entrance.",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
           "https://www.superiorfiltrationproducts.com/contact",
-          "https://www.mapquest.com/us/colorado/superior-filtration-products-452140943"
+          "https://maps.google.com/",
+          "https://www.chamberofcommerce.com/united-states/colorado/denver/air-filter-supplier/9917861-superior-filtration-products"
         ],
         "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressSource": "Official Website + Google Business Profile",
+        "addressVerifiedDate": "2025-12-27",
+        "previousAddress": "2650 W 3rd Ave, Unit 3 (incorrect - found during address audit)",
+        "correctionReason": "Directions/address mismatch - Google Maps was showing different location than dataset. Official website and Google Business Profile both confirm 209 Yuma St, Unit 3 as correct physical location."
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -177,12 +180,12 @@
       "trades": [
         "Filter"
       ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.720814,
-      "arrivalLon": -105.019696,
-      "arrivalType": "storefront"
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Official Website + Google Business Profile",
+      "arrivalLat": 39.7129,
+      "arrivalLon": -105.0111,
+      "arrivalType": "entrance"
     },
     {
       "id": "air-force-filter-denver-bryant",
