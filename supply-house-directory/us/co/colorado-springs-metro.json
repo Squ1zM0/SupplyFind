@@ -52,12 +52,12 @@
       "id": "co-cos-johnstone-001",
       "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
-      "address1": "3320 N El Paso St",
+      "address1": "3720 E Pikes Peak Ave",
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17196350000",
-      "lat": 38.876,
-      "lon": -104.8268,
+      "lat": 38.845617,
+      "lon": -104.757164,
       "tags": [
         "hvac",
         "equipment",
@@ -76,19 +76,24 @@
       ],
       "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
       "sources": [
-        "https://www.johnstonesupply.com/"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Colorado+Springs"
       ],
       "trades": [
         "HVAC"
       ],
       "postalCode": "80907",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -393,8 +398,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-380-4500",
-      "lat": 38.84663,
-      "lon": -104.74123,
+      "lat": 38.868938,
+      "lon": -104.734612,
       "tags": [
         "electrical"
       ],
@@ -422,20 +427,24 @@
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/store/CSCO",
+        "https://www.google.com/maps/place/Graybar+Colorado+Springs"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80915",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/store/CSCO",
+          "https://www.google.com/maps/place/Graybar+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

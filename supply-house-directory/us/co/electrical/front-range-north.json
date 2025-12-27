@@ -18,13 +18,19 @@
       "website": "https://www.graybar.com/",
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
-      "lat": 40.5204,
-      "lon": -105.0511,
+      "lat": 40.529253,
+      "lon": -105.061632,
       "verification": {
-        "coords_verified": "2025-12-26",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/locations",
+          "https://www.google.com/maps/place/Graybar+Fort+Collins"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "brandsRep": [
         "ABB",
@@ -49,8 +55,8 @@
         "Controls"
       ],
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/locations",
+        "https://www.google.com/maps/place/Graybar+Fort+Collins"
       ],
       "trades": [
         "Electrical"
@@ -491,8 +497,8 @@
       "address1": "2415 E Mulberry St, Suite 5",
       "phone": "970-493-0101",
       "website": "https://www.cityelectricsupply.com",
-      "lat": 40.583624,
-      "lon": -105.026573,
+      "lat": 40.5854,
+      "lon": -105.0432,
       "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
@@ -505,15 +511,16 @@
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/contractors/electrical-lighting/electrical-supply-store/"
+          "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+          "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",
@@ -523,6 +530,10 @@
       ],
       "trades": [
         "Electrical"
+      ],
+      "sources": [
+        "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+        "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
       ]
     }
   ],

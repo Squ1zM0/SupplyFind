@@ -412,8 +412,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13035685300",
-      "lat": 39.783,
-      "lon": -105.0066,
+      "lat": 39.7821,
+      "lon": -105.0112,
       "brandsRep": [
         "Carrier",
         "Copeland",
@@ -435,9 +435,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.rsd.net/store/0072-denver-co",
-        "https://www.mapquest.com/us/colorado/refrigeration-supplies-distributor-380660905",
-        "https://www.rsd.net/manufacturers/"
+        "https://www.rsd.net/locations/?storenumber=72",
+        "https://www.google.com/maps/place/RSD+Denver"
       ],
       "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
       "trades": [
@@ -445,12 +444,16 @@
       ],
       "postalCode": "80221",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official RSD Locations",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rsd.net/locations/?storenumber=72",
+          "https://www.google.com/maps/place/RSD+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

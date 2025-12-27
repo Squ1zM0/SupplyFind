@@ -223,8 +223,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-776-6400",
-      "lat": 40.58048,
-      "lon": -105.03158,
+      "lat": 40.5854,
+      "lon": -105.0432,
       "tags": [
         "electrical"
       ],
@@ -253,19 +253,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+        "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+          "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

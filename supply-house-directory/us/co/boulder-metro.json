@@ -151,8 +151,8 @@
       "state": "CO",
       "phone": "+13038453750",
       "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-      "lat": 40.15687,
-      "lon": -105.01823,
+      "lat": 40.1577,
+      "lon": -105.1038,
       "brandsRep": [
         "Residential HVAC",
         "Commercial HVAC",
@@ -173,7 +173,8 @@
       ],
       "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-1178. Source: Ferguson official website, verified 2025-12-26",
       "sources": [
-        "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178"
+        "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
       ],
       "trades": [
         "HVAC",
@@ -182,12 +183,16 @@
       "primaryTrade": "Plumbing",
       "postalCode": "80504",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     }
