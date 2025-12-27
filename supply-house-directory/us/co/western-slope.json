@@ -111,8 +111,8 @@
       "city": "Montrose",
       "state": "CO",
       "phone": "+19702521100",
-      "lat": 38.4641,
-      "lon": -107.8596,
+      "lat": 38.473785,
+      "lon": -107.892914,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -149,15 +149,16 @@
       "postalCode": "81403",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805"
+          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805",
+          "https://www.google.com/maps/place/Ferguson+Montrose"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -334,8 +335,8 @@
       "city": "Durango",
       "state": "CO",
       "phone": "+19702591530",
-      "lat": 37.227571,
-      "lon": -107.877494,
+      "lat": 37.248569,
+      "lon": -107.880653,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -373,11 +374,16 @@
       "postalCode": "81303",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/CED+Durango",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-10111472"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -388,8 +394,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19702431430",
-      "lat": 39.0592,
-      "lon": -108.5545,
+      "lat": 39.063842,
+      "lon": -108.553675,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -427,11 +433,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://gjced.portalced.com/ContactUs",
+          "https://www.google.com/maps/place/CED+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -442,8 +453,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19709866126",
-      "lat": 39.0631,
-      "lon": -108.5565,
+      "lat": 39.0672,
+      "lon": -108.5572,
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -479,11 +490,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+          "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -494,8 +510,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "970-986-6126",
-      "lat": 39.064,
-      "lon": -108.55557,
+      "lat": 39.0672,
+      "lon": -108.5572,
       "tags": [
         "electrical"
       ],
@@ -531,12 +547,16 @@
       ],
       "postalCode": "81501",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+          "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

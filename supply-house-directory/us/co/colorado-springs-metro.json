@@ -351,8 +351,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17195961333",
-      "lat": 38.87657,
-      "lon": -104.6959,
+      "lat": 38.870465,
+      "lon": -104.722245,
       "brandsRep": [
         "Blazer Electric Supply"
       ],
@@ -373,11 +373,16 @@
       "postalCode": "80915",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
+          "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

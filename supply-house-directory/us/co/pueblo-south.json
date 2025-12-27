@@ -133,8 +133,8 @@
       "city": "Pueblo",
       "state": "CO",
       "phone": "+17195464444",
-      "lat": 38.2658,
-      "lon": -104.6087,
+      "lat": 38.2662,
+      "lon": -104.6108,
       "brandsRep": [
         "Blazer Electric Supply"
       ],
@@ -155,15 +155,16 @@
       "postalCode": "81003",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://blazerelectric.com/locations/"
+          "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
+          "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
