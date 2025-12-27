@@ -579,7 +579,7 @@
         "Lithonia"
       ],
       "manufacturersPartsFor": [],
-      "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27. Google Maps: https://maps.app.goo.gl/y2nsHYLPrUabmM3BA",
+      "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27.",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -601,8 +601,7 @@
         "Controls"
       ],
       "sources": [
-        "https://buy.wesco.com/content/kvasupply",
-        "https://maps.app.goo.gl/y2nsHYLPrUabmM3BA"
+        "https://buy.wesco.com/content/kvasupply"
       ],
       "trades": [
         "Electrical"

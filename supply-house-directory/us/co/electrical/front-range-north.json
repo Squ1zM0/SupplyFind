@@ -560,6 +560,6 @@
     "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
     "2025-12-26: Added CED Fort Collins and Border States Greeley locations identified in expansion research.",
     "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply, WESCO, Crescent Electric, and City Electric Supply Fort Collins branches. All verified via official sources.",
-    "2025-12-27: WESCO audit and correction - Removed invalid WESCO Fort Collins entry (133 Commerce Dr). Per verified ground truth, WESCO operates only 2 locations in Colorado: KVA Supply Co (Denver) and WESCO (Pueblo)."
+    "2025-12-27: WESCO audit - Removed invalid Fort Collins entry per ground truth verification (only 2 CO locations exist)."
   ]
 }
