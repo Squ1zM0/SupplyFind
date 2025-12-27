@@ -152,6 +152,7 @@
       "address1": "2650 W 3rd Ave, Unit 3",
       "phone": "303-742-8888",
       "website": "https://www.superiorfiltrationproducts.com/",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=39.720814,-105.019696",
       "lat": 39.72073,
       "lon": -105.01978,
       "coordsStatus": "verified",
@@ -162,7 +163,8 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.superiorfiltrationproducts.com/contact",
-          "https://www.mapquest.com/us/colorado/superior-filtration-products-452140943"
+          "https://www.mapquest.com/us/colorado/superior-filtration-products-452140943",
+          "https://maps.app.goo.gl/NXU4pikefSDxxnxJ7"
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
