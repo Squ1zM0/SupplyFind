@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
-      "name": "Lennox Stores – Pueblo",
+      "name": "Lennox Stores \u2013 Pueblo",
       "chain": "Lennox Stores",
       "address1": "3920 N Freeway Rd",
       "city": "Pueblo",
@@ -34,15 +34,18 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "LennoxPros store locator"
+      ]
     },
     {
       "id": "co-pueblo-comfortair-001",
-      "name": "Comfort Air Distributing – Pueblo",
+      "name": "Comfort Air Distributing \u2013 Pueblo",
       "chain": "Comfort Air Distributing",
       "address1": "120 E Industrial Blvd",
       "city": "Pueblo West",
@@ -78,15 +81,15 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-pueblo-rampart-001",
-      "name": "Rampart Supply – Pueblo",
+      "name": "Rampart Supply \u2013 Pueblo",
       "chain": "Rampart Supply",
       "address1": "320 E 4th St",
       "city": "Pueblo",
@@ -208,8 +211,8 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"

@@ -86,8 +86,8 @@
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
@@ -129,8 +129,8 @@
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
@@ -145,7 +145,7 @@
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
-      "name": "Hughes Supply – Colorado Springs",
+      "name": "Hughes Supply \u2013 Colorado Springs",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -180,14 +180,14 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       }
     },
     {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply – Colorado Springs",
+      "name": "Gateway Supply \u2013 Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -253,8 +253,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
@@ -298,8 +298,8 @@
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
