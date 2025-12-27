@@ -162,56 +162,8 @@
       "arrivalType": "will_call"
     },
     {
-      "id": "cos-hajoca-hughes-plumbing",
-      "name": "Hughes Supply \u2013 Colorado Springs",
-      "chain": "Hajoca (Hughes Supply)",
-      "trade": "plumbing",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "postalCode": "80907",
-      "address1": "4350 Sinton Rd",
-      "phone": "719-598-8111",
-      "website": "https://hughessupply.com/",
-      "lat": 38.8891,
-      "lon": -104.8319,
-      "coordsStatus": "verified",
-      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "AO Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.889156,
-      "arrivalLon": -104.831844,
-      "arrivalType": "will_call"
-    },
-    {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply \u2013 Colorado Springs",
+      "name": "Gateway Supply – Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
