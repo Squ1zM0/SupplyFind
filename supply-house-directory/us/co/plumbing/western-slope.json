@@ -16,16 +16,11 @@
       "postalCode": "81501",
       "phone": "970-243-8570",
       "website": "",
-      "lat": 39.06156,
-      "lon": -108.558239,
+      "lat": 39.062388,
+      "lon": -108.553339,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -50,9 +45,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.fernco.com/locations/united-states/wholesale-plumbing/ferguson/81501",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
       ],
       "trades": [
         "HVAC",
@@ -61,8 +55,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -77,16 +79,11 @@
       "postalCode": "81505",
       "phone": "970-434-3225",
       "website": "",
-      "lat": 39.104429,
-      "lon": -108.599959,
+      "lat": 39.1198,
+      "lon": -108.5843,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "",
       "tags": [
         "plumbing",
@@ -100,15 +97,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.yelp.com/biz/keenan-dahl-supply-grand-junction-2"
+        "https://dahlplumbing.com/keenan-dahl-of-grand-junction/",
+        "https://www.google.com/maps/place/Keenan-Dahl+Supply"
       ],
       "trades": [
         "Plumbing"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://dahlplumbing.com/keenan-dahl-of-grand-junction/",
+          "https://www.google.com/maps/place/Keenan-Dahl+Supply"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -123,16 +129,11 @@
       "postalCode": "81403",
       "phone": "970-252-1100",
       "website": "",
-      "lat": 38.456068,
-      "lon": -107.874862,
+      "lat": 38.473785,
+      "lon": -107.892914,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -157,9 +158,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.waze.com/live-map/directions/us/co/montrose/ferguson-plumbing-supply?to=place.ChIJ_7g1hvBQP4cRyHPaVHEK3Ww",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805",
+        "https://www.google.com/maps/place/Ferguson+Montrose"
       ],
       "trades": [
         "HVAC",
@@ -168,8 +168,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805",
+          "https://www.google.com/maps/place/Ferguson+Montrose"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -184,16 +192,11 @@
       "postalCode": "81303",
       "phone": "970-259-5005",
       "website": "",
-      "lat": 37.267884,
-      "lon": -107.879903,
+      "lat": 37.222682,
+      "lon": -107.871575,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -217,9 +220,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.yelp.com/biz/ferguson-home-durango",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+        "https://www.google.com/maps/place/Ferguson+Home+Durango"
       ],
       "trades": [
         "HVAC",
@@ -228,8 +230,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+          "https://www.google.com/maps/place/Ferguson+Home+Durango"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -244,16 +254,11 @@
       "postalCode": "80446",
       "phone": "970-887-2426",
       "website": "",
-      "lat": 40.089571,
-      "lon": -105.942013,
+      "lat": 40.0794,
+      "lon": -105.9378,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -277,9 +282,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.destinationgranby.com/listing/ferguson-plumbing-supply/661/",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+        "https://www.google.com/maps/place/Ferguson+Granby"
       ],
       "trades": [
         "HVAC",
@@ -288,8 +292,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+          "https://www.google.com/maps/place/Ferguson+Granby"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -304,16 +316,11 @@
       "postalCode": "80498",
       "phone": "970-262-6171",
       "website": "",
-      "lat": 39.63942,
-      "lon": -106.07499,
+      "lat": 39.6399,
+      "lon": -106.0821,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -339,8 +346,7 @@
       "services": [],
       "sources": [
         "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.google.com/maps/place/Ferguson+Silverthorne"
       ],
       "trades": [
         "HVAC",
@@ -349,8 +355,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
+          "https://www.google.com/maps/place/Ferguson+Silverthorne"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -382,7 +396,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -425,7 +442,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -468,7 +488,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -511,7 +534,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -537,8 +563,8 @@
       "postalCode": "81601",
       "phone": "970-945-5858",
       "website": "https://www.ferguson.com/",
-      "lat": 39.54578,
-      "lon": -107.3365,
+      "lat": 39.517095,
+      "lon": -107.31335,
       "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
@@ -556,16 +582,23 @@
       "manufacturersPartsFor": [],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), pipe, valves and fittings. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/glenwood+springs/plumbingpvf-2705",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Glenwood+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/glenwood+springs/plumbingpvf-2705",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Glenwood+Springs"
       ],
       "trades": [
         "HVAC",
@@ -600,7 +633,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Winsupply",
       "partsFor": [
@@ -625,8 +661,8 @@
       "postalCode": "81321",
       "phone": "970-565-6052",
       "website": "",
-      "lat": 37.3503,
-      "lon": -108.5858,
+      "lat": 37.34946,
+      "lon": -108.58541,
       "coordsStatus": "verified",
       "brandsRep": [
         "Pfister",
@@ -638,8 +674,16 @@
       "manufacturersPartsFor": [],
       "notes": "Independent local plumbing supply house serving southwest Colorado since 1993. Wholesale and contractor supply for plumbing fixtures, parts, pumps, water heaters, and fittings. Highly rated for customer service and expertise. Source: Yellow Pages, Chamber of Commerce listings, verified 2025-12-26",
       "verification": {
-        "coords_verified": "2025-12-26",
-        "storefront_confirmed": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Plumbing+Store+Cortez",
+          "https://www.mapquest.com/us/colorado/plumbing-store-inc-10112283"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing Fixtures",
@@ -648,8 +692,8 @@
         "Fittings"
       ],
       "sources": [
-        "https://www.yellowpages.com/cortez-co/mip/plumbing-store-inc-12701950",
-        "https://www.chamberofcommerce.com/business-directory/colorado/cortez/plumbing-supply-store/31327180-the-plumbing-store-inc"
+        "https://www.google.com/maps/place/Plumbing+Store+Cortez",
+        "https://www.mapquest.com/us/colorado/plumbing-store-inc-10112283"
       ],
       "trades": [
         "Plumbing"

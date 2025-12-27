@@ -33,7 +33,10 @@
         "sources": [
           "https://www.coloradoairfilter.com/",
           "https://www.alignable.com/denver-co/colorado-air-filter-llc/filtration"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -69,7 +72,10 @@
         "sources": [
           "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
           "https://catalog.camfil.us/all-locations/united-states/colorado/denver/camfil-denver-dba-air-filter-solutions/"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -103,7 +109,10 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.alpineairfilterandcleanrooms.com/"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -136,7 +145,10 @@
         "sources": [
           "https://www.superiorfiltrationproducts.com/contact",
           "https://www.mapquest.com/us/colorado/superior-filtration-products-452140943"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -177,7 +189,10 @@
         "sources": [
           "https://www.airforcefilter.com",
           "https://www.mapquest.com/us/colorado/air-force-filter-43068373"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -209,7 +224,10 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://scanaircolorado.com/contact/"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",
@@ -232,8 +250,8 @@
       "address1": "1861 West 64th Lane",
       "phone": "303-428-2800",
       "website": "https://www.airpurificationcompany.com/",
-      "lat": 39.812920,
-      "lon": -105.011340,
+      "lat": 39.81292,
+      "lon": -105.01134,
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
@@ -243,7 +261,10 @@
         "sources": [
           "https://www.airpurificationcompany.com/",
           "https://www.thebluebook.com/iProView/1263/air-purification-co/material-suppliers/"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",

@@ -12,8 +12,8 @@
       "city": "Sterling",
       "state": "CO",
       "phone": "+19705801912",
-      "lat": 40.625604,
-      "lon": -103.215867,
+      "lat": 40.63324,
+      "lon": -103.20035,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -40,9 +40,8 @@
       ],
       "website": "",
       "sources": [
-        "https://sterlingco.portalced.com/",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://sterlingco.portalced.com/ContactUs",
+        "https://www.google.com/maps/place/CED+Sterling"
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "trades": [
@@ -51,8 +50,16 @@
       "postalCode": "80751",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://sterlingco.portalced.com/ContactUs",
+          "https://www.google.com/maps/place/CED+Sterling"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -63,8 +70,8 @@
       "city": "Sterling",
       "state": "CO",
       "phone": "+19705226161",
-      "lat": 40.625551,
-      "lon": -103.209379,
+      "lat": 40.6297,
+      "lon": -103.21008,
       "brandsRep": [
         "Crescent Electric Supply"
       ],
@@ -77,7 +84,8 @@
       ],
       "website": "",
       "sources": [
-        "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+        "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
+        "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
       ],
       "trades": [
         "Electrical"
@@ -85,8 +93,16 @@
       "postalCode": "80751",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
+          "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     }
   ]

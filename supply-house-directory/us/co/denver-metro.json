@@ -13,7 +13,7 @@
   "branches": [
     {
       "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing \u2013 Englewood (South Denver)",
+      "name": "Baker Distributing – Englewood (South Denver)",
       "chain": "Baker Distributing",
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
@@ -40,13 +40,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
+      "name": "Baker Distributing – Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -74,7 +77,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -127,20 +133,23 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson \u2013 Denver",
+      "name": "Gustave A. Larson – Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
       "state": "CO",
       "phone": "+13038921550",
-      "lat": 39.8072,
-      "lon": -104.9786,
+      "lat": 39.805763,
+      "lon": -104.977661,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -158,7 +167,7 @@
       ],
       "sources": [
         "https://www.galarson.com/locations",
-        "https://www.achrnews.com/directories/2937-hvacr-directory/listing/10077-gustave-a-larson-co"
+        "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
       ],
       "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "trades": [
@@ -166,9 +175,16 @@
       ],
       "postalCode": "80216",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.galarson.com/locations",
+          "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -211,20 +227,23 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply \u2013 Denver (#5)",
+      "name": "Johnstone Supply – Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
       "state": "CO",
       "phone": "+13035735626",
-      "lat": 39.7279,
-      "lon": -105.0219,
+      "lat": 39.72843,
+      "lon": -105.02131,
       "brandsRep": [
         "Goodman",
         "Amana",
@@ -243,8 +262,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.johnstonesupply.com/store5/contact-us",
-        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Denver"
       ],
       "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "trades": [
@@ -252,9 +271,16 @@
       ],
       "postalCode": "80204-4114",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -290,13 +316,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
+      "name": "Lohmiller & Company (Carrier West) – Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -328,13 +357,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
+      "name": "Lohmiller & Company (Carrier West) – Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -365,20 +397,23 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
       "state": "CO",
       "phone": "+13035685300",
-      "lat": 39.783,
-      "lon": -105.0066,
+      "lat": 39.7821,
+      "lon": -105.0112,
       "brandsRep": [
         "Carrier",
         "Copeland",
@@ -400,9 +435,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.rsd.net/store/0072-denver-co",
-        "https://www.mapquest.com/us/colorado/refrigeration-supplies-distributor-380660905",
-        "https://www.rsd.net/manufacturers/"
+        "https://www.rsd.net/locations/?storenumber=72",
+        "https://www.google.com/maps/place/RSD+Denver"
       ],
       "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
       "trades": [
@@ -410,15 +444,22 @@
       ],
       "postalCode": "80221",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official RSD Locations",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rsd.net/locations/?storenumber=72",
+          "https://www.google.com/maps/place/RSD+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply \u2013 Denver (Bryant)",
+      "name": "Trane Supply – Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -444,21 +485,24 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration \u2013 Denver",
+      "name": "United Refrigeration – Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
       "city": "Denver",
       "state": "CO",
       "phone": "+13037449100",
-      "lat": 39.7127,
-      "lon": -105.005,
+      "lat": 39.713585,
+      "lon": -105.004059,
       "brandsRep": [
         "Copeland",
         "Daikin",
@@ -477,10 +521,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.achrnews.com/directories/2937-hvacr-directory/listing/15246-united-refrigeration-inc-denver-co",
-        "https://www.mapquest.com/us/colorado/united-refrigeration-9987080",
-        "https://www.yelp.com/biz/united-refrigeration-denver",
-        "https://www.uri.com/"
+        "https://www.uri.com",
+        "https://www.google.com/maps/place/United+Refrigeration+Denver"
       ],
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
@@ -488,9 +530,16 @@
       ],
       "postalCode": "80223-1781",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & URI Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.uri.com",
+          "https://www.google.com/maps/place/United+Refrigeration+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -529,7 +578,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -568,13 +620,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Denver",
+      "name": "Lennox Stores – Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -601,13 +656,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Aurora",
+      "name": "Lennox Stores – Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -634,13 +692,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Denver",
+      "name": "HVAC Distributors Co – Denver",
       "chain": "HVAC Distributors Co",
       "address1": "4900 Washington St",
       "city": "Denver",
@@ -673,13 +734,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors \u2013 Denver",
+      "name": "A/C Distributors – Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -713,13 +777,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Commerce City",
+      "name": "HVAC Distributors Co – Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -752,13 +819,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors \u2013 Thornton",
+      "name": "A/C Distributors – Thornton",
       "chain": "A/C Distributors",
       "address1": "899 E 84th Ave",
       "city": "Thornton",
@@ -792,13 +862,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-englewood-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Englewood",
+      "name": "Comfort Air Distributing – Englewood",
       "chain": "Comfort Air Distributing",
       "address1": "333 W Hampden Ave",
       "city": "Englewood",
@@ -833,13 +906,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir \u2013 Wheat Ridge",
+      "name": "WinAir – Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -870,13 +946,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing \u2013 Centennial",
+      "name": "Comfort Air Distributing – Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "7347 S Revere Pkwy",
       "city": "Centennial",
@@ -911,20 +990,23 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD \u2013 Centennial",
+      "name": "RSD – Centennial",
       "chain": "RSD",
-      "address1": "6825 S Galena St",
+      "address1": "7184 S Revere Pkwy, Building 2",
       "city": "Centennial",
       "state": "CO",
-      "phone": "+13037904000",
-      "lat": 39.5951,
-      "lon": -104.8895,
+      "phone": "(303) 792-2354",
+      "lat": 39.5869,
+      "lon": -104.8276,
       "tags": [
         "hvac",
         "equipment",
@@ -946,24 +1028,32 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
+      "notes": "RSD Store #74. HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Relocated from 6825 S Galena St. Address verified via Google Business Profile and official RSD store locator (Store #74), 2025-12-27.",
       "sources": [
-        "https://www.rsd.net/manufacturers/"
+        "https://www.rsd.net/store/0074-centennial-co",
+        "https://www.google.com/maps/place/RSD+Centennial"
       ],
       "trades": [
         "HVAC"
       ],
       "postalCode": "80112",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official RSD Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rsd.net/store/0074-centennial-co",
+          "https://www.google.com/maps/place/RSD+Centennial"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps pin + verified geocoding services"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply \u2013 Denver",
+      "name": "Rampart Supply – Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
@@ -995,7 +1085,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -1037,8 +1130,7 @@
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/store-locator"
       ],
       "trades": [
         "Electrical"
@@ -1051,7 +1143,10 @@
           "https://www.graybar.com/store-locator"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1093,7 +1188,7 @@
       ],
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver/7325"
       ],
       "trades": [
         "Electrical"
@@ -1106,7 +1201,10 @@
           "https://www.rexelusa.com/locations/co/denver/7325"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1148,7 +1246,7 @@
       ],
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver/3201"
       ],
       "trades": [
         "Electrical"
@@ -1161,7 +1259,10 @@
           "https://www.rexelusa.com/locations/co/denver/3201"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1204,8 +1305,7 @@
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.cedColorado.com/locations"
       ],
       "trades": [
         "Electrical"
@@ -1218,7 +1318,10 @@
           "https://www.cedColorado.com/locations"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1229,8 +1332,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13039960111",
-      "lat": 39.719771,
-      "lon": -105.019647,
+      "lat": 39.718955,
+      "lon": -105.019012,
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -1260,16 +1363,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+        "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80219",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+          "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -1323,7 +1434,10 @@
           "https://www.mapquest.com/us/colorado/border-states-electric-421028189"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1369,7 +1483,10 @@
           "https://www.cesco.com/locations"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1410,7 +1527,7 @@
       ],
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.wesco.com/us/en/locations.html"
       ],
       "trades": [
         "Electrical"
@@ -1423,7 +1540,10 @@
           "https://www.wesco.com/us/en/locations.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1468,7 +1588,10 @@
           "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1511,7 +1634,10 @@
           "https://qeddistribution.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1552,7 +1678,7 @@
       ],
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.wesco.com/us/en/locations.html"
       ],
       "trades": [
         "Electrical"
@@ -1565,7 +1691,10 @@
           "https://www.wesco.com/us/en/locations.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1610,7 +1739,10 @@
           "https://www.selectdistributing.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -1643,8 +1775,7 @@
       ],
       "notes": "HVAC, refrigeration, and hydronics wholesaler. Part of Winsupply network. Hours: M-F 7:00 AM - 4:30 PM. Source: North Denver Winair official website, verified 2025-12-26",
       "sources": [
-        "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies/contact-us",
-        "https://www.chamberofcommerce.com/business-directory/colorado/denver/air-conditioning-contractor/2001522446-north-denver-winair"
+        "https://www.winair.us/locations/"
       ],
       "trades": [
         "HVAC"
@@ -1657,7 +1788,10 @@
           "https://www.winair.us/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     }
   ]

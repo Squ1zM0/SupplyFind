@@ -29,7 +29,10 @@
         "sources": [
           "https://cleanair.camfil.us/camfil-usa-airfilters-colorado-springs-co/",
           "https://catalog.camfil.us/all-locations/united-states/colorado/colorado-springs/camfil-colorado-springs/"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "HVAC Air Filters",

@@ -16,8 +16,8 @@
       "postalCode": "81504",
       "phone": "970-434-1374",
       "website": "https://www.johnstonesupply.com/",
-      "lat": 39.090746,
-      "lon": -108.497946,
+      "lat": 39.08907,
+      "lon": -108.51499,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -46,16 +46,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.johnstonesupply.com/",
-        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
       ],
       "trades": [
         "HVAC"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -70,16 +78,11 @@
       "postalCode": "81504-5490",
       "phone": "970-245-6278",
       "website": "https://www.galarson.com/locations",
-      "lat": 39.07755,
-      "lon": -108.50059,
+      "lat": 39.0781,
+      "lon": -108.5454,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "tags": [
         "hvac",
@@ -98,15 +101,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.galarson.com/locations"
+        "https://www.galarson.com/locations",
+        "https://www.google.com/maps/place/Gustave+A+Larson+Grand+Junction"
       ],
       "trades": [
         "HVAC"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.galarson.com/locations",
+          "https://www.google.com/maps/place/Gustave+A+Larson+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -121,16 +133,11 @@
       "postalCode": "81303",
       "phone": "(970) 382-8075",
       "website": "https://www.johnstonesupply.com",
-      "lat": 37.24522,
-      "lon": -107.88103,
+      "lat": 37.2417,
+      "lon": -107.8689,
       "coverage": "regional",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Serves southwestern Colorado HVAC contractors",
       "tags": [
         "hvac",
@@ -150,16 +157,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.johnstonesupply.com/",
-        "https://www.mystore411.com/store/list_state/1508/Colorado/Johnstone-Supply-store-locations"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Durango"
       ],
       "trades": [
         "HVAC"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple HVAC Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Durango"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -174,16 +189,11 @@
       "postalCode": "81504",
       "phone": "(970) 256-0700",
       "website": "https://www.sidharvey.com/",
-      "lat": 39.07632,
-      "lon": -108.48956,
+      "lat": 39.082866,
+      "lon": -108.527343,
       "coverage": "regional",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Western slope HVAC distributor",
       "tags": [
         "hvac",
@@ -204,15 +214,23 @@
       "services": [],
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/Locations",
-        "https://supplynearme.com/hvac-supply/sidharveys"
+        "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
       ],
       "trades": [
         "HVAC"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.sidharvey.com/wps/portal/c/Locations",
+          "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     }
   ],

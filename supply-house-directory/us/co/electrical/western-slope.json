@@ -16,16 +16,11 @@
       "postalCode": "81303",
       "phone": "970-259-1530",
       "website": "",
-      "lat": 37.227571,
-      "lon": -107.877494,
+      "lat": 37.248569,
+      "lon": -107.880653,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "tags": [
         "electrical",
@@ -53,17 +48,24 @@
       ],
       "services": [],
       "sources": [
-        "https://ceddgo.com/contact/",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.google.com/maps/place/CED+Durango",
+        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-10111472"
       ],
       "trades": [
         "Electrical"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/CED+Durango",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-10111472"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -78,16 +80,11 @@
       "postalCode": "81501",
       "phone": "970-243-1430",
       "website": "",
-      "lat": 39.0592,
-      "lon": -108.5545,
+      "lat": 39.063842,
+      "lon": -108.553675,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "tags": [
         "electrical",
@@ -116,16 +113,23 @@
       "services": [],
       "sources": [
         "https://gjced.portalced.com/ContactUs",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.google.com/maps/place/CED+Grand+Junction"
       ],
       "trades": [
         "Electrical"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://gjced.portalced.com/ContactUs",
+          "https://www.google.com/maps/place/CED+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -140,16 +144,11 @@
       "postalCode": "81501",
       "phone": "970-986-6126",
       "website": "",
-      "lat": 39.0631,
-      "lon": -108.5565,
+      "lat": 39.0672,
+      "lon": -108.5572,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "tags": [
         "electrical",
@@ -176,16 +175,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction",
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
       ],
       "trades": [
         "Electrical"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+          "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -226,7 +233,10 @@
           "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -236,7 +246,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
       ],
       "trades": [
         "Electrical"
@@ -253,8 +263,8 @@
       "address1": "5392 County Road 154",
       "phone": "(970) 945-8265",
       "website": "https://cedcareers.com/",
-      "lat": 39.3827,
-      "lon": -107.2742,
+      "lat": 39.473915,
+      "lon": -107.271553,
       "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
@@ -276,12 +286,16 @@
       "manufacturersPartsFor": [],
       "notes": "CED electrical supply serving Roaring Fork Valley. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
+          "https://www.google.com/maps/place/CED+Glenwood+Springs",
           "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",
@@ -291,8 +305,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.google.com/maps/place/CED+Glenwood+Springs",
+        "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
       ],
       "trades": [
         "Electrical"
@@ -338,7 +352,10 @@
           "https://www.chamberofcommerce.com/united-states/colorado/montrose/electric-utility-company/31328644-consolidated-electrical-distributors"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -348,8 +365,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.loc8nearme.com/colorado/montrose/consolidated-electrical-distribution/3246381/",
+        "https://www.chamberofcommerce.com/united-states/colorado/montrose/electric-utility-company/31328644-consolidated-electrical-distributors"
       ],
       "trades": [
         "Electrical"
@@ -394,7 +411,10 @@
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -404,8 +424,7 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
       ],
       "trades": [
         "Electrical"
@@ -443,7 +462,10 @@
           "https://www.yellowpages.com/craig-co/mip/consolidated-electrical-distributors-7039976"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -488,7 +510,10 @@
           "https://www.steamboatchamber.com/listing/ced-consolidated-electrical-distributors-inc/2417/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -533,7 +558,10 @@
           "https://www.yellowpages.com/montrose-co/mip/rexel-579075374"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",

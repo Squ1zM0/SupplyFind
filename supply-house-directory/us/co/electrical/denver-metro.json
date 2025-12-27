@@ -37,7 +37,10 @@
           "https://www.mapquest.com/us/colorado/anixter-419978905"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -87,7 +90,10 @@
           "https://solutions.borderstates.com/branch-locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -143,7 +149,10 @@
           "https://www.engproducts.com/distributor/denver/co/ced"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -153,8 +162,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://denver.portalced.com/",
+        "https://www.engproducts.com/distributor/denver/co/ced"
       ],
       "trades": [
         "Electrical"
@@ -171,8 +180,8 @@
       "address1": "2630 W 2nd Ave",
       "phone": "303-996-0111",
       "website": "https://www.cityelectricsupply.com/branch/301",
-      "lat": 39.719771,
-      "lon": -105.019647,
+      "lat": 39.718955,
+      "lon": -105.019012,
       "coordsStatus": "verified",
       "brandsRep": [
         "Southwire",
@@ -193,14 +202,16 @@
       "manufacturersPartsFor": [],
       "notes": "CES/Colorado Electric Supply branch; coordinates sourced from public directory and should be re-verified. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "coords_attempted": "2025-12-25",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.yellowpages.com/denver-co/bpp/city-electric-supply-denver-central-508773457",
-          "https://www.merchantcircle.com/Colorado.Electric.Supply.303-996-0111"
+          "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+          "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",
@@ -210,7 +221,8 @@
         "Controls"
       ],
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+        "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
       ],
       "trades": [
         "Electrical"
@@ -248,7 +260,10 @@
           "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -299,7 +314,10 @@
           "https://www.graybar.com/store/DECO/co/denver"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -309,8 +327,8 @@
         "Controls"
       ],
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/store/DESC/co/denver",
+        "https://www.graybar.com/store/DECO/co/denver"
       ],
       "trades": [
         "Electrical"
@@ -346,7 +364,10 @@
           "https://www.mapquest.com/us/colorado/qed-inc-23650314"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -397,7 +418,10 @@
           "https://www.rexelusa.com/locations/co/denver/7325"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -407,7 +431,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver/7325"
       ],
       "trades": [
         "Electrical"
@@ -451,7 +475,10 @@
           "https://www.rexelusa.com/locations/co/denver-east/3201"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -461,7 +488,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver-east/3201"
       ],
       "trades": [
         "Electrical"
@@ -505,7 +532,10 @@
           "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -515,7 +545,8 @@
         "Controls"
       ],
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.engproducts.com/distributor/denver/co/wesco",
+        "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
       ],
       "trades": [
         "Electrical"
@@ -558,7 +589,10 @@
           "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -568,7 +602,7 @@
         "Controls"
       ],
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
       ],
       "trades": [
         "Electrical"
@@ -612,7 +646,10 @@
           "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -622,7 +659,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
       ],
       "trades": [
         "Electrical"
@@ -666,7 +703,10 @@
           "https://www.rexelusa.com/locations/co/centennial/7611"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -676,7 +716,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/centennial/7611"
       ],
       "trades": [
         "Electrical"
@@ -722,7 +762,10 @@
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -732,8 +775,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedcentennial.portalced.com/",
+        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
       ],
       "trades": [
         "Electrical"
@@ -778,7 +821,10 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -788,7 +834,8 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/CO/Denver/7325",
+        "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
       ],
       "trades": [
         "Electrical"
@@ -830,7 +877,10 @@
           "https://solutions.borderstates.com/branch-locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -878,7 +928,10 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/2031792612-elliott-electric-supply"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -922,7 +975,10 @@
           "https://www.elliottelectric.com/locations/195/CO/Centennial.aspx"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -966,7 +1022,10 @@
           "https://www.thebluebook.com/iProView/1578187/wesco-distribution-inc/subcontractors/locations-contacts/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -1010,7 +1069,10 @@
           "https://www.yellowpages.com/boulder-co/mip/city-electric-supply-boulder-472810970"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -1053,7 +1115,10 @@
           "https://www.manta.com/c/mm3jbz1/city-electric-supply-denver-south"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -1096,7 +1161,10 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/broomfield/electrical-supply-store/36695964-city-electric-supply-broomfield"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",

@@ -17,7 +17,7 @@
       "phone": "970-254-9043",
       "website": "",
       "lat": 39.064678,
-      "lon": -108.567340,
+      "lon": -108.56734,
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
@@ -27,7 +27,10 @@
         "sources": [
           "https://www.yellowpages.com/grand-junction-co/mip/filter-supply-466048815",
           "https://listings.allpages.com/co-0139983162-grand-junction.html"
-        ]
+        ],
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Industrial Filtration",

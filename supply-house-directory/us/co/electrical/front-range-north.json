@@ -18,10 +18,19 @@
       "website": "https://www.graybar.com/",
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
-      "lat": 40.5204,
-      "lon": -105.0511,
+      "lat": 40.529253,
+      "lon": -105.061632,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/locations",
+          "https://www.google.com/maps/place/Graybar+Fort+Collins"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "brandsRep": [
         "ABB",
@@ -46,8 +55,8 @@
         "Controls"
       ],
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/locations",
+        "https://www.google.com/maps/place/Graybar+Fort+Collins"
       ],
       "trades": [
         "Electrical"
@@ -61,15 +70,24 @@
       "city": "Greeley",
       "state": "CO",
       "postalCode": "80631",
-      "address1": "1427 17th St",
+      "address1": "1843 2nd Ave",
       "phone": "970-353-1850",
       "website": "https://www.ced.com/",
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "lat": 40.4233,
-      "lon": -104.709,
+      "lat": 40.4251,
+      "lon": -104.701,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://cedgreeley.com/",
+          "https://www.google.com/maps/place/CED+Greeley"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "brandsRep": [
         "Square D",
@@ -96,8 +114,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedgreeley.com/",
+        "https://www.google.com/maps/place/CED+Greeley"
       ],
       "trades": [
         "Electrical"
@@ -141,7 +159,10 @@
           "https://www.rexelusa.com/locations/co/greeley/3255"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -151,7 +172,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/greeley/3255"
       ],
       "trades": [
         "Electrical"
@@ -195,7 +216,10 @@
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -205,7 +229,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/ft-collins/7619"
       ],
       "trades": [
         "Electrical"
@@ -251,7 +275,10 @@
           "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -261,8 +288,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedfortcollins.portalced.com/ContactUs",
+        "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
       ],
       "trades": [
         "Electrical"
@@ -305,7 +332,10 @@
           "https://servlectric.com/branch/border-states-greeley-2414-4th-ave-greeley-co-80631"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -353,7 +383,10 @@
           "https://www.youtube.com/watch?v=zD9eAK_hFxA"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -397,7 +430,10 @@
           "https://www.finduslocal.com/electric-equipment-supplies-wholesale/colorado/fort-collins/wesco-distributing-inc"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -440,7 +476,10 @@
           "https://www.crescentelectric.com/locations/co/fort-collins/1404-e-magnolia-st"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -464,8 +503,8 @@
       "address1": "2415 E Mulberry St, Suite 5",
       "phone": "970-493-0101",
       "website": "https://www.cityelectricsupply.com",
-      "lat": 40.583624,
-      "lon": -105.026573,
+      "lat": 40.5854,
+      "lon": -105.0432,
       "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
@@ -478,12 +517,16 @@
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/contractors/electrical-lighting/electrical-supply-store/"
+          "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+          "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",
@@ -493,6 +536,10 @@
       ],
       "trades": [
         "Electrical"
+      ],
+      "sources": [
+        "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+        "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
       ]
     }
   ],

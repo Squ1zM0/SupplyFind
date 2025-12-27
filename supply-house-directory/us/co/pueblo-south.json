@@ -33,7 +33,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -74,7 +77,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -112,7 +118,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -124,8 +133,8 @@
       "city": "Pueblo",
       "state": "CO",
       "phone": "+17195464444",
-      "lat": 38.2658,
-      "lon": -104.6087,
+      "lat": 38.2662,
+      "lon": -104.6108,
       "brandsRep": [
         "Blazer Electric Supply"
       ],
@@ -138,7 +147,8 @@
       ],
       "website": "https://www.buyblazer.com/",
       "sources": [
-        "https://www.buyblazer.com/"
+        "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
+        "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
       ],
       "trades": [
         "Electrical"
@@ -146,12 +156,16 @@
       "postalCode": "81003",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://blazerelectric.com/locations/"
+          "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
+          "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -193,7 +207,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     }

@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey \u2013 Fort Collins",
+      "name": "Sid Harvey – Fort Collins",
       "chain": "Sid Harvey",
       "address1": "4000 S College Ave",
       "city": "Fort Collins",
@@ -39,13 +39,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Loveland",
+      "name": "Comfort Air Distributing – Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -80,13 +83,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Loveland",
+      "name": "Lennox Stores – Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -113,13 +119,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Greeley",
+      "name": "WinSupply HVAC – Greeley",
       "chain": "WinSupply HVAC",
       "address1": "2315 6th Ave",
       "city": "Greeley",
@@ -150,21 +159,24 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
+      "name": "Ferguson Plumbing Supply – Fort Collins",
       "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
       "state": "CO",
       "phone": "+19704821722",
       "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.585258,
-      "lon": -105.084419,
+      "lat": 40.6104,
+      "lon": -105.0229,
       "brandsRep": [
         "Residential HVAC",
         "Commercial HVAC",
@@ -185,7 +197,8 @@
       ],
       "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-0112. Source: Ferguson official website, verified 2025-12-26",
       "sources": [
-        "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112"
+        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
       ],
       "trades": [
         "HVAC",
@@ -194,9 +207,16 @@
       "primaryTrade": "Plumbing",
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -208,8 +228,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-776-6400",
-      "lat": 40.58048,
-      "lon": -105.03158,
+      "lat": 40.5854,
+      "lon": -105.0432,
       "tags": [
         "electrical"
       ],
@@ -238,16 +258,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+        "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+          "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -259,8 +287,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-484-4377",
-      "lat": 40.58544,
-      "lon": -105.04535,
+      "lat": 40.6001,
+      "lon": -105.0252,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -290,17 +318,24 @@
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.cedal.com/locations",
+        "https://www.google.com/maps/place/CED+Fort+Collins"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.cedal.com/locations",
+          "https://www.google.com/maps/place/CED+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -312,8 +347,8 @@
       "city": "Loveland",
       "state": "CO",
       "phone": "970-663-3333",
-      "lat": 40.40289,
-      "lon": -105.04406,
+      "lat": 40.407917,
+      "lon": -105.045164,
       "tags": [
         "electrical"
       ],
@@ -342,16 +377,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+        "https://servlectric.com/branch/city-electric-supply-loveland"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80537",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+          "https://servlectric.com/branch/city-electric-supply-loveland"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -392,12 +435,15 @@
           "https://www.tranesupply.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       }
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)",
     "2025-12-26: Added Trane Supply Fort Collins location"
   ],

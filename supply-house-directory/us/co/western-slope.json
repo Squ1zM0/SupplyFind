@@ -12,8 +12,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19702438570",
-      "lat": 39.0593,
-      "lon": -108.5538,
+      "lat": 39.062388,
+      "lon": -108.553339,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -37,9 +37,8 @@
       ],
       "website": "https://www.ferguson.com/",
       "sources": [
-        "https://www.fernco.com/locations/united-states/wholesale-plumbing/ferguson/81501",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "trades": [
@@ -50,12 +49,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1804"
+          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -66,8 +69,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19704343225",
-      "lat": 39.0861,
-      "lon": -108.5259,
+      "lat": 39.1198,
+      "lon": -108.5843,
       "brandsRep": [
         "Keenan-Dahl Supply"
       ],
@@ -80,7 +83,8 @@
       ],
       "website": "http://keenandahl.com",
       "sources": [
-        "https://www.yelp.com/biz/keenan-dahl-supply-grand-junction-2"
+        "https://dahlplumbing.com/keenan-dahl-of-grand-junction/",
+        "https://www.google.com/maps/place/Keenan-Dahl+Supply"
       ],
       "trades": [
         "Plumbing"
@@ -88,12 +92,16 @@
       "postalCode": "81505",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.keenan-dahl.com/"
+          "https://dahlplumbing.com/keenan-dahl-of-grand-junction/",
+          "https://www.google.com/maps/place/Keenan-Dahl+Supply"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -104,8 +112,8 @@
       "city": "Montrose",
       "state": "CO",
       "phone": "+19702521100",
-      "lat": 38.4641,
-      "lon": -107.8596,
+      "lat": 38.473785,
+      "lon": -107.892914,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -129,9 +137,8 @@
       ],
       "website": "https://www.ferguson.com/",
       "sources": [
-        "https://www.waze.com/live-map/directions/us/co/montrose/ferguson-plumbing-supply?to=place.ChIJ_7g1hvBQP4cRyHPaVHEK3Ww",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805",
+        "https://www.google.com/maps/place/Ferguson+Montrose"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "trades": [
@@ -142,12 +149,16 @@
       "postalCode": "81403",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805"
+          "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805",
+          "https://www.google.com/maps/place/Ferguson+Montrose"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -158,8 +169,8 @@
       "city": "Durango",
       "state": "CO",
       "phone": "+19702595005",
-      "lat": 37.267884,
-      "lon": -107.879903,
+      "lat": 37.222682,
+      "lon": -107.871575,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -182,9 +193,8 @@
       ],
       "website": "https://www.fergusonhome.com/",
       "sources": [
-        "https://www.yelp.com/biz/ferguson-home-durango",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+        "https://www.google.com/maps/place/Ferguson+Home+Durango"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "trades": [
@@ -195,8 +205,16 @@
       "postalCode": "81303",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+          "https://www.google.com/maps/place/Ferguson+Home+Durango"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -207,8 +225,8 @@
       "city": "Granby",
       "state": "CO",
       "phone": "+19708872426",
-      "lat": 40.0925,
-      "lon": -105.9395,
+      "lat": 40.0794,
+      "lon": -105.9378,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -231,9 +249,8 @@
       ],
       "website": "https://www.ferguson.com/",
       "sources": [
-        "https://www.destinationgranby.com/listing/ferguson-plumbing-supply/661/",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+        "https://www.google.com/maps/place/Ferguson+Granby"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "trades": [
@@ -244,12 +261,16 @@
       "postalCode": "80446",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/granby/plumbing-supply-2091"
+          "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+          "https://www.google.com/maps/place/Ferguson+Granby"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -261,8 +282,8 @@
       "city": "Silverthorne",
       "state": "CO",
       "phone": "+19702626171",
-      "lat": 39.6297,
-      "lon": -106.0717,
+      "lat": 39.6399,
+      "lon": -106.0821,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -287,8 +308,7 @@
       "website": "https://www.ferguson.com/",
       "sources": [
         "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.google.com/maps/place/Ferguson+Silverthorne"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "trades": [
@@ -299,12 +319,16 @@
       "postalCode": "80498",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-1807"
+          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
+          "https://www.google.com/maps/place/Ferguson+Silverthorne"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -315,8 +339,8 @@
       "city": "Durango",
       "state": "CO",
       "phone": "+19702591530",
-      "lat": 37.227571,
-      "lon": -107.877494,
+      "lat": 37.248569,
+      "lon": -107.880653,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -343,9 +367,8 @@
       ],
       "website": "https://ceddgo.com/",
       "sources": [
-        "https://ceddgo.com/",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.google.com/maps/place/CED+Durango",
+        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-10111472"
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "trades": [
@@ -354,8 +377,16 @@
       "postalCode": "81303",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/CED+Durango",
+          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-10111472"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -366,8 +397,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19702431430",
-      "lat": 39.0592,
-      "lon": -108.5545,
+      "lat": 39.063842,
+      "lon": -108.553675,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -394,9 +425,8 @@
       ],
       "website": "https://gjced.portalced.com/",
       "sources": [
-        "https://gjced.portalced.com/",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://gjced.portalced.com/ContactUs",
+        "https://www.google.com/maps/place/CED+Grand+Junction"
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "trades": [
@@ -405,8 +435,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://gjced.portalced.com/ContactUs",
+          "https://www.google.com/maps/place/CED+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -417,8 +455,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19709866126",
-      "lat": 39.0631,
-      "lon": -108.5565,
+      "lat": 39.0672,
+      "lon": -108.5572,
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -444,8 +482,8 @@
       ],
       "website": "https://www.cityelectricsupply.com/",
       "sources": [
-        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction",
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "trades": [
@@ -454,8 +492,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+          "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -466,8 +512,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "970-986-6126",
-      "lat": 39.064,
-      "lon": -108.55557,
+      "lat": 39.0672,
+      "lon": -108.5572,
       "tags": [
         "electrical"
       ],
@@ -496,16 +542,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+        "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "81501",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Grand+Junction",
+          "https://www.engproducts.com/distributor/grand-junction/co/city-electric-supply-grand-junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -517,8 +571,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "970-434-1374",
-      "lat": 39.08339,
-      "lon": -108.48662,
+      "lat": 39.08907,
+      "lon": -108.51499,
       "brandsRep": [
         "Goodman",
         "Amana",
@@ -537,17 +591,24 @@
       ],
       "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "sources": [
-        "https://www.johnstonesupply.com/",
-        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
       ],
       "trades": [
         "HVAC"
       ],
       "postalCode": "81504",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     }

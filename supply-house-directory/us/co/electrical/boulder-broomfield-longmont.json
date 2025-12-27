@@ -43,7 +43,10 @@
           "https://www.rexelusa.com/locations/co/longmont/3252"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -53,7 +56,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/longmont/3252"
       ],
       "trades": [
         "Electrical"
@@ -99,7 +102,10 @@
           "https://servlectric.com/branch/consolidated-electrical-distributors-boulder-3201-walnut-st-boulder-co-80301"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -109,8 +115,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedboulder.portalced.com",
+        "https://servlectric.com/branch/consolidated-electrical-distributors-boulder-3201-walnut-st-boulder-co-80301"
       ],
       "trades": [
         "Electrical"
@@ -156,7 +162,10 @@
           "https://www.mapquest.com/us/colorado/ced-longmont-540567653"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -166,8 +175,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedlongmont.portalced.com/ContactUs",
+        "https://www.mapquest.com/us/colorado/ced-longmont-540567653"
       ],
       "trades": [
         "Electrical"

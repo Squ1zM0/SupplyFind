@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Colorado Springs",
+      "name": "Comfort Air Distributing – Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -41,20 +41,23 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply \u2013 Colorado Springs",
+      "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
-      "address1": "3320 N El Paso St",
+      "address1": "3720 E Pikes Peak Ave",
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17196350000",
-      "lat": 38.876,
-      "lon": -104.8268,
+      "lat": 38.845617,
+      "lon": -104.757164,
       "tags": [
         "hvac",
         "equipment",
@@ -73,22 +76,30 @@
       ],
       "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
       "sources": [
-        "https://www.johnstonesupply.com/"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Colorado+Springs"
       ],
       "trades": [
         "HVAC"
       ],
       "postalCode": "80907",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Colorado Springs",
+      "name": "Lennox Stores – Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -115,13 +126,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Colorado Springs",
+      "name": "WinSupply HVAC – Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
@@ -152,13 +166,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey \u2013 Colorado Springs",
+      "name": "Sid Harvey – Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -193,13 +210,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply \u2013 Colorado Springs",
+      "name": "CT Supply – Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -229,13 +249,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries \u2013 Colorado Springs",
+      "name": "Hercules Industries – Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -263,7 +286,10 @@
       "latLonSource": "MapQuest business listing (address verified; coords pending precise geocode)",
       "latLonVerifiedAt": "2025-12-25",
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "trades": [
         "HVAC"
@@ -301,8 +327,7 @@
       ],
       "website": "https://www.uri.com/",
       "sources": [
-        "https://www.uri.com/locations/Branch/408",
-        "https://www.uri.com/"
+        "https://www.uri.com/locations/"
       ],
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
@@ -316,7 +341,10 @@
           "https://www.uri.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -327,8 +355,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17195961333",
-      "lat": 38.87657,
-      "lon": -104.6959,
+      "lat": 38.870465,
+      "lon": -104.722245,
       "brandsRep": [
         "Blazer Electric Supply"
       ],
@@ -341,7 +369,8 @@
       ],
       "website": "https://www.buyblazer.com/",
       "sources": [
-        "https://www.buyblazer.com/"
+        "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
+        "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
       ],
       "trades": [
         "Electrical"
@@ -349,8 +378,16 @@
       "postalCode": "80915",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
+          "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -361,8 +398,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-380-4500",
-      "lat": 38.84663,
-      "lon": -104.74123,
+      "lat": 38.868938,
+      "lon": -104.734612,
       "tags": [
         "electrical"
       ],
@@ -390,17 +427,24 @@
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/store/CSCO",
+        "https://www.google.com/maps/place/Graybar+Colorado+Springs"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80915",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/store/CSCO",
+          "https://www.google.com/maps/place/Graybar+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -412,8 +456,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-895-1400",
-      "lat": 38.89877,
-      "lon": -104.82783,
+      "lat": 38.9105,
+      "lon": -104.7927,
       "tags": [
         "electrical"
       ],
@@ -442,16 +486,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80918",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
+          "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -463,8 +515,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "",
-      "lat": 38.85057,
-      "lon": -104.68583,
+      "lat": 38.8732,
+      "lon": -104.7204,
       "tags": [
         "electrical"
       ],
@@ -493,16 +545,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80915",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
+          "https://servlectric.com/branch/city-electric-supply-colorado-springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -514,8 +574,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-260-9446",
-      "lat": 38.90178,
-      "lon": -104.82659,
+      "lat": 38.9152,
+      "lon": -104.8003,
       "tags": [
         "plumbing"
       ],
@@ -537,8 +597,8 @@
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/colorado-springs",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
       ],
       "trades": [
         "HVAC",
@@ -547,9 +607,16 @@
       "primaryTrade": "Plumbing",
       "postalCode": "80918",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/colorado-springs",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -597,7 +664,10 @@
           "https://www.cdjco.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -624,8 +694,7 @@
       ],
       "notes": "Carrier, Bryant, and Payne distributor. Part of Carrier West network. Source: Lohmiller & Company official website, verified 2025-12-26",
       "sources": [
-        "https://www.lohmillercompany.com/locations/colorado-springs/",
-        "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/air-conditioning-system-supplier/2023557831-carrier-west"
+        "https://www.lohmiller.com/colorado-springs/"
       ],
       "trades": [
         "HVAC"
@@ -638,7 +707,10 @@
           "https://www.lohmiller.com/colorado-springs/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -688,7 +760,10 @@
           "https://www.rampartsupply.com/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       }
     }
   ],

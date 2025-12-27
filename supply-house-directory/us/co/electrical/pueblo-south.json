@@ -16,8 +16,8 @@
       "address1": "401 W 29th St",
       "phone": "719-542-1234",
       "website": "https://www.graybar.com/",
-      "lat": 38.3046,
-      "lon": -104.6147,
+      "lat": 38.29835,
+      "lon": -104.6143,
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "brandsRep": [
@@ -43,16 +43,23 @@
         "Controls"
       ],
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/locations",
+        "https://www.google.com/maps/place/Graybar+Pueblo"
       ],
       "trades": [
         "Electrical"
       ],
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/locations",
+          "https://www.google.com/maps/place/Graybar+Pueblo"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -67,16 +74,11 @@
       "postalCode": "81003",
       "phone": "719-546-4444",
       "website": "",
-      "lat": 38.264534,
-      "lon": -104.60845,
+      "lat": 38.2662,
+      "lon": -104.6108,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "",
       "tags": [
         "electrical",
@@ -90,15 +92,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.buyblazer.com/"
+        "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
+        "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
       ],
       "trades": [
         "Electrical"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
+          "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -139,7 +150,10 @@
           "https://www.rexelusa.com/locations/co/pueblo/3223"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -149,7 +163,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/pueblo/3223"
       ],
       "trades": [
         "Electrical"
@@ -195,7 +209,10 @@
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -205,8 +222,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://aecpueblo.portalced.com/ContactUs",
+        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
       ],
       "trades": [
         "Electrical"
@@ -244,7 +261,10 @@
           "https://www.manta.com/c/mmfmgjx/wesco-distribution-inc"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
