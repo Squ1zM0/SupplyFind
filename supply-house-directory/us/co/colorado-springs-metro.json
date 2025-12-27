@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing – Colorado Springs",
+      "name": "Comfort Air Distributing \u2013 Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -42,15 +42,15 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply – Colorado Springs",
+      "name": "Johnstone Supply \u2013 Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3720 E Pikes Peak Ave",
       "city": "Colorado Springs",
@@ -99,7 +99,7 @@
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores – Colorado Springs",
+      "name": "Lennox Stores \u2013 Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -127,15 +127,18 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "LennoxPros store locator"
+      ]
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC – Colorado Springs",
+      "name": "WinSupply HVAC \u2013 Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
@@ -171,11 +174,14 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ]
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey – Colorado Springs",
+      "name": "Sid Harvey \u2013 Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -211,15 +217,15 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply – Colorado Springs",
+      "name": "CT Supply \u2013 Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -254,11 +260,14 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries – Colorado Springs",
+      "name": "Hercules Industries \u2013 Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -295,7 +304,10 @@
         "HVAC"
       ],
       "postalCode": "80916",
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.herculesindustries.com/locations/"
+      ]
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
@@ -665,8 +677,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Company website and Google Maps",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       }
     },
@@ -761,8 +773,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Company website and Google Maps",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       }
     }

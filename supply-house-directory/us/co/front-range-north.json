@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey – Fort Collins",
+      "name": "Sid Harvey \u2013 Fort Collins",
       "chain": "Sid Harvey",
       "address1": "4000 S College Ave",
       "city": "Fort Collins",
@@ -44,11 +44,14 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.sidharvey.com/locations"
+      ]
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing – Loveland",
+      "name": "Comfort Air Distributing \u2013 Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -84,15 +87,15 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores – Loveland",
+      "name": "Lennox Stores \u2013 Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -120,15 +123,18 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "LennoxPros store locator"
+      ]
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC – Greeley",
+      "name": "WinSupply HVAC \u2013 Greeley",
       "chain": "WinSupply HVAC",
       "address1": "2315 6th Ave",
       "city": "Greeley",
@@ -164,11 +170,14 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ]
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Fort Collins",
+      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
       "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
@@ -436,14 +445,14 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Company website and Google Maps",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       }
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)",
     "2025-12-26: Added Trane Supply Fort Collins location"
   ],
