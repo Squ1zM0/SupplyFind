@@ -12,8 +12,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19702438570",
-      "lat": 39.0593,
-      "lon": -108.5538,
+      "lat": 39.062388,
+      "lon": -108.553339,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -50,15 +50,16 @@
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1804"
+          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

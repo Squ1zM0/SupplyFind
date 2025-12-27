@@ -16,8 +16,8 @@
       "postalCode": "81501",
       "phone": "970-243-8570",
       "website": "",
-      "lat": 39.06156,
-      "lon": -108.558239,
+      "lat": 39.062388,
+      "lon": -108.553339,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -61,11 +61,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

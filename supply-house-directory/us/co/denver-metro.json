@@ -148,8 +148,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13038921550",
-      "lat": 39.8072,
-      "lon": -104.9786,
+      "lat": 39.805763,
+      "lon": -104.977661,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -175,12 +175,16 @@
       ],
       "postalCode": "80216",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.galarson.com/locations",
+          "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -238,8 +242,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13035735626",
-      "lat": 39.7279,
-      "lon": -105.0219,
+      "lat": 39.72843,
+      "lon": -105.02131,
       "brandsRep": [
         "Goodman",
         "Amana",
@@ -267,12 +271,16 @@
       ],
       "postalCode": "80204-4114",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Official Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -1321,8 +1329,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13039960111",
-      "lat": 39.719771,
-      "lon": -105.019647,
+      "lat": 39.718955,
+      "lon": -105.019012,
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -1359,12 +1367,16 @@
       ],
       "postalCode": "80219",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+          "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

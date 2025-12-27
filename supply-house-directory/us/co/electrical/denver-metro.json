@@ -180,8 +180,8 @@
       "address1": "2630 W 2nd Ave",
       "phone": "303-996-0111",
       "website": "https://www.cityelectricsupply.com/branch/301",
-      "lat": 39.719771,
-      "lon": -105.019647,
+      "lat": 39.718955,
+      "lon": -105.019012,
       "coordsStatus": "verified",
       "brandsRep": [
         "Southwire",
@@ -202,17 +202,16 @@
       "manufacturersPartsFor": [],
       "notes": "CES/Colorado Electric Supply branch; coordinates sourced from public directory and should be re-verified. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "coords_attempted": "2025-12-25",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.yellowpages.com/denver-co/bpp/city-electric-supply-denver-central-508773457",
-          "https://www.merchantcircle.com/Colorado.Electric.Supply.303-996-0111"
+          "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+          "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-25"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",

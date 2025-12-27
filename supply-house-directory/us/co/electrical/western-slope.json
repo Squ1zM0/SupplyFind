@@ -265,8 +265,8 @@
       "address1": "5392 County Road 154",
       "phone": "(970) 945-8265",
       "website": "https://cedcareers.com/",
-      "lat": 39.3827,
-      "lon": -107.2742,
+      "lat": 39.473915,
+      "lon": -107.271553,
       "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
@@ -288,15 +288,16 @@
       "manufacturersPartsFor": [],
       "notes": "CED electrical supply serving Roaring Fork Valley. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
+          "https://www.google.com/maps/place/CED+Glenwood+Springs",
           "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Electrical",
