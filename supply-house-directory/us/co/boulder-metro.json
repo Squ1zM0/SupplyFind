@@ -145,7 +145,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ]
     },
     {
       "id": "co-longmont-ferguson-hvac-001",

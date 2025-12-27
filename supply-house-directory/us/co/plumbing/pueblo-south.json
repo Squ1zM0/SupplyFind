@@ -142,7 +142,10 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC"
+      "primaryTrade": "HVAC",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ]
     },
     {
       "id": "winsupply-salida-oak-001",

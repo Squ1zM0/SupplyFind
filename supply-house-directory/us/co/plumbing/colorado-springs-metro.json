@@ -221,7 +221,10 @@
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "abc-plumbing-cos-fillmore",

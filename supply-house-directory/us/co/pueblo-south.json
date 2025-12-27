@@ -126,7 +126,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ]
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",

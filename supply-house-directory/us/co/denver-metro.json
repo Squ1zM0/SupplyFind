@@ -85,7 +85,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.bakerdist.com/locations"
+      ]
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -497,7 +500,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.tranesupply.com/locations"
+      ]
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -758,7 +764,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "co-denver-acdist-001",
@@ -801,7 +810,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "co-commercecity-hvacdistco-001",
@@ -843,7 +855,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "co-thornton-acdist-001",
@@ -886,7 +901,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ]
     },
     {
       "id": "co-englewood-comfortair-001",
@@ -970,7 +988,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ]
     },
     {
       "id": "co-centennial-comfortair-002",
@@ -1109,7 +1130,10 @@
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ]
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
