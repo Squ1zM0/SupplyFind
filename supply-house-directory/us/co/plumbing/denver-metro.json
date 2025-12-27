@@ -428,8 +428,7 @@
       "geoSource": "Web search verified coordinates",
       "arrivalLat": 39.7971,
       "arrivalLon": -104.8675,
-      "arrivalType": "will_call",
-      "address2": ""
+      "arrivalType": "will_call"
     },
     {
       "id": "denver-gateway-supply",
