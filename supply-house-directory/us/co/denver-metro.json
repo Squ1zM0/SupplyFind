@@ -7,56 +7,12 @@
     "2025-12-26: Added source documentation for Baker Distributing, Ferguson, Hercules Industries",
     "2025-12-26: Verified physical locations for major chains via web research",
     "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal",
-    "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial."
+    "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial.",
+    "2025-12-27: Removed non-existent Baker Distributing - Englewood (South Denver) location at 3107 S Platte River Dr. Location does not exist."
   ],
   "state": "CO",
   "metro": "Denver Metro",
   "branches": [
-    {
-      "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing – Englewood (South Denver)",
-      "chain": "Baker Distributing",
-      "address1": "3107 S Platte River Dr",
-      "city": "Englewood",
-      "state": "CO",
-      "phone": "+13037831120",
-      "lat": 39.6594,
-      "lon": -104.9976,
-      "brandsRep": [
-        "Goodman",
-        "Daikin"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "tags": [
-        "residential",
-        "hvac"
-      ],
-      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80110",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "Baker Distributing store locator"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.659456,
-      "arrivalLon": -104.997544,
-      "arrivalType": "will_call"
-    },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
       "name": "Baker Distributing – Ice Design Center (Denver)",
