@@ -421,8 +421,7 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 39.783156,
       "arrivalLon": -105.006744,
-      "arrivalType": "will_call",
-      "notes": "[Arrival coordinates refined 2025-12-27: Generic entrance precision]"
+      "arrivalType": "will_call"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",

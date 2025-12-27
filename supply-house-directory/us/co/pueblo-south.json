@@ -147,8 +147,7 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 38.270466,
       "arrivalLon": -104.603264,
-      "arrivalType": "will_call",
-      "notes": "[Arrival coordinates refined 2025-12-27: Generic entrance precision]"
+      "arrivalType": "will_call"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
