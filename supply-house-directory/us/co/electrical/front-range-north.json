@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "foco-graybar",
-      "name": "Graybar Electric \u2013 Fort Collins",
+      "name": "Graybar Electric – Fort Collins",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Fort Collins",
@@ -60,11 +60,14 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "greeley-ced",
-      "name": "CED \u2013 Greeley",
+      "name": "CED – Greeley",
       "chain": "CED",
       "trade": "electrical",
       "city": "Greeley",
@@ -119,7 +122,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "rexel-greeley-3255",
@@ -176,7 +182,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "rexel-ft-collins-7619",
@@ -233,7 +242,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ced-fortcollins-sharp-001",
@@ -293,7 +305,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "borderstates-greeley-4th-001",
@@ -349,7 +364,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "elliott-electric-fort-collins-3942-automation",
@@ -397,7 +415,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "wesco-fort-collins-133-commerce",
@@ -444,7 +465,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "crescent-electric-fort-collins-1404-magnolia",
@@ -490,7 +514,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ces-fort-collins-2415-mulberry",
@@ -540,12 +567,15 @@
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
         "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

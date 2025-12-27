@@ -51,7 +51,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "border-states-denver-5475-joliet",
@@ -107,7 +110,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ced-denver-2405-w-5th",
@@ -167,7 +173,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ces-denver-central-2630-w-2nd",
@@ -226,7 +235,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "crescent-electric-denver-5925-washington",
@@ -274,7 +286,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "graybar-denver-area-service-center-480-e-55th",
@@ -332,7 +347,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "qed-denver-1661-w-3rd",
@@ -378,7 +396,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "rexel-denver-425-quivas",
@@ -435,7 +456,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
@@ -492,7 +516,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "wesco-denver-11198-e-45th",
@@ -550,7 +577,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "wesco-retail-denver-756-s-jason",
@@ -606,7 +636,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "rexel-denver-distribution-center-3217",
@@ -663,7 +696,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "rexel-centennial-7611",
@@ -720,7 +756,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ced-centennial-jordan-001",
@@ -780,7 +819,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "rexel-denver-quivas-001",
@@ -839,7 +881,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -894,7 +939,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
@@ -942,7 +990,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "elliott-electric-centennial-15152-fremont",
@@ -989,7 +1040,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "wesco-denver-6883-e-47th",
@@ -1036,7 +1090,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ces-denver-boulder-001",
@@ -1082,7 +1139,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ces-centennial-001",
@@ -1128,7 +1188,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "ces-broomfield-001",
@@ -1174,7 +1237,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditStatus": "expanded",

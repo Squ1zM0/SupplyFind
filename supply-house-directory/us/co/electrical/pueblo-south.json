@@ -60,7 +60,10 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-pueblo-blazer-electric-1",
@@ -110,7 +113,10 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "rexel-pueblo-3223",
@@ -167,7 +173,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ced-pueblo-wc-001",
@@ -227,7 +236,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "wesco-pueblo-115-s-main",
@@ -275,7 +287,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditStatus": "expanded",

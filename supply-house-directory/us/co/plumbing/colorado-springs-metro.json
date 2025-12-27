@@ -57,7 +57,10 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "colorado-springs-winnelson-geiger",
@@ -98,7 +101,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "dahl-colorado-springs-sinton",
@@ -141,11 +147,14 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
-      "name": "Hughes Supply \u2013 Colorado Springs",
+      "name": "Hughes Supply – Colorado Springs",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -183,11 +192,14 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply \u2013 Colorado Springs",
+      "name": "Gateway Supply – Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -224,7 +236,10 @@
       },
       "sources": [
         "Official company contact required"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "abc-plumbing-cos-fillmore",
@@ -270,7 +285,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "dahl-castle-rock-perry",
@@ -315,7 +333,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditNotes": [

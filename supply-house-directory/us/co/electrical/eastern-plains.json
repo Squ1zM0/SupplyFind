@@ -66,7 +66,10 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-sterling-crescent-electric-1",
@@ -116,7 +119,10 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "ced-alamosa-rd10665-001",
@@ -174,7 +180,10 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditStatus": "expanded",

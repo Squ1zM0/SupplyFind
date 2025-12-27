@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Pueblo",
+      "name": "Lennox Stores – Pueblo",
       "chain": "Lennox Stores",
       "address1": "3920 N Freeway Rd",
       "city": "Pueblo",
@@ -41,11 +41,14 @@
       "coordsStatus": "verified",
       "sources": [
         "LennoxPros store locator"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-pueblo-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Pueblo",
+      "name": "Comfort Air Distributing – Pueblo",
       "chain": "Comfort Air Distributing",
       "address1": "120 E Industrial Blvd",
       "city": "Pueblo West",
@@ -85,11 +88,14 @@
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-pueblo-rampart-001",
-      "name": "Rampart Supply \u2013 Pueblo",
+      "name": "Rampart Supply – Pueblo",
       "chain": "Rampart Supply",
       "address1": "320 E 4th St",
       "city": "Pueblo",
@@ -129,7 +135,10 @@
       "coordsStatus": "verified",
       "sources": [
         "https://www.rampartsupply.com/"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
@@ -172,7 +181,10 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-pueblo-pueblowinair-ilex-001",
@@ -218,7 +230,10 @@
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     }
   ]
 }

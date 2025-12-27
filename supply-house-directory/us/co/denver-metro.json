@@ -14,7 +14,7 @@
   "branches": [
     {
       "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing \u2013 Englewood (South Denver)",
+      "name": "Baker Distributing – Englewood (South Denver)",
       "chain": "Baker Distributing",
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
@@ -49,11 +49,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Baker Distributing store locator"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
+      "name": "Baker Distributing – Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -89,7 +92,10 @@
       "coordsStatus": "verified",
       "sources": [
         "https://www.bakerdist.com/locations"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -145,11 +151,14 @@
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson \u2013 Denver",
+      "name": "Gustave A. Larson – Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -193,7 +202,10 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -239,11 +251,14 @@
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply \u2013 Denver (#5)",
+      "name": "Johnstone Supply – Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -289,7 +304,10 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "name": "Lennox Stores - Centennial",
@@ -332,11 +350,14 @@
       "sources": [
         "LennoxPros store locator",
         "LennoxPros Denver area stores page"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
+      "name": "Lohmiller & Company (Carrier West) – Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -373,11 +394,14 @@
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
+      "name": "Lohmiller & Company (Carrier West) – Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -413,11 +437,14 @@
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -466,11 +493,14 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply \u2013 Denver (Bryant)",
+      "name": "Trane Supply – Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -504,11 +534,14 @@
       "coordsStatus": "verified",
       "sources": [
         "https://www.tranesupply.com/locations"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration \u2013 Denver",
+      "name": "United Refrigeration – Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -555,7 +588,10 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "name": "Denver Winair",
@@ -600,7 +636,10 @@
       "coordsStatus": "verified",
       "sources": [
         "Denver Winair contact page"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "name": "North Denver Winair",
@@ -645,11 +684,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Winsupply/North Denver Winair contact page"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Denver",
+      "name": "Lennox Stores – Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -684,11 +726,14 @@
       "coordsStatus": "verified",
       "sources": [
         "LennoxPros store locator"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Aurora",
+      "name": "Lennox Stores – Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -723,11 +768,14 @@
       "coordsStatus": "verified",
       "sources": [
         "LennoxPros store locator"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Denver",
+      "name": "HVAC Distributors Co – Denver",
       "chain": "HVAC Distributors Co",
       "address1": "4900 Washington St",
       "city": "Denver",
@@ -768,11 +816,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Official company contact required"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors \u2013 Denver",
+      "name": "A/C Distributors – Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -814,11 +865,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Official company contact required"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Commerce City",
+      "name": "HVAC Distributors Co – Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -859,11 +913,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Official company contact required"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors \u2013 Thornton",
+      "name": "A/C Distributors – Thornton",
       "chain": "A/C Distributors",
       "address1": "899 E 84th Ave",
       "city": "Thornton",
@@ -905,11 +962,14 @@
       "coordsStatus": "verified",
       "sources": [
         "Official company contact required"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir \u2013 Wheat Ridge",
+      "name": "WinAir – Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -948,11 +1008,14 @@
       "coordsStatus": "verified",
       "sources": [
         "https://www.winsupplyinc.com/locations"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing \u2013 Centennial",
+      "name": "Comfort Air Distributing – Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "15501 E Fremont Dr",
       "city": "Centennial",
@@ -992,11 +1055,14 @@
         "addressSource": "Google Business Profile (user-verified)",
         "addressVerifiedDate": "2025-12-27"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Geocoded from corrected address"
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD \u2013 Centennial",
+      "name": "RSD – Centennial",
       "chain": "RSD",
       "address1": "7184 S Revere Pkwy, Building 2",
       "city": "Centennial",
@@ -1046,11 +1112,14 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps pin + verified geocoding services"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply \u2013 Denver",
+      "name": "Rampart Supply – Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
@@ -1090,7 +1159,10 @@
       "coordsStatus": "verified",
       "sources": [
         "https://www.rampartsupply.com/"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
@@ -1147,7 +1219,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-rexel-denver-425-quivas",
@@ -1205,7 +1280,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-rexel-denver-east-11175-e-55th",
@@ -1263,7 +1341,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
@@ -1322,7 +1403,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-ces-denver-central-2630-w-2nd",
@@ -1382,7 +1466,10 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
       },
-      "coordsStatus": "verified"
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
@@ -1438,7 +1525,10 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
@@ -1487,7 +1577,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-wesco-denver-11198-e-45th",
@@ -1544,7 +1637,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
@@ -1592,7 +1688,10 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -1638,7 +1737,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
@@ -1695,7 +1797,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-denver-sdi-oneida-001",
@@ -1743,7 +1848,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps"
     },
     {
       "id": "co-denver-northwinair-76th-001",
@@ -1792,7 +1900,10 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps"
     }
   ]
 }

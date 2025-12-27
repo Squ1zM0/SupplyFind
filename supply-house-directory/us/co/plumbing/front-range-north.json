@@ -57,7 +57,10 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "hughes-supply-ftc-lincoln",
@@ -100,7 +103,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ferguson-plumbing-fort-collins-0112",
@@ -154,7 +160,10 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "dahl-fort-collins-523",
@@ -197,11 +206,14 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "dahl-greeley-199-evans",
-      "name": "Dahl \u2013 Greeley (Evans)",
+      "name": "Dahl – Greeley (Evans)",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Evans",
@@ -240,7 +252,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "winsupply-greeley-1979-2nd",
@@ -281,7 +296,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "dahl-loveland-11th-100",
@@ -324,7 +342,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditNotes": [

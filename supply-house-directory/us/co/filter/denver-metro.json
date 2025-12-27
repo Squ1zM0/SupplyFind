@@ -46,7 +46,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "camfil-denver-8th-ave",
@@ -86,7 +89,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "alpine-air-filter-littleton",
@@ -121,7 +127,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "superior-filtration-denver-3rd-ave",
@@ -158,7 +167,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "air-force-filter-denver-bryant",
@@ -201,7 +213,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "scan-air-filters-wheat-ridge",
@@ -237,7 +252,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     },
     {
       "id": "air-purification-company-denver",
@@ -274,7 +292,10 @@
       "trades": [
         "Filter",
         "HVAC"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     }
   ]
 }

@@ -49,7 +49,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "co-sterling-dahl-plumbing-1",
@@ -95,7 +98,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditStatus": "expanded",
