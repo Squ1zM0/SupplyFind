@@ -198,16 +198,11 @@
       "postalCode": "81303",
       "phone": "970-259-5005",
       "website": "",
-      "lat": 37.267884,
-      "lon": -107.879903,
+      "lat": 37.222682,
+      "lon": -107.871575,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -242,11 +237,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+          "https://www.google.com/maps/place/Ferguson+Home+Durango"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -261,16 +261,11 @@
       "postalCode": "80446",
       "phone": "970-887-2426",
       "website": "",
-      "lat": 40.089571,
-      "lon": -105.942013,
+      "lat": 40.0794,
+      "lon": -105.9378,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -305,11 +300,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+          "https://www.google.com/maps/place/Ferguson+Granby"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -324,16 +324,11 @@
       "postalCode": "80498",
       "phone": "970-262-6171",
       "website": "",
-      "lat": 39.63942,
-      "lon": -106.07499,
+      "lat": 39.6399,
+      "lon": -106.0821,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -369,11 +364,16 @@
       "primaryTrade": "Plumbing",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
+          "https://www.google.com/maps/place/Ferguson+Silverthorne"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

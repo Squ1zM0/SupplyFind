@@ -75,11 +75,6 @@
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Major HVAC distributor serving Denver metro contractors",
       "tags": [
         "hvac",

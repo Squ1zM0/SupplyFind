@@ -170,8 +170,8 @@
       "city": "Durango",
       "state": "CO",
       "phone": "+19702595005",
-      "lat": 37.267884,
-      "lon": -107.879903,
+      "lat": 37.222682,
+      "lon": -107.871575,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -207,11 +207,16 @@
       "postalCode": "81303",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+          "https://www.google.com/maps/place/Ferguson+Home+Durango"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -222,8 +227,8 @@
       "city": "Granby",
       "state": "CO",
       "phone": "+19708872426",
-      "lat": 40.0925,
-      "lon": -105.9395,
+      "lat": 40.0794,
+      "lon": -105.9378,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -259,15 +264,16 @@
       "postalCode": "80446",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/granby/plumbing-supply-2091"
+          "https://www.ferguson.com/store/co/granby/plumbingpvf-1568",
+          "https://www.google.com/maps/place/Ferguson+Granby"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -279,8 +285,8 @@
       "city": "Silverthorne",
       "state": "CO",
       "phone": "+19702626171",
-      "lat": 39.6297,
-      "lon": -106.0717,
+      "lat": 39.6399,
+      "lon": -106.0821,
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -317,15 +323,16 @@
       "postalCode": "80498",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-1807"
+          "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
+          "https://www.google.com/maps/place/Ferguson+Silverthorne"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

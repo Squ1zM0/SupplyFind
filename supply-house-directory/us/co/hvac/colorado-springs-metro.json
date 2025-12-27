@@ -70,16 +70,11 @@
       "postalCode": "80919",
       "phone": "(719) 266-8800",
       "website": "https://www.tranesupply.com/",
-      "lat": 38.915489,
-      "lon": -104.827476,
+      "lat": 38.9127,
+      "lon": -104.8343,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Full line of HVAC parts, supplies, equipment, and commercial sales. Factory-owned Trane supply house. Verified 2025-12-26.",
       "tags": [
         "hvac",
@@ -101,11 +96,16 @@
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.tranesupply.com/store-locator",
+          "https://www.google.com/maps/place/Trane+Supply+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     }
   ],
