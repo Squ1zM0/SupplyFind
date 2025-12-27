@@ -269,7 +269,7 @@
       "postalCode": "80538",
       "address1": "3680 Draft Horse Dr",
       "phone": "970-461-4700",
-      "website": "https://www.rexelusa.com/locations/CO/Loveland/3214",
+      "website": "https://www.rexelusa.com/locations/co/loveland/3214",
       "lat": 40.4123,
       "lon": -105.0389,
       "coordsStatus": "verified",
@@ -294,7 +294,7 @@
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.rexelusa.com/locations/CO/Loveland/3214",
+          "https://www.rexelusa.com/locations/co/loveland/3214",
           "https://www.mapquest.com/us/colorado/rexel-429923500"
         ],
         "coords_verified": "2025-12-27",
@@ -311,7 +311,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/locations/CO/Loveland/3214",
+        "https://www.rexelusa.com/locations/co/loveland/3214",
         "https://www.mapquest.com/us/colorado/rexel-429923500"
       ],
       "trades": [

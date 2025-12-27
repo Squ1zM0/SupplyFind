@@ -286,7 +286,7 @@
       "postalCode": "81505",
       "address1": "559 Sandhill Ln, Unit 500",
       "phone": "970-245-8682",
-      "website": "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+      "website": "https://www.rexelusa.com/locations/co/grand-junction/3213",
       "lat": 39.0789,
       "lon": -108.5241,
       "coordsStatus": "verified",
@@ -311,7 +311,7 @@
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+          "https://www.rexelusa.com/locations/co/grand-junction/3213",
           "https://www.mapquest.com/us/colorado/rexel-10124195"
         ],
         "coords_verified": "2025-12-27",
@@ -328,7 +328,7 @@
         "Controls"
       ],
       "sources": [
-        "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+        "https://www.rexelusa.com/locations/co/grand-junction/3213",
         "https://www.mapquest.com/us/colorado/rexel-10124195"
       ],
       "trades": [
