@@ -79,9 +79,9 @@
           "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
           "https://catalog.camfil.us/all-locations/united-states/colorado/denver/camfil-denver-dba-air-filter-solutions/"
         ],
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "HVAC Air Filters",

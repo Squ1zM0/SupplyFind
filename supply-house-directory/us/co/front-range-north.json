@@ -6,12 +6,12 @@
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey – Fort Collins",
+      "name": "Sid Harvey \u2013 Fort Collins",
       "chain": "Sid Harvey",
-      "address1": "4000 S College Ave",
+      "address1": "300 Lincoln Ct",
       "city": "Fort Collins",
       "state": "CO",
-      "phone": "+19702230000",
+      "phone": "(970) 221-1929",
       "lat": 40.5269,
       "lon": -105.0787,
       "tags": [
@@ -35,14 +35,18 @@
       "trades": [
         "HVAC"
       ],
-      "postalCode": "80525",
+      "postalCode": "80524",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Chamber of Commerce & Industry Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/wholesaler/2006110704-sid-harvey-s",
+          "https://www.achrnews.com/directories/2937-hvacr-directory/listing/12151-sid-harvey-s-fort-collins-co"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -57,7 +61,7 @@
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing – Loveland",
+      "name": "Comfort Air Distributing \u2013 Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -107,7 +111,7 @@
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores – Loveland",
+      "name": "Lennox Stores \u2013 Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -152,12 +156,12 @@
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC – Greeley",
+      "name": "WinSupply HVAC \u2013 Greeley",
       "chain": "WinSupply HVAC",
-      "address1": "2315 6th Ave",
+      "address1": "1979 2nd Ave",
       "city": "Greeley",
       "state": "CO",
-      "phone": "+19703530000",
+      "phone": "(970) 356-0404",
       "lat": 40.4231,
       "lon": -104.6863,
       "tags": [
@@ -184,9 +188,13 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official Winsupply Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+          "https://www.mapquest.com/us/colorado/greeley-winsupply-429191270"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -197,11 +205,12 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 40.423156,
       "arrivalLon": -104.686244,
-      "arrivalType": "will_call"
+      "arrivalType": "will_call",
+      "address2": ""
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Fort Collins",
+      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
       "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
@@ -506,7 +515,7 @@
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)",
     "2025-12-26: Added Trane Supply Fort Collins location"
   ],

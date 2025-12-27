@@ -15,7 +15,7 @@
   "branches": [
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing – Ice Design Center (Denver)",
+      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -123,7 +123,7 @@
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson – Denver",
+      "name": "Gustave A. Larson \u2013 Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -229,7 +229,7 @@
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply – Denver (#5)",
+      "name": "Johnstone Supply \u2013 Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -334,7 +334,7 @@
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) – Denver",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -381,7 +381,7 @@
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) – Englewood",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -428,7 +428,7 @@
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -487,7 +487,7 @@
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply – Denver (Bryant)",
+      "name": "Trane Supply \u2013 Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -514,9 +514,12 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.chamberofcommerce.com/business-directory/colorado/denver/heating-equipment-supplier/1585434-trane-supply"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -531,7 +534,7 @@
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration – Denver",
+      "name": "United Refrigeration \u2013 Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -622,9 +625,14 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official Winsupply Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Denver-CO/80223/HVAC-Supplies/contact-us",
+          "https://denverwinair.com/",
+          "https://www.mapquest.com/us/colorado/denver-winair-276168511"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -641,7 +649,7 @@
       "name": "North Denver Winair",
       "chain": "Winair / Winsupply",
       "address1": "490 E 76th Ave",
-      "address2": "Unit 6B",
+      "address2": "Bldg 6B",
       "city": "Denver",
       "state": "CO",
       "phone": "+13032872633",
@@ -673,9 +681,13 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official Winsupply Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies/contact-us",
+          "https://www.mapquest.com/us/colorado/north-denver-winair-9993168"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -690,7 +702,7 @@
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores – Denver",
+      "name": "Lennox Stores \u2013 Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -735,7 +747,7 @@
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores – Aurora",
+      "name": "Lennox Stores \u2013 Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -779,59 +791,8 @@
       "arrivalType": "will_call"
     },
     {
-      "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co – Denver",
-      "chain": "HVAC Distributors Co",
-      "address1": "4900 Washington St",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "+13032973200",
-      "lat": 39.7879,
-      "lon": -104.9789,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts",
-        "local"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Honeywell"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80216",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "Official company contact required"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.787956,
-      "arrivalLon": -104.978844,
-      "arrivalType": "will_call"
-    },
-    {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors – Denver",
+      "name": "A/C Distributors \u2013 Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -883,7 +844,7 @@
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co – Commerce City",
+      "name": "HVAC Distributors Co \u2013 Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -933,60 +894,8 @@
       "arrivalType": "will_call"
     },
     {
-      "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors – Thornton",
-      "chain": "A/C Distributors",
-      "address1": "899 E 84th Ave",
-      "city": "Thornton",
-      "state": "CO",
-      "phone": "+13032870800",
-      "lat": 39.8465,
-      "lon": -104.9762,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts",
-        "local"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud",
-        "Goodman",
-        "Daikin"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80229",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "Official company contact required"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.846556,
-      "arrivalLon": -104.976144,
-      "arrivalType": "will_call"
-    },
-    {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir – Wheat Ridge",
+      "name": "WinAir \u2013 Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -1035,7 +944,7 @@
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing – Centennial",
+      "name": "Comfort Air Distributing \u2013 Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "15501 E Fremont Dr",
       "city": "Centennial",
@@ -1085,7 +994,7 @@
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD – Centennial",
+      "name": "RSD \u2013 Centennial",
       "chain": "RSD",
       "address1": "7184 S Revere Pkwy, Building 2",
       "city": "Centennial",
@@ -1145,7 +1054,7 @@
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply – Denver",
+      "name": "Rampart Supply \u2013 Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",

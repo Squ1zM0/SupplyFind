@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "foco-graybar",
-      "name": "Graybar Electric – Fort Collins",
+      "name": "Graybar Electric \u2013 Fort Collins",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Fort Collins",
@@ -70,7 +70,7 @@
     },
     {
       "id": "greeley-ced",
-      "name": "CED – Greeley",
+      "name": "CED \u2013 Greeley",
       "chain": "CED",
       "trade": "electrical",
       "city": "Greeley",
@@ -469,13 +469,14 @@
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
+          "https://branchlocator.wesco.com/",
           "https://www.finduslocal.com/electric-equipment-supplies-wholesale/colorado/fort-collins/wesco-distributing-inc"
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Electrical",
@@ -605,7 +606,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

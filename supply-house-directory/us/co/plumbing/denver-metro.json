@@ -351,9 +351,12 @@
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.rampartsupply.com/storelocator"
+        ]
       },
       "partsFor": [
         "Boilers",
@@ -377,61 +380,15 @@
       "arrivalType": "will_call"
     },
     {
-      "id": "denver-apex-supply",
-      "name": "Apex Supply Company – Denver",
-      "chain": "Apex Supply",
-      "trade": "plumbing",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80216",
-      "address1": "4010 Holly St",
-      "phone": "303-329-7877",
-      "website": "https://apexsupplyco.com/",
-      "lat": 39.7749,
-      "lon": -104.9188,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Kohler",
-        "Delta",
-        "Moen",
-        "American Standard"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Plumbing wholesaler counter. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "partsFor": [
-        "Plumbing"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "sources": [
-        "Official company contact required"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.774956,
-      "arrivalLon": -104.918744,
-      "arrivalType": "will_call"
-    },
-    {
       "id": "denver-hdsupply-plumbing",
-      "name": "HD Supply Facilities Maintenance – Denver (Plumbing)",
+      "name": "HD Supply Facilities Maintenance \u2013 Denver (Plumbing)",
       "chain": "HD Supply",
       "trade": "plumbing",
       "city": "Denver",
       "state": "CO",
-      "postalCode": "80216",
-      "address1": "5080 Florence St",
-      "phone": "303-292-3636",
+      "postalCode": "80238",
+      "address1": "10000 E 56th Ave",
+      "phone": "(800) 431-3000",
       "website": "https://hdsupplysolutions.com/",
       "lat": 39.7852,
       "lon": -104.9216,
@@ -455,9 +412,13 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official HD Supply Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://hdsupplysolutions.com/",
+          "https://www.mapquest.com/us/colorado/hd-supply-facillities-maintenance-375448621"
+        ]
       },
       "sources": [
         "https://www.hdsupplysolutions.com/locations"
@@ -467,11 +428,12 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 39.785256,
       "arrivalLon": -104.921544,
-      "arrivalType": "will_call"
+      "arrivalType": "will_call",
+      "address2": ""
     },
     {
       "id": "denver-gateway-supply",
-      "name": "Gateway Supply – Denver",
+      "name": "Gateway Supply \u2013 Denver",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -503,9 +465,12 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://woe.gatewaysupply.net/locations"
+        ]
       },
       "sources": [
         "Official company contact required"
@@ -519,7 +484,7 @@
     },
     {
       "id": "littleton-hughes-supply",
-      "name": "Hughes Supply – Littleton",
+      "name": "Hughes Supply \u2013 Littleton",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Littleton",
@@ -568,7 +533,7 @@
     },
     {
       "id": "centennial-ferguson-plumbing",
-      "name": "Ferguson Plumbing Supply – Centennial",
+      "name": "Ferguson Plumbing Supply \u2013 Centennial",
       "chain": "Ferguson",
       "trade": "plumbing",
       "city": "Centennial",
@@ -675,19 +640,19 @@
     },
     {
       "id": "denver-flink-plumbing",
-      "name": "Flink Supply Company – Denver",
+      "name": "Flink Supply Company \u2013 Denver",
       "chain": "Flink Supply",
       "trade": "plumbing",
       "city": "Denver",
       "state": "CO",
-      "postalCode": "80216",
-      "address1": "5150 Race Ct",
-      "phone": "303-295-3661",
+      "postalCode": "80223",
+      "address1": "58 S. Galapago St",
+      "phone": "(303) 744-7123",
       "website": "https://www.flinksupply.com/",
       "lat": 39.7871,
       "lon": -104.9626,
       "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [RELOCATED 2025: Moved from 5150 Race Ct to 58 S. Galapago St]",
       "brandsRep": [
         "Kohler",
         "Delta",
@@ -704,9 +669,13 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official Company Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.flinksupply.com/",
+          "https://local.yahoo.com/info-19619767-flink-supply-denver/"
+        ]
       },
       "sources": [
         "Official company contact required"

@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing – Colorado Springs",
+      "name": "Comfort Air Distributing \u2013 Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -56,7 +56,7 @@
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply – Colorado Springs",
+      "name": "Johnstone Supply \u2013 Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3720 E Pikes Peak Ave",
       "city": "Colorado Springs",
@@ -111,7 +111,7 @@
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores – Colorado Springs",
+      "name": "Lennox Stores \u2013 Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -156,12 +156,12 @@
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC – Colorado Springs",
+      "name": "WinSupply HVAC \u2013 Colorado Springs",
       "chain": "WinSupply HVAC",
-      "address1": "2555 S Circle Dr",
+      "address1": "3110 N Stone Ave",
       "city": "Colorado Springs",
       "state": "CO",
-      "phone": "+17195790000",
+      "phone": "(719) 578-0722",
       "lat": 38.7935,
       "lon": -104.7749,
       "tags": [
@@ -183,14 +183,18 @@
       "trades": [
         "HVAC"
       ],
-      "postalCode": "80906",
+      "postalCode": "80907",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Official Winsupply Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80907/HVAC-Supplies",
+          "https://www.manta.com/c/mhqpctk/winsupply-inc"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -201,11 +205,12 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 38.793556,
       "arrivalLon": -104.774844,
-      "arrivalType": "will_call"
+      "arrivalType": "will_call",
+      "address2": "Suite 180"
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey – Colorado Springs",
+      "name": "Sid Harvey \u2013 Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -255,7 +260,7 @@
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply – Colorado Springs",
+      "name": "CT Supply \u2013 Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -286,9 +291,12 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.ctsupplyinc.com/"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -304,7 +312,7 @@
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries – Colorado Springs",
+      "name": "Hercules Industries \u2013 Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -333,9 +341,12 @@
       "latLonVerifiedAt": "2025-12-25",
       "verification": {
         "coords_verified": "2025-12-26",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.herculesindustries.com/locations"
+        ]
       },
       "trades": [
         "HVAC"

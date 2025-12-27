@@ -13,7 +13,7 @@
   "branches": [
     {
       "id": "co-broomfield-comfort-air-001",
-      "name": "Comfort Air Distributing – Broomfield",
+      "name": "Comfort Air Distributing \u2013 Broomfield",
       "chain": "Comfort Air Distributing",
       "address1": "11575 Main St, Unit 500",
       "city": "Broomfield",
@@ -64,7 +64,7 @@
     },
     {
       "id": "co-louisville-uri-001",
-      "name": "United Refrigeration (URI) – Louisville",
+      "name": "United Refrigeration (URI) \u2013 Louisville",
       "chain": "United Refrigeration",
       "address1": "1533 Arthur St, Ste A",
       "city": "Louisville",
@@ -123,7 +123,7 @@
     },
     {
       "id": "co-longmont-winair-001",
-      "name": "Longmont Winair (Winsupply) – Longmont",
+      "name": "Longmont Winair (Winsupply) \u2013 Longmont",
       "chain": "Winsupply / Winair",
       "address1": "1140 Boston Ave, Unit C",
       "city": "Longmont",
@@ -153,9 +153,12 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/Location/Longmont-CO/80501/HVAC-Supplies/contact-us"
+        ]
       },
       "coordsStatus": "verified",
       "sources": [
@@ -171,7 +174,7 @@
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Longmont",
+      "name": "Ferguson Plumbing Supply \u2013 Longmont",
       "chain": "Ferguson",
       "address1": "1567 Vista View Dr",
       "city": "Longmont",
