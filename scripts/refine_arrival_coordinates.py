@@ -189,6 +189,43 @@ COORDINATE_REFINEMENTS = [
         "geoPrecision": "storefront",
         "geoSource": "Google Maps + verified shopping center location",
         "reason": "Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center."
+    },
+    # Phase 4 - Medium-risk branches (More multi-tenant suites)
+    {
+        "file": "supply-house-directory/us/co/boulder-metro.json",
+        "branch_name": "Comfort Air Distributing – Broomfield",
+        "address1": "11575 Main St, Unit 500",
+        "old_lat": 39.90625,
+        "old_lon": -105.07292,
+        "new_lat": 39.9229,
+        "new_lon": -105.0696,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + commercial property directories",
+        "reason": "Multi-tenant commercial property - moved to Unit 500 entrance. Verified Main Street access coordinates."
+    },
+    {
+        "file": "supply-house-directory/us/co/boulder-metro.json",
+        "branch_name": "Longmont Winair (Winsupply) – Longmont",
+        "address1": "1140 Boston Ave, Unit C",
+        "old_lat": 40.15804,
+        "old_lon": -105.10936,
+        "new_lat": 40.1567502,
+        "new_lon": -105.1121159,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + verified business registries",
+        "reason": "Multi-tenant unit - moved to Unit C entrance. Verified building front access coordinates."
+    },
+    {
+        "file": "supply-house-directory/us/co/denver-metro.json",
+        "branch_name": "Lohmiller & Company (Carrier West) – Englewood",
+        "address1": "8465 Concord Center Dr",
+        "old_lat": 39.5587,
+        "old_lon": -104.846,
+        "new_lat": 39.567365,
+        "new_lon": -104.825739,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + verified company location page",
+        "reason": "Concord Center location - moved to main entrance/parking area. Verified customer access coordinates."
     }
 ]
 

@@ -407,8 +407,8 @@
       "city": "Englewood",
       "state": "CO",
       "phone": "+13033711244",
-      "lat": 39.5587,
-      "lon": -104.846,
+      "lat": 39.567365,
+      "lon": -104.825739,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -438,9 +438,10 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "MapQuest + verified company location page",
+      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.]"
     },
     {
       "id": "co-denver-rsd-osage-001",
