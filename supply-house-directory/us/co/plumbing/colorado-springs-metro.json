@@ -163,7 +163,7 @@
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
-      "name": "Hughes Supply – Colorado Springs",
+      "name": "Hughes Supply \u2013 Colorado Springs",
       "chain": "Hajoca (Hughes Supply)",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -211,7 +211,7 @@
     },
     {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply – Colorado Springs",
+      "name": "Gateway Supply \u2013 Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -242,9 +242,12 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://woe.gatewaysupply.net/locations"
+        ]
       },
       "sources": [
         "Official company contact required"

@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "pueblo-graybar",
-      "name": "Graybar Electric – Pueblo",
+      "name": "Graybar Electric \u2013 Pueblo",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Pueblo",
@@ -281,14 +281,15 @@
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
+          "https://branchlocator.wesco.com/",
           "https://www.mapquest.com/us/colorado/wesco-distribution-inc-10088440",
           "https://www.manta.com/c/mmfmgjx/wesco-distribution-inc"
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Electrical",
@@ -310,7 +311,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added verified Graybar Pueblo storefront.",
