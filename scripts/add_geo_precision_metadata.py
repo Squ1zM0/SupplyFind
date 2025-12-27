@@ -90,6 +90,8 @@ def determine_geo_source(branch):
         return "Google Maps"
     elif "Web search verified" in geocoding_method:
         # Extract tools used
+        # Note: This is pattern matching in trusted data, not URL sanitization.
+        # We're identifying which geocoding tool was used from descriptive text.
         if "gps-coordinates.org" in geocoding_method:
             return "gps-coordinates.org"
         elif "latlong.net" in geocoding_method:
