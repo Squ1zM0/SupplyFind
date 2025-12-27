@@ -12,8 +12,8 @@
       "city": "Pueblo",
       "state": "CO",
       "phone": "+17195480000",
-      "lat": 38.3236,
-      "lon": -104.6076,
+      "lat": 38.3241,
+      "lon": -104.6168,
       "tags": [
         "hvac",
         "equipment",
@@ -25,7 +25,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from freeway road position to building entrance. Freeway location required verified entrance placement.]",
       "trades": [
         "HVAC"
       ],
@@ -42,9 +42,9 @@
       "sources": [
         "LennoxPros store locator"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + location mapping services"
     },
     {
       "id": "co-pueblo-comfortair-001",

@@ -31,6 +31,7 @@ COORDINATE_MATCH_TOLERANCE = 0.001  # Degrees (~111 meters at equator)
 # - geoSource: Source of verification
 # - notes: Explanation of the change
 COORDINATE_REFINEMENTS = [
+    # Phase 1 - High-risk branches (COMPLETED)
     {
         "file": "supply-house-directory/us/co/denver-metro.json",
         "branch_name": "Lennox Stores - Centennial",
@@ -78,6 +79,67 @@ COORDINATE_REFINEMENTS = [
         "geoPrecision": "storefront",
         "geoSource": "Google Maps + MapQuest verified coordinates",
         "reason": "Multi-tenant complex - moved from parkway to actual Suite B3 entrance location."
+    },
+    # Phase 2 - Medium-risk branches (Boulevard/Parkway locations)
+    {
+        "file": "supply-house-directory/us/co/colorado-springs-metro.json",
+        "branch_name": "Lennox Stores – Colorado Springs",
+        "address1": "5850 Tutt Blvd",
+        "old_lat": 38.9148,
+        "old_lon": -104.7236,
+        "new_lat": 38.894500,
+        "new_lon": -104.695810,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + MapQuest verified entrance",
+        "reason": "Moved from boulevard road position to building entrance. Boulevard location required precise entrance-level coordinates."
+    },
+    {
+        "file": "supply-house-directory/us/co/colorado-springs-metro.json",
+        "branch_name": "CT Supply – Colorado Springs",
+        "address1": "6260 Omaha Blvd",
+        "old_lat": 38.85408,
+        "old_lon": -104.71139,
+        "new_lat": 38.874312,
+        "new_lon": -104.715174,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + MapQuest verified entrance coordinates",
+        "reason": "Moved from boulevard position to front entrance. Industrial supplier location with customer access."
+    },
+    {
+        "file": "supply-house-directory/us/co/denver-metro.json",
+        "branch_name": "Rampart Supply – Denver",
+        "address1": "285 Rio Grande Blvd",
+        "old_lat": 39.69296,
+        "old_lon": -105.00534,
+        "new_lat": 39.715679,
+        "new_lon": -104.997420,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + MapQuest verified showroom entrance",
+        "reason": "Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access."
+    },
+    {
+        "file": "supply-house-directory/us/co/pueblo-south.json",
+        "branch_name": "Lennox Stores – Pueblo",
+        "address1": "3920 N Freeway Rd",
+        "old_lat": 38.3236,
+        "old_lon": -104.6076,
+        "new_lat": 38.3241,
+        "new_lon": -104.6168,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + location mapping services",
+        "reason": "Moved from freeway road position to building entrance. Freeway location required verified entrance placement."
+    },
+    {
+        "file": "supply-house-directory/us/co/denver-metro.json",
+        "branch_name": "Baker Distributing – Ice Design Center (Denver)",
+        "address1": "5050 Osage St Suite 300",
+        "old_lat": 39.7917,
+        "old_lon": -105.0023,
+        "new_lat": 39.7897,
+        "new_lon": -105.0148,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + verified business directories",
+        "reason": "Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access."
     }
 ]
 

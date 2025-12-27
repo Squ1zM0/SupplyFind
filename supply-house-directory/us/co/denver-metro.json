@@ -62,8 +62,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13038931120",
-      "lat": 39.7917,
-      "lon": -105.0023,
+      "lat": 39.7897,
+      "lon": -105.0148,
       "brandsRep": [
         "Daikin",
         "Goodman"
@@ -76,7 +76,7 @@
         "refrigeration",
         "hvac"
       ],
-      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26",
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.]",
       "trades": [
         "HVAC"
       ],
@@ -93,9 +93,9 @@
       "sources": [
         "https://www.bakerdist.com/locations"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + verified business directories"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -1125,8 +1125,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13036296122",
-      "lat": 39.69296,
-      "lon": -105.00534,
+      "lat": 39.715679,
+      "lon": -104.99742,
       "brandsRep": [
         "Hydronic",
         "Heating",
@@ -1160,9 +1160,10 @@
       "sources": [
         "https://www.rampartsupply.com/"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + MapQuest verified showroom entrance",
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",

@@ -111,8 +111,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17195916000",
-      "lat": 38.9148,
-      "lon": -104.7236,
+      "lat": 38.8945,
+      "lon": -104.69581,
       "tags": [
         "hvac",
         "equipment",
@@ -124,7 +124,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from boulevard road position to building entrance. Boulevard location required precise entrance-level coordinates.]",
       "trades": [
         "HVAC"
       ],
@@ -141,9 +141,9 @@
       "sources": [
         "LennoxPros store locator"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + MapQuest verified entrance"
     },
     {
       "id": "co-cos-winsupply-001",
@@ -246,8 +246,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "+17199419930",
-      "lat": 38.85408,
-      "lon": -104.71139,
+      "lat": 38.874312,
+      "lon": -104.715174,
       "brandsRep": [
         "HVAC wholesale"
       ],
@@ -279,9 +279,10 @@
       "sources": [
         "Official company contact required"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + MapQuest verified entrance coordinates",
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.]"
     },
     {
       "id": "co-cos-hercules-001",
