@@ -16,8 +16,8 @@
       "address1": "1109 S Santa Fe Ave",
       "phone": "719-547-3077",
       "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
-      "lat": 38.255917,
-      "lon": -104.609768,
+      "lat": 38.2467,
+      "lon": -104.6087,
       "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
@@ -35,19 +35,23 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/pueblo",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Pueblo"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/pueblo",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Pueblo"
       ],
       "trades": [
         "HVAC",

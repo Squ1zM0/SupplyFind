@@ -515,8 +515,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "",
-      "lat": 38.85057,
-      "lon": -104.68583,
+      "lat": 38.8732,
+      "lon": -104.7204,
       "tags": [
         "electrical"
       ],
@@ -545,19 +545,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80915",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
+          "https://servlectric.com/branch/city-electric-supply-colorado-springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

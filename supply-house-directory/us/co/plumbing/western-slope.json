@@ -21,11 +21,6 @@
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "tags": [
         "plumbing",
@@ -568,8 +563,8 @@
       "postalCode": "81601",
       "phone": "970-945-5858",
       "website": "https://www.ferguson.com/",
-      "lat": 39.54578,
-      "lon": -107.3365,
+      "lat": 39.517095,
+      "lon": -107.31335,
       "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
@@ -587,19 +582,23 @@
       "manufacturersPartsFor": [],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), pipe, valves and fittings. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/glenwood+springs/plumbingpvf-2705",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Glenwood+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/glenwood+springs/plumbingpvf-2705",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Glenwood+Springs"
       ],
       "trades": [
         "HVAC",
@@ -662,8 +661,8 @@
       "postalCode": "81321",
       "phone": "970-565-6052",
       "website": "",
-      "lat": 37.3503,
-      "lon": -108.5858,
+      "lat": 37.34946,
+      "lon": -108.58541,
       "coordsStatus": "verified",
       "brandsRep": [
         "Pfister",
@@ -675,11 +674,16 @@
       "manufacturersPartsFor": [],
       "notes": "Independent local plumbing supply house serving southwest Colorado since 1993. Wholesale and contractor supply for plumbing fixtures, parts, pumps, water heaters, and fittings. Highly rated for customer service and expertise. Source: Yellow Pages, Chamber of Commerce listings, verified 2025-12-26",
       "verification": {
-        "coords_verified": "2025-12-26",
-        "storefront_confirmed": "2025-12-26",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & MapQuest Verified",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Plumbing+Store+Cortez",
+          "https://www.mapquest.com/us/colorado/plumbing-store-inc-10112283"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing Fixtures",
@@ -688,8 +692,8 @@
         "Fittings"
       ],
       "sources": [
-        "https://www.yellowpages.com/cortez-co/mip/plumbing-store-inc-12701950",
-        "https://www.chamberofcommerce.com/business-directory/colorado/cortez/plumbing-supply-store/31327180-the-plumbing-store-inc"
+        "https://www.google.com/maps/place/Plumbing+Store+Cortez",
+        "https://www.mapquest.com/us/colorado/plumbing-store-inc-10112283"
       ],
       "trades": [
         "Plumbing"

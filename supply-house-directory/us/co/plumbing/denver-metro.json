@@ -70,8 +70,8 @@
       "address1": "3625 E 48th Ave",
       "phone": "303-320-4833",
       "website": "https://www.ferguson.com/",
-      "lat": 39.782989,
-      "lon": -104.94231,
+      "lat": 39.7843028,
+      "lon": -104.9441786,
       "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
@@ -89,19 +89,23 @@
       "manufacturersPartsFor": [],
       "notes": "Listed as North Denver Ferguson Plumbing Supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/denver",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/denver",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
       ],
       "trades": [
         "HVAC",
@@ -538,8 +542,8 @@
       "address1": "7461 S Revere Pkwy",
       "phone": "303-790-7700",
       "website": "https://www.ferguson.com/",
-      "lat": 39.5849,
-      "lon": -104.8457,
+      "lat": 39.58223,
+      "lon": -104.82801,
       "coordsStatus": "verified",
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "brandsRep": [
@@ -559,8 +563,8 @@
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/centennial",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
       ],
       "trades": [
         "HVAC",
@@ -568,12 +572,16 @@
       ],
       "primaryTrade": "Plumbing",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/centennial",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

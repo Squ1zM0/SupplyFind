@@ -70,18 +70,24 @@
       "city": "Greeley",
       "state": "CO",
       "postalCode": "80631",
-      "address1": "1427 17th St",
+      "address1": "1843 2nd Ave",
       "phone": "970-353-1850",
       "website": "https://www.ced.com/",
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "lat": 40.4233,
-      "lon": -104.709,
+      "lat": 40.4251,
+      "lon": -104.701,
       "verification": {
-        "coords_verified": "2025-12-26",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://cedgreeley.com/",
+          "https://www.google.com/maps/place/CED+Greeley"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "brandsRep": [
         "Square D",
@@ -108,8 +114,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://cedgreeley.com/",
+        "https://www.google.com/maps/place/CED+Greeley"
       ],
       "trades": [
         "Electrical"

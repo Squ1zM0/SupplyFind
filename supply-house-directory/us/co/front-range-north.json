@@ -175,8 +175,8 @@
       "state": "CO",
       "phone": "+19704821722",
       "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.585258,
-      "lon": -105.084419,
+      "lat": 40.6104,
+      "lon": -105.0229,
       "brandsRep": [
         "Residential HVAC",
         "Commercial HVAC",
@@ -197,7 +197,8 @@
       ],
       "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-0112. Source: Ferguson official website, verified 2025-12-26",
       "sources": [
-        "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112"
+        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
       ],
       "trades": [
         "HVAC",
@@ -206,12 +207,16 @@
       "primaryTrade": "Plumbing",
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

@@ -16,8 +16,8 @@
       "address1": "2321 Donella Ct",
       "phone": "970-482-1722",
       "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.610396,
-      "lon": -105.026274,
+      "lat": 40.6104,
+      "lon": -105.0229,
       "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
@@ -35,19 +35,23 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
       ],
       "trades": [
         "HVAC",
@@ -109,8 +113,8 @@
       "address1": "2321 Donella Ct",
       "phone": "970-482-1722",
       "website": "https://www.ferguson.com/store/co/fort%2Bcollins/plumbingpvf-0112",
-      "lat": 40.610396,
-      "lon": -105.026274,
+      "lat": 40.6104,
+      "lon": -105.0229,
       "coordsStatus": "verified",
       "notes": "Plumbing/PVF counter; verified address/phone from Ferguson store page. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "brandsRep": [
@@ -128,19 +132,23 @@
       ],
       "manufacturersPartsFor": [],
       "verification": {
-        "coords_attempted": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "partsFor": [
         "Plumbing"
       ],
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
       ],
       "trades": [
         "HVAC",
