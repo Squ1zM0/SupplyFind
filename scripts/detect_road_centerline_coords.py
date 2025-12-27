@@ -19,6 +19,10 @@ from pathlib import Path
 from datetime import datetime
 
 
+# Constants
+COORDINATE_SCALE_FACTOR = 1000000  # Used to convert coordinates to check decimal precision
+
+
 def check_coordinate_precision(lat, lon):
     """
     Check if coordinates have sufficient decimal precision.
@@ -50,8 +54,8 @@ def check_round_numbers(lat, lon):
     Automated geocoding often produces coordinates ending in 0 or 5.
     """
     # Check last 2 decimal places
-    lat_last_digits = int((abs(lat) * 1000000) % 100)
-    lon_last_digits = int((abs(lon) * 1000000) % 100)
+    lat_last_digits = int((abs(lat) * COORDINATE_SCALE_FACTOR) % 100)
+    lon_last_digits = int((abs(lon) * COORDINATE_SCALE_FACTOR) % 100)
     
     warnings = []
     

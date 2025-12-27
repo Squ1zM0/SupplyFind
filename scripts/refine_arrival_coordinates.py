@@ -19,6 +19,10 @@ from pathlib import Path
 from datetime import datetime
 
 
+# Constants
+DATE_FORMAT = "%Y-%m-%d"
+COORDINATE_MATCH_TOLERANCE = 0.001  # Degrees (~111 meters at equator)
+
 # Coordinate refinements based on manual verification
 # Each entry includes:
 # - branch_id or unique identifier
@@ -104,19 +108,19 @@ def find_and_update_branch(file_path, branch_name, address1, old_lat, old_lon,
             current_lat = branch.get("lat")
             current_lon = branch.get("lon")
             
-            if (abs(current_lat - old_lat) < 0.001 and 
-                abs(current_lon - old_lon) < 0.001):
+            if (abs(current_lat - old_lat) < COORDINATE_MATCH_TOLERANCE and 
+                abs(current_lon - old_lon) < COORDINATE_MATCH_TOLERANCE):
                 
                 # Update coordinates
                 branch["lat"] = new_lat
                 branch["lon"] = new_lon
                 branch["geoPrecision"] = geo_precision
                 branch["geoSource"] = geo_source
-                branch["geoVerifiedDate"] = datetime.now().strftime("%Y-%m-%d")
+                branch["geoVerifiedDate"] = datetime.now().strftime(DATE_FORMAT)
                 
                 # Add update note
                 current_notes = branch.get("notes", "")
-                update_note = f" [Coordinate refinement {datetime.now().strftime('%Y-%m-%d')}: {reason}]"
+                update_note = f" [Coordinate refinement {datetime.now().strftime(DATE_FORMAT)}: {reason}]"
                 if update_note not in current_notes:
                     branch["notes"] = (current_notes + update_note).strip()
                 

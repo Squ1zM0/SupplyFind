@@ -17,7 +17,13 @@ import json
 import os
 import sys
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime
+
+
+# Constants for risk assessment
+INDUSTRIAL_KEYWORDS = ["industrial", "park", "business park", "warehouse", "distribution"]
+DRIVEWAY_KEYWORDS = ["blvd", "boulevard", "parkway", "freeway"]
+VAGUE_SOURCE_KEYWORDS = ["previously verified", "google maps", "approximate"]
 
 
 def calculate_risk_score(branch):
@@ -36,14 +42,12 @@ def calculate_risk_score(branch):
     notes = branch.get("notes", "").lower()
     
     # Risk Factor 1: Industrial/warehouse locations (20 points)
-    industrial_keywords = ["industrial", "park", "business park", "warehouse", "distribution"]
-    if any(keyword in address1 or keyword in notes for keyword in industrial_keywords):
+    if any(keyword in address1 or keyword in notes for keyword in INDUSTRIAL_KEYWORDS):
         score += 20
         reasons.append("Industrial/warehouse location")
     
     # Risk Factor 2: Long driveway indicators (15 points)
-    driveway_keywords = ["blvd", "boulevard", "parkway", "freeway"]
-    if any(keyword in address1 for keyword in driveway_keywords):
+    if any(keyword in address1 for keyword in DRIVEWAY_KEYWORDS):
         score += 15
         reasons.append("Long driveway potential (Boulevard/Parkway/Freeway)")
     
@@ -62,8 +66,7 @@ def calculate_risk_score(branch):
         reasons.append("CRITICAL: geoPrecision is 'centroid'")
     
     # Risk Factor 5: Non-specific geo source (15 points)
-    vague_sources = ["previously verified", "google maps", "approximate"]
-    if any(vague in geo_source.lower() for vague in vague_sources):
+    if any(vague in geo_source.lower() for vague in VAGUE_SOURCE_KEYWORDS):
         score += 15
         reasons.append(f"Non-specific geoSource: '{geo_source}'")
     
