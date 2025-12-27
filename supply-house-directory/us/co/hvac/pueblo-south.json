@@ -60,7 +60,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.2643,
+      "arrivalLon": -104.60783,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "pending_web_verification",

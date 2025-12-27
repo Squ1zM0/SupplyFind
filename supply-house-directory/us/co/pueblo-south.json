@@ -44,7 +44,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + location mapping services"
+      "geoSource": "Google Maps + location mapping services",
+      "arrivalLat": 38.3241,
+      "arrivalLon": -104.6168,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-pueblo-comfortair-001",
@@ -91,7 +94,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + Commercial mapping platforms"
+      "geoSource": "Google Maps + Commercial mapping platforms",
+      "arrivalLat": 38.344106,
+      "arrivalLon": -104.71935,
+      "arrivalType": "warehouse"
     },
     {
       "id": "co-pueblo-rampart-001",
@@ -138,7 +144,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.27041,
+      "arrivalLon": -104.60332,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
@@ -184,7 +193,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.2662,
+      "arrivalLon": -104.6108,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-pueblo-pueblowinair-ilex-001",
@@ -233,7 +245,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.2577236,
+      "arrivalLon": -104.6039515,
+      "arrivalType": "will_call"
     }
   ]
 }

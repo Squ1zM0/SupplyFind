@@ -49,7 +49,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.688315,
+      "arrivalLon": -105.008916,
+      "arrivalType": "storefront"
     },
     {
       "id": "camfil-denver-8th-ave",
@@ -92,7 +95,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.7288,
+      "arrivalLon": -105.0182,
+      "arrivalType": "storefront"
     },
     {
       "id": "alpine-air-filter-littleton",
@@ -130,7 +136,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.598667,
+      "arrivalLon": -105.11894,
+      "arrivalType": "storefront"
     },
     {
       "id": "superior-filtration-denver-3rd-ave",
@@ -170,7 +179,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.72073,
+      "arrivalLon": -105.01978,
+      "arrivalType": "storefront"
     },
     {
       "id": "air-force-filter-denver-bryant",
@@ -216,7 +228,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.7136,
+      "arrivalLon": -105.0252,
+      "arrivalType": "storefront"
     },
     {
       "id": "scan-air-filters-wheat-ridge",
@@ -255,7 +270,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.7786,
+      "arrivalLon": -105.1126,
+      "arrivalType": "storefront"
     },
     {
       "id": "air-purification-company-denver",
@@ -295,7 +313,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.81292,
+      "arrivalLon": -105.01134,
+      "arrivalType": "storefront"
     }
   ]
 }

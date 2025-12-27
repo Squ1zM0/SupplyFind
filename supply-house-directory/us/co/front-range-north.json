@@ -50,7 +50,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 40.5269,
+      "arrivalLon": -105.0787,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-loveland-comfortair-001",
@@ -97,7 +100,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 40.4219,
+      "arrivalLon": -105.0759,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-loveland-lennoxstores-001",
@@ -139,7 +145,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 40.4206,
+      "arrivalLon": -105.074,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-greeley-winsupply-001",
@@ -185,7 +194,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 40.4231,
+      "arrivalLon": -104.6863,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-fc-ferguson-hvac-001",
@@ -242,7 +254,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6104,
+      "arrivalLon": -105.0229,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-frn-city-electric-002",
@@ -304,7 +319,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.5854,
+      "arrivalLon": -105.0432,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-frn-ced-001",
@@ -367,7 +385,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6001,
+      "arrivalLon": -105.0252,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-frn-city-electric-003",
@@ -429,7 +450,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.407917,
+      "arrivalLon": -105.045164,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-fortcollins-tranesupply-donella-001",
@@ -475,7 +499,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 40.5528,
+      "arrivalLon": -105.0447,
+      "arrivalType": "storefront"
     }
   ],
   "auditNotes": [

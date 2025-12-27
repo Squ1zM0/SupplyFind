@@ -60,7 +60,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.5688,
+      "arrivalLon": -104.8216,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-sidharvey-w6th-001",
@@ -119,7 +122,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.72672,
+      "arrivalLon": -105.01886,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-centennial-sidharvey-revere-001",
@@ -178,7 +184,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.58321,
+      "arrivalLon": -104.82783,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
@@ -237,7 +246,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.75538,
+      "arrivalLon": -104.77284,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-englewood-tranesupply-inverness-001",
@@ -290,7 +302,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.585162,
+      "arrivalLon": -104.862015,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

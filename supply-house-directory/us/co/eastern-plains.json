@@ -63,7 +63,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.63324,
+      "arrivalLon": -103.20035,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-sterling-crescent-electric-1",
@@ -109,7 +112,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6297,
+      "arrivalLon": -103.21008,
+      "arrivalType": "storefront"
     }
   ]
 }

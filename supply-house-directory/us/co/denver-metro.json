@@ -52,7 +52,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.6594,
+      "arrivalLon": -104.9976,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
@@ -95,7 +98,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + verified business directories"
+      "geoSource": "Google Maps + verified business directories",
+      "arrivalLat": 39.7897,
+      "arrivalLon": -105.0148,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -154,7 +160,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.72406,
+      "arrivalLon": -105.00913,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-galarson-washington-001",
@@ -205,7 +214,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.805763,
+      "arrivalLon": -104.977661,
+      "arrivalType": "storefront"
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -254,7 +266,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + Verified location databases"
+      "geoSource": "Google Maps + Verified location databases",
+      "arrivalLat": 39.6785,
+      "arrivalLon": -105.0039,
+      "arrivalType": "warehouse"
     },
     {
       "id": "co-denver-johnstone-7th-001",
@@ -307,7 +322,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.72843,
+      "arrivalLon": -105.02131,
+      "arrivalType": "storefront"
     },
     {
       "name": "Lennox Stores - Centennial",
@@ -353,7 +371,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + Multiple verified business directories"
+      "geoSource": "Google Maps + Multiple verified business directories",
+      "arrivalLat": 39.58383,
+      "arrivalLon": -104.83758,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -397,7 +418,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7831,
+      "arrivalLon": -105.0068,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
@@ -441,7 +465,10 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "MapQuest + verified company location page",
-      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.]"
+      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.]",
+      "arrivalLat": 39.567365,
+      "arrivalLon": -104.825739,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-rsd-osage-001",
@@ -497,7 +524,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7821,
+      "arrivalLon": -105.0112,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
@@ -538,7 +568,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7277,
+      "arrivalLon": -105.0182,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -592,7 +625,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.713585,
+      "arrivalLon": -105.004059,
+      "arrivalType": "storefront"
     },
     {
       "name": "Denver Winair",
@@ -640,7 +676,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.67752,
+      "arrivalLon": -105.00594,
+      "arrivalType": "will_call"
     },
     {
       "name": "North Denver Winair",
@@ -688,7 +727,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.8318,
+      "arrivalLon": -104.98188,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-lennoxstores-001",
@@ -730,7 +772,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.8124,
+      "arrivalLon": -105.0157,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -772,7 +817,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7475,
+      "arrivalLon": -104.7638,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-hvacdistco-001",
@@ -820,7 +868,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7879,
+      "arrivalLon": -104.9789,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-acdist-001",
@@ -869,7 +920,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7098,
+      "arrivalLon": -105.0219,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
@@ -917,7 +971,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.8006,
+      "arrivalLon": -104.9157,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-thornton-acdist-001",
@@ -966,7 +1023,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.8465,
+      "arrivalLon": -104.9762,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-wheatridge-winair-001",
@@ -1012,7 +1072,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7847,
+      "arrivalLon": -105.1376,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-centennial-comfortair-002",
@@ -1059,7 +1122,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Geocoded from corrected address"
+      "geoSource": "Geocoded from corrected address",
+      "arrivalLat": 39.5919,
+      "arrivalLon": -104.7978,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-centennial-rsd-001",
@@ -1116,7 +1182,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.5869,
+      "arrivalLon": -104.8276,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-rampart-001",
@@ -1164,7 +1233,10 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + MapQuest verified showroom entrance",
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]"
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]",
+      "arrivalLat": 39.715679,
+      "arrivalLon": -104.99742,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
@@ -1224,7 +1296,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7972,
+      "arrivalLon": -104.9816,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-rexel-denver-425-quivas",
@@ -1285,7 +1360,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-rexel-denver-east-11175-e-55th",
@@ -1346,7 +1424,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7962,
+      "arrivalLon": -104.7836,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
@@ -1408,7 +1489,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.72423,
+      "arrivalLon": -105.01515,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-ces-denver-central-2630-w-2nd",
@@ -1471,7 +1555,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.718955,
+      "arrivalLon": -105.019012,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
@@ -1530,7 +1617,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.794972,
+      "arrivalLon": -104.860753,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
@@ -1582,7 +1672,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.804388,
+      "arrivalLon": -104.977336,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-wesco-denver-11198-e-45th",
@@ -1642,7 +1735,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.779135,
+      "arrivalLon": -104.856062,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
@@ -1693,7 +1789,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7862,
+      "arrivalLon": -104.8655,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -1742,7 +1841,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7154,
+      "arrivalLon": -105.0052,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
@@ -1802,7 +1904,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.703204,
+      "arrivalLon": -105.004379,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-sdi-oneida-001",
@@ -1853,7 +1958,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 39.7847,
+      "arrivalLon": -104.9995,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-northwinair-76th-001",
@@ -1905,7 +2013,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 39.8383,
+      "arrivalLon": -104.8869,
+      "arrivalType": "storefront"
     }
   ]
 }

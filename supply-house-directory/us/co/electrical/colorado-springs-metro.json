@@ -63,7 +63,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.79873,
+      "arrivalLon": -104.78599,
+      "arrivalType": "storefront"
     },
     {
       "id": "cos-ced",
@@ -125,7 +128,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.89527,
+      "arrivalLon": -104.82972,
+      "arrivalType": "storefront"
     },
     {
       "id": "cos-ces",
@@ -186,7 +192,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.86635,
+      "arrivalLon": -104.71638,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-colorado-springs-blazer-electric-1",
@@ -239,7 +248,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.870465,
+      "arrivalLon": -104.722245,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-colorado-springs-3224",
@@ -299,7 +311,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.92931,
+      "arrivalLon": -104.79709,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-colorado-springs-central-001",
@@ -352,7 +367,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.9105,
+      "arrivalLon": -104.7927,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

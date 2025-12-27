@@ -63,7 +63,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.15145,
+      "arrivalLon": -104.96341,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-boulder-walnut-001",
@@ -126,7 +129,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.02151,
+      "arrivalLon": -105.24847,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-longmont-gay-001",
@@ -189,7 +195,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.16078,
+      "arrivalLon": -105.10291,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

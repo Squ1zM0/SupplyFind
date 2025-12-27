@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.1577,
+      "arrivalLon": -105.1038,
+      "arrivalType": "storefront"
     },
     {
       "id": "dahl-boulder-sterling-3180-100",
@@ -106,7 +109,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + Google Maps verified entrance"
+      "geoSource": "MapQuest + Google Maps verified entrance",
+      "arrivalLat": 40.03443,
+      "arrivalLon": -105.24637,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-plumbing-boulder-1840-55th",
@@ -163,7 +169,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.0267,
+      "arrivalLon": -105.2217,
+      "arrivalType": "storefront"
     },
     {
       "id": "winnelson-longmont-795-s-sherman-13",
@@ -207,7 +216,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.151531,
+      "arrivalLon": -105.108586,
+      "arrivalType": "will_call"
     }
   ],
   "auditNotes": [

@@ -60,7 +60,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.636098,
+      "arrivalLon": -105.01251,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-fortcollins-lennoxstores-academy-001",
@@ -113,7 +116,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.5963,
+      "arrivalLon": -105.052,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

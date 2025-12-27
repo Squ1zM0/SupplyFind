@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6104,
+      "arrivalLon": -105.0229,
+      "arrivalType": "storefront"
     },
     {
       "id": "hughes-supply-ftc-lincoln",
@@ -106,7 +109,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.59833,
+      "arrivalLon": -105.048254,
+      "arrivalType": "will_call"
     },
     {
       "id": "ferguson-plumbing-fort-collins-0112",
@@ -163,7 +169,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6104,
+      "arrivalLon": -105.0229,
+      "arrivalType": "storefront"
     },
     {
       "id": "dahl-fort-collins-523",
@@ -209,7 +218,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.59833,
+      "arrivalLon": -105.048254,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-greeley-199-evans",
@@ -255,7 +267,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + Google Maps verified entrance"
+      "geoSource": "MapQuest + Google Maps verified entrance",
+      "arrivalLat": 40.378154,
+      "arrivalLon": -104.71644,
+      "arrivalType": "storefront"
     },
     {
       "id": "winsupply-greeley-1979-2nd",
@@ -299,7 +314,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.392354,
+      "arrivalLon": -104.68647,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-loveland-11th-100",
@@ -345,7 +363,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.392918,
+      "arrivalLon": -105.050544,
+      "arrivalType": "will_call"
     }
   ],
   "auditNotes": [

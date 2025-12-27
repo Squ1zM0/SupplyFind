@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.9152,
+      "arrivalLon": -104.8003,
+      "arrivalType": "storefront"
     },
     {
       "id": "colorado-springs-winnelson-geiger",
@@ -104,7 +107,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.863395,
+      "arrivalLon": -104.701133,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-colorado-springs-sinton",
@@ -150,7 +156,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.89527,
+      "arrivalLon": -104.82972,
+      "arrivalType": "will_call"
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
@@ -195,7 +204,10 @@
       },
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.8891,
+      "arrivalLon": -104.8319,
+      "arrivalType": "will_call"
     },
     {
       "id": "cos-gateway-supply-plumbing",
@@ -239,7 +251,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.7927,
+      "arrivalLon": -104.7745,
+      "arrivalType": "will_call"
     },
     {
       "id": "abc-plumbing-cos-fillmore",
@@ -288,7 +303,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.847815,
+      "arrivalLon": -104.812823,
+      "arrivalType": "storefront"
     },
     {
       "id": "dahl-castle-rock-perry",
@@ -336,7 +354,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.354079,
+      "arrivalLon": -104.86839,
+      "arrivalType": "will_call"
     }
   ],
   "auditNotes": [

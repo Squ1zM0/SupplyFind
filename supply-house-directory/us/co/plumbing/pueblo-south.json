@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.2467,
+      "arrivalLon": -104.6087,
+      "arrivalType": "storefront"
     },
     {
       "id": "pueblo-winnelson-ilex",
@@ -104,7 +107,10 @@
       },
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.2577236,
+      "arrivalLon": -104.6039515,
+      "arrivalType": "will_call"
     },
     {
       "id": "rampart-supply-pueblo-4th",
@@ -154,7 +160,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.270425,
+      "arrivalLon": -104.606473,
+      "arrivalType": "will_call"
     },
     {
       "id": "winsupply-salida-oak-001",
@@ -205,7 +214,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.537835,
+      "arrivalLon": -106.003346,
+      "arrivalType": "storefront"
     },
     {
       "id": "abc-plumbing-pueblo-spring",
@@ -254,7 +266,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.268428,
+      "arrivalLon": -104.610091,
+      "arrivalType": "storefront"
     }
   ],
   "auditNotes": [

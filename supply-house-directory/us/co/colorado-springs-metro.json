@@ -49,7 +49,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.8754,
+      "arrivalLon": -104.8272,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-johnstone-001",
@@ -101,7 +104,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.845617,
+      "arrivalLon": -104.757164,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-lennoxstores-001",
@@ -143,7 +149,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified entrance"
+      "geoSource": "Google Maps + MapQuest verified entrance",
+      "arrivalLat": 38.8945,
+      "arrivalLon": -104.69581,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-winsupply-001",
@@ -189,7 +198,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.7935,
+      "arrivalLon": -104.7749,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-sidharvey-001",
@@ -236,7 +248,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.8122,
+      "arrivalLon": -104.8244,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-ct-supply-001",
@@ -282,7 +297,10 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + MapQuest verified entrance coordinates",
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.]"
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.]",
+      "arrivalLat": 38.874312,
+      "arrivalLon": -104.715174,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-hercules-001",
@@ -329,7 +347,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 38.80057,
+      "arrivalLon": -104.72562,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
@@ -382,7 +403,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8822,
+      "arrivalLon": -104.7635,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
@@ -428,7 +452,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.870465,
+      "arrivalLon": -104.722245,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-graybar-001",
@@ -489,7 +516,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.868938,
+      "arrivalLon": -104.734612,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-city-electric-001",
@@ -551,7 +581,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.9105,
+      "arrivalLon": -104.7927,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-city-electric-002",
@@ -613,7 +646,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.8732,
+      "arrivalLon": -104.7204,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-ferguson-002",
@@ -670,7 +706,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.9152,
+      "arrivalLon": -104.8003,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-charlesdjones-sierramadre-001",
@@ -723,7 +762,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8503,
+      "arrivalLon": -104.8214,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-lohmiller-newport-001",
@@ -769,7 +811,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8625,
+      "arrivalLon": -104.8509,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-rampart-union-001",
@@ -825,7 +870,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8756,
+      "arrivalLon": -104.8275,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "in_progress",

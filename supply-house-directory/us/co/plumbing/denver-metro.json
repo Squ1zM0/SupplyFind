@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7274,
+      "arrivalLon": -105.0206,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-plumbing-denver-north-48th",
@@ -117,7 +120,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7843028,
+      "arrivalLon": -104.9441786,
+      "arrivalType": "storefront"
     },
     {
       "id": "denver-winnelson-2nd-ave",
@@ -162,7 +168,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.715034,
+      "arrivalLon": -105.014427,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-denver-s-santa-fe",
@@ -209,7 +218,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.713135,
+      "arrivalLon": -104.99749,
+      "arrivalType": "will_call"
     },
     {
       "id": "hughes-denver-bryant-st",
@@ -256,7 +268,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.723198,
+      "arrivalLon": -105.020798,
+      "arrivalType": "will_call"
     },
     {
       "id": "martz-denver-53rd-pl",
@@ -303,7 +318,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.791183,
+      "arrivalLon": -104.995604,
+      "arrivalType": "will_call"
     },
     {
       "id": "rampart-supply-denver-rio-grande",
@@ -353,7 +371,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.713774,
+      "arrivalLon": -104.998232,
+      "arrivalType": "will_call"
     },
     {
       "id": "denver-apex-supply",
@@ -396,7 +417,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7749,
+      "arrivalLon": -104.9188,
+      "arrivalType": "will_call"
     },
     {
       "id": "denver-hdsupply-plumbing",
@@ -440,7 +464,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7852,
+      "arrivalLon": -104.9216,
+      "arrivalType": "will_call"
     },
     {
       "id": "denver-gateway-supply",
@@ -485,7 +512,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7861,
+      "arrivalLon": -104.9583,
+      "arrivalType": "will_call"
     },
     {
       "id": "littleton-hughes-supply",
@@ -531,7 +561,10 @@
       },
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.6044,
+      "arrivalLon": -105.0088,
+      "arrivalType": "will_call"
     },
     {
       "id": "centennial-ferguson-plumbing",
@@ -587,7 +620,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.58223,
+      "arrivalLon": -104.82801,
+      "arrivalType": "storefront"
     },
     {
       "id": "winnelson-denver-w-2nd-2300-1b",
@@ -632,7 +668,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.715034,
+      "arrivalLon": -105.014427,
+      "arrivalType": "will_call"
     },
     {
       "id": "denver-flink-plumbing",
@@ -674,7 +713,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.7871,
+      "arrivalLon": -104.9626,
+      "arrivalType": "will_call"
     },
     {
       "id": "ferguson-plumbing-arvada-sheridan-001",
@@ -731,7 +773,10 @@
       "primaryTrade": "HVAC",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.845463,
+      "arrivalLon": -105.053035,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-showroom-aurora-25th-001",
@@ -786,7 +831,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.755805,
+      "arrivalLon": -104.783668,
+      "arrivalType": "storefront"
     },
     {
       "id": "denver-great-western-pipe-forest",
@@ -831,7 +879,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.7637,
+      "arrivalLon": -104.9442,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-plumbing-commerce-city-dallas",
@@ -884,7 +935,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.870717,
+      "arrivalLon": -104.870667,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-plumbing-sheridan-oxford",
@@ -937,7 +991,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.64278,
+      "arrivalLon": -105.009133,
+      "arrivalType": "storefront"
     },
     {
       "id": "ferguson-plumbing-littleton-grant",
@@ -990,7 +1047,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.572006,
+      "arrivalLon": -104.987762,
+      "arrivalType": "storefront"
     }
   ],
   "auditNotes": [

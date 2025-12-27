@@ -67,7 +67,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.08907,
+      "arrivalLon": -108.51499,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-galarson-north-ave-001",
@@ -125,7 +128,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.0781,
+      "arrivalLon": -108.5454,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-johnstone-girard-001",
@@ -184,7 +190,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.2417,
+      "arrivalLon": -107.8689,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grandjunction-sidharvey-i70-001",
@@ -243,7 +252,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.082866,
+      "arrivalLon": -108.527343,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

@@ -68,7 +68,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.062388,
+      "arrivalLon": -108.553339,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-keenan-dahl-1",
@@ -121,7 +124,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.1198,
+      "arrivalLon": -108.5843,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-montrose-ferguson-plumbing-1",
@@ -187,7 +193,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.473785,
+      "arrivalLon": -107.892914,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -252,7 +261,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.222682,
+      "arrivalLon": -107.871575,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-granby-ferguson-plumbing-1",
@@ -317,7 +329,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.0794,
+      "arrivalLon": -105.9378,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-silverthorne-ferguson-plumbing-1",
@@ -383,7 +398,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.6399,
+      "arrivalLon": -106.0821,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-montrose-dahl-plumbing-1",
@@ -432,7 +450,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.48993,
+      "arrivalLon": -107.87188,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-glenwood-springs-dahl-plumbing-1",
@@ -481,7 +502,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + verified shopping center location"
+      "geoSource": "Google Maps + verified shopping center location",
+      "arrivalLat": 39.543603,
+      "arrivalLon": -107.34668,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-dahl-plumbing-1",
@@ -530,7 +554,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 37.29818,
+      "arrivalLon": -107.87433,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-avon-dahl-plumbing-1",
@@ -579,7 +606,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.63274,
+      "arrivalLon": -106.52423,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-glenwood-springs-ferguson-plumbing-1",
@@ -637,7 +667,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.517095,
+      "arrivalLon": -107.31335,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-winnelson-1",
@@ -683,7 +716,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.072251,
+      "arrivalLon": -108.567895,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cortez-plumbing-store-broadway",
@@ -736,7 +772,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.34946,
+      "arrivalLon": -108.58541,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

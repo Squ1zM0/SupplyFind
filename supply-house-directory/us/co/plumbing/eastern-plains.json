@@ -52,7 +52,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.243623,
+      "arrivalLon": -103.842296,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-sterling-dahl-plumbing-1",
@@ -101,7 +104,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.628109,
+      "arrivalLon": -103.216985,
+      "arrivalType": "will_call"
     }
   ],
   "auditStatus": "expanded",

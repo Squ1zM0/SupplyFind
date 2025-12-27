@@ -46,7 +46,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 38.9022,
+      "arrivalLon": -104.8434,
+      "arrivalType": "storefront"
     }
   ]
 }

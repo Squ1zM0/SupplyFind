@@ -54,7 +54,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7862,
+      "arrivalLon": -104.8655,
+      "arrivalType": "storefront"
     },
     {
       "id": "border-states-denver-5475-joliet",
@@ -113,7 +116,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.794972,
+      "arrivalLon": -104.860753,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-denver-2405-w-5th",
@@ -176,7 +182,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.72423,
+      "arrivalLon": -105.01515,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-denver-central-2630-w-2nd",
@@ -238,7 +247,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.718955,
+      "arrivalLon": -105.019012,
+      "arrivalType": "storefront"
     },
     {
       "id": "crescent-electric-denver-5925-washington",
@@ -289,7 +301,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.804388,
+      "arrivalLon": -104.977336,
+      "arrivalType": "storefront"
     },
     {
       "id": "graybar-denver-area-service-center-480-e-55th",
@@ -350,7 +365,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7972,
+      "arrivalLon": -104.9816,
+      "arrivalType": "storefront"
     },
     {
       "id": "qed-denver-1661-w-3rd",
@@ -399,7 +417,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7154,
+      "arrivalLon": -105.0052,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-425-quivas",
@@ -459,7 +480,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
@@ -519,7 +543,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7962,
+      "arrivalLon": -104.7836,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-denver-11198-e-45th",
@@ -580,7 +607,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.779135,
+      "arrivalLon": -104.856062,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-retail-denver-756-s-jason",
@@ -639,7 +669,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.703204,
+      "arrivalLon": -105.004379,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-distribution-center-3217",
@@ -699,7 +732,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7962,
+      "arrivalLon": -104.7836,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-centennial-7611",
@@ -759,7 +795,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.58701,
+      "arrivalLon": -104.82012,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-centennial-jordan-001",
@@ -822,7 +861,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7821,
+      "arrivalLon": -104.8772,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-quivas-001",
@@ -884,7 +926,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -942,7 +987,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.919988,
+      "arrivalLon": -104.852623,
+      "arrivalType": "storefront"
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
@@ -993,7 +1041,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.770928,
+      "arrivalLon": -104.868599,
+      "arrivalType": "storefront"
     },
     {
       "id": "elliott-electric-centennial-15152-fremont",
@@ -1043,7 +1094,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.583993,
+      "arrivalLon": -104.812113,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-denver-6883-e-47th",
@@ -1093,7 +1147,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.782177,
+      "arrivalLon": -104.906268,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-denver-boulder-001",
@@ -1142,7 +1199,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.034143,
+      "arrivalLon": -105.248774,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-centennial-001",
@@ -1191,7 +1251,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified coordinates"
+      "geoSource": "Google Maps + MapQuest verified coordinates",
+      "arrivalLat": 39.581452,
+      "arrivalLon": -104.831279,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-broomfield-001",
@@ -1240,7 +1303,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + verified business directories"
+      "geoSource": "MapQuest + verified business directories",
+      "arrivalLat": 39.92775,
+      "arrivalLon": -105.06912,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",
