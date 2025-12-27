@@ -16,9 +16,9 @@
       "address1": "10432 E 49th Avenue",
       "phone": "303-373-9200",
       "website": "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7862,
+      "lon": -104.8655,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Panduit",
         "Belden",
@@ -35,7 +35,9 @@
         "sources": [
           "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html",
           "https://www.mapquest.com/us/colorado/anixter-419978905"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -59,9 +61,9 @@
       "address1": "5475 Joliet St Unit B",
       "phone": "720-531-9895",
       "website": "https://solutions.borderstates.com/branch-locations/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.794972,
+      "lon": -104.860753,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Acuity Brands",
@@ -83,7 +85,9 @@
         "sources": [
           "https://www.mapquest.com/us/colorado/border-states-electric-421028189",
           "https://solutions.borderstates.com/branch-locations/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -110,9 +114,9 @@
       "address1": "2405 W 5th Avenue",
       "phone": "303-623-1233",
       "website": "https://denver.portalced.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.72423,
+      "lon": -105.01515,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -137,7 +141,9 @@
         "sources": [
           "https://denver.portalced.com/",
           "https://www.engproducts.com/distributor/denver/co/ced"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -167,7 +173,7 @@
       "website": "https://www.cityelectricsupply.com/branch/301",
       "lat": 39.719771,
       "lon": -105.019647,
-      "coordsStatus": "needs_verify",
+      "coordsStatus": "verified",
       "brandsRep": [
         "Southwire",
         "Siemens",
@@ -192,7 +198,9 @@
         "sources": [
           "https://www.yellowpages.com/denver-co/bpp/city-electric-supply-denver-central-508773457",
           "https://www.merchantcircle.com/Colorado.Electric.Supply.303-996-0111"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -219,9 +227,9 @@
       "address1": "5925 Washington St Ste 300",
       "phone": "303-629-1188",
       "website": "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.804388,
+      "lon": -104.977336,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Eaton",
@@ -238,7 +246,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -262,9 +272,9 @@
       "address1": "480 E 55TH AVE UNIT 500",
       "phone": "720-602-4400",
       "website": "https://www.graybar.com/store/DESC/co/denver",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7972,
+      "lon": -104.9816,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -287,7 +297,9 @@
         "sources": [
           "https://www.graybar.com/store/DESC/co/denver",
           "https://www.graybar.com/store/DECO/co/denver"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -315,9 +327,9 @@
       "address1": "1661 W 3rd Ave",
       "phone": "303-825-5011",
       "website": "https://www.qedelectric.com/about/location/denver",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7154,
+      "lon": -105.0052,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Eaton",
@@ -332,7 +344,9 @@
         "sources": [
           "https://www.qedelectric.com/about/location/denver",
           "https://www.mapquest.com/us/colorado/qed-inc-23650314"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -356,9 +370,9 @@
       "address1": "425 Quivas Street",
       "phone": "303-572-7100",
       "website": "https://www.rexelusa.com/locations/co/denver/7325",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7247,
+      "lon": -105.0044,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -381,7 +395,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver/7325"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -408,9 +424,9 @@
       "address1": "11175 E 55TH AVE, UNIT 100",
       "phone": "303-728-5888",
       "website": "https://www.rexelusa.com/locations/co/denver-east/3201",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7962,
+      "lon": -104.7836,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -433,7 +449,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver-east/3201"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -460,9 +478,9 @@
       "address1": "11198 E 45th Ave",
       "phone": "303-322-1722",
       "website": "https://www.engproducts.com/distributor/denver/co/wesco",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.779135,
+      "lon": -104.856062,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -485,7 +503,9 @@
         "sources": [
           "https://www.engproducts.com/distributor/denver/co/wesco",
           "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -512,9 +532,9 @@
       "address1": "756 S Jason St Unit 1",
       "phone": "303-733-8600",
       "website": "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.703204,
+      "lon": -105.004379,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -536,7 +556,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -563,9 +585,9 @@
       "address1": "11175 East 55th Avenue, Suite 100",
       "phone": "720-417-7100",
       "website": "https://www.rexelusa.com/locations/co/denver-distribution-center/3217",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7962,
+      "lon": -104.7836,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -588,7 +610,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -615,9 +639,9 @@
       "address1": "14678 E Easter Ave",
       "phone": "303-680-8400",
       "website": "https://www.rexelusa.com/locations/co/centennial/7611",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.58701,
+      "lon": -104.82012,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -640,7 +664,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/centennial/7611"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -667,9 +693,9 @@
       "address1": "6999 S. Jordan Road",
       "phone": "(303) 733-2211",
       "website": "https://cedcentennial.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.587227,
+      "lon": -104.862536,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -694,7 +720,9 @@
         "sources": [
           "https://cedcentennial.portalced.com/",
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -722,9 +750,9 @@
       "address1": "425 Quivas Street",
       "phone": "(303) 572-7100",
       "website": "https://www.rexelusa.com/locations/CO/Denver/7325",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.7247,
+      "lon": -105.0044,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -748,7 +776,9 @@
         "sources": [
           "https://www.rexelusa.com/locations/CO/Denver/7325",
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/1305511-rexel"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -775,9 +805,9 @@
       "address1": "10899 Havana Street",
       "phone": "",
       "website": "https://solutions.borderstates.com/branch-locations/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.919988,
+      "lon": -104.852623,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Acuity Brands",
@@ -798,7 +828,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://solutions.borderstates.com/branch-locations/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -825,9 +857,9 @@
       "address1": "10070 E 40th Ave",
       "phone": "720-259-9108",
       "website": "https://www.elliottelectric.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.770928,
+      "lon": -104.868599,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -844,7 +876,9 @@
         "sources": [
           "https://www.elliottelectric.com/locations/main.aspx",
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/electrical-supply-store/2031792612-elliott-electric-supply"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -868,9 +902,9 @@
       "address1": "15152 E Fremont Dr",
       "phone": "720-278-7555",
       "website": "https://www.elliottelectric.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.583993,
+      "lon": -104.812113,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -886,7 +920,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.elliottelectric.com/locations/195/CO/Centennial.aspx"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -910,9 +946,9 @@
       "address1": "6883 E 47th Ave Dr",
       "phone": "303-322-0455",
       "website": "https://www.wesco.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.782177,
+      "lon": -104.906268,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -928,7 +964,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.thebluebook.com/iProView/1578187/wesco-distribution-inc/subcontractors/locations-contacts/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -952,9 +990,9 @@
       "address1": "3245 Prairie Ave",
       "phone": "720-974-4774",
       "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.034143,
+      "lon": -105.248774,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -970,7 +1008,9 @@
         "sources": [
           "https://www.cityelectricsupply.com/branches/co/boulder/boulder",
           "https://www.yellowpages.com/boulder-co/mip/city-electric-supply-boulder-472810970"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -993,9 +1033,9 @@
       "address1": "7039 S Jordan Rd",
       "phone": "303-790-7370",
       "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.588775,
+      "lon": -104.860938,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -1011,7 +1051,9 @@
         "sources": [
           "https://servlectric.com/branch/city-electric-supply-denver-south-centennial-7039-s-jordan-rd-centennial-co-80112",
           "https://www.manta.com/c/mm3jbz1/city-electric-supply-denver-south"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -1034,9 +1076,9 @@
       "address1": "2380 W Midway Blvd, Suite 2",
       "phone": "303-466-4618",
       "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.92285,
+      "lon": -105.09817,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -1052,7 +1094,9 @@
         "sources": [
           "https://www.mapquest.com/us/colorado/city-electric-supply-broomfield-351406282",
           "https://www.chamberofcommerce.com/business-directory/colorado/broomfield/electrical-supply-store/36695964-city-electric-supply-broomfield"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
