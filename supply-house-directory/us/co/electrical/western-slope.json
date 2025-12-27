@@ -711,8 +711,8 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "rexel-montrose-001",
-      "name": "Rexel - Montrose",
+      "id": "rexel-montrose-3228",
+      "name": "Rexel Montrose (#3228)",
       "chain": "Rexel",
       "trade": "electrical",
       "city": "Montrose",
@@ -720,21 +720,28 @@
       "postalCode": "81401",
       "address1": "3410 N Townsend Ave",
       "phone": "970-615-6200",
-      "website": "https://www.rexelusa.com",
+      "website": "https://www.rexelusa.com/locations/co/montrose/3228",
       "lat": 38.31827,
       "lon": -107.87478,
       "coordsStatus": "verified",
       "brandsRep": [
+        "ABB",
         "Eaton",
-        "Square D",
         "Schneider Electric",
-        "Hubbell",
-        "Legrand",
-        "Leviton",
-        "ABB"
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "notes": "Rexel branch serving Montrose and western Colorado. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
