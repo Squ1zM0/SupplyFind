@@ -1155,8 +1155,8 @@
       "address1": "7318 S Revere Parkway, Suite B3",
       "phone": "303-858-9988",
       "website": "https://www.cityelectricsupply.com",
-      "lat": 39.586936,
-      "lon": -104.823017,
+      "lat": 39.581452,
+      "lon": -104.831279,
       "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
@@ -1167,7 +1167,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27",
+      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.]",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -1191,7 +1191,7 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps + MapQuest verified coordinates"
     },
     {
       "id": "ces-broomfield-001",
