@@ -28,8 +28,8 @@
           "https://www.industrialfiltersource.com/",
           "https://opengovco.com/business/20131666942"
         ],
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [

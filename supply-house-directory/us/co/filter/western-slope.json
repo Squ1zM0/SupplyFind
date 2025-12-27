@@ -28,8 +28,8 @@
           "https://www.yellowpages.com/grand-junction-co/mip/filter-supply-466048815",
           "https://listings.allpages.com/co-0139983162-grand-junction.html"
         ],
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [

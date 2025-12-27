@@ -113,7 +113,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       }
     },
@@ -402,7 +402,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
@@ -448,7 +448,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
@@ -494,7 +494,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
@@ -540,7 +540,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
@@ -635,7 +635,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Winsupply",
@@ -676,8 +676,8 @@
       "verification": {
         "coords_verified": "2025-12-26",
         "storefront_confirmed": "2025-12-26",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [

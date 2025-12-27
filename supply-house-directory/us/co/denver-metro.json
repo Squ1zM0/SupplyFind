@@ -42,7 +42,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -79,7 +79,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -271,7 +271,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -310,7 +310,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -476,7 +476,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -525,7 +525,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -567,7 +567,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -609,7 +609,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -645,7 +645,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -681,7 +681,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -723,7 +723,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -766,7 +766,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -808,7 +808,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -851,7 +851,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -895,7 +895,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -935,7 +935,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -979,7 +979,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -1015,7 +1015,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "RSD Store #74. HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Address verified via Google Business Profile and official RSD store locator (Store #74), 2025-12-27.",
+      "notes": "RSD Store #74. HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Relocated from 6825 S Galena St. Address verified via Google Business Profile and official RSD store locator (Store #74), 2025-12-27.",
       "sources": [
         "https://www.rsd.net/store/0074-centennial-co",
         "https://www.rsd.net/locations/?state=CO&storenumber=74"
@@ -1074,7 +1074,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -1363,7 +1363,7 @@
         "geocoding_method": "Previously verified during geocoding audit",
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
@@ -1419,8 +1419,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-25"
       }
     },
@@ -1468,8 +1468,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-25"
       }
     },
@@ -1573,8 +1573,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-25"
       }
     },
@@ -1619,8 +1619,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-25"
       }
     },
@@ -1724,8 +1724,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Company website and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       }
     },

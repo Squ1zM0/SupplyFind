@@ -82,7 +82,8 @@ def migrate_verification_metadata():
                     elif 'coords_verified' in verification:
                         verification['addressVerifiedDate'] = verification['coords_verified']
                     else:
-                        verification['addressVerifiedDate'] = "Requires verification"
+                        # Use null for unverified entries to maintain schema consistency
+                        verification['addressVerifiedDate'] = None
                 
                 branch['verification'] = verification
                 modified = True

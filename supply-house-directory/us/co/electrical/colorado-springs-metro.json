@@ -127,7 +127,7 @@
       "verification": {
         "coords_verified": "2025-12-26",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
@@ -205,7 +205,7 @@
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": false,
-        "addressSource": "Requires verification",
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
       }
     },
@@ -298,8 +298,8 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Requires verification",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
