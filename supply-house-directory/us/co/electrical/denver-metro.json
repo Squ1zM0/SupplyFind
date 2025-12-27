@@ -549,16 +549,17 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "wesco-denver-11198-e-45th",
-      "name": "WESCO - Denver",
+      "id": "kva-supply-denver-11198-e-45th",
+      "name": "KVA Supply Co",
       "chain": "WESCO",
+      "operatingName": "KVA Supply Co",
       "trade": "electrical",
       "city": "Denver",
       "state": "CO",
       "postalCode": "80239",
       "address1": "11198 E 45th Ave",
-      "phone": "303-322-1722",
-      "website": "https://www.engproducts.com/distributor/denver/co/wesco",
+      "phone": "303-217-7500",
+      "website": "https://buy.wesco.com/content/kvasupply",
       "lat": 39.779135,
       "lon": -104.856062,
       "coordsStatus": "verified",
@@ -578,18 +579,19 @@
         "Lithonia"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO distribution branch. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27. Google Maps: https://maps.app.goo.gl/y2nsHYLPrUabmM3BA",
       "verification": {
-        "storefront_confirmed": "2025-12-25",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.engproducts.com/distributor/denver/co/wesco",
-          "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
+          "https://buy.wesco.com/content/kvasupply",
+          "https://maps.app.goo.gl/y2nsHYLPrUabmM3BA",
+          "https://www.chamberofcommerce.com/united-states/colorado/denver/electrical-supply-store/31257428-kva-supply-co"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "geocoding_method": "Google Maps verified coordinates",
         "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
+        "addressSource": "Google Business Profile & WESCO Official Website",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Electrical",
@@ -599,79 +601,17 @@
         "Controls"
       ],
       "sources": [
-        "https://www.engproducts.com/distributor/denver/co/wesco",
-        "https://www.mapquest.com/us/colorado/wesco-distribution-inc-372122929"
+        "https://buy.wesco.com/content/kvasupply",
+        "https://maps.app.goo.gl/y2nsHYLPrUabmM3BA"
       ],
       "trades": [
         "Electrical"
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
+      "geoSource": "Google Maps pin",
       "arrivalLat": 39.779191,
       "arrivalLon": -104.856006,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "wesco-retail-denver-756-s-jason",
-      "name": "WESCO Retail Branch - Denver",
-      "chain": "WESCO",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80223",
-      "address1": "756 S Jason St Unit 1",
-      "phone": "303-733-8600",
-      "website": "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html",
-      "lat": 39.703204,
-      "lon": -105.004379,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "WESCO US retail branch listing (counter). Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "sources": [
-          "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.wesco.com/us/en/campaigns/2023/us-retail-branches.html"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.70326,
-      "arrivalLon": -105.004323,
       "arrivalType": "storefront"
     },
     {
@@ -1100,59 +1040,6 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "wesco-denver-6883-e-47th",
-      "name": "WESCO - Denver (E 47th Ave)",
-      "chain": "WESCO",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80216",
-      "address1": "6883 E 47th Ave Dr",
-      "phone": "303-322-0455",
-      "website": "https://www.wesco.com",
-      "lat": 39.782177,
-      "lon": -104.906268,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Eaton",
-        "Schneider Electric",
-        "ABB",
-        "Siemens",
-        "GE",
-        "Square D",
-        "Hubbell"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "WESCO Denver E 47th Ave branch. Full-line electrical distributor serving commercial, industrial, and utility customers. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "verification": {
-        "storefront_confirmed": "2025-12-26",
-        "sources": [
-          "https://www.thebluebook.com/iProView/1578187/wesco-distribution-inc/subcontractors/locations-contacts/"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Automation",
-        "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.782233,
-      "arrivalLon": -104.906212,
-      "arrivalType": "storefront"
-    },
-    {
       "id": "ces-denver-boulder-001",
       "name": "City Electric Supply - Boulder",
       "chain": "City Electric Supply",
@@ -1316,6 +1203,7 @@
     "Final Denver Metro electrical audit complete. All entries verified as physical storefront counters.",
     "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
     "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research.",
-    "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply (2 locations), WESCO E 47th Ave, and City Electric Supply branches (Boulder, Centennial, Broomfield). All verified via official sources and business directories."
+    "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply (2 locations), WESCO E 47th Ave, and City Electric Supply branches (Boulder, Centennial, Broomfield). All verified via official sources and business directories.",
+    "2025-12-27: WESCO audit and correction - Removed invalid WESCO entries (756 S Jason St, 6883 E 47th Ave Dr). Updated 11198 E 45th Ave entry to reflect actual operating name 'KVA Supply Co' (WESCO subsidiary). Only one WESCO-affiliated location remains in Denver metro per verified ground truth."
   ]
 }

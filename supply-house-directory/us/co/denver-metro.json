@@ -1543,69 +1543,6 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "co-denver-electrical-wesco-denver-11198-e-45th",
-      "name": "WESCO - Denver",
-      "chain": "WESCO",
-      "address1": "11198 E 45th Ave",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "+13033221722",
-      "lat": 39.779135,
-      "lon": -104.856062,
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "tags": [
-        "electrical",
-        "wholesale"
-      ],
-      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
-      "sources": [
-        "https://www.wesco.com/us/en/locations.html"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80239",
-      "coordsStatus": "verified",
-      "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "sources": [
-          "https://www.wesco.com/us/en/locations.html"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.779135,
-      "arrivalLon": -104.856062,
-      "arrivalType": "storefront"
-    },
-    {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
       "name": "Anixter - Denver",
       "chain": "Anixter",
@@ -1709,69 +1646,6 @@
       "geoSource": "gps-coordinates.org",
       "arrivalLat": 39.715456,
       "arrivalLon": -105.005144,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-denver-electrical-wesco-retail-denver-756-s-jason",
-      "name": "WESCO Retail Branch - Denver",
-      "chain": "WESCO",
-      "address1": "756 S Jason St Unit 1",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "+13037338600",
-      "lat": 39.703204,
-      "lon": -105.004379,
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "tags": [
-        "electrical",
-        "wholesale"
-      ],
-      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.wesco.com/us/en/locations.html"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80223",
-      "coordsStatus": "verified",
-      "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "sources": [
-          "https://www.wesco.com/us/en/locations.html"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.70326,
-      "arrivalLon": -105.004323,
       "arrivalType": "storefront"
     },
     {
