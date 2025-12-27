@@ -114,9 +114,9 @@
       "address1": "2808 1st Ave, Unit F",
       "phone": "970-351-8320",
       "website": "https://www.rexelusa.com/locations/co/greeley/3255",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.391645,
+      "lon": -104.677816,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -139,7 +139,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/greeley/3255"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -166,9 +168,9 @@
       "address1": "4530 Innovation Drive",
       "phone": "970-223-1247",
       "website": "https://www.rexelusa.com/locations/co/ft-collins/7619",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.532844,
+      "lon": -105.042323,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -191,7 +193,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -218,9 +222,9 @@
       "address1": "2025 Sharp Point Dr",
       "phone": "(970) 484-4377",
       "website": "https://cedfortcollins.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.55393,
+      "lon": -105.079228,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -245,7 +249,9 @@
         "sources": [
           "https://cedfortcollins.portalced.com/ContactUs",
           "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -273,9 +279,9 @@
       "address1": "2414 4th Ave",
       "phone": "",
       "website": "https://solutions.borderstates.com/branch-locations/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.401905,
+      "lon": -104.687764,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Acuity Brands",
@@ -297,7 +303,9 @@
         "sources": [
           "https://solutions.borderstates.com/branch-locations/",
           "https://servlectric.com/branch/border-states-greeley-2414-4th-ave-greeley-co-80631"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -324,9 +332,9 @@
       "address1": "3942 Automation Way",
       "phone": "970-305-3593",
       "website": "https://www.elliottelectric.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.532444,
+      "lon": -105.063397,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -343,7 +351,9 @@
         "sources": [
           "https://www.elliottelectric.com/locations/186/CO/Fort%20Collins.aspx",
           "https://www.youtube.com/watch?v=zD9eAK_hFxA"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -367,9 +377,9 @@
       "address1": "133 Commerce Dr",
       "phone": "970-221-2002",
       "website": "https://www.wesco.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.606947,
+      "lon": -105.05095,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -385,7 +395,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.finduslocal.com/electric-equipment-supplies-wholesale/colorado/fort-collins/wesco-distributing-inc"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -409,9 +421,9 @@
       "address1": "1404 E Magnolia St",
       "phone": "970-484-4333",
       "website": "https://www.crescentelectric.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.591482,
+      "lon": -105.052608,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -426,7 +438,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.crescentelectric.com/locations/co/fort-collins/1404-e-magnolia-st"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -450,9 +464,9 @@
       "address1": "2415 E Mulberry St, Suite 5",
       "phone": "970-493-0101",
       "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.583624,
+      "lon": -105.026573,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -467,7 +481,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/contractors/electrical-lighting/electrical-supply-store/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

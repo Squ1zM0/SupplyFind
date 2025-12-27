@@ -16,8 +16,8 @@
       "postalCode": "81303",
       "phone": "970-259-1530",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 37.227571,
+      "lon": -107.877494,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -59,7 +59,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -73,8 +78,8 @@
       "postalCode": "81501",
       "phone": "970-243-1430",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0592,
+      "lon": -108.5545,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -116,7 +121,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-grand-junction-city-electric-supply-1",
@@ -130,8 +140,8 @@
       "postalCode": "81501",
       "phone": "970-986-6126",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 39.0631,
+      "lon": -108.5565,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -171,7 +181,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "rexel-glenwood-springs-3204",
@@ -184,9 +199,9 @@
       "address1": "7910 SH-82 W",
       "phone": "970-945-8265",
       "website": "https://www.rexelusa.com/locations/co/glenwood-springs/3204",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.5464,
+      "lon": -107.3984,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -209,7 +224,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -236,9 +253,9 @@
       "address1": "5392 County Road 154",
       "phone": "(970) 945-8265",
       "website": "https://cedcareers.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.3827,
+      "lon": -107.2742,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -262,7 +279,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -290,9 +309,9 @@
       "address1": "910 North Grand Ave",
       "phone": "(970) 249-2281",
       "website": "https://cedcareers.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.4908,
+      "lon": -107.8762,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -317,7 +336,9 @@
         "sources": [
           "https://www.loc8nearme.com/colorado/montrose/consolidated-electrical-distribution/3246381/",
           "https://www.chamberofcommerce.com/united-states/colorado/montrose/electric-utility-company/31328644-consolidated-electrical-distributors"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -345,9 +366,9 @@
       "address1": "318 S 10th St",
       "phone": "(970) 641-0107",
       "website": "https://cedcareers.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.542377,
+      "lon": -106.924796,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -371,7 +392,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-gunnison-401341063"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -399,9 +422,9 @@
       "address1": "165 W 16th St",
       "phone": "970-824-4471",
       "website": "https://www.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.511965,
+      "lon": -107.554471,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -418,7 +441,9 @@
         "sources": [
           "https://cedcraig.portalced.com/ContactUs",
           "https://www.yellowpages.com/craig-co/mip/consolidated-electrical-distributors-7039976"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -442,9 +467,9 @@
       "address1": "1955 Bridge Lane, Ste. 1100",
       "phone": "970-879-9751",
       "website": "https://www.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.48275,
+      "lon": -106.8372,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -461,7 +486,9 @@
         "sources": [
           "https://cedstmbt.portalced.com/",
           "https://www.steamboatchamber.com/listing/ced-consolidated-electrical-distributors-inc/2417/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -485,9 +512,9 @@
       "address1": "3410 N Townsend Ave",
       "phone": "970-615-6200",
       "website": "https://www.rexelusa.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.31827,
+      "lon": -107.87478,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -504,7 +531,9 @@
         "sources": [
           "https://www.rexelusa.com/locations/co/montrose/3228",
           "https://www.yellowpages.com/montrose-co/mip/rexel-579075374"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

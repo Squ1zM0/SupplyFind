@@ -16,9 +16,9 @@
       "address1": "1567 Vista View Dr",
       "phone": "303-845-3750",
       "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.150971,
+      "lon": -105.06717,
+      "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -35,7 +35,9 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter (shared site with HVAC). Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -61,9 +63,9 @@
       "address1": "3180 Sterling Cir Ste 100",
       "phone": "303-955-4460",
       "website": "https://dahlplumbing.com/boulder/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.034092,
+      "lon": -105.227058,
+      "coordsStatus": "verified",
       "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "brandsRep": [
         "Delta",
@@ -76,7 +78,9 @@
       ],
       "manufacturersPartsFor": [],
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -99,9 +103,9 @@
       "address1": "1840 55th St",
       "phone": "303-245-0456",
       "website": "https://www.yelp.com/biz/ferguson-plumbing-supply-boulder-2",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.030994,
+      "lon": -105.215531,
+      "coordsStatus": "verified",
       "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "brandsRep": [
         "American Standard",
@@ -118,7 +122,9 @@
       ],
       "manufacturersPartsFor": [],
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -144,9 +150,9 @@
       "address1": "795 S Sherman St Ste 13",
       "phone": "303-772-5460",
       "website": "https://www.yelp.com/biz/longmont-winnelson-longmont",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.151531,
+      "lon": -105.108586,
+      "coordsStatus": "verified",
       "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "brandsRep": [
         "AO Smith",
@@ -157,7 +163,9 @@
       ],
       "manufacturersPartsFor": [],
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"

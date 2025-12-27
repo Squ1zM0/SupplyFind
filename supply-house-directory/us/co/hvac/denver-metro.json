@@ -16,8 +16,8 @@
       "postalCode": "80112",
       "phone": "720-707-4000",
       "website": "https://www.galarson.com/locations",
-      "lat": null,
-      "lon": null,
+      "lat": 39.561744,
+      "lon": -104.822993,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -48,7 +48,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-denver-sidharvey-w6th-001",
@@ -62,8 +67,8 @@
       "postalCode": "80204",
       "phone": "(303) 623-1236",
       "website": "https://www.sidharvey.com/",
-      "lat": null,
-      "lon": null,
+      "lat": 39.72672,
+      "lon": -105.01886,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -96,7 +101,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-centennial-sidharvey-revere-001",
@@ -110,8 +120,8 @@
       "postalCode": "80112",
       "phone": "(303) 649-9800",
       "website": "https://www.sidharvey.com/",
-      "lat": null,
-      "lon": null,
+      "lat": 39.58673,
+      "lon": -104.82709,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -144,7 +154,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
@@ -158,8 +173,8 @@
       "postalCode": "80011",
       "phone": "(303) 568-5301",
       "website": "https://www.rsd.net/",
-      "lat": null,
-      "lon": null,
+      "lat": 39.75853,
+      "lon": -104.80324,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -191,7 +206,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-englewood-tranesupply-inverness-001",
@@ -205,8 +225,8 @@
       "postalCode": "80112",
       "phone": "(720) 709-3190",
       "website": "https://www.tranesupply.com/",
-      "lat": null,
-      "lon": null,
+      "lat": 39.58469,
+      "lon": -104.86642,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -233,7 +253,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     }
   ],
   "auditStatus": "expanded",

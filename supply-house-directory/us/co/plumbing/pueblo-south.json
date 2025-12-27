@@ -16,9 +16,9 @@
       "address1": "1109 S Santa Fe Ave",
       "phone": "719-547-3077",
       "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.255917,
+      "lon": -104.609768,
+      "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -35,7 +35,9 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -94,9 +96,9 @@
       "address1": "320 E 4th St",
       "phone": "719-583-0111",
       "website": "https://www.rampartsupply.com/storelocator",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.270425,
+      "lon": -104.606473,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Weil-McLain",
         "Buderus",
@@ -108,7 +110,9 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing supply house; also HVAC in some contexts. Hydronic heating and plumbing specialist. Verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Boilers",
@@ -133,9 +137,9 @@
       "address1": "338 Oak St",
       "phone": "719-530-0501",
       "website": "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.537835,
+      "lon": -106.003346,
+      "coordsStatus": "verified",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -150,7 +154,9 @@
         "sources": [
           "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
           "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -175,9 +181,9 @@
       "address1": "101 Spring St",
       "phone": "719-542-5631",
       "website": "https://abcplumbing.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.268428,
+      "lon": -104.610091,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Kohler",
         "Delta",
@@ -191,7 +197,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://abcplumbing.com/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing",

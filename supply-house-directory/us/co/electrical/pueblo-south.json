@@ -62,8 +62,8 @@
       "postalCode": "81003",
       "phone": "719-546-4444",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 38.264534,
+      "lon": -104.60845,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -89,7 +89,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "rexel-pueblo-3223",
@@ -102,9 +107,9 @@
       "address1": "737 Desert Flower Blvd",
       "phone": "719-543-2300",
       "website": "https://www.rexelusa.com/locations/co/pueblo/3223",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.299188,
+      "lon": -104.60847,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -127,7 +132,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/pueblo/3223"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -154,9 +161,9 @@
       "address1": "125 W C Street",
       "phone": "(719) 543-7510",
       "website": "https://aecpueblo.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.265319,
+      "lon": -104.610294,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -181,7 +188,9 @@
         "sources": [
           "https://aecpueblo.portalced.com/ContactUs",
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -209,9 +218,9 @@
       "address1": "115 S Main St",
       "phone": "719-545-1141",
       "website": "https://www.wesco.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.264707,
+      "lon": -104.610309,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Schneider Electric",
@@ -228,7 +237,9 @@
         "sources": [
           "https://www.mapquest.com/us/colorado/wesco-distribution-inc-10088440",
           "https://www.manta.com/c/mmfmgjx/wesco-distribution-inc"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

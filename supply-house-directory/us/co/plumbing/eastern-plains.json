@@ -17,9 +17,9 @@
       "postalCode": "80701",
       "phone": "970-867-2456",
       "website": "https://dahlfortmorgan.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.243623,
+      "lon": -103.842296,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -32,7 +32,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eastern Plains region carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -58,9 +60,9 @@
       "postalCode": "80751",
       "phone": "970-522-9879",
       "website": "https://dahlplumbing.com/sterling/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.628109,
+      "lon": -103.216985,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -73,7 +75,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Sterling and northeastern Colorado carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [

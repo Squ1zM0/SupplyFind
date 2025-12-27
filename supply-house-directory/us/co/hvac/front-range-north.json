@@ -16,8 +16,8 @@
       "postalCode": "80524-2764",
       "phone": "970-224-2053",
       "website": "https://www.galarson.com/locations",
-      "lat": null,
-      "lon": null,
+      "lat": 40.630136,
+      "lon": -105.00485,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -48,7 +48,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-fortcollins-lennoxstores-academy-001",
@@ -62,8 +67,8 @@
       "postalCode": "80524",
       "phone": "(970) 825-7300",
       "website": "https://www.lennoxpros.com/",
-      "lat": null,
-      "lon": null,
+      "lat": 40.59735,
+      "lon": -105.04126,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -90,7 +95,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     }
   ],
   "auditStatus": "expanded",

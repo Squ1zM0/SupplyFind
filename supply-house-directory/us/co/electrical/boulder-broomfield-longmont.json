@@ -16,9 +16,9 @@
       "address1": "4250 Salazar Way",
       "phone": "303-772-6571",
       "website": "https://www.rexelusa.com/locations/co/longmont/3252",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.15145,
+      "lon": -104.96341,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -41,7 +41,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/longmont/3252"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -68,9 +70,9 @@
       "address1": "3201 Walnut St",
       "phone": "(303) 449-8866",
       "website": "https://cedboulder.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.02151,
+      "lon": -105.24847,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -95,7 +97,9 @@
         "sources": [
           "https://cedboulder.portalced.com",
           "https://servlectric.com/branch/consolidated-electrical-distributors-boulder-3201-walnut-st-boulder-co-80301"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -123,9 +127,9 @@
       "address1": "135 Gay Street, Unit A",
       "phone": "(720) 494-7654",
       "website": "https://cedlongmont.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.16078,
+      "lon": -105.10291,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -150,7 +154,9 @@
         "sources": [
           "https://cedlongmont.portalced.com/ContactUs",
           "https://www.mapquest.com/us/colorado/ced-longmont-540567653"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
