@@ -1032,7 +1032,7 @@
         "geocoding_method": "Geocoded from corrected address",
         "notes": "Address corrected from 7347 S Revere Pkwy to 15501 E Fremont Dr based on user verification",
         "addressVerified": true,
-        "addressSource": "User verification via Google Business Profile",
+        "addressSource": "Google Business Profile (user-verified)",
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
