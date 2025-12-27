@@ -16,8 +16,8 @@
       "postalCode": "80751",
       "phone": "970-580-1912",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 40.625604,
+      "lon": -103.215867,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -59,7 +59,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-sterling-crescent-electric-1",
@@ -73,8 +78,8 @@
       "postalCode": "80751",
       "phone": "970-522-6161",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 40.625551,
+      "lon": -103.209379,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -100,7 +105,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "ced-alamosa-rd10665-001",
@@ -113,9 +123,9 @@
       "address1": "6310 Road 10665 S",
       "phone": "",
       "website": "https://cedcareers.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 37.419902,
+      "lon": -105.756146,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -139,7 +149,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

@@ -203,9 +203,9 @@
       "address1": "4945 Northpark Drive",
       "phone": "719-596-1234",
       "website": "https://www.rexelusa.com/locations/co/colorado-springs/3224",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.92931,
+      "lon": -104.79709,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -228,7 +228,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/colorado-springs/3224"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
