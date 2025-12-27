@@ -5,15 +5,20 @@ Identify branches that may have road-snapped coordinates.
 This script analyzes branch data to flag locations that are likely to have
 coordinates snapped to roads rather than actual building entrances.
 
+This version checks both display coordinates (lat/lon) and arrival coordinates
+(arrivalLat/arrivalLon) for road-snapping risk.
+
 Risk factors:
 1. Industrial parks, business parks, or warehouse districts
 2. Long driveways (addresses with "Drive", "Parkway", "Boulevard")
 3. Multi-tenant complexes (Suite numbers)
 4. Generic geoPrecision ("entrance" without specific verification)
 5. Older verification dates
+6. Missing or identical arrival coordinates
 """
 
 import json
+import math
 import os
 import sys
 from pathlib import Path
@@ -24,6 +29,16 @@ from datetime import datetime
 INDUSTRIAL_KEYWORDS = ["industrial", "park", "business park", "warehouse", "distribution"]
 DRIVEWAY_KEYWORDS = ["blvd", "boulevard", "parkway", "freeway"]
 VAGUE_SOURCE_KEYWORDS = ["previously verified", "google maps", "approximate"]
+
+# Minimum distance to consider coordinates different (in degrees, ~11 meters)
+MIN_COORD_DIFFERENCE = 0.0001
+
+
+def haversine_distance(lat1, lon1, lat2, lon2):
+    """Calculate approximate distance between two coordinates in degrees."""
+    dlat = abs(lat2 - lat1)
+    dlon = abs(lon2 - lon1)
+    return math.sqrt(dlat**2 + dlon**2)
 
 
 def calculate_risk_score(branch):
@@ -40,6 +55,28 @@ def calculate_risk_score(branch):
     geo_source = branch.get("geoSource", "")
     geo_verified_date = branch.get("geoVerifiedDate", "")
     notes = branch.get("notes", "").lower()
+    
+    # Check arrival coordinates
+    lat = branch.get("lat")
+    lon = branch.get("lon")
+    arrival_lat = branch.get("arrivalLat")
+    arrival_lon = branch.get("arrivalLon")
+    
+    # Check arrival coordinates
+    lat = branch.get("lat")
+    lon = branch.get("lon")
+    arrival_lat = branch.get("arrivalLat")
+    arrival_lon = branch.get("arrivalLon")
+    
+    # Risk Factor 0: Missing or identical arrival coordinates (30 points)
+    if arrival_lat is None or arrival_lon is None:
+        score += 30
+        reasons.append("CRITICAL: Missing arrival coordinates - routing will use display coordinates")
+    elif lat is not None and lon is not None:
+        distance = haversine_distance(lat, lon, arrival_lat, arrival_lon)
+        if distance < MIN_COORD_DIFFERENCE:
+            score += 25
+            reasons.append("Arrival coordinates identical to display coordinates - may route to wrong location")
     
     # Risk Factor 1: Industrial/warehouse locations (20 points)
     if any(keyword in address1 or keyword in notes for keyword in INDUSTRIAL_KEYWORDS):
@@ -203,9 +240,19 @@ def print_report(at_risk_branches, repo_root):
         # Provide Google Maps link for manual verification
         lat = branch.get('lat')
         lon = branch.get('lon')
+        arrival_lat = branch.get('arrivalLat')
+        arrival_lon = branch.get('arrivalLon')
+        
         if lat and lon:
             print(f"   🗺️  Verify on Google Maps:")
-            print(f"   https://www.google.com/maps?q={lat},{lon}")
+            print(f"   Display pin: https://www.google.com/maps?q={lat},{lon}")
+            if arrival_lat and arrival_lon:
+                print(f"   Arrival point: https://www.google.com/maps?q={arrival_lat},{arrival_lon}")
+                # Calculate distance if both exist
+                if lat and lon and arrival_lat and arrival_lon:
+                    distance = haversine_distance(lat, lon, arrival_lat, arrival_lon)
+                    distance_meters = distance * 111000  # Approximate conversion to meters
+                    print(f"   Distance between pins: ~{distance_meters:.1f} meters")
             print()
 
 

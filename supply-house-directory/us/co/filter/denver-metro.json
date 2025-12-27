@@ -27,7 +27,7 @@
         "Columbus Industries"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Largest locally owned air filter distributor in the Rocky Mountain region. Specializes in commercial and industrial HVAC air filters, cleanroom, hospital, manufacturing facility solutions. NAFA certified technicians. Same-day service and custom-sized filters made on site. Verified 2025-12-26",
+      "notes": "Largest locally owned air filter distributor in the Rocky Mountain region. Specializes in commercial and industrial HVAC air filters, cleanroom, hospital, manufacturing facility solutions. NAFA certified technicians. Same-day service and custom-sized filters made on site. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -49,7 +49,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.688371,
+      "arrivalLon": -105.00886,
+      "arrivalType": "storefront"
     },
     {
       "id": "camfil-denver-8th-ave",
@@ -69,7 +72,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26",
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -92,7 +95,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.728856,
+      "arrivalLon": -105.018144,
+      "arrivalType": "storefront"
     },
     {
       "id": "alpine-air-filter-littleton",
@@ -110,7 +116,7 @@
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "Family-owned filter specialist. Custom air filter solutions, installation services, and full-service cleanroom filtration. Serves commercial and industrial sectors. Verified 2025-12-26",
+      "notes": "Family-owned filter specialist. Custom air filter solutions, installation services, and full-service cleanroom filtration. Serves commercial and industrial sectors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -130,7 +136,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.598723,
+      "arrivalLon": -105.118884,
+      "arrivalType": "storefront"
     },
     {
       "id": "superior-filtration-denver-3rd-ave",
@@ -148,7 +157,7 @@
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. Verified 2025-12-26",
+      "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -170,7 +179,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.720814,
+      "arrivalLon": -105.019696,
+      "arrivalType": "storefront"
     },
     {
       "id": "air-force-filter-denver-bryant",
@@ -195,7 +207,7 @@
         "Air Flow Technologies"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Manufacturer and distributor of HVAC and industrial air filters. Family-owned since 1999. Offers standard and custom-made filters, replacement filters for a wide range of systems. Provides diagnostic, maintenance, and efficiency consultation. Verified 2025-12-26",
+      "notes": "Manufacturer and distributor of HVAC and industrial air filters. Family-owned since 1999. Offers standard and custom-made filters, replacement filters for a wide range of systems. Provides diagnostic, maintenance, and efficiency consultation. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -216,7 +228,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.713656,
+      "arrivalLon": -105.025144,
+      "arrivalType": "storefront"
     },
     {
       "id": "scan-air-filters-wheat-ridge",
@@ -234,7 +249,7 @@
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "Air filter distributor serving commercial properties, clean rooms, educational institutions, hospitals. Stocks wide variety of industrial and commercial HVAC air filters, water filters, dust collectors. Verified 2025-12-26",
+      "notes": "Air filter distributor serving commercial properties, clean rooms, educational institutions, hospitals. Stocks wide variety of industrial and commercial HVAC air filters, water filters, dust collectors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -255,7 +270,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.778656,
+      "arrivalLon": -105.112544,
+      "arrivalType": "storefront"
     },
     {
       "id": "air-purification-company-denver",
@@ -273,7 +291,7 @@
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "Regional HVAC distributor representing over 50 manufacturers. Provides air filtration products, air purification systems, and IAQ equipment for commercial, municipal, and industrial clients. Verified 2025-12-26",
+      "notes": "Regional HVAC distributor representing over 50 manufacturers. Provides air filtration products, air purification systems, and IAQ equipment for commercial, municipal, and industrial clients. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -295,7 +313,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 39.812976,
+      "arrivalLon": -105.011284,
+      "arrivalType": "storefront"
     }
   ]
 }

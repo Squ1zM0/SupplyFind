@@ -33,7 +33,7 @@
         "Delta"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.915256,
+      "arrivalLon": -104.800244,
+      "arrivalType": "storefront"
     },
     {
       "id": "colorado-springs-winnelson-geiger",
@@ -84,7 +87,7 @@
         "Liberty Pumps"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -104,7 +107,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.863451,
+      "arrivalLon": -104.701077,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-colorado-springs-sinton",
@@ -130,7 +136,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -150,7 +156,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.895326,
+      "arrivalLon": -104.829664,
+      "arrivalType": "will_call"
     },
     {
       "id": "cos-hajoca-hughes-plumbing",
@@ -166,7 +175,7 @@
       "lat": 38.8891,
       "lon": -104.8319,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -195,7 +204,10 @@
       },
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.889156,
+      "arrivalLon": -104.831844,
+      "arrivalType": "will_call"
     },
     {
       "id": "cos-gateway-supply-plumbing",
@@ -211,7 +223,7 @@
       "lat": 38.7927,
       "lon": -104.7745,
       "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26",
+      "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "Kohler",
         "Delta",
@@ -239,7 +251,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.792756,
+      "arrivalLon": -104.774444,
+      "arrivalType": "will_call"
     },
     {
       "id": "abc-plumbing-cos-fillmore",
@@ -288,7 +303,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.847815,
+      "arrivalLon": -104.812823,
+      "arrivalType": "storefront"
     },
     {
       "id": "dahl-castle-rock-perry",
@@ -314,7 +332,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -336,7 +354,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.354135,
+      "arrivalLon": -104.868334,
+      "arrivalType": "will_call"
     }
   ],
   "auditNotes": [

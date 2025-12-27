@@ -69,7 +69,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.248569,
+      "arrivalLon": -107.880653,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -136,7 +139,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.063842,
+      "arrivalLon": -108.553675,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-city-electric-supply-1",
@@ -202,7 +208,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.0672,
+      "arrivalLon": -108.5572,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-glenwood-springs-3204",
@@ -262,7 +271,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.5464,
+      "arrivalLon": -107.3984,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-glenwoodsprings-cr154-001",
@@ -325,7 +337,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.473915,
+      "arrivalLon": -107.271553,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-montrose-ngrand-001",
@@ -388,7 +403,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.4908,
+      "arrivalLon": -107.8762,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-gunnison-s10th-001",
@@ -449,7 +467,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.542377,
+      "arrivalLon": -106.924796,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-craig-001",
@@ -500,7 +521,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.511965,
+      "arrivalLon": -107.554471,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-steamboat-springs-001",
@@ -551,7 +575,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.48275,
+      "arrivalLon": -106.8372,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-montrose-001",
@@ -577,7 +604,7 @@
         "ABB"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26",
+      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -602,7 +629,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.318326,
+      "arrivalLon": -107.874724,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

@@ -60,7 +60,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6104,
+      "arrivalLon": -105.0229,
+      "arrivalType": "storefront"
     },
     {
       "id": "hughes-supply-ftc-lincoln",
@@ -86,7 +89,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply (Fort Collins). Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name: Hughes Supply (Fort Collins). Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -106,7 +109,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.598386,
+      "arrivalLon": -105.048198,
+      "arrivalType": "will_call"
     },
     {
       "id": "ferguson-plumbing-fort-collins-0112",
@@ -163,7 +169,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.6104,
+      "arrivalLon": -105.0229,
+      "arrivalType": "storefront"
     },
     {
       "id": "dahl-fort-collins-523",
@@ -179,7 +188,7 @@
       "lat": 40.59833,
       "lon": -105.048254,
       "coordsStatus": "verified",
-      "notes": "Hajoca trade name listing with address/phone; verify via Dahl/Hajoca if desired. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name listing with address/phone; verify via Dahl/Hajoca if desired. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -209,7 +218,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.598386,
+      "arrivalLon": -105.048198,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-greeley-199-evans",
@@ -225,7 +237,7 @@
       "lat": 40.378154,
       "lon": -104.71644,
       "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Industrial location - moved to parking lot entrance area. Verified customer access coordinates.]",
+      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Industrial location - moved to parking lot entrance area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -255,7 +267,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + Google Maps verified entrance"
+      "geoSource": "MapQuest + Google Maps verified entrance",
+      "arrivalLat": 40.37821,
+      "arrivalLon": -104.716384,
+      "arrivalType": "storefront"
     },
     {
       "id": "winsupply-greeley-1979-2nd",
@@ -271,7 +286,7 @@
       "lat": 40.392354,
       "lon": -104.68647,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesale distributor (chamber listing). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Plumbing wholesale distributor (chamber listing). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -299,7 +314,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.39241,
+      "arrivalLon": -104.686414,
+      "arrivalType": "will_call"
     },
     {
       "id": "dahl-loveland-11th-100",
@@ -315,7 +333,7 @@
       "lat": 40.392918,
       "lon": -105.050544,
       "coordsStatus": "verified",
-      "notes": "Dahl (Hajoca) Loveland branch. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Dahl (Hajoca) Loveland branch. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -345,7 +363,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.392974,
+      "arrivalLon": -105.050488,
+      "arrivalType": "will_call"
     }
   ],
   "auditNotes": [

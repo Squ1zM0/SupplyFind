@@ -23,7 +23,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Air filters and filtration solutions for industrial, healthcare, and commercial sectors. Provides HEPA, ULPA, dust collectors, and custom clean air solutions. Verified 2025-12-26",
+      "notes": "Air filters and filtration solutions for industrial, healthcare, and commercial sectors. Provides HEPA, ULPA, dust collectors, and custom clean air solutions. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -46,7 +46,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 38.902284,
+      "arrivalLon": -104.843316,
+      "arrivalType": "storefront"
     }
   ]
 }

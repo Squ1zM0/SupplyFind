@@ -38,7 +38,7 @@
         "hvac",
         "wholesale"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant commercial property - moved to Unit 500 entrance. Verified Main Street access coordinates.]",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant commercial property - moved to Unit 500 entrance. Verified Main Street access coordinates.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -57,7 +57,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + commercial property directories"
+      "geoSource": "MapQuest + commercial property directories",
+      "arrivalLat": 39.922956,
+      "arrivalLon": -105.069544,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-louisville-uri-001",
@@ -113,7 +116,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.9819,
+      "arrivalLon": -105.1314,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-longmont-winair-001",
@@ -158,7 +164,10 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "MapQuest + verified business registries",
-      "notes": "[Coordinate refinement 2025-12-27: Multi-tenant unit - moved to Unit C entrance. Verified building front access coordinates.]"
+      "notes": "[Coordinate refinement 2025-12-27: Multi-tenant unit - moved to Unit C entrance. Verified building front access coordinates.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "arrivalLat": 40.156806,
+      "arrivalLon": -105.11206,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
@@ -215,7 +224,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.1577,
+      "arrivalLon": -105.1038,
+      "arrivalType": "storefront"
     }
   ]
 }

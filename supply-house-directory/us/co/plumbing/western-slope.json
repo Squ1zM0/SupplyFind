@@ -68,7 +68,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.062388,
+      "arrivalLon": -108.553339,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-keenan-dahl-1",
@@ -121,7 +124,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.1198,
+      "arrivalLon": -108.5843,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-montrose-ferguson-plumbing-1",
@@ -187,7 +193,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.473785,
+      "arrivalLon": -107.892914,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -252,7 +261,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.222682,
+      "arrivalLon": -107.871575,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-granby-ferguson-plumbing-1",
@@ -317,7 +329,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.0794,
+      "arrivalLon": -105.9378,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-silverthorne-ferguson-plumbing-1",
@@ -383,7 +398,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.6399,
+      "arrivalLon": -106.0821,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-montrose-dahl-plumbing-1",
@@ -410,7 +428,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -432,7 +450,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.489986,
+      "arrivalLon": -107.871824,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-glenwood-springs-dahl-plumbing-1",
@@ -459,7 +480,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.]",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -481,7 +502,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + verified shopping center location"
+      "geoSource": "Google Maps + verified shopping center location",
+      "arrivalLat": 39.543659,
+      "arrivalLon": -107.346624,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-dahl-plumbing-1",
@@ -508,7 +532,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor with showroom and warehouse serving Durango area. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor with showroom and warehouse serving Durango area. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -530,7 +554,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 37.298236,
+      "arrivalLon": -107.874274,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-avon-dahl-plumbing-1",
@@ -557,7 +584,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing kitchen & bath showroom serving Vail Valley and surrounding mountain communities. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing kitchen & bath showroom serving Vail Valley and surrounding mountain communities. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -579,7 +606,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.632796,
+      "arrivalLon": -106.524174,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-glenwood-springs-ferguson-plumbing-1",
@@ -637,7 +667,10 @@
       "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.517095,
+      "arrivalLon": -107.31335,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-winnelson-1",
@@ -662,7 +695,7 @@
         "Liberty Pumps"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Part of Winsupply network. Plumbing and heating equipment and supplies (hydronics). Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Part of Winsupply network. Plumbing and heating equipment and supplies (hydronics). Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -683,7 +716,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.072307,
+      "arrivalLon": -108.567839,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cortez-plumbing-store-broadway",
@@ -736,7 +772,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.34946,
+      "arrivalLon": -108.58541,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

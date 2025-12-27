@@ -63,7 +63,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.529253,
+      "arrivalLon": -105.061632,
+      "arrivalType": "storefront"
     },
     {
       "id": "greeley-ced",
@@ -125,7 +128,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.4251,
+      "arrivalLon": -104.701,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-greeley-3255",
@@ -158,7 +164,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Greeley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Rexel branch serving Greeley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -185,7 +191,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.391701,
+      "arrivalLon": -104.67776,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-ft-collins-7619",
@@ -245,7 +254,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.532844,
+      "arrivalLon": -105.042323,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-fortcollins-sharp-001",
@@ -308,7 +320,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.55393,
+      "arrivalLon": -105.079228,
+      "arrivalType": "storefront"
     },
     {
       "id": "borderstates-greeley-4th-001",
@@ -367,7 +382,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.401905,
+      "arrivalLon": -104.687764,
+      "arrivalType": "storefront"
     },
     {
       "id": "elliott-electric-fort-collins-3942-automation",
@@ -418,7 +436,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.532444,
+      "arrivalLon": -105.063397,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-fort-collins-133-commerce",
@@ -444,7 +465,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO Fort Collins branch. Full-line electrical distributor serving commercial, industrial, and construction customers. Verified 2025-12-26",
+      "notes": "WESCO Fort Collins branch. Full-line electrical distributor serving commercial, industrial, and construction customers. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -468,7 +489,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.607003,
+      "arrivalLon": -105.050894,
+      "arrivalType": "storefront"
     },
     {
       "id": "crescent-electric-fort-collins-1404-magnolia",
@@ -517,7 +541,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.591482,
+      "arrivalLon": -105.052608,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-fort-collins-2415-mulberry",
@@ -542,7 +569,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26",
+      "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -570,7 +597,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.585456,
+      "arrivalLon": -105.043144,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

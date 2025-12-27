@@ -63,7 +63,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.29835,
+      "arrivalLon": -104.6143,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-pueblo-blazer-electric-1",
@@ -116,7 +119,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.2662,
+      "arrivalLon": -104.6108,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-pueblo-3223",
@@ -176,7 +182,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.299188,
+      "arrivalLon": -104.60847,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-pueblo-wc-001",
@@ -239,7 +248,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.265319,
+      "arrivalLon": -104.610294,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-pueblo-115-s-main",
@@ -265,7 +277,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26",
+      "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -290,7 +302,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.264763,
+      "arrivalLon": -104.610253,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

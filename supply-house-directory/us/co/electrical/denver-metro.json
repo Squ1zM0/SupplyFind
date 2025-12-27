@@ -54,7 +54,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7862,
+      "arrivalLon": -104.8655,
+      "arrivalType": "storefront"
     },
     {
       "id": "border-states-denver-5475-joliet",
@@ -85,7 +88,7 @@
         "Belden"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Border States Denver branch. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
+      "notes": "Border States Denver branch. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -113,7 +116,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.795028,
+      "arrivalLon": -104.860697,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-denver-2405-w-5th",
@@ -176,7 +182,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.72423,
+      "arrivalLon": -105.01515,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-denver-central-2630-w-2nd",
@@ -238,7 +247,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.718955,
+      "arrivalLon": -105.019012,
+      "arrivalType": "storefront"
     },
     {
       "id": "crescent-electric-denver-5925-washington",
@@ -289,7 +301,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.804388,
+      "arrivalLon": -104.977336,
+      "arrivalType": "storefront"
     },
     {
       "id": "graybar-denver-area-service-center-480-e-55th",
@@ -321,7 +336,7 @@
         "3M"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Full-service counter + will call. Sales office at same address uses different main phone. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
+      "notes": "Full-service counter + will call. Sales office at same address uses different main phone. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -350,7 +365,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.797256,
+      "arrivalLon": -104.981544,
+      "arrivalType": "storefront"
     },
     {
       "id": "qed-denver-1661-w-3rd",
@@ -374,7 +392,7 @@
         "Lithonia"
       ],
       "manufacturersPartsFor": [],
-      "notes": "QED Denver branch. Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26",
+      "notes": "QED Denver branch. Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -399,7 +417,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.715456,
+      "arrivalLon": -105.005144,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-425-quivas",
@@ -459,7 +480,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
@@ -492,7 +516,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Aurora/Denver East branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Aurora/Denver East branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -519,7 +543,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.796256,
+      "arrivalLon": -104.783544,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-denver-11198-e-45th",
@@ -551,7 +578,7 @@
         "Lithonia"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO distribution branch. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
+      "notes": "WESCO distribution branch. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -580,7 +607,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.779191,
+      "arrivalLon": -104.856006,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-retail-denver-756-s-jason",
@@ -612,7 +642,7 @@
         "Lithonia"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO US retail branch listing (counter). Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
+      "notes": "WESCO US retail branch listing (counter). Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -639,7 +669,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.70326,
+      "arrivalLon": -105.004323,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-distribution-center-3217",
@@ -672,7 +705,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel distribution center with will-call. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Rexel distribution center with will-call. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -699,7 +732,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.796256,
+      "arrivalLon": -104.783544,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-centennial-7611",
@@ -759,7 +795,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.58701,
+      "arrivalLon": -104.82012,
+      "arrivalType": "storefront"
     },
     {
       "id": "ced-centennial-jordan-001",
@@ -822,7 +861,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7821,
+      "arrivalLon": -104.8772,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-denver-quivas-001",
@@ -884,7 +926,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -942,7 +987,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.919988,
+      "arrivalLon": -104.852623,
+      "arrivalType": "storefront"
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
@@ -968,7 +1016,7 @@
         "Acuity Brands"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Elliott Electric Supply Denver branch. Full-service electrical distributor for commercial, industrial, and residential contractors. Verified 2025-12-26",
+      "notes": "Elliott Electric Supply Denver branch. Full-service electrical distributor for commercial, industrial, and residential contractors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -993,7 +1041,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.770984,
+      "arrivalLon": -104.868543,
+      "arrivalType": "storefront"
     },
     {
       "id": "elliott-electric-centennial-15152-fremont",
@@ -1043,7 +1094,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.583993,
+      "arrivalLon": -104.812113,
+      "arrivalType": "storefront"
     },
     {
       "id": "wesco-denver-6883-e-47th",
@@ -1069,7 +1123,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO Denver E 47th Ave branch. Full-line electrical distributor serving commercial, industrial, and utility customers. Verified 2025-12-26",
+      "notes": "WESCO Denver E 47th Ave branch. Full-line electrical distributor serving commercial, industrial, and utility customers. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -1093,7 +1147,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.782233,
+      "arrivalLon": -104.906212,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-denver-boulder-001",
@@ -1118,7 +1175,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Boulder branch. Full-service electrical distributor for residential, commercial, and industrial contractors. Verified 2025-12-26",
+      "notes": "City Electric Supply Boulder branch. Full-service electrical distributor for residential, commercial, and industrial contractors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -1142,7 +1199,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.034199,
+      "arrivalLon": -105.248718,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-centennial-001",
@@ -1167,7 +1227,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.]",
+      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -1191,7 +1251,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified coordinates"
+      "geoSource": "Google Maps + MapQuest verified coordinates",
+      "arrivalLat": 39.581536,
+      "arrivalLon": -104.831195,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-broomfield-001",
@@ -1216,7 +1279,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance.]",
+      "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -1240,7 +1303,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + verified business directories"
+      "geoSource": "MapQuest + verified business directories",
+      "arrivalLat": 39.927834,
+      "arrivalLon": -105.069036,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

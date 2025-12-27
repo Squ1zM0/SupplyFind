@@ -21,7 +21,7 @@
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "tags": [
         "hvac",
         "wholesale"
@@ -60,7 +60,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.568856,
+      "arrivalLon": -104.821544,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-sidharvey-w6th-001",
@@ -119,7 +122,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.72672,
+      "arrivalLon": -105.01886,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-centennial-sidharvey-revere-001",
@@ -138,7 +144,7 @@
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "notes": "South Denver metro location",
+      "notes": "South Denver metro location [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "tags": [
         "hvac",
         "wholesale"
@@ -178,7 +184,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.583266,
+      "arrivalLon": -104.827774,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
@@ -237,7 +246,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.75538,
+      "arrivalLon": -104.77284,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-englewood-tranesupply-inverness-001",
@@ -290,7 +302,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.585162,
+      "arrivalLon": -104.862015,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",

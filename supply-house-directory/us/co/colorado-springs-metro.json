@@ -30,7 +30,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -49,7 +49,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.875456,
+      "arrivalLon": -104.827144,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-johnstone-001",
@@ -101,7 +104,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.845617,
+      "arrivalLon": -104.757164,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-lennoxstores-001",
@@ -143,7 +149,10 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified entrance"
+      "geoSource": "Google Maps + MapQuest verified entrance",
+      "arrivalLat": 38.8945,
+      "arrivalLon": -104.69581,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-winsupply-001",
@@ -170,7 +179,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -189,7 +198,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.793556,
+      "arrivalLon": -104.774844,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-sidharvey-001",
@@ -217,7 +229,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26",
+      "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/OurBrands"
       ],
@@ -236,7 +248,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.812256,
+      "arrivalLon": -104.824344,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-cos-ct-supply-001",
@@ -282,7 +297,10 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + MapQuest verified entrance coordinates",
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.]"
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "arrivalLat": 38.874368,
+      "arrivalLon": -104.715118,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-hercules-001",
@@ -329,7 +347,10 @@
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source"
+      "geoSource": "Verified source",
+      "arrivalLat": 38.800626,
+      "arrivalLon": -104.725564,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
@@ -382,7 +403,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8822,
+      "arrivalLon": -104.7635,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
@@ -428,7 +452,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.870465,
+      "arrivalLon": -104.722245,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-graybar-001",
@@ -489,7 +516,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.868938,
+      "arrivalLon": -104.734612,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-city-electric-001",
@@ -527,7 +557,7 @@
         "Tools",
         "Controls"
       ],
-      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
         "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
@@ -551,7 +581,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.910556,
+      "arrivalLon": -104.792644,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-city-electric-002",
@@ -613,7 +646,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.8732,
+      "arrivalLon": -104.7204,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-ferguson-002",
@@ -644,7 +680,7 @@
       "partsFor": [
         "Plumbing"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "sources": [
         "https://www.ferguson.com/store/co/colorado-springs",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
@@ -670,7 +706,10 @@
       "coordsStatus": "verified",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin"
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.915256,
+      "arrivalLon": -104.800244,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-charlesdjones-sierramadre-001",
@@ -723,7 +762,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8503,
+      "arrivalLon": -104.8214,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-lohmiller-newport-001",
@@ -769,7 +811,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8625,
+      "arrivalLon": -104.8509,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cos-rampart-union-001",
@@ -825,7 +870,10 @@
       },
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps"
+      "geoSource": "Google Maps",
+      "arrivalLat": 38.8756,
+      "arrivalLon": -104.8275,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "in_progress",
