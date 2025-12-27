@@ -164,7 +164,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Greeley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Rexel branch serving Greeley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -192,8 +192,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.391645,
-      "arrivalLon": -104.677816,
+      "arrivalLat": 40.391701,
+      "arrivalLon": -104.67776,
       "arrivalType": "storefront"
     },
     {
@@ -465,7 +465,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO Fort Collins branch. Full-line electrical distributor serving commercial, industrial, and construction customers. Verified 2025-12-26",
+      "notes": "WESCO Fort Collins branch. Full-line electrical distributor serving commercial, industrial, and construction customers. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -490,8 +490,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.606947,
-      "arrivalLon": -105.05095,
+      "arrivalLat": 40.607003,
+      "arrivalLon": -105.050894,
       "arrivalType": "storefront"
     },
     {
@@ -569,7 +569,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26",
+      "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -598,8 +598,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",
-      "arrivalLat": 40.5854,
-      "arrivalLon": -105.0432,
+      "arrivalLat": 40.585456,
+      "arrivalLon": -105.043144,
       "arrivalType": "storefront"
     }
   ],

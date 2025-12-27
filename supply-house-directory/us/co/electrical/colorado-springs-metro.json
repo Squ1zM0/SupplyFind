@@ -284,7 +284,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Colorado Springs. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Rexel branch serving Colorado Springs. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -312,8 +312,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 38.92931,
-      "arrivalLon": -104.79709,
+      "arrivalLat": 38.929366,
+      "arrivalLon": -104.797034,
       "arrivalType": "storefront"
     },
     {
@@ -339,7 +339,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26",
+      "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -368,8 +368,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",
-      "arrivalLat": 38.9105,
-      "arrivalLon": -104.7927,
+      "arrivalLat": 38.910556,
+      "arrivalLon": -104.792644,
       "arrivalType": "storefront"
     }
   ],

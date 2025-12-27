@@ -79,7 +79,7 @@
       "lat": 40.03443,
       "lon": -105.24637,
       "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point.]",
+      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -110,8 +110,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "MapQuest + Google Maps verified entrance",
-      "arrivalLat": 40.03443,
-      "arrivalLon": -105.24637,
+      "arrivalLat": 40.034486,
+      "arrivalLon": -105.246314,
       "arrivalType": "storefront"
     },
     {
@@ -188,7 +188,7 @@
       "lat": 40.151531,
       "lon": -105.108586,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -217,8 +217,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.151531,
-      "arrivalLon": -105.108586,
+      "arrivalLat": 40.151587,
+      "arrivalLon": -105.10853,
       "arrivalType": "will_call"
     }
   ],

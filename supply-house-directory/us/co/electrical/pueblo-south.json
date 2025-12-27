@@ -277,7 +277,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26",
+      "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -303,8 +303,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 38.264707,
-      "arrivalLon": -104.610309,
+      "arrivalLat": 38.264763,
+      "arrivalLon": -104.610253,
       "arrivalType": "storefront"
     }
   ],

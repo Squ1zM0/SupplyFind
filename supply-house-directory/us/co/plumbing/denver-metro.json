@@ -147,7 +147,7 @@
         "Liberty Pumps"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -169,8 +169,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.715034,
-      "arrivalLon": -105.014427,
+      "arrivalLat": 39.71509,
+      "arrivalLon": -105.014371,
       "arrivalType": "will_call"
     },
     {
@@ -197,7 +197,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -219,8 +219,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.713135,
-      "arrivalLon": -104.99749,
+      "arrivalLat": 39.713191,
+      "arrivalLon": -104.997434,
       "arrivalType": "will_call"
     },
     {
@@ -247,7 +247,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -269,8 +269,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.723198,
-      "arrivalLon": -105.020798,
+      "arrivalLat": 39.723254,
+      "arrivalLon": -105.020742,
       "arrivalType": "will_call"
     },
     {
@@ -297,7 +297,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Martz Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Hajoca trade name: Martz Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -319,8 +319,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.791183,
-      "arrivalLon": -104.995604,
+      "arrivalLat": 39.791239,
+      "arrivalLon": -104.995548,
       "arrivalType": "will_call"
     },
     {
@@ -346,7 +346,7 @@
         "Laars"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing showroom/counter; also HVAC in some contexts. Kept as plumbing supply house. Hydronic heating and plumbing specialist. Verified 2025-12-26",
+      "notes": "Plumbing showroom/counter; also HVAC in some contexts. Kept as plumbing supply house. Hydronic heating and plumbing specialist. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -372,8 +372,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.713774,
-      "arrivalLon": -104.998232,
+      "arrivalLat": 39.71383,
+      "arrivalLon": -104.998176,
       "arrivalType": "will_call"
     },
     {
@@ -397,7 +397,7 @@
         "American Standard"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing wholesaler counter. Plumbing distributor. Regional plumbing supply, verified 2025-12-26",
+      "notes": "Plumbing wholesaler counter. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "partsFor": [
         "Plumbing"
       ],
@@ -418,8 +418,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7749,
-      "arrivalLon": -104.9188,
+      "arrivalLat": 39.774956,
+      "arrivalLon": -104.918744,
       "arrivalType": "will_call"
     },
     {
@@ -444,7 +444,7 @@
         "Charlotte Pipe"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Facilities / plumbing counter. National facilities maintenance and plumbing distributor. Verified 2025-12-26",
+      "notes": "Facilities / plumbing counter. National facilities maintenance and plumbing distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "partsFor": [
         "Plumbing"
       ],
@@ -465,8 +465,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7852,
-      "arrivalLon": -104.9216,
+      "arrivalLat": 39.785256,
+      "arrivalLon": -104.921544,
       "arrivalType": "will_call"
     },
     {
@@ -490,7 +490,7 @@
         "American Standard"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Independent plumbing supply house. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26",
+      "notes": "Independent plumbing supply house. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "partsFor": [
         "Plumbing"
       ],
@@ -513,8 +513,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7861,
-      "arrivalLon": -104.9583,
+      "arrivalLat": 39.786156,
+      "arrivalLon": -104.958244,
       "arrivalType": "will_call"
     },
     {
@@ -531,7 +531,7 @@
       "lat": 39.6044,
       "lon": -105.0088,
       "coordsStatus": "verified",
-      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Plumbing wholesaler counter. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "parentChain": "Hajoca",
       "brandsRep": [
         "Delta",
@@ -562,8 +562,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.6044,
-      "arrivalLon": -105.0088,
+      "arrivalLat": 39.604456,
+      "arrivalLon": -105.008744,
       "arrivalType": "will_call"
     },
     {
@@ -639,7 +639,7 @@
       "lat": 39.715034,
       "lon": -105.014427,
       "coordsStatus": "verified",
-      "notes": "Winsupply plumbing counter (verify hours on official Winsupply location page). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Winsupply plumbing counter (verify hours on official Winsupply location page). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -669,8 +669,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.715034,
-      "arrivalLon": -105.014427,
+      "arrivalLat": 39.71509,
+      "arrivalLon": -105.014371,
       "arrivalType": "will_call"
     },
     {
@@ -687,7 +687,7 @@
       "lat": 39.7871,
       "lon": -104.9626,
       "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26",
+      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
         "Kohler",
         "Delta",
@@ -714,8 +714,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7871,
-      "arrivalLon": -104.9626,
+      "arrivalLat": 39.787156,
+      "arrivalLon": -104.962544,
       "arrivalType": "will_call"
     },
     {
@@ -746,7 +746,7 @@
         "Delta"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Ferguson plumbing and HVAC supply serving Arvada area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Ferguson plumbing and HVAC supply serving Arvada area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant on parkway/boulevard]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -774,8 +774,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.845463,
-      "arrivalLon": -105.053035,
+      "arrivalLat": 39.845547,
+      "arrivalLon": -105.052951,
       "arrivalType": "storefront"
     },
     {
@@ -858,7 +858,7 @@
         "NIBCO"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26",
+      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "addressVerified": true,
@@ -880,8 +880,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",
       "geoSource": "Verified source",
-      "arrivalLat": 39.7637,
-      "arrivalLon": -104.9442,
+      "arrivalLat": 39.763756,
+      "arrivalLon": -104.944144,
       "arrivalType": "storefront"
     },
     {

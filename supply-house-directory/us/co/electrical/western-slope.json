@@ -604,7 +604,7 @@
         "ABB"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26",
+      "notes": "Rexel Montrose branch. Serves western Colorado electrical contractors for commercial, industrial, and residential projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -630,8 +630,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 38.31827,
-      "arrivalLon": -107.87478,
+      "arrivalLat": 38.318326,
+      "arrivalLon": -107.874724,
       "arrivalType": "storefront"
     }
   ],

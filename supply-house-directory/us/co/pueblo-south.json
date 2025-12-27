@@ -25,7 +25,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from freeway road position to building entrance. Freeway location required verified entrance placement.]",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from freeway road position to building entrance. Freeway location required verified entrance placement.] [Arrival coordinates refined 2025-12-27: Parkway/Boulevard address]",
       "trades": [
         "HVAC"
       ],
@@ -45,8 +45,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + location mapping services",
-      "arrivalLat": 38.3241,
-      "arrivalLon": -104.6168,
+      "arrivalLat": 38.324156,
+      "arrivalLon": -104.616744,
       "arrivalType": "storefront"
     },
     {
@@ -75,7 +75,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Moved from boulevard position to warehouse entrance. Industrial location with loading dock access.]",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Moved from boulevard position to warehouse entrance. Industrial location with loading dock access.] [Arrival coordinates refined 2025-12-27: Warehouse location]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -95,8 +95,8 @@
       "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + Commercial mapping platforms",
-      "arrivalLat": 38.344106,
-      "arrivalLon": -104.71935,
+      "arrivalLat": 38.34419,
+      "arrivalLon": -104.719266,
       "arrivalType": "warehouse"
     },
     {
@@ -145,9 +145,10 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.27041,
-      "arrivalLon": -104.60332,
-      "arrivalType": "will_call"
+      "arrivalLat": 38.270466,
+      "arrivalLon": -104.603264,
+      "arrivalType": "will_call",
+      "notes": "[Arrival coordinates refined 2025-12-27: Generic entrance precision]"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
@@ -223,7 +224,7 @@
         "plumbing",
         "wholesale"
       ],
-      "notes": "HVAC and plumbing supplier. Part of Winsupply network. Also operates as Winnelson for plumbing. Hours: M-F 7:30 AM - 5:00 PM. Source: Pueblo Winair official website, verified 2025-12-26",
+      "notes": "HVAC and plumbing supplier. Part of Winsupply network. Also operates as Winnelson for plumbing. Hours: M-F 7:30 AM - 5:00 PM. Source: Pueblo Winair official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.pueblowinair.com/",
         "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/HVAC-Supplies/contact-us"
@@ -246,8 +247,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.2577236,
-      "arrivalLon": -104.6039515,
+      "arrivalLat": 38.25778,
+      "arrivalLon": -104.603895,
       "arrivalType": "will_call"
     }
   ]

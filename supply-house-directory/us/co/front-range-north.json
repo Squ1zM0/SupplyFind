@@ -31,7 +31,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26",
+      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -51,8 +51,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.5269,
-      "arrivalLon": -105.0787,
+      "arrivalLat": 40.526956,
+      "arrivalLon": -105.078644,
       "arrivalType": "will_call"
     },
     {
@@ -81,7 +81,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -101,8 +101,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.4219,
-      "arrivalLon": -105.0759,
+      "arrivalLat": 40.421956,
+      "arrivalLon": -105.075844,
       "arrivalType": "will_call"
     },
     {
@@ -126,7 +126,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -146,8 +146,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.4206,
-      "arrivalLon": -105.074,
+      "arrivalLat": 40.420656,
+      "arrivalLon": -105.073944,
       "arrivalType": "will_call"
     },
     {
@@ -175,7 +175,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -195,8 +195,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.4231,
-      "arrivalLon": -104.6863,
+      "arrivalLat": 40.423156,
+      "arrivalLon": -104.686244,
       "arrivalType": "will_call"
     },
     {
@@ -476,7 +476,7 @@
         "hvac",
         "wholesale"
       ],
-      "notes": "Factory-owned Trane Supply house serving HVAC professionals. Hours: M-F 7:00 AM - 5:00 PM. Source: Trane official website, verified 2025-12-26",
+      "notes": "Factory-owned Trane Supply house serving HVAC professionals. Hours: M-F 7:00 AM - 5:00 PM. Source: Trane official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.trane.com/commercial/north-america/us/en/contact-us/locate-sales-offices/fortcollins/fort-collins-trane-affiliated-products.html",
         "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/heating-equipment-supplier/31281764-trane-supply"
@@ -500,8 +500,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps",
-      "arrivalLat": 40.5528,
-      "arrivalLon": -105.0447,
+      "arrivalLat": 40.552856,
+      "arrivalLon": -105.044644,
       "arrivalType": "storefront"
     }
   ],

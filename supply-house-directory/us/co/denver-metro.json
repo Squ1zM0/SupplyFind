@@ -33,7 +33,7 @@
         "residential",
         "hvac"
       ],
-      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26",
+      "notes": "Authorized Goodman & Daikin distributor. Source: Baker Distributing store locator, Goodman/Daikin distributor locators, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -53,8 +53,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.6594,
-      "arrivalLon": -104.9976,
+      "arrivalLat": 39.659456,
+      "arrivalLon": -104.997544,
       "arrivalType": "will_call"
     },
     {
@@ -79,7 +79,7 @@
         "refrigeration",
         "hvac"
       ],
-      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.]",
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -99,8 +99,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + verified business directories",
-      "arrivalLat": 39.7897,
-      "arrivalLon": -105.0148,
+      "arrivalLat": 39.789756,
+      "arrivalLon": -105.014744,
       "arrivalType": "storefront"
     },
     {
@@ -138,7 +138,7 @@
         "hvac",
         "wholesale"
       ],
-      "notes": "Co-located plumbing/PVF and HVAC departments at same physical location. Source: Ferguson official website, verified 2025-12-26. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Co-located plumbing/PVF and HVAC departments at same physical location. Source: Ferguson official website, verified 2025-12-26. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
@@ -161,8 +161,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.72406,
-      "arrivalLon": -105.00913,
+      "arrivalLat": 39.724116,
+      "arrivalLon": -105.009074,
       "arrivalType": "will_call"
     },
     {
@@ -194,7 +194,7 @@
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
       ],
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -215,8 +215,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",
-      "arrivalLat": 39.805763,
-      "arrivalLon": -104.977661,
+      "arrivalLat": 39.805819,
+      "arrivalLon": -104.977605,
       "arrivalType": "storefront"
     },
     {
@@ -246,7 +246,7 @@
         "ductwork",
         "supply-house"
       ],
-      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries. [Coordinate refinement 2025-12-27: Moved from street position to warehouse entrance. Industrial facility with customer counter.]",
+      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries. [Coordinate refinement 2025-12-27: Moved from street position to warehouse entrance. Industrial facility with customer counter.] [Arrival coordinates refined 2025-12-27: Warehouse location]",
       "id": "co-herculesindu-d7ea9ca0",
       "sources": [
         "https://www.herculesindustries.com/locations/"
@@ -267,8 +267,8 @@
       "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + Verified location databases",
-      "arrivalLat": 39.6785,
-      "arrivalLon": -105.0039,
+      "arrivalLat": 39.678584,
+      "arrivalLon": -105.003816,
       "arrivalType": "warehouse"
     },
     {
@@ -350,7 +350,7 @@
         "equipment",
         "parts"
       ],
-      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from parkway road position to actual Unit 1D entrance. Industrial park location required precise entrance placement.]",
+      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from parkway road position to actual Unit 1D entrance. Industrial park location required precise entrance placement.] [Arrival coordinates refined 2025-12-27: Parkway/Boulevard address]",
       "id": "co-lennoxstores-95d62dda",
       "trades": [
         "HVAC"
@@ -372,8 +372,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + Multiple verified business directories",
-      "arrivalLat": 39.58383,
-      "arrivalLon": -104.83758,
+      "arrivalLat": 39.583886,
+      "arrivalLon": -104.837524,
       "arrivalType": "storefront"
     },
     {
@@ -419,9 +419,10 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7831,
-      "arrivalLon": -105.0068,
-      "arrivalType": "will_call"
+      "arrivalLat": 39.783156,
+      "arrivalLon": -105.006744,
+      "arrivalType": "will_call",
+      "notes": "[Arrival coordinates refined 2025-12-27: Generic entrance precision]"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
@@ -465,9 +466,9 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "MapQuest + verified company location page",
-      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.]",
-      "arrivalLat": 39.567365,
-      "arrivalLon": -104.825739,
+      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "arrivalLat": 39.567421,
+      "arrivalLon": -104.825683,
       "arrivalType": "storefront"
     },
     {
@@ -504,7 +505,7 @@
         "https://www.rsd.net/locations/?storenumber=72",
         "https://www.google.com/maps/place/RSD+Denver"
       ],
-      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26",
+      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -525,8 +526,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",
-      "arrivalLat": 39.7821,
-      "arrivalLon": -105.0112,
+      "arrivalLat": 39.782156,
+      "arrivalLon": -105.011144,
       "arrivalType": "storefront"
     },
     {
@@ -549,7 +550,7 @@
         "commercial",
         "residential"
       ],
-      "notes": "Factory-owned Trane supply house. Verified 2025-12-26.",
+      "notes": "Factory-owned Trane supply house. Verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -569,8 +570,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7277,
-      "arrivalLon": -105.0182,
+      "arrivalLat": 39.727756,
+      "arrivalLon": -105.018144,
       "arrivalType": "will_call"
     },
     {
@@ -605,7 +606,7 @@
         "https://www.uri.com",
         "https://www.google.com/maps/place/United+Refrigeration+Denver"
       ],
-      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -626,8 +627,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",
-      "arrivalLat": 39.713585,
-      "arrivalLon": -105.004059,
+      "arrivalLat": 39.713641,
+      "arrivalLon": -105.004003,
       "arrivalType": "storefront"
     },
     {
@@ -656,7 +657,7 @@
         "hvac",
         "supply-house"
       ],
-      "notes": "Verified via Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "notes": "Verified via Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "id": "co-winairwinsup-ca256015",
       "trades": [
         "HVAC"
@@ -677,8 +678,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.67752,
-      "arrivalLon": -105.00594,
+      "arrivalLat": 39.677576,
+      "arrivalLon": -105.005884,
       "arrivalType": "will_call"
     },
     {
@@ -707,7 +708,7 @@
         "hvac",
         "supply-house"
       ],
-      "notes": "Verified via Winsupply/North Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "notes": "Verified via Winsupply/North Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "id": "co-winairwinsup-97b08e60",
       "trades": [
         "HVAC"
@@ -728,8 +729,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.8318,
-      "arrivalLon": -104.98188,
+      "arrivalLat": 39.831856,
+      "arrivalLon": -104.981824,
       "arrivalType": "will_call"
     },
     {
@@ -753,7 +754,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -773,8 +774,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.8124,
-      "arrivalLon": -105.0157,
+      "arrivalLat": 39.812456,
+      "arrivalLon": -105.015644,
       "arrivalType": "will_call"
     },
     {
@@ -798,7 +799,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -818,8 +819,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7475,
-      "arrivalLon": -104.7638,
+      "arrivalLat": 39.747556,
+      "arrivalLon": -104.763744,
       "arrivalType": "will_call"
     },
     {
@@ -849,7 +850,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -869,8 +870,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7879,
-      "arrivalLon": -104.9789,
+      "arrivalLat": 39.787956,
+      "arrivalLon": -104.978844,
       "arrivalType": "will_call"
     },
     {
@@ -901,7 +902,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -921,8 +922,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7098,
-      "arrivalLon": -105.0219,
+      "arrivalLat": 39.709856,
+      "arrivalLon": -105.021844,
       "arrivalType": "will_call"
     },
     {
@@ -952,7 +953,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -972,8 +973,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.8006,
-      "arrivalLon": -104.9157,
+      "arrivalLat": 39.800656,
+      "arrivalLon": -104.915644,
       "arrivalType": "will_call"
     },
     {
@@ -1004,7 +1005,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26",
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "trades": [
         "HVAC"
       ],
@@ -1024,8 +1025,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.8465,
-      "arrivalLon": -104.9762,
+      "arrivalLat": 39.846556,
+      "arrivalLon": -104.976144,
       "arrivalType": "will_call"
     },
     {
@@ -1053,7 +1054,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26",
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "trades": [
         "HVAC"
       ],
@@ -1073,8 +1074,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 39.7847,
-      "arrivalLon": -105.1376,
+      "arrivalLat": 39.784756,
+      "arrivalLon": -105.137544,
       "arrivalType": "will_call"
     },
     {
@@ -1103,7 +1104,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Comfort Air Distributing Rheem Wholesaler. Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Address updated per user feedback, verified 2025-12-27",
+      "notes": "Comfort Air Distributing Rheem Wholesaler. Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Address updated per user feedback, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -1123,8 +1124,8 @@
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Geocoded from corrected address",
-      "arrivalLat": 39.5919,
-      "arrivalLon": -104.7978,
+      "arrivalLat": 39.591956,
+      "arrivalLon": -104.797744,
       "arrivalType": "will_call"
     },
     {
@@ -1274,7 +1275,7 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
+      "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.graybar.com/store-locator"
       ],
@@ -1297,8 +1298,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7972,
-      "arrivalLon": -104.9816,
+      "arrivalLat": 39.797256,
+      "arrivalLon": -104.981544,
       "arrivalType": "storefront"
     },
     {
@@ -1402,7 +1403,7 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.rexelusa.com/locations/co/denver/3201"
       ],
@@ -1425,8 +1426,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7962,
-      "arrivalLon": -104.7836,
+      "arrivalLat": 39.796256,
+      "arrivalLon": -104.783544,
       "arrivalType": "storefront"
     },
     {
@@ -1595,7 +1596,7 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
+      "notes": "Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.borderstates.com/brands"
       ],
@@ -1618,8 +1619,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.794972,
-      "arrivalLon": -104.860753,
+      "arrivalLat": 39.795028,
+      "arrivalLon": -104.860697,
       "arrivalType": "storefront"
     },
     {
@@ -1822,7 +1823,7 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26",
+      "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "trades": [
         "Electrical"
       ],
@@ -1842,8 +1843,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7154,
-      "arrivalLon": -105.0052,
+      "arrivalLat": 39.715456,
+      "arrivalLon": -105.005144,
       "arrivalType": "storefront"
     },
     {
@@ -1882,7 +1883,7 @@
         "electrical",
         "wholesale"
       ],
-      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
+      "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.wesco.com/us/en/locations.html"
       ],
@@ -1905,8 +1906,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.703204,
-      "arrivalLon": -105.004379,
+      "arrivalLat": 39.70326,
+      "arrivalLon": -105.004323,
       "arrivalType": "storefront"
     },
     {
@@ -1935,7 +1936,7 @@
         "residential",
         "commercial"
       ],
-      "notes": "HVAC wholesale supplier for residential, commercial, and multi-family construction. Hours: M-F 7:00 AM - 3:30 PM. Source: SDI Denver official website, verified 2025-12-26",
+      "notes": "HVAC wholesale supplier for residential, commercial, and multi-family construction. Hours: M-F 7:00 AM - 3:30 PM. Source: SDI Denver official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://sdidenver.com",
         "https://www.mapquest.com/us/colorado/select-distributing-inc-350583807"
@@ -1959,8 +1960,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps",
-      "arrivalLat": 39.7847,
-      "arrivalLon": -104.9995,
+      "arrivalLat": 39.784756,
+      "arrivalLon": -104.999444,
       "arrivalType": "storefront"
     },
     {
