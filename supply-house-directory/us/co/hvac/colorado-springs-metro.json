@@ -39,7 +39,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.galarson.com/locations"
+        "https://www.galarson.com/locations",
+        "https://www.google.com/maps/place/Gustave+A+Larson+Colorado+Springs"
       ],
       "trades": [
         "HVAC"
@@ -88,8 +89,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.mapquest.com/us/colorado/trane-supply-375393975",
-        "https://www.tranesupply.com/store-locator"
+        "https://www.tranesupply.com/store-locator",
+        "https://www.google.com/maps/place/Trane+Supply+Colorado+Springs"
       ],
       "trades": [
         "HVAC"

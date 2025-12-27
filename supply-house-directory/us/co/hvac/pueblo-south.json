@@ -39,7 +39,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.galarson.com/locations"
+        "https://www.galarson.com/locations",
+        "https://www.google.com/maps/place/Gustave+A+Larson+Pueblo"
       ],
       "trades": [
         "HVAC"

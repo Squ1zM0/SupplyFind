@@ -48,9 +48,8 @@
       ],
       "services": [],
       "sources": [
-        "https://sterlingco.portalced.com/",
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://sterlingco.portalced.com/ContactUs",
+        "https://www.google.com/maps/place/CED+Sterling"
       ],
       "trades": [
         "Electrical"
@@ -99,7 +98,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.crescentelectric.com/locations/co/sterling/104-california-st"
+        "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
+        "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
       ],
       "trades": [
         "Electrical"
@@ -170,8 +170,7 @@
         "Controls"
       ],
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
       ],
       "trades": [
         "Electrical"

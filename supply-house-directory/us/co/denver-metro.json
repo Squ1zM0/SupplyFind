@@ -167,7 +167,7 @@
       ],
       "sources": [
         "https://www.galarson.com/locations",
-        "https://www.achrnews.com/directories/2937-hvacr-directory/listing/10077-gustave-a-larson-co"
+        "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
       ],
       "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "trades": [
@@ -262,8 +262,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.johnstonesupply.com/store5/contact-us",
-        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Denver"
       ],
       "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "trades": [
@@ -1026,7 +1026,7 @@
       "notes": "RSD Store #74. HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Relocated from 6825 S Galena St. Address verified via Google Business Profile and official RSD store locator (Store #74), 2025-12-27.",
       "sources": [
         "https://www.rsd.net/store/0074-centennial-co",
-        "https://www.rsd.net/locations/?state=CO&storenumber=74"
+        "https://www.google.com/maps/place/RSD+Centennial"
       ],
       "trades": [
         "HVAC"
@@ -1125,8 +1125,7 @@
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/store-locator"
       ],
       "trades": [
         "Electrical"
@@ -1184,7 +1183,7 @@
       ],
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver/7325"
       ],
       "trades": [
         "Electrical"
@@ -1242,7 +1241,7 @@
       ],
       "notes": "Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
       "sources": [
-        "https://www.rexelusa.com/brands"
+        "https://www.rexelusa.com/locations/co/denver/3201"
       ],
       "trades": [
         "Electrical"
@@ -1301,8 +1300,7 @@
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.cedColorado.com/locations"
       ],
       "trades": [
         "Electrical"
@@ -1360,7 +1358,8 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+        "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
       ],
       "trades": [
         "Electrical"
@@ -1523,7 +1522,7 @@
       ],
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.wesco.com/us/en/locations.html"
       ],
       "trades": [
         "Electrical"
@@ -1674,7 +1673,7 @@
       ],
       "notes": "Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-26",
       "sources": [
-        "https://buy.wesco.com/static/content/line-card/LCOMP-Line-Card.pdf"
+        "https://www.wesco.com/us/en/locations.html"
       ],
       "trades": [
         "Electrical"
@@ -1771,8 +1770,7 @@
       ],
       "notes": "HVAC, refrigeration, and hydronics wholesaler. Part of Winsupply network. Hours: M-F 7:00 AM - 4:30 PM. Source: North Denver Winair official website, verified 2025-12-26",
       "sources": [
-        "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies/contact-us",
-        "https://www.chamberofcommerce.com/business-directory/colorado/denver/air-conditioning-contractor/2001522446-north-denver-winair"
+        "https://www.winair.us/locations/"
       ],
       "trades": [
         "HVAC"

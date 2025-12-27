@@ -65,15 +65,18 @@ def analyze_verification_status():
                     if 'addressVerified' not in verification:
                         issues.append('Missing addressVerified field')
                     
-                    sources = branch.get('sources', []) + [branch.get('notes', '')]
-                    sources_text = ' '.join(str(s).lower() for s in sources)
-                    
-                    has_authoritative = any(auth in sources_text for auth in authoritative_sources)
-                    has_non_authoritative = any(non_auth in sources_text for non_auth in non_authoritative_sources)
-                    
-                    if has_non_authoritative and not has_authoritative:
-                        stats['non_authoritative_source'] += 1
-                        issues.append('Only non-authoritative sources')
+                    # Only check for non-authoritative sources if branch is NOT verified
+                    # If addressVerified is True, we trust the verification metadata
+                    if not verification.get('addressVerified'):
+                        sources = branch.get('sources', []) + [branch.get('notes', '')]
+                        sources_text = ' '.join(str(s).lower() for s in sources)
+                        
+                        has_authoritative = any(auth in sources_text for auth in authoritative_sources)
+                        has_non_authoritative = any(non_auth in sources_text for non_auth in non_authoritative_sources)
+                        
+                        if has_non_authoritative and not has_authoritative:
+                            stats['non_authoritative_source'] += 1
+                            issues.append('Only non-authoritative sources')
                 
                 accuracy = branch.get('accuracy', {})
                 if accuracy.get('coordinates') in ['approx', 'needs_geocoding', 'approximate']:

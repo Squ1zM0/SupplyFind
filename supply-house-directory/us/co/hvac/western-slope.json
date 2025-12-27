@@ -96,7 +96,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.galarson.com/locations"
+        "https://www.galarson.com/locations",
+        "https://www.google.com/maps/place/Gustave+A+Larson+Grand+Junction"
       ],
       "trades": [
         "HVAC"
@@ -151,8 +152,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.johnstonesupply.com/",
-        "https://www.mystore411.com/store/list_state/1508/Colorado/Johnstone-Supply-store-locations"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Durango"
       ],
       "trades": [
         "HVAC"
@@ -208,7 +209,7 @@
       "services": [],
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/Locations",
-        "https://supplynearme.com/hvac-supply/sidharveys"
+        "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
       ],
       "trades": [
         "HVAC"

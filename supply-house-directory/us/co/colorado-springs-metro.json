@@ -322,8 +322,7 @@
       ],
       "website": "https://www.uri.com/",
       "sources": [
-        "https://www.uri.com/locations/Branch/408",
-        "https://www.uri.com/"
+        "https://www.uri.com/locations/"
       ],
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
@@ -365,7 +364,8 @@
       ],
       "website": "https://www.buyblazer.com/",
       "sources": [
-        "https://www.buyblazer.com/"
+        "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
+        "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
       ],
       "trades": [
         "Electrical"
@@ -671,8 +671,7 @@
       ],
       "notes": "Carrier, Bryant, and Payne distributor. Part of Carrier West network. Source: Lohmiller & Company official website, verified 2025-12-26",
       "sources": [
-        "https://www.lohmillercompany.com/locations/colorado-springs/",
-        "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/air-conditioning-system-supplier/2023557831-carrier-west"
+        "https://www.lohmiller.com/colorado-springs/"
       ],
       "trades": [
         "HVAC"

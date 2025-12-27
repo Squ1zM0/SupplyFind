@@ -39,7 +39,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.galarson.com/locations"
+        "https://www.galarson.com/locations",
+        "https://www.google.com/maps/place/Gustave+A+Larson+Englewood"
       ],
       "trades": [
         "HVAC"
@@ -94,7 +95,7 @@
       ],
       "services": [],
       "sources": [
-        "https://www.sidharvey.com/wps/portal/c/Locations",
+        "https://www.google.com/maps/place/Sid+Harvey+Denver",
         "https://www.mapquest.com/us/colorado/sid-harveys-9964334"
       ],
       "trades": [
@@ -150,8 +151,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.sidharvey.com/wps/portal/c/Locations",
-        "https://www.chamberofcommerce.com/business-directory/colorado/centennial/hvac-contractor/2003830674-sid-harvey-s"
+        "https://www.google.com/maps/place/Sid+Harvey+Centennial",
+        "https://www.sidharvey.com/wps/portal/c/Locations"
       ],
       "trades": [
         "HVAC"
@@ -206,7 +207,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.rsd.net/locations/"
+        "https://www.rsd.net/locations/",
+        "https://www.google.com/maps/place/RSD+Aurora"
       ],
       "trades": [
         "HVAC"
@@ -255,8 +257,8 @@
       ],
       "services": [],
       "sources": [
-        "https://www.yellowpages.com/denver-co/trane-supply",
-        "https://www.tranesupply.com/store-locator"
+        "https://www.tranesupply.com/store-locator",
+        "https://www.google.com/maps/place/Trane+Supply+Englewood"
       ],
       "trades": [
         "HVAC"
