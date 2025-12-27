@@ -114,9 +114,9 @@
       "address1": "2808 1st Ave, Unit F",
       "phone": "970-351-8320",
       "website": "https://www.rexelusa.com/locations/co/greeley/3255",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.391645,
+      "lon": -104.677816,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -139,7 +139,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/greeley/3255"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
@@ -166,9 +168,9 @@
       "address1": "4530 Innovation Drive",
       "phone": "970-223-1247",
       "website": "https://www.rexelusa.com/locations/co/ft-collins/7619",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.532844,
+      "lon": -105.042323,
+      "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
         "Eaton",
@@ -191,7 +193,9 @@
         "storefront_confirmed": "2025-12-25",
         "sources": [
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",
