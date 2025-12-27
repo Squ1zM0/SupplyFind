@@ -221,7 +221,7 @@
       "city": "Glenwood Springs",
       "state": "CO",
       "postalCode": "81601",
-      "address1": "7910 SH-82 W",
+      "address1": "7910 Highway 82",
       "phone": "970-945-8265",
       "website": "https://www.rexelusa.com/locations/co/glenwood-springs/3204",
       "lat": 39.5464,
@@ -274,6 +274,136 @@
       "geoSource": "gps-coordinates.org",
       "arrivalLat": 39.5464,
       "arrivalLon": -107.3984,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "rexel-grand-junction-3213",
+      "name": "Rexel Grand Junction (#3213)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81505",
+      "address1": "559 Sandhill Ln, Unit 500",
+      "phone": "970-245-8682",
+      "website": "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+      "lat": 39.0789,
+      "lon": -108.5241,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Grand Junction and western Colorado. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+          "https://www.mapquest.com/us/colorado/rexel-10124195"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
+        "https://www.mapquest.com/us/colorado/rexel-10124195"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.0789,
+      "arrivalLon": -108.5241,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "rexel-eagle-3203",
+      "name": "Rexel Eagle (#3203)",
+      "chain": "Rexel",
+      "trade": "electrical",
+      "city": "Eagle",
+      "state": "CO",
+      "postalCode": "81631",
+      "address1": "1393 Chambers Ave, Unit A",
+      "phone": "970-705-6000",
+      "website": "https://www.rexelusa.com/locations/co/eagle/3203",
+      "lat": 39.6545,
+      "lon": -106.8282,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Rexel branch serving Eagle, Vail Valley, and Aspen Corridor. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27",
+      "verification": {
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rexelusa.com/locations/co/eagle/3203",
+          "https://www.mapquest.com/us/colorado/rexel-458734325"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/locations/co/eagle/3203",
+        "https://www.mapquest.com/us/colorado/rexel-458734325"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.6545,
+      "arrivalLon": -106.8282,
       "arrivalType": "storefront"
     },
     {
