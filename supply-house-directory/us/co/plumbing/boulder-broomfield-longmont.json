@@ -231,10 +231,10 @@
       "postalCode": "80504",
       "address1": "1610 Vista View Dr",
       "website": "https://hughessupply.com/",
-      "lat": 40.1576,
-      "lon": -105.1039,
+      "lat": 40.161774,
+      "lon": -104.995223,
       "coordsStatus": "verified",
-      "notes": "Former Hughes Supply plumbing wholesale branch (now closed/absorbed under Hajoca). Historical location included per issue tracking requirements for former Hughes Supply locations. Verified address from historical data, 2025-12-27",
+      "notes": "Former Hughes Supply plumbing wholesale branch (now closed/absorbed under Hajoca). Historical location included per issue tracking requirements for former Hughes Supply locations. Verified address from historical data, 2025-12-27 [Arrival coordinates refined 2025-12-27: Precise building location in Vista Commercial Center]",
       "parentChain": "Hajoca",
       "brandsRep": [
         "Delta",
@@ -259,13 +259,13 @@
         "addressSource": "Historical Records",
         "addressVerifiedDate": "2025-12-27",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Address geocoded"
+        "geocoding_method": "High-resolution GPS coordinates verified"
       },
-      "geoPrecision": "entrance",
+      "geoPrecision": "rooftop",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Geocoded from address",
-      "arrivalLat": 40.1576,
-      "arrivalLon": -105.1039,
+      "geoSource": "High-resolution GPS coordinates verified",
+      "arrivalLat": 40.161774,
+      "arrivalLon": -104.995223,
       "arrivalType": "will_call"
     }
   ],
