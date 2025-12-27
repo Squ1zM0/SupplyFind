@@ -73,10 +73,10 @@
       "address1": "3180 Sterling Cir Ste 100",
       "phone": "303-955-4460",
       "website": "https://dahlplumbing.com/boulder/",
-      "lat": 40.034092,
-      "lon": -105.227058,
+      "lat": 40.03443,
+      "lon": -105.24637,
       "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point.]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -104,9 +104,9 @@
       "trades": [
         "Plumbing"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "MapQuest + Google Maps verified entrance"
     },
     {
       "id": "ferguson-plumbing-boulder-1840-55th",

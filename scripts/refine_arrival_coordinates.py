@@ -140,6 +140,55 @@ COORDINATE_REFINEMENTS = [
         "geoPrecision": "storefront",
         "geoSource": "Google Maps + verified business directories",
         "reason": "Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access."
+    },
+    # Phase 3 - Medium-risk branches (Multi-tenant and industrial locations)
+    {
+        "file": "supply-house-directory/us/co/electrical/denver-metro.json",
+        "branch_name": "City Electric Supply - Broomfield",
+        "address1": "2380 W Midway Blvd, Suite 2",
+        "old_lat": 39.92285,
+        "old_lon": -105.09817,
+        "new_lat": 39.92775,
+        "new_lon": -105.06912,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + verified business directories",
+        "reason": "Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance."
+    },
+    {
+        "file": "supply-house-directory/us/co/plumbing/boulder-broomfield-longmont.json",
+        "branch_name": "Dahl – Boulder",
+        "address1": "3180 Sterling Cir Ste 100",
+        "old_lat": 40.034092,
+        "old_lon": -105.227058,
+        "new_lat": 40.034430,
+        "new_lon": -105.246370,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + Google Maps verified entrance",
+        "reason": "Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point."
+    },
+    {
+        "file": "supply-house-directory/us/co/plumbing/front-range-north.json",
+        "branch_name": "Dahl – Greeley (Evans)",
+        "address1": "1225 40th St",
+        "old_lat": 40.383457,
+        "old_lon": -104.691775,
+        "new_lat": 40.378154,
+        "new_lon": -104.716440,
+        "geoPrecision": "storefront",
+        "geoSource": "MapQuest + Google Maps verified entrance",
+        "reason": "Industrial location - moved to parking lot entrance area. Verified customer access coordinates."
+    },
+    {
+        "file": "supply-house-directory/us/co/plumbing/western-slope.json",
+        "branch_name": "Dahl Plumbing - Glenwood Springs",
+        "address1": "133 Wulfsohn Rd",
+        "old_lat": 39.54578,
+        "old_lon": -107.3365,
+        "new_lat": 39.543603,
+        "new_lon": -107.346680,
+        "geoPrecision": "storefront",
+        "geoSource": "Google Maps + verified shopping center location",
+        "reason": "Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center."
     }
 ]
 

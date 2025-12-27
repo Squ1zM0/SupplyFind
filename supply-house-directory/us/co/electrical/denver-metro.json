@@ -1204,8 +1204,8 @@
       "address1": "2380 W Midway Blvd, Suite 2",
       "phone": "303-466-4618",
       "website": "https://www.cityelectricsupply.com",
-      "lat": 39.92285,
-      "lon": -105.09817,
+      "lat": 39.92775,
+      "lon": -105.06912,
       "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
@@ -1216,7 +1216,7 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26",
+      "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -1240,7 +1240,7 @@
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "MapQuest + verified business directories"
     }
   ],
   "auditStatus": "expanded",

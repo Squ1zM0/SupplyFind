@@ -222,10 +222,10 @@
       "address1": "1225 40th St",
       "phone": "970-330-8462",
       "website": "https://dahlplumbing.com/greeley/",
-      "lat": 40.383457,
-      "lon": -104.691775,
+      "lat": 40.378154,
+      "lon": -104.71644,
       "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
+      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Industrial location - moved to parking lot entrance area. Verified customer access coordinates.]",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -253,9 +253,9 @@
       "trades": [
         "Plumbing"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "MapQuest + Google Maps verified entrance"
     },
     {
       "id": "winsupply-greeley-1979-2nd",

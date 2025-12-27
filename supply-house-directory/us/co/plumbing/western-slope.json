@@ -446,8 +446,8 @@
       "postalCode": "81601",
       "phone": "970-945-7037",
       "website": "https://dahlplumbing.com/glenwoodsprings/",
-      "lat": 39.54578,
-      "lon": -107.3365,
+      "lat": 39.543603,
+      "lon": -107.34668,
       "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
@@ -459,7 +459,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -479,9 +479,9 @@
       "trades": [
         "Plumbing"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org"
+      "geoSource": "Google Maps + verified shopping center location"
     },
     {
       "id": "co-durango-dahl-plumbing-1",
