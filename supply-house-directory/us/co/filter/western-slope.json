@@ -39,7 +39,10 @@
       ],
       "trades": [
         "Filter"
-      ]
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source"
     }
   ]
 }

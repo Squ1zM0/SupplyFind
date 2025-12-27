@@ -57,11 +57,14 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "dahl-boulder-sterling-3180-100",
-      "name": "Dahl \u2013 Boulder",
+      "name": "Dahl – Boulder",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Boulder",
@@ -100,7 +103,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     },
     {
       "id": "ferguson-plumbing-boulder-1840-55th",
@@ -154,7 +160,10 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin"
     },
     {
       "id": "winnelson-longmont-795-s-sherman-13",
@@ -195,7 +204,10 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org"
     }
   ],
   "auditNotes": [
