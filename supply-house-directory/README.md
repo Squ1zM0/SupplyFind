@@ -54,6 +54,7 @@ Map providers (Google Maps, Apple Maps) may snap navigation destinations to near
 - `address1`, `address2`, `city`, `state`, `postalCode` (strings): Physical address
 - `phone` (string): Contact phone number
 - `website` (string): Branch or chain website
+- `directionsUrl` (string, optional): Google Maps directions URL using arrival coordinates (format: `https://www.google.com/maps/dir/?api=1&destination={arrivalLat},{arrivalLon}`)
 - `coverage` (string): Geographic coverage area
 - `verified` (string): Overall verification status
 - `verifiedDate` (string): Date of verification
