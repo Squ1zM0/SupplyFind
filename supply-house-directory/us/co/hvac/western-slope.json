@@ -16,8 +16,8 @@
       "postalCode": "81504",
       "phone": "970-434-1374",
       "website": "https://www.johnstonesupply.com/",
-      "lat": 39.090746,
-      "lon": -108.497946,
+      "lat": 39.08907,
+      "lon": -108.51499,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -46,19 +46,24 @@
       ],
       "services": [],
       "sources": [
-        "https://www.johnstonesupply.com/",
-        "https://www.myjohnstonesupply.com/newsletter/files/LineCard-color.pdf"
+        "https://www.johnstonesupply.com/locations",
+        "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
       ],
       "trades": [
         "HVAC"
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Johnstone Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.johnstonesupply.com/locations",
+          "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

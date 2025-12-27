@@ -282,8 +282,8 @@
       "city": "Fort Collins",
       "state": "CO",
       "phone": "970-484-4377",
-      "lat": 40.58544,
-      "lon": -105.04535,
+      "lat": 40.6001,
+      "lon": -105.0252,
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -313,20 +313,24 @@
       ],
       "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "sources": [
-        "https://cedal.portalced.com/StaticPage?pageId=a160f00000Zo1xvAAB",
-        "https://cedocala.com/vendors/"
+        "https://www.cedal.com/locations",
+        "https://www.google.com/maps/place/CED+Fort+Collins"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80524",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official CED Portal",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.cedal.com/locations",
+          "https://www.google.com/maps/place/CED+Fort+Collins"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -338,8 +342,8 @@
       "city": "Loveland",
       "state": "CO",
       "phone": "970-663-3333",
-      "lat": 40.40289,
-      "lon": -105.04406,
+      "lat": 40.407917,
+      "lon": -105.045164,
       "tags": [
         "electrical"
       ],
@@ -368,19 +372,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+        "https://servlectric.com/branch/city-electric-supply-loveland"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80537",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+          "https://servlectric.com/branch/city-electric-supply-loveland"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

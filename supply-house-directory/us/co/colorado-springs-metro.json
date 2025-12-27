@@ -456,8 +456,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-895-1400",
-      "lat": 38.89877,
-      "lon": -104.82783,
+      "lat": 38.9105,
+      "lon": -104.7927,
       "tags": [
         "electrical"
       ],
@@ -486,19 +486,24 @@
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
-        "https://www.cityelectricsupply.com/linecard"
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
       ],
       "trades": [
         "Electrical"
       ],
       "postalCode": "80918",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
+          "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
@@ -564,8 +569,8 @@
       "city": "Colorado Springs",
       "state": "CO",
       "phone": "719-260-9446",
-      "lat": 38.90178,
-      "lon": -104.82659,
+      "lat": 38.9152,
+      "lon": -104.8003,
       "tags": [
         "plumbing"
       ],
@@ -587,8 +592,8 @@
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "sources": [
-        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-        "https://www.fergusonhome.com/brands/c109293"
+        "https://www.ferguson.com/store/co/colorado-springs",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
       ],
       "trades": [
         "HVAC",
@@ -597,12 +602,16 @@
       "primaryTrade": "Plumbing",
       "postalCode": "80918",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/colorado-springs",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

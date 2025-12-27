@@ -16,8 +16,8 @@
       "address1": "401 W 29th St",
       "phone": "719-542-1234",
       "website": "https://www.graybar.com/",
-      "lat": 38.3046,
-      "lon": -104.6147,
+      "lat": 38.29835,
+      "lon": -104.6143,
       "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "brandsRep": [
@@ -43,19 +43,23 @@
         "Controls"
       ],
       "sources": [
-        "https://info.graybar.com/welcome-line-cards/",
-        "https://www.nigp.org/business-council/Graybar/OMNIA%20Partners%20Line%20Card.pdf"
+        "https://www.graybar.com/locations",
+        "https://www.google.com/maps/place/Graybar+Pueblo"
       ],
       "trades": [
         "Electrical"
       ],
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Graybar Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.graybar.com/locations",
+          "https://www.google.com/maps/place/Graybar+Pueblo"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {

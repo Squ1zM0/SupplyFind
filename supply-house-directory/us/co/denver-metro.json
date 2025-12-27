@@ -501,8 +501,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13037449100",
-      "lat": 39.7127,
-      "lon": -105.005,
+      "lat": 39.713585,
+      "lon": -105.004059,
       "brandsRep": [
         "Copeland",
         "Daikin",
@@ -521,10 +521,8 @@
         "wholesale"
       ],
       "sources": [
-        "https://www.achrnews.com/directories/2937-hvacr-directory/listing/15246-united-refrigeration-inc-denver-co",
-        "https://www.mapquest.com/us/colorado/united-refrigeration-9987080",
-        "https://www.yelp.com/biz/united-refrigeration-denver",
-        "https://www.uri.com/"
+        "https://www.uri.com",
+        "https://www.google.com/maps/place/United+Refrigeration+Denver"
       ],
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "trades": [
@@ -532,12 +530,16 @@
       ],
       "postalCode": "80223-1781",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & URI Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.uri.com",
+          "https://www.google.com/maps/place/United+Refrigeration+Denver"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },

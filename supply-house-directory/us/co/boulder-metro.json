@@ -64,8 +64,8 @@
       "city": "Louisville",
       "state": "CO",
       "phone": "+13039268500",
-      "lat": 39.9686435,
-      "lon": -105.1212993,
+      "lat": 39.9819,
+      "lon": -105.1314,
       "brandsRep": [
         "Copeland",
         "Daikin",
@@ -88,19 +88,24 @@
       ],
       "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "sources": [
-        "https://www.uri.com/"
+        "https://www.uri.com",
+        "https://www.google.com/maps/place/United+Refrigeration+Louisville"
       ],
       "trades": [
         "HVAC"
       ],
       "postalCode": "80027",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & URI Official Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.uri.com",
+          "https://www.google.com/maps/place/United+Refrigeration+Louisville"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       },
       "coordsStatus": "verified"
     },
