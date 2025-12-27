@@ -177,8 +177,12 @@ def main():
     if stats['files_modified']:
         print()
         print("Modified files:")
+        import os
+        cwd = os.getcwd()
         for f in sorted(stats['files_modified']):
-            print(f"  - {f.replace('/home/runner/work/SupplyFind/SupplyFind/', '')}")
+            # Show relative path
+            rel_path = os.path.relpath(f, cwd) if f.startswith(cwd) else f
+            print(f"  - {rel_path}")
 
 if __name__ == '__main__':
     main()
