@@ -13,7 +13,7 @@
   "branches": [
     {
       "id": "co-denver-baker-englewood-platte-001",
-      "name": "Baker Distributing – Englewood (South Denver)",
+      "name": "Baker Distributing \u2013 Englewood (South Denver)",
       "chain": "Baker Distributing",
       "address1": "3107 S Platte River Dr",
       "city": "Englewood",
@@ -46,7 +46,7 @@
     },
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing – Ice Design Center (Denver)",
+      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -133,7 +133,7 @@
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson – Denver",
+      "name": "Gustave A. Larson \u2013 Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -217,7 +217,7 @@
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply – Denver (#5)",
+      "name": "Johnstone Supply \u2013 Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -296,7 +296,7 @@
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) – Denver",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -334,7 +334,7 @@
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) – Englewood",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -371,7 +371,7 @@
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -418,7 +418,7 @@
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply – Denver (Bryant)",
+      "name": "Trane Supply \u2013 Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -450,7 +450,7 @@
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration – Denver",
+      "name": "United Refrigeration \u2013 Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -574,7 +574,7 @@
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores – Denver",
+      "name": "Lennox Stores \u2013 Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -607,7 +607,7 @@
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores – Aurora",
+      "name": "Lennox Stores \u2013 Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -640,7 +640,7 @@
     },
     {
       "id": "co-denver-hvacdistco-001",
-      "name": "HVAC Distributors Co – Denver",
+      "name": "HVAC Distributors Co \u2013 Denver",
       "chain": "HVAC Distributors Co",
       "address1": "4900 Washington St",
       "city": "Denver",
@@ -679,7 +679,7 @@
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors – Denver",
+      "name": "A/C Distributors \u2013 Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -719,7 +719,7 @@
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co – Commerce City",
+      "name": "HVAC Distributors Co \u2013 Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -758,7 +758,7 @@
     },
     {
       "id": "co-thornton-acdist-001",
-      "name": "A/C Distributors – Thornton",
+      "name": "A/C Distributors \u2013 Thornton",
       "chain": "A/C Distributors",
       "address1": "899 E 84th Ave",
       "city": "Thornton",
@@ -798,7 +798,7 @@
     },
     {
       "id": "co-englewood-comfortair-001",
-      "name": "Comfort Air Distributing – Englewood",
+      "name": "Comfort Air Distributing \u2013 Englewood",
       "chain": "Comfort Air Distributing",
       "address1": "333 W Hampden Ave",
       "city": "Englewood",
@@ -839,7 +839,7 @@
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir – Wheat Ridge",
+      "name": "WinAir \u2013 Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -876,7 +876,7 @@
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing – Centennial",
+      "name": "Comfort Air Distributing \u2013 Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "7347 S Revere Pkwy",
       "city": "Centennial",
@@ -917,7 +917,7 @@
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD – Centennial",
+      "name": "RSD \u2013 Centennial",
       "chain": "RSD",
       "address1": "6825 S Galena St",
       "city": "Centennial",
@@ -963,7 +963,7 @@
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply – Denver",
+      "name": "Rampart Supply \u2013 Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
@@ -1575,7 +1575,6 @@
       "address1": "4201 Oneida St, Unit B",
       "city": "Denver",
       "state": "CO",
-      "zip": "80216",
       "phone": "720-570-7801",
       "lat": 39.7847,
       "lon": -104.9995,
@@ -1621,7 +1620,6 @@
       "address1": "490 E 76th Ave, Building 6B",
       "city": "Denver",
       "state": "CO",
-      "zip": "80229",
       "phone": "303-287-4511",
       "lat": 39.8383,
       "lon": -104.8869,
