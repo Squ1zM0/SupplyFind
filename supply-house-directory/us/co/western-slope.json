@@ -55,7 +55,10 @@
           "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1804"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Ferguson official store locator and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -93,7 +96,10 @@
           "https://www.keenan-dahl.com/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -147,7 +153,10 @@
           "https://www.ferguson.com/store/co/montrose/plumbingpvf-1805"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Ferguson official store locator and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -196,7 +205,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -249,7 +261,10 @@
           "https://www.ferguson.com/store/co/granby/plumbing-supply-2091"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Ferguson official store locator and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -304,7 +319,10 @@
           "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-1807"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Ferguson official store locator and Google Maps"
+        "geocoding_method": "Ferguson official store locator and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -355,7 +373,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -406,7 +427,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -455,7 +479,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -505,7 +532,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -547,7 +577,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     }

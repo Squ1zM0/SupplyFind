@@ -37,7 +37,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -87,7 +90,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -117,7 +123,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Boilers",
@@ -161,7 +170,10 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Plumbing"
@@ -204,7 +216,10 @@
           "https://abcplumbing.com/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Plumbing",

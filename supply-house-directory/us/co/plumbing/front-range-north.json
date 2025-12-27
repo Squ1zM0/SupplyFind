@@ -37,7 +37,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -80,7 +83,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -124,7 +130,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -167,7 +176,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -207,7 +219,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -245,7 +260,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -285,7 +303,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"

@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Colorado Springs",
+      "name": "Comfort Air Distributing – Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -41,13 +41,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply \u2013 Colorado Springs",
+      "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3320 N El Paso St",
       "city": "Colorado Springs",
@@ -82,13 +85,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Colorado Springs",
+      "name": "Lennox Stores – Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -115,13 +121,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Colorado Springs",
+      "name": "WinSupply HVAC – Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "2555 S Circle Dr",
       "city": "Colorado Springs",
@@ -152,13 +161,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey \u2013 Colorado Springs",
+      "name": "Sid Harvey – Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -193,13 +205,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply \u2013 Colorado Springs",
+      "name": "CT Supply – Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -229,13 +244,16 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries \u2013 Colorado Springs",
+      "name": "Hercules Industries – Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -263,7 +281,10 @@
       "latLonSource": "MapQuest business listing (address verified; coords pending precise geocode)",
       "latLonVerifiedAt": "2025-12-25",
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "trades": [
         "HVAC"
@@ -316,7 +337,10 @@
           "https://www.uri.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -350,7 +374,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -400,7 +427,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -451,7 +481,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -502,7 +535,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -549,7 +585,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -597,7 +636,10 @@
           "https://www.cdjco.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -638,7 +680,10 @@
           "https://www.lohmiller.com/colorado-springs/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -688,7 +733,10 @@
           "https://www.rampartsupply.com/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     }
   ],

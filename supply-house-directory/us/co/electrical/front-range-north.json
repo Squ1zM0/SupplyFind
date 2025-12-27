@@ -21,7 +21,10 @@
       "lat": 40.5204,
       "lon": -105.0511,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
         "ABB",
@@ -69,7 +72,10 @@
       "lat": 40.4233,
       "lon": -104.709,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
         "Square D",
@@ -141,7 +147,10 @@
           "https://www.rexelusa.com/locations/co/greeley/3255"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -195,7 +204,10 @@
           "https://www.rexelusa.com/locations/co/ft-collins/7619"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -251,7 +263,10 @@
           "https://servlectric.com/branch/consolidated-electrical-distributors-fort-collins-2025-sharp-point-dr-fort-collins-co-80525"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -305,7 +320,10 @@
           "https://servlectric.com/branch/border-states-greeley-2414-4th-ave-greeley-co-80631"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -353,7 +371,10 @@
           "https://www.youtube.com/watch?v=zD9eAK_hFxA"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -397,7 +418,10 @@
           "https://www.finduslocal.com/electric-equipment-supplies-wholesale/colorado/fort-collins/wesco-distributing-inc"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -440,7 +464,10 @@
           "https://www.crescentelectric.com/locations/co/fort-collins/1404-e-magnolia-st"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -483,7 +510,10 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/contractors/electrical-lighting/electrical-supply-store/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",

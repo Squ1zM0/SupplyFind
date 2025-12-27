@@ -62,7 +62,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -108,7 +111,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -169,7 +175,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -229,7 +238,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -289,7 +301,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -350,7 +365,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -382,7 +400,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -425,7 +446,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -468,7 +492,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -511,7 +538,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -558,7 +588,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Plumbing"
@@ -600,7 +633,10 @@
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "parentChain": "Winsupply",
       "partsFor": [
@@ -639,7 +675,10 @@
       "notes": "Independent local plumbing supply house serving southwest Colorado since 1993. Wholesale and contractor supply for plumbing fixtures, parts, pumps, water heaters, and fittings. Highly rated for customer service and expertise. Source: Yellow Pages, Chamber of Commerce listings, verified 2025-12-26",
       "verification": {
         "coords_verified": "2025-12-26",
-        "storefront_confirmed": "2025-12-26"
+        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Plumbing Fixtures",

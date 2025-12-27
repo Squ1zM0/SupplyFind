@@ -52,7 +52,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -98,7 +101,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -139,7 +145,10 @@
           "https://www.rexelusa.com/locations/co/pueblo/3223"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -195,7 +204,10 @@
           "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-401311533"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",
@@ -244,7 +256,10 @@
           "https://www.manta.com/c/mmfmgjx/wesco-distribution-inc"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",

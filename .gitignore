@@ -8,6 +8,7 @@
 *.tmp
 *.bak
 *~
+ADDRESS_VERIFICATION_ANALYSIS.json
 
 # OS files
 .DS_Store

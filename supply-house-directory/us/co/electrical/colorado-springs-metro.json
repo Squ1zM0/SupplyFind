@@ -21,7 +21,10 @@
       "lat": 38.8897,
       "lon": -104.8313,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
         "ABB",
@@ -69,7 +72,10 @@
       "lat": 38.8896,
       "lon": -104.831,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
         "Square D",
@@ -119,7 +125,10 @@
       "lat": 38.7929,
       "lon": -104.7742,
       "verification": {
-        "coords_verified": "2025-12-26"
+        "coords_verified": "2025-12-26",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "brandsRep": [
         "Southwire",
@@ -194,7 +203,10 @@
       "coordsStatus": "verified",
       "verification": {
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -235,7 +247,10 @@
           "https://www.rexelusa.com/locations/co/colorado-springs/3224"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       },
       "partsFor": [
         "Electrical",
@@ -282,7 +297,10 @@
           "https://www.yellowpages.com/colorado-springs-co/mip/city-electric-supply-colorado-springs-central-573238387"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Electrical",

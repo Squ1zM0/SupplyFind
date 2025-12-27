@@ -40,7 +40,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -74,7 +77,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -127,7 +133,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -168,7 +177,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -211,7 +223,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -254,7 +269,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -290,7 +308,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -328,7 +349,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -365,7 +389,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -412,7 +439,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -444,7 +474,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -490,7 +523,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -529,7 +565,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -568,7 +607,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -601,7 +643,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -634,7 +679,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -673,7 +721,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -713,7 +764,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -752,7 +806,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -792,7 +849,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -833,7 +893,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -870,7 +933,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -911,7 +977,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -1003,7 +1072,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -1059,7 +1131,10 @@
           "https://www.graybar.com/store-locator"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1114,7 +1189,10 @@
           "https://www.rexelusa.com/locations/co/denver/7325"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1169,7 +1247,10 @@
           "https://www.rexelusa.com/locations/co/denver/3201"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1226,7 +1307,10 @@
           "https://www.cedColorado.com/locations"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1277,7 +1361,10 @@
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass"
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified"
     },
@@ -1331,7 +1418,10 @@
           "https://www.mapquest.com/us/colorado/border-states-electric-421028189"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1377,7 +1467,10 @@
           "https://www.cesco.com/locations"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1431,7 +1524,10 @@
           "https://www.wesco.com/us/en/locations.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1476,7 +1572,10 @@
           "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1519,7 +1618,10 @@
           "https://qeddistribution.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1573,7 +1675,10 @@
           "https://www.wesco.com/us/en/locations.html"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-25"
       }
     },
     {
@@ -1618,7 +1723,10 @@
           "https://www.selectdistributing.com/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-27"
       }
     },
     {
@@ -1665,7 +1773,10 @@
           "https://www.winair.us/locations/"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps"
+        "geocoding_method": "Company website and Google Maps",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
       }
     }
   ]

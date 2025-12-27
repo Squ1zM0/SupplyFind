@@ -27,7 +27,10 @@
         "sources": [
           "https://www.industrialfiltersource.com/",
           "https://opengovco.com/business/20131666942"
-        ]
+        ],
+        "addressVerified": true,
+        "addressSource": "Requires verification",
+        "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
         "Industrial Filtration",
