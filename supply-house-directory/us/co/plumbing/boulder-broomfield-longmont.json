@@ -230,12 +230,11 @@
       "state": "CO",
       "postalCode": "80504",
       "address1": "1610 Vista View Dr",
-      "phone": "",
       "website": "https://hughessupply.com/",
       "lat": 40.1576,
       "lon": -105.1039,
       "coordsStatus": "verified",
-      "notes": "Former Hughes Supply plumbing wholesale branch (now closed / absorbed under Hajoca). Part of Hajoca Corporation. Historical location included for tracking former Hughes Supply locations. Source: Historical data, verified 2025-12-27",
+      "notes": "Former Hughes Supply plumbing wholesale branch (now closed/absorbed under Hajoca). Historical location included per issue tracking requirements for former Hughes Supply locations. Verified address from historical data, 2025-12-27",
       "parentChain": "Hajoca",
       "brandsRep": [
         "Delta",
