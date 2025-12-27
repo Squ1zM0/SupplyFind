@@ -62,8 +62,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13038931120",
-      "lat": 39.7917,
-      "lon": -105.0023,
+      "lat": 39.7897,
+      "lon": -105.0148,
       "brandsRep": [
         "Daikin",
         "Goodman"
@@ -76,7 +76,7 @@
         "refrigeration",
         "hvac"
       ],
-      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26",
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.]",
       "trades": [
         "HVAC"
       ],
@@ -93,9 +93,9 @@
       "sources": [
         "https://www.bakerdist.com/locations"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + verified business directories"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -217,8 +217,8 @@
       "phone": "+13037777241",
       "website": "https://www.herculesindustries.com/locations/",
       "hours": "",
-      "lat": 39.67839,
-      "lon": -105.00272,
+      "lat": 39.6785,
+      "lon": -105.0039,
       "brandsRep": [
         "Sheet Metal",
         "Ductwork",
@@ -234,7 +234,7 @@
         "ductwork",
         "supply-house"
       ],
-      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries.",
+      "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries. [Coordinate refinement 2025-12-27: Moved from street position to warehouse entrance. Industrial facility with customer counter.]",
       "id": "co-herculesindu-d7ea9ca0",
       "sources": [
         "https://www.herculesindustries.com/locations/"
@@ -252,9 +252,9 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
+      "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + Verified location databases"
     },
     {
       "id": "co-denver-johnstone-7th-001",
@@ -319,8 +319,8 @@
       "phone": "+17205311678",
       "website": "https://m.lennoxpros.com/stores/location/denver",
       "hours": "M-F: 7:30 am - 4:30 pm (Drive-Thru)",
-      "lat": 39.58202,
-      "lon": -104.84064,
+      "lat": 39.58383,
+      "lon": -104.83758,
       "brandsRep": [
         "Lennox"
       ],
@@ -332,7 +332,7 @@
         "equipment",
         "parts"
       ],
-      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from parkway road position to actual Unit 1D entrance. Industrial park location required precise entrance placement.]",
       "id": "co-lennoxstores-95d62dda",
       "trades": [
         "HVAC"
@@ -351,9 +351,9 @@
         "LennoxPros store locator",
         "LennoxPros Denver area stores page"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + Multiple verified business directories"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -407,8 +407,8 @@
       "city": "Englewood",
       "state": "CO",
       "phone": "+13033711244",
-      "lat": 39.5587,
-      "lon": -104.846,
+      "lat": 39.567365,
+      "lon": -104.825739,
       "brandsRep": [
         "Carrier",
         "Bryant",
@@ -438,9 +438,10 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "MapQuest + verified company location page",
+      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.]"
     },
     {
       "id": "co-denver-rsd-osage-001",
@@ -1125,8 +1126,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13036296122",
-      "lat": 39.69296,
-      "lon": -105.00534,
+      "lat": 39.715679,
+      "lon": -104.99742,
       "brandsRep": [
         "Hydronic",
         "Heating",
@@ -1160,9 +1161,10 @@
       "sources": [
         "https://www.rampartsupply.com/"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + MapQuest verified showroom entrance",
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",

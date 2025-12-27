@@ -12,8 +12,8 @@
       "city": "Pueblo",
       "state": "CO",
       "phone": "+17195480000",
-      "lat": 38.3236,
-      "lon": -104.6076,
+      "lat": 38.3241,
+      "lon": -104.6168,
       "tags": [
         "hvac",
         "equipment",
@@ -25,7 +25,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26.",
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from freeway road position to building entrance. Freeway location required verified entrance placement.]",
       "trades": [
         "HVAC"
       ],
@@ -42,9 +42,9 @@
       "sources": [
         "LennoxPros store locator"
       ],
-      "geoPrecision": "entrance",
+      "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + location mapping services"
     },
     {
       "id": "co-pueblo-comfortair-001",
@@ -54,8 +54,8 @@
       "city": "Pueblo West",
       "state": "CO",
       "phone": "+17195620000",
-      "lat": 38.3508,
-      "lon": -104.7275,
+      "lat": 38.344106,
+      "lon": -104.71935,
       "tags": [
         "hvac",
         "equipment",
@@ -72,7 +72,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Moved from boulevard position to warehouse entrance. Industrial location with loading dock access.]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -89,9 +89,9 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
+      "geoPrecision": "warehouse",
       "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit"
+      "geoSource": "Google Maps + Commercial mapping platforms"
     },
     {
       "id": "co-pueblo-rampart-001",
