@@ -16,16 +16,11 @@
       "postalCode": "80112",
       "phone": "720-707-4000",
       "website": "https://www.galarson.com/locations",
-      "lat": 39.561744,
-      "lon": -104.822993,
+      "lat": 39.5688,
+      "lon": -104.8216,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "approx"
-      },
       "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "tags": [
         "hvac",
@@ -51,11 +46,16 @@
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.galarson.com/locations",
+          "https://www.google.com/maps/place/Gustave+A+Larson+Englewood"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -131,16 +131,11 @@
       "postalCode": "80112",
       "phone": "(303) 649-9800",
       "website": "https://www.sidharvey.com/",
-      "lat": 39.58673,
-      "lon": -104.82709,
+      "lat": 39.58321,
+      "lon": -104.82783,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "South Denver metro location",
       "tags": [
         "hvac",
@@ -168,11 +163,16 @@
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Verified Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/Sid+Harvey+Centennial",
+          "https://www.sidharvey.com/wps/portal/c/Locations"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -187,16 +187,11 @@
       "postalCode": "80011",
       "phone": "(303) 568-5301",
       "website": "https://www.rsd.net/",
-      "lat": 39.75853,
-      "lon": -104.80324,
+      "lat": 39.75538,
+      "lon": -104.77284,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Refrigeration Supplies Distributor - eastern metro location",
       "tags": [
         "hvac",
@@ -223,11 +218,16 @@
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official RSD Locations",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.rsd.net/locations/",
+          "https://www.google.com/maps/place/RSD+Aurora"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
@@ -242,16 +242,11 @@
       "postalCode": "80112",
       "phone": "(720) 709-3190",
       "website": "https://www.tranesupply.com/",
-      "lat": 39.58469,
-      "lon": -104.86642,
+      "lat": 39.585162,
+      "lon": -104.862015,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
-      "accuracy": {
-        "address": "verified",
-        "phone": "verified",
-        "coordinates": "needs_geocoding"
-      },
       "notes": "Trane Supply HVAC parts and equipment distributor. Factory-owned Trane supply house. Verified 2025-12-26.",
       "tags": [
         "hvac",
@@ -273,11 +268,16 @@
       ],
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Multiple Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.tranesupply.com/store-locator",
+          "https://www.google.com/maps/place/Trane+Supply+Englewood"
+        ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     }
   ],

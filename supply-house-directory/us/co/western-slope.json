@@ -70,8 +70,8 @@
       "city": "Grand Junction",
       "state": "CO",
       "phone": "+19704343225",
-      "lat": 39.0861,
-      "lon": -108.5259,
+      "lat": 39.1198,
+      "lon": -108.5843,
       "brandsRep": [
         "Keenan-Dahl Supply"
       ],
@@ -92,15 +92,16 @@
       "postalCode": "81505",
       "coordsStatus": "verified",
       "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.keenan-dahl.com/"
+          "https://dahlplumbing.com/keenan-dahl-of-grand-junction/",
+          "https://www.google.com/maps/place/Keenan-Dahl+Supply"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
+        "geocoding_method": "Google Maps verified coordinates"
       }
     },
     {
