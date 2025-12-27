@@ -727,14 +727,14 @@
       "name": "CED - Centennial",
       "chain": "CED",
       "trade": "electrical",
-      "city": "Centennial",
+      "city": "Denver",
       "state": "CO",
-      "postalCode": "80112",
-      "address1": "6999 S. Jordan Road",
+      "postalCode": "80238",
+      "address1": "9300 E 46th Place",
       "phone": "(303) 733-2211",
-      "website": "https://cedcentennial.portalced.com",
-      "lat": 39.587227,
-      "lon": -104.862536,
+      "website": "https://ceddenvereast.portalced.com",
+      "lat": 39.7821,
+      "lon": -104.8772,
       "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
@@ -754,18 +754,18 @@
         "Fluke"
       ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving south Denver metro. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "notes": "CED electrical supply serving Denver metro. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://cedcentennial.portalced.com/",
-          "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
+          "https://ceddenvereast.portalced.com/ContactUs",
+          "https://www.mapquest.com/us/colorado/ced-denver-east-549202296"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "geocoding_method": "Google Maps verified (exact building location)",
         "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressSource": "Official CED Website & Google Business Profile",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Electrical",
@@ -775,8 +775,8 @@
         "Controls"
       ],
       "sources": [
-        "https://cedcentennial.portalced.com/",
-        "https://www.mapquest.com/us/colorado/consolidated-electrical-distributors-357375390"
+        "https://ceddenvereast.portalced.com/ContactUs",
+        "https://www.mapquest.com/us/colorado/ced-denver-east-549202296"
       ],
       "trades": [
         "Electrical"
@@ -1092,11 +1092,11 @@
       "city": "Centennial",
       "state": "CO",
       "postalCode": "80112",
-      "address1": "7039 S Jordan Rd",
-      "phone": "303-790-7370",
+      "address1": "7318 S Revere Parkway, Suite B3",
+      "phone": "303-858-9988",
       "website": "https://www.cityelectricsupply.com",
-      "lat": 39.588775,
-      "lon": -104.860938,
+      "lat": 39.586936,
+      "lon": -104.823017,
       "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
@@ -1107,18 +1107,18 @@
         "Legrand"
       ],
       "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-26",
+      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27",
       "verification": {
-        "storefront_confirmed": "2025-12-26",
+        "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://servlectric.com/branch/city-electric-supply-denver-south-centennial-7039-s-jordan-rd-centennial-co-80112",
-          "https://www.manta.com/c/mm3jbz1/city-electric-supply-denver-south"
+          "https://www.cityelectricsupply.com",
+          "https://www.mapquest.com/us/colorado/city-electric-supply-company-357717748"
         ],
         "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-26"
+        "geocoding_method": "Google Maps verified (exact building location)",
+        "addressVerified": true,
+        "addressSource": "City Electric Supply Official Website & Google Business Profile",
+        "addressVerifiedDate": "2025-12-27"
       },
       "partsFor": [
         "Electrical",
