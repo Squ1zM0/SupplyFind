@@ -163,8 +163,8 @@
       "postalCode": "80915",
       "phone": "719-596-1333",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 38.87657,
+      "lon": -104.6959,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -190,7 +190,12 @@
       ],
       "trades": [
         "Electrical"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "rexel-colorado-springs-3224",
@@ -257,9 +262,9 @@
       "address1": "4626 Northpark Drive",
       "phone": "719-785-0600",
       "website": "https://www.cityelectricsupply.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.912543,
+      "lon": -104.802228,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Eaton",
         "Square D",
@@ -275,7 +280,9 @@
         "sources": [
           "https://www.cityelectricsupply.com/branch/1019",
           "https://www.yellowpages.com/colorado-springs-co/mip/city-electric-supply-colorado-springs-central-573238387"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

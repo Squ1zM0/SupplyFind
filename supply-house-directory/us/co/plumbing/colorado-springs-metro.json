@@ -16,9 +16,9 @@
       "address1": "4875-B Northpark Dr",
       "phone": "719-260-9446",
       "website": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.89349,
+      "lon": -104.775407,
+      "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -35,7 +35,9 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -61,9 +63,9 @@
       "address1": "725 Geiger Ct",
       "phone": "719-573-5503",
       "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80915/Plumbing-Supplies",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.863395,
+      "lon": -104.701133,
+      "coordsStatus": "verified",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -74,7 +76,9 @@
       "manufacturersPartsFor": [],
       "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -97,9 +101,9 @@
       "address1": "4305 Sinton Rd",
       "phone": "719-598-6611",
       "website": "https://www.hajoca.com/our-brands/dahl/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.89527,
+      "lon": -104.82972,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -112,7 +116,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -199,9 +205,9 @@
       "address1": "707 E Fillmore St",
       "phone": "800-632-0208",
       "website": "https://abcplumbing.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.847815,
+      "lon": -104.812823,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Kohler",
         "Delta",
@@ -215,7 +221,9 @@
         "storefront_confirmed": "2025-12-26",
         "sources": [
           "https://abcplumbing.com/"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing",
@@ -240,9 +248,9 @@
       "address1": "1733 S Perry St Ste 105",
       "phone": "720-531-4006",
       "website": "https://dahlplumbing.com/castlerock/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.354079,
+      "lon": -104.86839,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -255,7 +263,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [

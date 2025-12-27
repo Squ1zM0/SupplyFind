@@ -16,8 +16,8 @@
       "postalCode": "81501",
       "phone": "970-243-8570",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 39.06156,
+      "lon": -108.558239,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -58,7 +58,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-grand-junction-keenan-dahl-1",
@@ -72,8 +77,8 @@
       "postalCode": "81505",
       "phone": "970-434-3225",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 39.104429,
+      "lon": -108.599959,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -99,7 +104,12 @@
       ],
       "trades": [
         "Plumbing"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-montrose-ferguson-plumbing-1",
@@ -113,8 +123,8 @@
       "postalCode": "81403",
       "phone": "970-252-1100",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 38.456068,
+      "lon": -107.874862,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -155,7 +165,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -169,8 +184,8 @@
       "postalCode": "81303",
       "phone": "970-259-5005",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 37.267884,
+      "lon": -107.879903,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -210,7 +225,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-granby-ferguson-plumbing-1",
@@ -224,8 +244,8 @@
       "postalCode": "80446",
       "phone": "970-887-2426",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 40.089571,
+      "lon": -105.942013,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -265,7 +285,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-silverthorne-ferguson-plumbing-1",
@@ -279,8 +304,8 @@
       "postalCode": "80498",
       "phone": "970-262-6171",
       "website": "",
-      "lat": null,
-      "lon": null,
+      "lat": 39.63942,
+      "lon": -106.07499,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -321,7 +346,12 @@
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing"
+      "primaryTrade": "Plumbing",
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-montrose-dahl-plumbing-1",
@@ -335,9 +365,9 @@
       "postalCode": "81401",
       "phone": "970-249-5342",
       "website": "https://dahlplumbing.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 38.48993,
+      "lon": -107.87188,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -350,7 +380,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -376,9 +408,9 @@
       "postalCode": "81601",
       "phone": "970-945-7037",
       "website": "https://dahlplumbing.com/glenwoodsprings/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.54578,
+      "lon": -107.3365,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -391,7 +423,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -417,9 +451,9 @@
       "postalCode": "81301",
       "phone": "970-247-8654",
       "website": "https://dahlplumbing.com/durango/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 37.29818,
+      "lon": -107.87433,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -432,7 +466,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor with showroom and warehouse serving Durango area. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -458,9 +494,9 @@
       "postalCode": "81620",
       "phone": "970-949-9101",
       "website": "https://dahlplumbing.com/avon/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.63274,
+      "lon": -106.52423,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
         "Kohler",
@@ -473,7 +509,9 @@
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing kitchen & bath showroom serving Vail Valley and surrounding mountain communities. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Hajoca",
       "partsFor": [
@@ -499,9 +537,9 @@
       "postalCode": "81601",
       "phone": "970-945-5858",
       "website": "https://www.ferguson.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.54578,
+      "lon": -107.3365,
+      "coordsStatus": "verified",
       "brandsRep": [
         "American Standard",
         "Fujitsu",
@@ -518,7 +556,9 @@
       "manufacturersPartsFor": [],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), pipe, valves and fittings. Source: Ferguson official line cards, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Plumbing"
@@ -545,9 +585,9 @@
       "postalCode": "81501",
       "phone": "970-242-5959",
       "website": "https://www.winsupplyinc.com/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.072251,
+      "lon": -108.567895,
+      "coordsStatus": "verified",
       "brandsRep": [
         "AO Smith",
         "Charlotte Pipe",
@@ -558,7 +598,9 @@
       "manufacturersPartsFor": [],
       "notes": "Part of Winsupply network. Plumbing and heating equipment and supplies (hydronics). Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Winsupply",
       "partsFor": [

@@ -70,9 +70,9 @@
       "address1": "3201 Walnut St",
       "phone": "(303) 449-8866",
       "website": "https://cedboulder.portalced.com",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 40.02151,
+      "lon": -105.24847,
+      "coordsStatus": "verified",
       "brandsRep": [
         "Square D",
         "Schneider Electric",
@@ -97,7 +97,9 @@
         "sources": [
           "https://cedboulder.portalced.com",
           "https://servlectric.com/branch/consolidated-electrical-distributors-boulder-3201-walnut-st-boulder-co-80301"
-        ]
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "partsFor": [
         "Electrical",

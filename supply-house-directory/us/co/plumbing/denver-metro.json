@@ -514,9 +514,9 @@
       "address1": "2300 W 2nd Ave Ste 1B",
       "phone": "303-777-2300",
       "website": "https://www.yelp.com/biz/denver-winnelson-denver",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verify",
+      "lat": 39.715034,
+      "lon": -105.014427,
+      "coordsStatus": "verified",
       "notes": "Winsupply plumbing counter (verify hours on official Winsupply location page). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
       "brandsRep": [
         "AO Smith",
@@ -527,7 +527,9 @@
       ],
       "manufacturersPartsFor": [],
       "verification": {
-        "coords_attempted": "2025-12-26"
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
       },
       "parentChain": "Winsupply",
       "partsFor": [

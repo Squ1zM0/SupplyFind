@@ -16,8 +16,8 @@
       "postalCode": "80916",
       "phone": "719-268-6644",
       "website": "https://www.galarson.com/locations",
-      "lat": null,
-      "lon": null,
+      "lat": 38.82606,
+      "lon": -104.73352,
       "coverage": "metro",
       "verified": "needs_verification",
       "verifiedDate": "",
@@ -48,7 +48,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     },
     {
       "id": "co-cosprings-tranesupply-list-001",
@@ -62,8 +67,8 @@
       "postalCode": "80919",
       "phone": "(719) 266-8800",
       "website": "https://www.tranesupply.com/",
-      "lat": null,
-      "lon": null,
+      "lat": 38.915489,
+      "lon": -104.827476,
       "coverage": "metro",
       "verified": "web_verified",
       "verifiedDate": "2025-12-26",
@@ -90,7 +95,12 @@
       ],
       "trades": [
         "HVAC"
-      ]
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)"
+      }
     }
   ],
   "auditStatus": "expanded",
