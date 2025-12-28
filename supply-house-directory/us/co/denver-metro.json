@@ -438,7 +438,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Trane",
         "York",
@@ -1010,7 +1010,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Trane",
         "York",
@@ -1120,7 +1120,7 @@
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Southwire",
         "Belden",
@@ -1183,7 +1183,7 @@
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Klein Tools",
         "Milwaukee",
@@ -1247,7 +1247,7 @@
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Klein Tools",
         "Milwaukee",
@@ -1318,7 +1318,7 @@
         "Ideal",
         "Klein Tools",
         "Leviton",
-        "Lithonia",
+        "Lithonia Lighting",
         "Milwaukee",
         "Panduit",
         "Schneider Electric",
@@ -1381,7 +1381,7 @@
         "Square D",
         "Schneider Electric",
         "Philips",
-        "Acuity",
+        "Acuity Brands",
         "RAB Lighting",
         "Lutron",
         "Klein Tools",
@@ -1507,7 +1507,7 @@
         "Eaton",
         "Hubbell",
         "Leviton",
-        "Lithonia",
+        "Lithonia Lighting",
         "Milwaukee",
         "Klein Tools",
         "Southwire"
@@ -1616,7 +1616,7 @@
         "Eaton",
         "Leviton",
         "Hubbell",
-        "Lithonia"
+        "Lithonia Lighting"
       ],
       "partsFor": [
         "Electrical",
@@ -1668,7 +1668,7 @@
         "Ruud",
         "Fujitsu",
         "Daikin",
-        "Mitsubishi"
+        "Mitsubishi Electric"
       ],
       "partsFor": [
         "HVAC"
@@ -1722,7 +1722,7 @@
         "Trane",
         "Rheem",
         "Ruud",
-        "Mitsubishi"
+        "Mitsubishi Electric"
       ],
       "partsFor": [
         "HVAC",
