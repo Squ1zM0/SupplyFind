@@ -74,7 +74,7 @@
     },
     {
       "id": "co-grand-junction-galarson-north-ave-001",
-      "name": "Gustave A. Larson – Grand Junction",
+      "name": "Gustave A. Larson \u2013 Grand Junction",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "2930 North Ave",
@@ -165,7 +165,9 @@
         "Lennox",
         "Daikin",
         "Bosch",
-        "Fujitsu"
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
       ],
       "services": [],
       "sources": [
@@ -225,7 +227,7 @@
         "Goodman",
         "Armstrong Air",
         "Rheem",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Fujitsu"
       ],

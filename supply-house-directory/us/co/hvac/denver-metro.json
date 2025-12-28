@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-englewood-galarson-otero-001",
-      "name": "Gustave A. Larson – Denver South (Englewood)",
+      "name": "Gustave A. Larson \u2013 Denver South (Englewood)",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "14353 E Otero Ave, Suite 103",
@@ -95,7 +95,7 @@
         "Goodman",
         "Armstrong Air",
         "Rheem",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Fujitsu"
       ],
@@ -157,7 +157,7 @@
         "Goodman",
         "Armstrong Air",
         "Rheem",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Fujitsu"
       ],
@@ -277,6 +277,7 @@
         "HVAC"
       ],
       "brandsRep": [
+        "American Standard",
         "Trane"
       ],
       "services": [],

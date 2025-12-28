@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "cos-graybar",
-      "name": "Graybar Electric – Colorado Springs",
+      "name": "Graybar Electric \u2013 Colorado Springs",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -39,7 +39,7 @@
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Southwire",
         "Belden",
@@ -70,7 +70,7 @@
     },
     {
       "id": "cos-ced",
-      "name": "CED – Colorado Springs",
+      "name": "CED \u2013 Colorado Springs",
       "chain": "CED",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -96,21 +96,26 @@
         "geocoding_method": "Google Maps verified coordinates"
       },
       "brandsRep": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
+        "ABB",
+        "Acuity Brands",
+        "Belden",
         "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
         "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
         "Panduit",
-        "Fluke"
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "partsFor": [
         "Electrical",
@@ -135,7 +140,7 @@
     },
     {
       "id": "cos-ces",
-      "name": "City Electric Supply – Colorado Springs",
+      "name": "City Electric Supply \u2013 Colorado Springs",
       "chain": "City Electric Supply",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -167,7 +172,7 @@
         "Square D",
         "Schneider Electric",
         "Philips",
-        "Acuity",
+        "Acuity Brands",
         "RAB Lighting",
         "Lutron",
         "Klein Tools",
@@ -223,7 +228,12 @@
         "Electrical"
       ],
       "brandsRep": [
-        "Blazer Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
       ],
       "services": [],
       "sources": [
@@ -274,7 +284,7 @@
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Klein Tools",
         "Milwaukee",
@@ -331,12 +341,20 @@
       "lon": -104.7927,
       "coordsStatus": "verified",
       "brandsRep": [
+        "Acuity Brands",
         "Eaton",
-        "Square D",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
         "Leviton",
         "Lutron",
-        "Hubbell",
-        "Legrand"
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
@@ -375,7 +393,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

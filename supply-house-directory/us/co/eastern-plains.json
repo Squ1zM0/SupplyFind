@@ -15,21 +15,26 @@
       "lat": 40.63324,
       "lon": -103.20035,
       "brandsRep": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
+        "ABB",
+        "Acuity Brands",
+        "Belden",
         "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
         "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
         "Panduit",
-        "Fluke"
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "partsFor": [
         "Electrical"
@@ -79,7 +84,14 @@
       "lat": 40.6297,
       "lon": -103.21008,
       "brandsRep": [
-        "Crescent Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
       ],
       "partsFor": [
         "Electrical"

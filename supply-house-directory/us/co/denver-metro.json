@@ -187,11 +187,7 @@
       "hours": "",
       "lat": 39.6785,
       "lon": -105.0039,
-      "brandsRep": [
-        "Sheet Metal",
-        "Ductwork",
-        "HVAC Accessories"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "Sheet Metal",
         "Ductwork",
@@ -442,7 +438,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Trane",
         "York",
@@ -496,6 +492,7 @@
       "lat": 39.7277,
       "lon": -105.0182,
       "brandsRep": [
+        "American Standard",
         "Trane"
       ],
       "partsFor": [
@@ -1013,7 +1010,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Trane",
         "York",
@@ -1063,9 +1060,12 @@
       "lat": 39.715679,
       "lon": -104.99742,
       "brandsRep": [
-        "Hydronic",
-        "Heating",
-        "Plumbing"
+        "Buderus",
+        "HTP",
+        "Laars",
+        "Lochinvar",
+        "Triangle Tube",
+        "Weil-McLain"
       ],
       "partsFor": [
         "Boilers",
@@ -1120,7 +1120,7 @@
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Southwire",
         "Belden",
@@ -1183,7 +1183,7 @@
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Klein Tools",
         "Milwaukee",
@@ -1247,7 +1247,7 @@
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Klein Tools",
         "Milwaukee",
@@ -1305,21 +1305,26 @@
       "lat": 39.72423,
       "lon": -105.01515,
       "brandsRep": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
+        "ABB",
+        "Acuity Brands",
+        "Belden",
         "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
         "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
         "Panduit",
-        "Fluke"
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "partsFor": [
         "Electrical",
@@ -1376,7 +1381,7 @@
         "Square D",
         "Schneider Electric",
         "Philips",
-        "Acuity",
+        "Acuity Brands",
         "RAB Lighting",
         "Lutron",
         "Klein Tools",
@@ -1502,7 +1507,7 @@
         "Eaton",
         "Hubbell",
         "Leviton",
-        "Lithonia",
+        "Lithonia Lighting",
         "Milwaukee",
         "Klein Tools",
         "Southwire"
@@ -1611,7 +1616,7 @@
         "Eaton",
         "Leviton",
         "Hubbell",
-        "Lithonia"
+        "Lithonia Lighting"
       ],
       "partsFor": [
         "Electrical",
@@ -1663,7 +1668,7 @@
         "Ruud",
         "Fujitsu",
         "Daikin",
-        "Mitsubishi"
+        "Mitsubishi Electric"
       ],
       "partsFor": [
         "HVAC"
@@ -1717,7 +1722,7 @@
         "Trane",
         "Rheem",
         "Ruud",
-        "Mitsubishi"
+        "Mitsubishi Electric"
       ],
       "partsFor": [
         "HVAC",

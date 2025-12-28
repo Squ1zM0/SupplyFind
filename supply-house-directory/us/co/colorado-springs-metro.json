@@ -75,7 +75,9 @@
         "Lennox",
         "Daikin",
         "Bosch",
-        "Fujitsu"
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
       ],
       "partsFor": [
         "HVAC"
@@ -227,7 +229,7 @@
         "Goodman",
         "Armstrong Air",
         "Rheem",
-        "Mitsubishi",
+        "Mitsubishi Electric",
         "Honeywell",
         "Fujitsu"
       ],
@@ -268,9 +270,7 @@
       "phone": "+17199419930",
       "lat": 38.874312,
       "lon": -104.715174,
-      "brandsRep": [
-        "HVAC wholesale"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "HVAC equipment",
         "HVAC parts",
@@ -320,11 +320,7 @@
       "phone": "+17195743231",
       "lat": 38.80057,
       "lon": -104.72562,
-      "brandsRep": [
-        "Sheet metal",
-        "HVAC equipment",
-        "Tools"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "HVAC sheet metal",
         "HVAC supplies",
@@ -430,7 +426,12 @@
       "lat": 38.870465,
       "lon": -104.722245,
       "brandsRep": [
-        "Blazer Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
       ],
       "partsFor": [
         "Electrical"
@@ -488,7 +489,7 @@
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia",
+        "Lithonia Lighting",
         "Acuity Brands",
         "Southwire",
         "Belden",
@@ -552,7 +553,7 @@
         "Square D",
         "Schneider Electric",
         "Philips",
-        "Acuity",
+        "Acuity Brands",
         "RAB Lighting",
         "Lutron",
         "Klein Tools",
@@ -617,7 +618,7 @@
         "Square D",
         "Schneider Electric",
         "Philips",
-        "Acuity",
+        "Acuity Brands",
         "RAB Lighting",
         "Lutron",
         "Klein Tools",

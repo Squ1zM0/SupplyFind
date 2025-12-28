@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-colorado-springs-galarson-aeroplaza-001",
-      "name": "Gustave A. Larson – Colorado Springs",
+      "name": "Gustave A. Larson \u2013 Colorado Springs",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "855 Aeroplaza Dr, Suite 100",
@@ -91,6 +91,7 @@
         "HVAC"
       ],
       "brandsRep": [
+        "American Standard",
         "Trane"
       ],
       "services": [],
