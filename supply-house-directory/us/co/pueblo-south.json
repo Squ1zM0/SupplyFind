@@ -110,9 +110,12 @@
       "lat": 38.27041,
       "lon": -104.60332,
       "brandsRep": [
-        "Hydronic",
-        "Heating",
-        "Plumbing"
+        "Buderus",
+        "HTP",
+        "Laars",
+        "Lochinvar",
+        "Triangle Tube",
+        "Weil-McLain"
       ],
       "partsFor": [
         "Boilers",

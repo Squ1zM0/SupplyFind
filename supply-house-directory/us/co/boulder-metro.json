@@ -132,8 +132,11 @@
       "lat": 40.1567502,
       "lon": -105.1121159,
       "brandsRep": [
-        "HVAC",
-        "Plumbing"
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
       ],
       "partsFor": [
         "HVAC supplies",
@@ -184,8 +187,6 @@
       "lat": 40.1577,
       "lon": -105.1038,
       "brandsRep": [
-        "Residential HVAC",
-        "Commercial HVAC",
         "Kohler",
         "Moen",
         "Delta"

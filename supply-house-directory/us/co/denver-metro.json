@@ -187,11 +187,7 @@
       "hours": "",
       "lat": 39.6785,
       "lon": -105.0039,
-      "brandsRep": [
-        "Sheet Metal",
-        "Ductwork",
-        "HVAC Accessories"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "Sheet Metal",
         "Ductwork",
@@ -1063,9 +1059,12 @@
       "lat": 39.715679,
       "lon": -104.99742,
       "brandsRep": [
-        "Hydronic",
-        "Heating",
-        "Plumbing"
+        "Buderus",
+        "HTP",
+        "Laars",
+        "Lochinvar",
+        "Triangle Tube",
+        "Weil-McLain"
       ],
       "partsFor": [
         "Boilers",

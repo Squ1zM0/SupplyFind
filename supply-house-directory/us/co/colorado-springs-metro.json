@@ -320,11 +320,7 @@
       "phone": "+17195743231",
       "lat": 38.80057,
       "lon": -104.72562,
-      "brandsRep": [
-        "Sheet metal",
-        "HVAC equipment",
-        "Tools"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "HVAC sheet metal",
         "HVAC supplies",
