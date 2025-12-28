@@ -516,7 +516,7 @@
         "Hubbell"
       ],
       "manufacturersPartsFor": [],
-      "notes": "DC + will-call at same physical site — single entry only. Aurora/Denver East branch combining distribution center and customer counter. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "notes": "DC + will-call at same physical site \u2014 single entry only. Aurora/Denver East branch combining distribution center and customer counter. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -613,7 +613,6 @@
       "arrivalLon": -104.856006,
       "arrivalType": "storefront"
     },
-
     {
       "id": "rexel-centennial-7611",
       "name": "Rexel - Centennial (#7611)",
@@ -743,7 +742,6 @@
       "arrivalLon": -104.8772,
       "arrivalType": "storefront"
     },
-
     {
       "id": "borderstates-brighton-havana-001",
       "name": "Border States Electric - Brighton",
@@ -927,12 +925,20 @@
       "lon": -105.248774,
       "coordsStatus": "verified",
       "brandsRep": [
+        "Acuity",
         "Eaton",
-        "Square D",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
         "Leviton",
         "Lutron",
-        "Hubbell",
-        "Legrand"
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Boulder branch. Full-service electrical distributor for residential, commercial, and industrial contractors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
@@ -979,12 +985,20 @@
       "lon": -104.831279,
       "coordsStatus": "verified",
       "brandsRep": [
+        "Acuity",
         "Eaton",
-        "Square D",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
         "Leviton",
         "Lutron",
-        "Hubbell",
-        "Legrand"
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
@@ -1031,12 +1045,20 @@
       "lon": -105.06912,
       "coordsStatus": "verified",
       "brandsRep": [
+        "Acuity",
         "Eaton",
-        "Square D",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
         "Leviton",
         "Lutron",
-        "Hubbell",
-        "Legrand"
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",

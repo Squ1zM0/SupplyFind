@@ -573,12 +573,20 @@
       "lon": -105.0432,
       "coordsStatus": "verified",
       "brandsRep": [
+        "Acuity",
         "Eaton",
-        "Square D",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
         "Leviton",
         "Lutron",
-        "Hubbell",
-        "Legrand"
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
