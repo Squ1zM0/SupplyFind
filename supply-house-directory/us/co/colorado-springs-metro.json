@@ -75,7 +75,9 @@
         "Lennox",
         "Daikin",
         "Bosch",
-        "Fujitsu"
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
       ],
       "partsFor": [
         "HVAC"
