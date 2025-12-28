@@ -430,7 +430,12 @@
       "lat": 38.870465,
       "lon": -104.722245,
       "brandsRep": [
-        "Blazer Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
       ],
       "partsFor": [
         "Electrical"

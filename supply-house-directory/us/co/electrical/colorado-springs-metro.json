@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "cos-graybar",
-      "name": "Graybar Electric – Colorado Springs",
+      "name": "Graybar Electric \u2013 Colorado Springs",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -70,7 +70,7 @@
     },
     {
       "id": "cos-ced",
-      "name": "CED – Colorado Springs",
+      "name": "CED \u2013 Colorado Springs",
       "chain": "CED",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -135,7 +135,7 @@
     },
     {
       "id": "cos-ces",
-      "name": "City Electric Supply – Colorado Springs",
+      "name": "City Electric Supply \u2013 Colorado Springs",
       "chain": "City Electric Supply",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -223,7 +223,12 @@
         "Electrical"
       ],
       "brandsRep": [
-        "Blazer Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
       ],
       "services": [],
       "sources": [
@@ -375,7 +380,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

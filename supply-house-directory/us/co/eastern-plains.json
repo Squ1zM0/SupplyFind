@@ -79,7 +79,14 @@
       "lat": 40.6297,
       "lon": -103.21008,
       "brandsRep": [
-        "Crescent Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
       ],
       "partsFor": [
         "Electrical"

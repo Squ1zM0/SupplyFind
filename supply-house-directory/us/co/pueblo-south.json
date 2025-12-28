@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
-      "name": "Lennox Stores – Pueblo",
+      "name": "Lennox Stores \u2013 Pueblo",
       "chain": "Lennox Stores",
       "address1": "3920 N Freeway Rd",
       "city": "Pueblo",
@@ -163,7 +163,12 @@
       "lat": 38.2662,
       "lon": -104.6108,
       "brandsRep": [
-        "Blazer Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
       ],
       "partsFor": [
         "Electrical"
