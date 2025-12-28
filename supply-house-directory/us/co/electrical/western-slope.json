@@ -214,69 +214,6 @@
       "arrivalType": "storefront"
     },
     {
-      "id": "rexel-glenwood-springs-3204",
-      "name": "Rexel - Glenwood Springs (#3204)",
-      "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Glenwood Springs",
-      "state": "CO",
-      "postalCode": "81601",
-      "address1": "7910 Highway 82",
-      "phone": "970-945-8265",
-      "website": "https://www.rexelusa.com/locations/co/glenwood-springs/3204",
-      "lat": 39.5464,
-      "lon": -107.3984,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Rexel branch serving Glenwood Springs / Roaring Fork Valley. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
-      "verification": {
-        "storefront_confirmed": "2025-12-25",
-        "sources": [
-          "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/co/glenwood-springs/3204"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.5464,
-      "arrivalLon": -107.3984,
-      "arrivalType": "storefront"
-    },
-    {
       "id": "rexel-grand-junction-3213",
       "name": "Rexel Grand Junction (#3213)",
       "chain": "Rexel",
@@ -404,72 +341,6 @@
       "geoSource": "Google Maps pin",
       "arrivalLat": 39.6545,
       "arrivalLon": -106.8282,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "ced-glenwoodsprings-cr154-001",
-      "name": "CED - Glenwood Springs",
-      "chain": "CED",
-      "trade": "electrical",
-      "city": "Glenwood Springs",
-      "state": "CO",
-      "postalCode": "81601",
-      "address1": "5392 County Road 154",
-      "phone": "(970) 945-8265",
-      "website": "https://cedcareers.com/",
-      "lat": 39.473915,
-      "lon": -107.271553,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Roaring Fork Valley. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Official Directory",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.google.com/maps/place/CED+Glenwood+Springs",
-          "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.google.com/maps/place/CED+Glenwood+Springs",
-        "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.473915,
-      "arrivalLon": -107.271553,
       "arrivalType": "storefront"
     },
     {
@@ -769,6 +640,77 @@
       "geoSource": "gps-coordinates.org",
       "arrivalLat": 38.318326,
       "arrivalLon": -107.874724,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "ced-glenwoodsprings-cr154-001",
+      "name": "CED - Glenwood Springs",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Glenwood Springs",
+      "state": "CO",
+      "postalCode": "81601",
+      "address1": "5392 County Road 154",
+      "phone": "(970) 945-8265",
+      "website": "https://cedcareers.com/",
+      "lat": 39.473915,
+      "lon": -107.271553,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Belden",
+        "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
+        "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Panduit",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving Roaring Fork Valley. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 | CED acquired Rexel USA operations; this location was formerly listed as Rexel Glenwood Springs.",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Directory",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.google.com/maps/place/CED+Glenwood+Springs",
+          "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.google.com/maps/place/CED+Glenwood+Springs",
+        "https://start.cortera.com/company/research/k3m1srs4o/consolidated-electrical-distributors-inc/"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.473915,
+      "arrivalLon": -107.271553,
       "arrivalType": "storefront"
     }
   ],
