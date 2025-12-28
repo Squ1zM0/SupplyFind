@@ -100,7 +100,14 @@
         "Electrical"
       ],
       "brandsRep": [
-        "Crescent Electric Supply"
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
       ],
       "services": [],
       "sources": [
