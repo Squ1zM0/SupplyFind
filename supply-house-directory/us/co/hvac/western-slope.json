@@ -258,13 +258,80 @@
       "arrivalLat": 39.082866,
       "arrivalLon": -108.527343,
       "arrivalType": "storefront"
+    },
+    {
+      "id": "co-grand-junction-cfm-westgate-001",
+      "name": "CFM Company - Grand Junction (West Office)",
+      "chain": "CFM Company",
+      "trade": "hvac",
+      "address1": "575 S Westgate Dr, Ste C",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81505",
+      "phone": "(970) 245-5700",
+      "website": "https://www.cfmcompany.com/",
+      "lat": 39.0868,
+      "lon": -108.5911,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-29",
+      "notes": "Independent HVAC and plumbing manufacturer's representative serving western Colorado. West office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Commercial HVAC",
+        "Hydronic Systems",
+        "Ventilation"
+      ],
+      "brandsRep": [
+        "ABB",
+        "Armstrong Fluid Technology",
+        "Baltimore Aircoil Company",
+        "Desert Aire",
+        "Dri-Steem",
+        "Greenheck",
+        "Johnson Controls",
+        "Samsung HVAC",
+        "WaterFurnace International"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.cfmcompany.com/contact/",
+        "https://www.cfmcompany.com/manufacturers-line-card/"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website",
+        "addressVerifiedDate": "2025-12-29",
+        "storefront_confirmed": "2025-12-29",
+        "sources": [
+          "https://www.cfmcompany.com/contact/"
+        ],
+        "coords_verified": "2025-12-29",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-29",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.0868,
+      "arrivalLon": -108.5911,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
     "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
     "2025-12-25: Added Gustave A. Larson branch (Grand Junction).",
-    "2025-12-26: Added Johnstone Supply Durango and Sid Harvey Grand Junction locations identified in expansion research."
+    "2025-12-26: Added Johnstone Supply Durango and Sid Harvey Grand Junction locations identified in expansion research.",
+    "2025-12-29: Added CFM Company Grand Junction west office location."
   ],
-  "updated": "2025-12-26"
+  "updated": "2025-12-29"
 }
