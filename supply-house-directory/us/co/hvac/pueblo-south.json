@@ -1,51 +1,77 @@
 {
   "version": "1.0.0",
-  "trade": "hvac",
-  "metro": "Pueblo / South Colorado",
+  "updated": "2025-12-25",
+  "country": "US",
   "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "pueblo-south",
+    "name": "Pueblo / South Colorado"
+  },
+  "scope": {
+    "trade": "hvac"
+  },
+  "audit": {
+    "status": "pending_web_verification",
+    "notes": [
+      "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+      "2025-12-25: Added Gustave A. Larson branch (Pueblo)."
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-pueblo-galarson-santa-fe-001",
       "name": "Gustave A. Larson – Pueblo",
       "chain": "Gustave A. Larson",
-      "trade": "hvac",
-      "address1": "210 S Santa Fe Ave",
-      "address2": "",
-      "city": "Pueblo",
-      "state": "CO",
-      "postalCode": "81003",
-      "phone": "719-545-0367",
-      "website": "https://www.galarson.com/locations",
-      "lat": 38.2643,
-      "lon": -104.60783,
-      "coverage": "metro",
-      "verified": "needs_verification",
-      "verifiedDate": "",
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "210 S Santa Fe Ave",
+        "line2": "",
+        "city": "Pueblo",
+        "state": "CO",
+        "postalCode": "81003"
+      },
+      "contact": {
+        "phone": "719-545-0367",
+        "website": "https://www.galarson.com/locations",
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.2643,
+        "lon": -104.60783,
+        "arrivalLat": 38.2643,
+        "arrivalLon": -104.60783,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Trane",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Trane",
-        "Rheem",
-        "Ruud"
-      ],
-      "services": [],
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Pueblo"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -57,19 +83,7 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.2643,
-      "arrivalLon": -104.60783,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditStatus": "pending_web_verification",
-  "auditNotes": [
-    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Pueblo)."
-  ],
-  "updated": "2025-12-25"
+  ]
 }

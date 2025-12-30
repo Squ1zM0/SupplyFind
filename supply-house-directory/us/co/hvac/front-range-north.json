@@ -1,51 +1,79 @@
 {
   "version": "1.0.0",
-  "trade": "hvac",
-  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+  "updated": "2025-12-29",
+  "country": "US",
   "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "front-range-north",
+    "name": "Front Range North (Fort Collins / Loveland / Greeley)"
+  },
+  "scope": {
+    "trade": "hvac"
+  },
+  "audit": {
+    "status": "expanded",
+    "notes": [
+      "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+      "2025-12-25: Added Gustave A. Larson branch (Fort Collins).",
+      "2025-12-26: Added Lennox Stores Fort Collins location.",
+      "2025-12-29: Added CFM Company Fort Collins north office location."
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-fort-collins-galarson-redman-001",
       "name": "Gustave A. Larson – Fort Collins",
       "chain": "Gustave A. Larson",
-      "trade": "hvac",
-      "address1": "4036 Redman Dr, Suite 130",
-      "address2": "",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80524-2764",
-      "phone": "970-224-2053",
-      "website": "https://www.galarson.com/locations",
-      "lat": 40.636098,
-      "lon": -105.01251,
-      "coverage": "metro",
-      "verified": "needs_verification",
-      "verifiedDate": "",
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "4036 Redman Dr, Suite 130",
+        "line2": "",
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524-2764"
+      },
+      "contact": {
+        "phone": "970-224-2053",
+        "website": "https://www.galarson.com/locations",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.636098,
+        "lon": -105.01251,
+        "arrivalLat": 40.636154,
+        "arrivalLon": -105.012454,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Trane",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Trane",
-        "Rheem",
-        "Ruud"
-      ],
-      "services": [],
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Fort+Collins"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official Company Website",
@@ -57,51 +85,55 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.636154,
-      "arrivalLon": -105.012454,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-fortcollins-lennoxstores-academy-001",
       "name": "Lennox Stores (PartsPlus) - Fort Collins",
       "chain": "Lennox Stores",
-      "trade": "hvac",
-      "address1": "1101 Academy Ct, Unit 1B",
-      "address2": "",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80524",
-      "phone": "(970) 825-7300",
-      "website": "https://www.lennoxpros.com/",
-      "lat": 40.5963,
-      "lon": -105.052,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "Lennox parts and supplies for licensed HVAC professionals. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "1101 Academy Ct, Unit 1B",
+        "line2": "",
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "(970) 825-7300",
+        "website": "https://www.lennoxpros.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.5963,
+        "lon": -105.052,
+        "arrivalLat": 40.596356,
+        "arrivalLon": -105.051944,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Lennox"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "brandsRep": [
-        "Lennox"
-      ],
-      "services": [],
+      "notes": "Lennox parts and supplies for licensed HVAC professionals. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.lennox.com/stores",
         "https://www.google.com/maps/place/Lennox+Stores+Fort+Collins"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -113,109 +145,113 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.596356,
-      "arrivalLon": -105.051944,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-fort-collins-cfm-oakridge-001",
       "name": "CFM Company - Fort Collins (North Office)",
       "chain": "CFM Company",
-      "trade": "hvac",
-      "address1": "1609 Oakridge Dr, Suite 170",
-      "address2": "",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80525",
-      "phone": "(970) 221-1111",
-      "website": "https://www.cfmcompany.com/",
-      "lat": 40.5352,
-      "lon": -105.0585,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-29",
-      "notes": "Independent HVAC and plumbing manufacturer's representative serving northern Colorado. North office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "1609 Oakridge Dr, Suite 170",
+        "line2": "",
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80525"
+      },
+      "contact": {
+        "phone": "(970) 221-1111",
+        "website": "https://www.cfmcompany.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.5352,
+        "lon": -105.0585,
+        "arrivalLat": 40.5352,
+        "arrivalLon": -105.0585,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-29",
+        "geoSource": "MapQuest"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "AboveAir",
+          "Advanced Cooling Technologies",
+          "Advanced Thermal Hydronics",
+          "Airedale by Modine",
+          "Alfa Laval",
+          "Armstrong Fluid Technology",
+          "Baltimore Aircoil Company",
+          "Blender Products",
+          "Bromic Heating",
+          "Chil-Pak",
+          "Climate by Design International",
+          "Desert Aire",
+          "Dri-Steem",
+          "Ductsox",
+          "Dynamic Air Quality Solutions",
+          "Enervex",
+          "FanAm",
+          "Flexmaster USA",
+          "Governair",
+          "Greenheck",
+          "Hansentek",
+          "Huntair",
+          "Indeeco",
+          "Johnson Controls",
+          "Koch Filters",
+          "Magic Aire",
+          "Mammoth",
+          "Monoxivent",
+          "Nordfab Ducting",
+          "Olimpia Splendid",
+          "Paragon Controls",
+          "Powered Aire",
+          "Price Industries",
+          "Puroflux",
+          "RBI Boilers",
+          "Roberts Gordon",
+          "Roof Products and Systems",
+          "Runtal",
+          "Samsung HVAC",
+          "Selkirk",
+          "Semco",
+          "Smardt",
+          "Smith Cast Iron Boilers",
+          "SolutionAir",
+          "Technical Systems Inc",
+          "Temtrol",
+          "Thermaduct",
+          "Tigerflow",
+          "Vaughan Air",
+          "Venmar CES",
+          "Vent Products",
+          "Veotec",
+          "Vibro-Acoustics",
+          "WaterFurnace International",
+          "Young Regulator"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Commercial HVAC",
+          "Hydronic Systems",
+          "Ventilation"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC",
-        "Commercial HVAC",
-        "Hydronic Systems",
-        "Ventilation"
-      ],
-      "brandsRep": [
-        "ABB",
-        "AboveAir",
-        "Advanced Cooling Technologies",
-        "Advanced Thermal Hydronics",
-        "Airedale by Modine",
-        "Alfa Laval",
-        "Armstrong Fluid Technology",
-        "Baltimore Aircoil Company",
-        "Blender Products",
-        "Bromic Heating",
-        "Chil-Pak",
-        "Climate by Design International",
-        "Desert Aire",
-        "Dri-Steem",
-        "Ductsox",
-        "Dynamic Air Quality Solutions",
-        "Enervex",
-        "FanAm",
-        "Flexmaster USA",
-        "Governair",
-        "Greenheck",
-        "Hansentek",
-        "Huntair",
-        "Indeeco",
-        "Johnson Controls",
-        "Koch Filters",
-        "Magic Aire",
-        "Mammoth",
-        "Monoxivent",
-        "Nordfab Ducting",
-        "Olimpia Splendid",
-        "Paragon Controls",
-        "Powered Aire",
-        "Price Industries",
-        "Puroflux",
-        "RBI Boilers",
-        "Roberts Gordon",
-        "Roof Products and Systems",
-        "Runtal",
-        "Samsung HVAC",
-        "Selkirk",
-        "Semco",
-        "Smardt",
-        "Smith Cast Iron Boilers",
-        "SolutionAir",
-        "Technical Systems Inc",
-        "Temtrol",
-        "Thermaduct",
-        "Tigerflow",
-        "Vaughan Air",
-        "Venmar CES",
-        "Vent Products",
-        "Veotec",
-        "Vibro-Acoustics",
-        "WaterFurnace International",
-        "Young Regulator"
-      ],
-      "services": [],
+      "notes": "Independent HVAC and plumbing manufacturer's representative serving northern Colorado. North office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
       "sources": [
         "https://www.cfmcompany.com/contact/",
         "https://www.cfmcompany.com/manufacturers-line-card/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official Company Website",
@@ -226,21 +262,7 @@
         ],
         "coords_verified": "2025-12-29",
         "geocoding_method": "MapQuest verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-29",
-      "geoSource": "MapQuest",
-      "arrivalLat": 40.5352,
-      "arrivalLon": -105.0585,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditStatus": "expanded",
-  "auditNotes": [
-    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Fort Collins).",
-    "2025-12-26: Added Lennox Stores Fort Collins location.",
-    "2025-12-29: Added CFM Company Fort Collins north office location."
-  ],
-  "updated": "2025-12-29"
+  ]
 }

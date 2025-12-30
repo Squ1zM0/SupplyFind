@@ -1,43 +1,81 @@
 {
   "version": "1.2-corrected",
-  "metro": "Front Range North",
-  "state": "CO",
   "updated": "2025-12-27",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "front-range-north",
+    "name": "Front Range North"
+  },
+  "scope": {
+    "trade": "multi"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [
+      "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
+      "2025-12-26: Removed 1 duplicate entry(ies)",
+      "2025-12-26: Added Trane Supply Fort Collins location"
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey \u2013 Fort Collins",
+      "name": "Sid Harvey – Fort Collins",
       "chain": "Sid Harvey",
-      "address1": "300 Lincoln Ct",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "(970) 221-1929",
-      "lat": 40.5833957,
-      "lon": -105.0464082,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "300 Lincoln Ct",
+        "line2": null,
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "(970) 221-1929",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.5833957,
+        "lon": -105.0464082,
+        "arrivalLat": 40.5833957,
+        "arrivalLon": -105.0464082,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Web search verified coordinates"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Goodman",
+          "Daikin",
+          "Mitsubishi Electric",
+          "Honeywell",
+          "Rheem",
+          "Fujitsu"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Goodman",
-        "Daikin",
-        "Mitsubishi Electric",
-        "Honeywell",
-        "Rheem",
-        "Fujitsu"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "https://www.sidharvey.com/locations"
       ],
-      "postalCode": "80524",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "GPS coordinates from web verification",
@@ -49,52 +87,60 @@
           "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/wholesaler/2006110704-sid-harvey-s",
           "https://www.achrnews.com/directories/2937-hvacr-directory/listing/12151-sid-harvey-s-fort-collins-co"
         ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.sidharvey.com/locations"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Web search verified coordinates",
-      "arrivalLat": 40.5833957,
-      "arrivalLon": -105.0464082,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Loveland",
+      "name": "Comfort Air Distributing – Loveland",
       "chain": "Comfort Air Distributing",
-      "address1": "2840 N Lincoln Ave",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "+19706690000",
-      "lat": 40.4219,
-      "lon": -105.0759,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "2840 N Lincoln Ave",
+        "line2": null,
+        "city": "Loveland",
+        "state": "CO",
+        "postalCode": "80538"
+      },
+      "contact": {
+        "phone": "+19706690000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.4219,
+        "lon": -105.0759,
+        "arrivalLat": 40.421956,
+        "arrivalLon": -105.075844,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "Rheem",
+          "Honeywell",
+          "Aprilaire",
+          "LG",
+          "Bosch",
+          "Nu-Calgon"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80538",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -102,41 +148,55 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.421956,
-      "arrivalLon": -105.075844,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Loveland",
+      "name": "Lennox Stores – Loveland",
       "chain": "Lennox Stores",
-      "address1": "113 E 29th St",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "+19706130000",
-      "lat": 40.4206,
-      "lon": -105.074,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "113 E 29th St",
+        "line2": null,
+        "city": "Loveland",
+        "state": "CO",
+        "postalCode": "80538"
+      },
+      "contact": {
+        "phone": "+19706130000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.4206,
+        "lon": -105.074,
+        "arrivalLat": 40.420656,
+        "arrivalLon": -105.073944,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "Lennox"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Lennox"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "LennoxPros store locator"
       ],
-      "postalCode": "80538",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -144,48 +204,59 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "LennoxPros store locator"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.420656,
-      "arrivalLon": -105.073944,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Greeley",
+      "name": "WinSupply HVAC – Greeley",
       "chain": "WinSupply HVAC",
-      "address1": "1979 2nd Ave",
-      "city": "Greeley",
-      "state": "CO",
-      "phone": "(970) 356-0404",
-      "lat": 40.39639,
-      "lon": -104.684443,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "1979 2nd Ave",
+        "line2": "",
+        "city": "Greeley",
+        "state": "CO",
+        "postalCode": "80631"
+      },
+      "contact": {
+        "phone": "(970) 356-0404",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.39639,
+        "lon": -104.684443,
+        "arrivalLat": 40.39639,
+        "arrivalLon": -104.684443,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Web search verified coordinates"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
       ],
-      "postalCode": "80631",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "GPS coordinates from web verification",
@@ -197,49 +268,61 @@
           "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
           "https://www.mapquest.com/us/colorado/greeley-winsupply-429191270"
         ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.winsupplyinc.com/locations"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Web search verified coordinates",
-      "arrivalLat": 40.39639,
-      "arrivalLon": -104.684443,
-      "arrivalType": "will_call",
-      "address2": ""
+      }
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
+      "name": "Ferguson Plumbing Supply – Fort Collins",
       "chain": "Ferguson",
-      "address1": "2321 Donella Ct",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "+19704821722",
-      "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.6104,
-      "lon": -105.0229,
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi Electric",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
+      "trades": [
+        "HVAC",
+        "Plumbing"
       ],
-      "partsFor": [
-        "HVAC equipment",
-        "HVAC parts",
-        "Plumbing",
-        "Supplies"
-      ],
+      "primaryTrade": "Plumbing",
+      "address": {
+        "line1": "2321 Donella Ct",
+        "line2": null,
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "+19704821722",
+        "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.6104,
+        "lon": -105.0229,
+        "arrivalLat": 40.6104,
+        "arrivalLon": -105.0229,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "American Standard",
+          "Fujitsu",
+          "Mitsubishi Electric",
+          "Carrier",
+          "Bryant",
+          "Honeywell",
+          "Rheem",
+          "Amana",
+          "Kohler",
+          "Moen",
+          "Delta"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC equipment",
+          "HVAC parts",
+          "Plumbing",
+          "Supplies"
+        ]
+      },
       "tags": [
         "hvac",
         "plumbing",
@@ -250,12 +333,6 @@
         "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
       ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "postalCode": "80524",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -267,60 +344,71 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6104,
-      "arrivalLon": -105.0229,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-frn-city-electric-002",
       "name": "City Electric Supply (Fort Collins)",
       "chain": "City Electric Supply",
-      "address1": "2415 E Mulberry St",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-776-6400",
-      "lat": 40.5854,
-      "lon": -105.0432,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "2415 E Mulberry St",
+        "line2": null,
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "970-776-6400",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.5854,
+        "lon": -105.0432,
+        "arrivalLat": 40.5854,
+        "arrivalLon": -105.0432,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Southwire",
+          "Siemens",
+          "Eaton",
+          "Square D",
+          "Schneider Electric",
+          "Philips",
+          "Acuity Brands",
+          "RAB Lighting",
+          "Lutron",
+          "Klein Tools",
+          "Fluke",
+          "Milwaukee",
+          "Hubbell",
+          "Leviton"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
         "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80524",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -332,49 +420,64 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.5854,
-      "arrivalLon": -105.0432,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-frn-ced-001",
       "name": "Consolidated Electrical Distributors (Fort Collins)",
       "chain": "Consolidated Electrical Distributors",
-      "address1": "1717 Heath Pkwy",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-484-4377",
-      "lat": 40.6001,
-      "lon": -105.0252,
-      "brandsRep": [
-        "Square D",
-        "Schneider Electric",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
+      "trades": [
+        "Electrical"
       ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
+      "address": {
+        "line1": "1717 Heath Pkwy",
+        "line2": null,
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "970-484-4377",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.6001,
+        "lon": -105.0252,
+        "arrivalLat": 40.6001,
+        "arrivalLon": -105.0252,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Schneider Electric",
+          "Leviton",
+          "Eaton",
+          "Cooper",
+          "Hubbell",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Klein Tools",
+          "Southwire",
+          "Cantex",
+          "Brady",
+          "Ideal",
+          "Panduit",
+          "Fluke"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
       ],
@@ -383,10 +486,6 @@
         "https://www.cedal.com/locations",
         "https://www.google.com/maps/place/CED+Fort+Collins"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80524",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official CED Portal",
@@ -398,60 +497,71 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6001,
-      "arrivalLon": -105.0252,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-frn-city-electric-003",
       "name": "City Electric Supply (Loveland)",
       "chain": "City Electric Supply",
-      "address1": "1082 Denver Ave",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "970-663-3333",
-      "lat": 40.407917,
-      "lon": -105.045164,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "1082 Denver Ave",
+        "line2": null,
+        "city": "Loveland",
+        "state": "CO",
+        "postalCode": "80537"
+      },
+      "contact": {
+        "phone": "970-663-3333",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.407917,
+        "lon": -105.045164,
+        "arrivalLat": 40.407917,
+        "arrivalLon": -105.045164,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Southwire",
+          "Siemens",
+          "Eaton",
+          "Square D",
+          "Schneider Electric",
+          "Philips",
+          "Acuity Brands",
+          "RAB Lighting",
+          "Lutron",
+          "Klein Tools",
+          "Fluke",
+          "Milwaukee",
+          "Hubbell",
+          "Leviton"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
         "https://servlectric.com/branch/city-electric-supply-loveland"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80537",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Directories",
@@ -463,32 +573,47 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.407917,
-      "arrivalLon": -105.045164,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-fortcollins-tranesupply-donella-001",
       "name": "Trane Supply - Fort Collins",
       "chain": "Trane Supply",
-      "address1": "2416 Donella Court, Unit D",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-484-4139",
-      "lat": 40.5528,
-      "lon": -105.0447,
-      "brandsRep": [
-        "Trane",
-        "American Standard"
-      ],
-      "partsFor": [
+      "trades": [
         "HVAC"
       ],
+      "address": {
+        "line1": "2416 Donella Court, Unit D",
+        "line2": null,
+        "city": "Fort Collins",
+        "state": "CO",
+        "postalCode": "80524"
+      },
+      "contact": {
+        "phone": "970-484-4139",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.5528,
+        "lon": -105.0447,
+        "arrivalLat": 40.552856,
+        "arrivalLon": -105.044644,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps"
+      },
+      "brands": {
+        "brandsRep": [
+          "Trane",
+          "American Standard"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
@@ -498,11 +623,6 @@
         "https://www.trane.com/commercial/north-america/us/en/contact-us/locate-sales-offices/fortcollins/fort-collins-trane-affiliated-products.html",
         "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/heating-equipment-supplier/31281764-trane-supply"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "postalCode": "80524",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -513,19 +633,7 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 40.552856,
-      "arrivalLon": -105.044644,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
-    "2025-12-26: Removed 1 duplicate entry(ies)",
-    "2025-12-26: Added Trane Supply Fort Collins location"
-  ],
-  "auditStatus": "in_progress"
+  ]
 }

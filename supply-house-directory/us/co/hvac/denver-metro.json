@@ -1,51 +1,80 @@
 {
   "version": "1.0.0",
-  "trade": "hvac",
-  "metro": "Denver Metro",
+  "updated": "2025-12-29",
+  "country": "US",
   "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "denver-metro",
+    "name": "Denver Metro"
+  },
+  "scope": {
+    "trade": "hvac"
+  },
+  "audit": {
+    "status": "expanded",
+    "notes": [
+      "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+      "2025-12-25: Added Gustave A. Larson branch (Englewood).",
+      "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
+      "2025-12-26: Added Trane Supply Englewood location.",
+      "2025-12-29: Added CFM Company Denver headquarters location."
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-englewood-galarson-otero-001",
-      "name": "Gustave A. Larson \u2013 Denver South (Englewood)",
+      "name": "Gustave A. Larson – Denver South (Englewood)",
       "chain": "Gustave A. Larson",
-      "trade": "hvac",
-      "address1": "14353 E Otero Ave, Suite 103",
-      "address2": "",
-      "city": "Englewood",
-      "state": "CO",
-      "postalCode": "80112",
-      "phone": "720-707-4000",
-      "website": "https://www.galarson.com/locations",
-      "lat": 39.5688,
-      "lon": -104.8216,
-      "coverage": "metro",
-      "verified": "needs_verification",
-      "verifiedDate": "",
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "14353 E Otero Ave, Suite 103",
+        "line2": "",
+        "city": "Englewood",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "720-707-4000",
+        "website": "https://www.galarson.com/locations",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.5688,
+        "lon": -104.8216,
+        "arrivalLat": 39.568856,
+        "arrivalLon": -104.821544,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Trane",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Trane",
-        "Rheem",
-        "Ruud"
-      ],
-      "services": [],
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Englewood"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official Company Website",
@@ -57,57 +86,61 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.568856,
-      "arrivalLon": -104.821544,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-denver-sidharvey-w6th-001",
       "name": "Sid Harvey - Denver",
       "chain": "Sid Harvey",
-      "trade": "hvac",
-      "address1": "2700 W. 6th Ave",
-      "address2": "",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80204",
-      "phone": "(303) 623-1236",
-      "website": "https://www.sidharvey.com/",
-      "lat": 39.72672,
-      "lon": -105.01886,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "Major HVAC distributor serving Denver metro contractors",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "2700 W. 6th Ave",
+        "line2": "",
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80204"
+      },
+      "contact": {
+        "phone": "(303) 623-1236",
+        "website": "https://www.sidharvey.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.72672,
+        "lon": -105.01886,
+        "arrivalLat": 39.72672,
+        "arrivalLon": -105.01886,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Goodman",
+          "Armstrong Air",
+          "Rheem",
+          "Mitsubishi Electric",
+          "Honeywell",
+          "Fujitsu"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Refrigeration"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC",
-        "Refrigeration"
-      ],
-      "brandsRep": [
-        "Goodman",
-        "Armstrong Air",
-        "Rheem",
-        "Mitsubishi Electric",
-        "Honeywell",
-        "Fujitsu"
-      ],
-      "services": [],
+      "notes": "Major HVAC distributor serving Denver metro contractors",
       "sources": [
         "https://www.google.com/maps/place/Sid+Harvey+Denver",
         "https://www.mapquest.com/us/colorado/sid-harveys-9964334"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -119,57 +152,61 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.72672,
-      "arrivalLon": -105.01886,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-centennial-sidharvey-revere-001",
       "name": "Sid Harvey - Centennial",
       "chain": "Sid Harvey",
-      "trade": "hvac",
-      "address1": "7086 S Revere Pkwy, Suite 200",
-      "address2": "",
-      "city": "Centennial",
-      "state": "CO",
-      "postalCode": "80112",
-      "phone": "(303) 649-9800",
-      "website": "https://www.sidharvey.com/",
-      "lat": 39.58321,
-      "lon": -104.82783,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "South Denver metro location [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "7086 S Revere Pkwy, Suite 200",
+        "line2": "",
+        "city": "Centennial",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "(303) 649-9800",
+        "website": "https://www.sidharvey.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.58321,
+        "lon": -104.82783,
+        "arrivalLat": 39.583266,
+        "arrivalLon": -104.827774,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Goodman",
+          "Armstrong Air",
+          "Rheem",
+          "Mitsubishi Electric",
+          "Honeywell",
+          "Fujitsu"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Refrigeration"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC",
-        "Refrigeration"
-      ],
-      "brandsRep": [
-        "Goodman",
-        "Armstrong Air",
-        "Rheem",
-        "Mitsubishi Electric",
-        "Honeywell",
-        "Fujitsu"
-      ],
-      "services": [],
+      "notes": "South Denver metro location [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.google.com/maps/place/Sid+Harvey+Centennial",
         "https://www.sidharvey.com/wps/portal/c/Locations"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -181,57 +218,61 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.583266,
-      "arrivalLon": -104.827774,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
       "name": "RSD - Aurora",
       "chain": "RSD",
-      "trade": "hvac",
-      "address1": "3220 Lisbon St. Bldg. D",
-      "address2": "",
-      "city": "Aurora",
-      "state": "CO",
-      "postalCode": "80011",
-      "phone": "(303) 568-5301",
-      "website": "https://www.rsd.net/",
-      "lat": 39.75538,
-      "lon": -104.77284,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "Refrigeration Supplies Distributor - eastern metro location",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "3220 Lisbon St. Bldg. D",
+        "line2": "",
+        "city": "Aurora",
+        "state": "CO",
+        "postalCode": "80011"
+      },
+      "contact": {
+        "phone": "(303) 568-5301",
+        "website": "https://www.rsd.net/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.75538,
+        "lon": -104.77284,
+        "arrivalLat": 39.75538,
+        "arrivalLon": -104.77284,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Copeland",
+          "Tecumseh",
+          "Danfoss",
+          "Sporlan"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Refrigeration",
+          "Commercial Refrigeration"
+        ]
+      },
       "tags": [
         "hvac",
         "refrigeration",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC",
-        "Refrigeration",
-        "Commercial Refrigeration"
-      ],
-      "brandsRep": [
-        "Copeland",
-        "Tecumseh",
-        "Danfoss",
-        "Sporlan"
-      ],
-      "services": [],
+      "notes": "Refrigeration Supplies Distributor - eastern metro location",
       "sources": [
         "https://www.rsd.net/locations/",
         "https://www.google.com/maps/place/RSD+Aurora"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official RSD Locations",
@@ -243,52 +284,56 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.75538,
-      "arrivalLon": -104.77284,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-englewood-tranesupply-inverness-001",
       "name": "Trane Supply - Englewood",
       "chain": "Trane Supply",
-      "trade": "hvac",
-      "address1": "67 Inverness Dr E Ste 120",
-      "address2": "",
-      "city": "Englewood",
-      "state": "CO",
-      "postalCode": "80112",
-      "phone": "(720) 709-3190",
-      "website": "https://www.tranesupply.com/",
-      "lat": 39.585162,
-      "lon": -104.862015,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "Trane Supply HVAC parts and equipment distributor. Factory-owned Trane supply house. Verified 2025-12-26.",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "67 Inverness Dr E Ste 120",
+        "line2": "",
+        "city": "Englewood",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "(720) 709-3190",
+        "website": "https://www.tranesupply.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.585162,
+        "lon": -104.862015,
+        "arrivalLat": 39.585162,
+        "arrivalLon": -104.862015,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "American Standard",
+          "Trane"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "brandsRep": [
-        "American Standard",
-        "Trane"
-      ],
-      "services": [],
+      "notes": "Trane Supply HVAC parts and equipment distributor. Factory-owned Trane supply house. Verified 2025-12-26.",
       "sources": [
         "https://www.tranesupply.com/store-locator",
         "https://www.google.com/maps/place/Trane+Supply+Englewood"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Directories",
@@ -300,109 +345,113 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.585162,
-      "arrivalLon": -104.862015,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-denver-cfm-lipan-001",
       "name": "CFM Company - Denver (Headquarters)",
       "chain": "CFM Company",
-      "trade": "hvac",
-      "address1": "1440 S Lipan St",
-      "address2": "",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80223",
-      "phone": "(303) 761-2291",
-      "website": "https://www.cfmcompany.com/",
-      "lat": 39.69042,
-      "lon": -105.00141,
-      "coverage": "metro",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-29",
-      "notes": "Independent HVAC and plumbing manufacturer's representative and distributor serving Colorado and southern Wyoming since 1971. Main warehouse and headquarters. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "1440 S Lipan St",
+        "line2": "",
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80223"
+      },
+      "contact": {
+        "phone": "(303) 761-2291",
+        "website": "https://www.cfmcompany.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.69042,
+        "lon": -105.00141,
+        "arrivalLat": 39.69042,
+        "arrivalLon": -105.00141,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-29",
+        "geoSource": "MapQuest"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "AboveAir",
+          "Advanced Cooling Technologies",
+          "Advanced Thermal Hydronics",
+          "Airedale by Modine",
+          "Alfa Laval",
+          "Armstrong Fluid Technology",
+          "Baltimore Aircoil Company",
+          "Blender Products",
+          "Bromic Heating",
+          "Chil-Pak",
+          "Climate by Design International",
+          "Desert Aire",
+          "Dri-Steem",
+          "Ductsox",
+          "Dynamic Air Quality Solutions",
+          "Enervex",
+          "FanAm",
+          "Flexmaster USA",
+          "Governair",
+          "Greenheck",
+          "Hansentek",
+          "Huntair",
+          "Indeeco",
+          "Johnson Controls",
+          "Koch Filters",
+          "Magic Aire",
+          "Mammoth",
+          "Monoxivent",
+          "Nordfab Ducting",
+          "Olimpia Splendid",
+          "Paragon Controls",
+          "Powered Aire",
+          "Price Industries",
+          "Puroflux",
+          "RBI Boilers",
+          "Roberts Gordon",
+          "Roof Products and Systems",
+          "Runtal",
+          "Samsung HVAC",
+          "Selkirk",
+          "Semco",
+          "Smardt",
+          "Smith Cast Iron Boilers",
+          "SolutionAir",
+          "Technical Systems Inc",
+          "Temtrol",
+          "Thermaduct",
+          "Tigerflow",
+          "Vaughan Air",
+          "Venmar CES",
+          "Vent Products",
+          "Veotec",
+          "Vibro-Acoustics",
+          "WaterFurnace International",
+          "Young Regulator"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Commercial HVAC",
+          "Hydronic Systems",
+          "Ventilation"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "partsFor": [
-        "HVAC",
-        "Commercial HVAC",
-        "Hydronic Systems",
-        "Ventilation"
-      ],
-      "brandsRep": [
-        "ABB",
-        "AboveAir",
-        "Advanced Cooling Technologies",
-        "Advanced Thermal Hydronics",
-        "Airedale by Modine",
-        "Alfa Laval",
-        "Armstrong Fluid Technology",
-        "Baltimore Aircoil Company",
-        "Blender Products",
-        "Bromic Heating",
-        "Chil-Pak",
-        "Climate by Design International",
-        "Desert Aire",
-        "Dri-Steem",
-        "Ductsox",
-        "Dynamic Air Quality Solutions",
-        "Enervex",
-        "FanAm",
-        "Flexmaster USA",
-        "Governair",
-        "Greenheck",
-        "Hansentek",
-        "Huntair",
-        "Indeeco",
-        "Johnson Controls",
-        "Koch Filters",
-        "Magic Aire",
-        "Mammoth",
-        "Monoxivent",
-        "Nordfab Ducting",
-        "Olimpia Splendid",
-        "Paragon Controls",
-        "Powered Aire",
-        "Price Industries",
-        "Puroflux",
-        "RBI Boilers",
-        "Roberts Gordon",
-        "Roof Products and Systems",
-        "Runtal",
-        "Samsung HVAC",
-        "Selkirk",
-        "Semco",
-        "Smardt",
-        "Smith Cast Iron Boilers",
-        "SolutionAir",
-        "Technical Systems Inc",
-        "Temtrol",
-        "Thermaduct",
-        "Tigerflow",
-        "Vaughan Air",
-        "Venmar CES",
-        "Vent Products",
-        "Veotec",
-        "Vibro-Acoustics",
-        "WaterFurnace International",
-        "Young Regulator"
-      ],
-      "services": [],
+      "notes": "Independent HVAC and plumbing manufacturer's representative and distributor serving Colorado and southern Wyoming since 1971. Main warehouse and headquarters. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
       "sources": [
         "https://www.cfmcompany.com/contact/",
         "https://www.cfmcompany.com/manufacturers-line-card/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official Company Website",
@@ -413,22 +462,7 @@
         ],
         "coords_verified": "2025-12-29",
         "geocoding_method": "MapQuest verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-29",
-      "geoSource": "MapQuest",
-      "arrivalLat": 39.69042,
-      "arrivalLon": -105.00141,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditStatus": "expanded",
-  "auditNotes": [
-    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-    "2025-12-25: Added Gustave A. Larson branch (Englewood).",
-    "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
-    "2025-12-26: Added Trane Supply Englewood location.",
-    "2025-12-29: Added CFM Company Denver headquarters location."
-  ],
-  "updated": "2025-12-29"
+  ]
 }

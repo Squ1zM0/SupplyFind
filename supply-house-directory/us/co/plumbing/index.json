@@ -1,8 +1,11 @@
 {
-  "trade": "plumbing",
+  "type": "index",
   "state": "CO",
   "updated": "2025-12-25",
-  "metros": [
+  "scope": {
+    "trade": "plumbing"
+  },
+  "entries": [
     {
       "id": "denver-metro",
       "name": "Denver Metro",

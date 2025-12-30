@@ -1,59 +1,88 @@
 {
   "version": "1.0.0",
   "updated": "2025-12-27",
+  "country": "US",
   "state": "CO",
-  "metro": "Eastern Plains",
+  "area": {
+    "kind": "metro",
+    "id": "eastern-plains",
+    "name": "Eastern Plains"
+  },
+  "scope": {
+    "trade": "multi"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-sterling-ced-1",
       "name": "CED Sterling",
       "chain": "CED",
-      "address1": "100 Broadway St, #5A",
-      "city": "Sterling",
-      "state": "CO",
-      "phone": "+19705801912",
-      "lat": 40.63324,
-      "lon": -103.20035,
-      "brandsRep": [
-        "ABB",
-        "Acuity Brands",
-        "Belden",
-        "Brady",
-        "Cantex",
-        "Cooper",
-        "Eaton",
-        "Fluke",
-        "Greenlee",
-        "Hubbell",
-        "Ideal",
-        "Klein Tools",
-        "Leviton",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Panduit",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
-      ],
-      "partsFor": [
+      "trades": [
         "Electrical"
       ],
+      "address": {
+        "line1": "100 Broadway St, #5A",
+        "line2": null,
+        "city": "Sterling",
+        "state": "CO",
+        "postalCode": "80751"
+      },
+      "contact": {
+        "phone": "+19705801912",
+        "website": "",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.63324,
+        "lon": -103.20035,
+        "arrivalLat": 40.633296,
+        "arrivalLon": -103.200294,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Acuity Brands",
+          "Belden",
+          "Brady",
+          "Cantex",
+          "Cooper",
+          "Eaton",
+          "Fluke",
+          "Greenlee",
+          "Hubbell",
+          "Ideal",
+          "Klein Tools",
+          "Leviton",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Panduit",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical"
+        ]
+      },
       "tags": [
         "electrical",
         "wholesale"
       ],
-      "website": "",
+      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://sterlingco.portalced.com/ContactUs",
         "https://www.google.com/maps/place/CED+Sterling"
       ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80751",
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official CED Portal",
@@ -65,51 +94,62 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.633296,
-      "arrivalLon": -103.200294,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-sterling-crescent-electric-1",
       "name": "Crescent Electric Supply",
       "chain": "Crescent Electric Supply",
-      "address1": "104 California St",
-      "city": "Sterling",
-      "state": "CO",
-      "phone": "+19705226161",
-      "lat": 40.6297,
-      "lon": -103.21008,
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire"
-      ],
-      "partsFor": [
+      "trades": [
         "Electrical"
       ],
+      "address": {
+        "line1": "104 California St",
+        "line2": null,
+        "city": "Sterling",
+        "state": "CO",
+        "postalCode": "80751"
+      },
+      "contact": {
+        "phone": "+19705226161",
+        "website": "",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.6297,
+        "lon": -103.21008,
+        "arrivalLat": 40.6297,
+        "arrivalLon": -103.21008,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Eaton",
+          "Hubbell",
+          "Leviton",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Klein Tools",
+          "Southwire"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical"
+        ]
+      },
       "tags": [
         "electrical",
         "wholesale"
       ],
-      "website": "",
+      "notes": "",
       "sources": [
         "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
         "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80751",
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -121,13 +161,7 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6297,
-      "arrivalLon": -103.21008,
-      "arrivalType": "storefront"
+      }
     }
   ]
 }

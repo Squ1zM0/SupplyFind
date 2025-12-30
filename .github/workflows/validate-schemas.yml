@@ -1,0 +1,45 @@
+name: Validate Supply House Schemas
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'supply-house-directory/**/*.json'
+      - 'schemas/**'
+      - 'scripts/validate_supply_house_schema.py'
+  pull_request:
+    paths:
+      - 'supply-house-directory/**/*.json'
+      - 'schemas/**'
+      - 'scripts/validate_supply_house_schema.py'
+
+jobs:
+  validate:
+    name: Validate JSON Schema Compliance
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Run schema validation
+        run: |
+          python3 scripts/validate_supply_house_schema.py
+      
+      - name: Validation passed
+        if: success()
+        run: |
+          echo "✅ All supply house data files comply with canonical schema"
+      
+      - name: Validation failed
+        if: failure()
+        run: |
+          echo "❌ Schema validation failed - see errors above"
+          exit 1

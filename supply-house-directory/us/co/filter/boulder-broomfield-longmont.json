@@ -1,8 +1,20 @@
 {
   "version": "BOULDER_FILTER_AUDIT_v1",
-  "trade": "filter",
-  "metro": "Boulder / Broomfield / Longmont",
-  "state": "CO",
   "updated": "2025-12-26",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "boulder-broomfield-longmont",
+    "name": "Boulder / Broomfield / Longmont"
+  },
+  "scope": {
+    "trade": "filter"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [],
+    "verificationMode": null
+  },
   "branches": []
 }

@@ -1,13 +1,60 @@
-[
-  {
-    "name": "City Electric Supply",
-    "city": "Leadville",
-    "address": "212 W 7th St, Leadville, CO 80461",
-    "phone": "719-486-1700",
-    "lat": 39.2508,
-    "lon": -106.2925,
-    "trades": [
-      "Electrical"
-    ]
-  }
-]
+{
+  "version": "1.0.0",
+  "updated": "2025-12-30",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "region",
+    "id": "central-mountains",
+    "name": "Unknown Area"
+  },
+  "scope": {
+    "trade": "multi"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [],
+    "verificationMode": null
+  },
+  "branches": [
+    {
+      "id": "",
+      "name": "City Electric Supply",
+      "chain": null,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "212 W 7th St, Leadville, CO 80461",
+        "line2": null,
+        "city": "Leadville",
+        "state": "",
+        "postalCode": ""
+      },
+      "contact": {
+        "phone": "719-486-1700",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.2508,
+        "lon": -106.2925,
+        "arrivalLat": null,
+        "arrivalLon": null,
+        "arrivalType": null,
+        "coordsStatus": "needs_verify",
+        "geoPrecision": null,
+        "geoVerifiedDate": null,
+        "geoSource": null
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
+      "notes": "",
+      "sources": [],
+      "verification": {}
+    }
+  ]
+}

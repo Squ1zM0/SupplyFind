@@ -1,35 +1,69 @@
 {
   "version": "1.1",
-  "metro": "Pueblo / South Colorado",
-  "state": "CO",
   "updated": "2025-12-27",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "pueblo-south",
+    "name": "Pueblo / South Colorado"
+  },
+  "scope": {
+    "trade": "multi"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Pueblo",
+      "name": "Lennox Stores – Pueblo",
       "chain": "Lennox Stores",
-      "address1": "3920 N Freeway Rd",
-      "city": "Pueblo",
-      "state": "CO",
-      "phone": "+17195480000",
-      "lat": 38.3241,
-      "lon": -104.6168,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "3920 N Freeway Rd",
+        "line2": null,
+        "city": "Pueblo",
+        "state": "CO",
+        "postalCode": "81008"
+      },
+      "contact": {
+        "phone": "+17195480000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.3241,
+        "lon": -104.6168,
+        "arrivalLat": 38.324156,
+        "arrivalLon": -104.616744,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps + location mapping services"
+      },
+      "brands": {
+        "brandsRep": [
+          "Lennox"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Lennox"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from freeway road position to building entrance. Freeway location required verified entrance placement.] [Arrival coordinates refined 2025-12-27: Parkway/Boulevard address]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "LennoxPros store locator"
       ],
-      "postalCode": "81008",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -37,52 +71,60 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "LennoxPros store locator"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + location mapping services",
-      "arrivalLat": 38.324156,
-      "arrivalLon": -104.616744,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-pueblo-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Pueblo",
+      "name": "Comfort Air Distributing – Pueblo",
       "chain": "Comfort Air Distributing",
-      "address1": "120 E Industrial Blvd",
-      "city": "Pueblo West",
-      "state": "CO",
-      "phone": "+17195620000",
-      "lat": 38.344106,
-      "lon": -104.71935,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "120 E Industrial Blvd",
+        "line2": null,
+        "city": "Pueblo West",
+        "state": "CO",
+        "postalCode": "81007"
+      },
+      "contact": {
+        "phone": "+17195620000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.344106,
+        "lon": -104.71935,
+        "arrivalLat": 38.34419,
+        "arrivalLon": -104.719266,
+        "arrivalType": "warehouse",
+        "coordsStatus": "verified",
+        "geoPrecision": "warehouse",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps + Commercial mapping platforms"
+      },
+      "brands": {
+        "brandsRep": [
+          "Rheem",
+          "Honeywell",
+          "Aprilaire",
+          "LG",
+          "Bosch",
+          "Nu-Calgon"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Moved from boulevard position to warehouse entrance. Industrial location with loading dock access.] [Arrival coordinates refined 2025-12-27: Warehouse location]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "81007",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -90,49 +132,64 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "warehouse",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + Commercial mapping platforms",
-      "arrivalLat": 38.34419,
-      "arrivalLon": -104.719266,
-      "arrivalType": "warehouse"
+      }
     },
     {
       "id": "co-pueblo-rampart-001",
-      "name": "Rampart Supply \u2013 Pueblo",
+      "name": "Rampart Supply – Pueblo",
       "chain": "Rampart Supply",
-      "address1": "320 E 4th St",
-      "city": "Pueblo",
-      "state": "CO",
-      "phone": "+17195830111",
-      "lat": 38.27041,
-      "lon": -104.60332,
-      "brandsRep": [
-        "Buderus",
-        "HTP",
-        "Laars",
-        "Lochinvar",
-        "Triangle Tube",
-        "Weil-McLain"
-      ],
-      "partsFor": [
-        "Boilers",
-        "Hydronic components",
-        "Heating",
-        "Plumbing"
-      ],
-      "tags": [
-        "hvac-hydronics",
-        "wholesale"
-      ],
       "trades": [
         "HVAC",
         "Plumbing"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": "81003",
+      "address": {
+        "line1": "320 E 4th St",
+        "line2": null,
+        "city": "Pueblo",
+        "state": "CO",
+        "postalCode": "81003"
+      },
+      "contact": {
+        "phone": "+17195830111",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.27041,
+        "lon": -104.60332,
+        "arrivalLat": 38.270466,
+        "arrivalLon": -104.603264,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "Buderus",
+          "HTP",
+          "Laars",
+          "Lochinvar",
+          "Triangle Tube",
+          "Weil-McLain"
+        ],
+        "manufacturersPartsFor": [
+          "Boilers",
+          "Hydronic components",
+          "Heating",
+          "Plumbing"
+        ]
+      },
+      "tags": [
+        "hvac-hydronics",
+        "wholesale"
+      ],
+      "notes": "",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ],
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -143,53 +200,60 @@
         "sources": [
           "https://www.rampartsupply.com/storelocator"
         ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.rampartsupply.com/"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.270466,
-      "arrivalLon": -104.603264,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
       "name": "Blazer Electric Supply",
       "chain": "Blazer Electric Supply",
-      "address1": "230 S Santa Fe Ave",
-      "city": "Pueblo",
-      "state": "CO",
-      "phone": "+17195464444",
-      "lat": 38.2662,
-      "lon": -104.6108,
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Southwire",
-        "Milwaukee"
-      ],
-      "partsFor": [
+      "trades": [
         "Electrical"
       ],
+      "address": {
+        "line1": "230 S Santa Fe Ave",
+        "line2": null,
+        "city": "Pueblo",
+        "state": "CO",
+        "postalCode": "81003"
+      },
+      "contact": {
+        "phone": "+17195464444",
+        "website": "https://www.buyblazer.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.2662,
+        "lon": -104.6108,
+        "arrivalLat": 38.2662,
+        "arrivalLon": -104.6108,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Eaton",
+          "Hubbell",
+          "Leviton",
+          "Southwire",
+          "Milwaukee"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical"
+        ]
+      },
       "tags": [
         "electrical",
         "wholesale"
       ],
-      "website": "https://www.buyblazer.com/",
+      "notes": "",
       "sources": [
         "https://www.google.com/maps/place/Blazer+Electric+Supply+Pueblo",
         "https://www.mapquest.com/us/colorado/blazer-electric-supply-437605583"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "81003",
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -201,34 +265,52 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.2662,
-      "arrivalLon": -104.6108,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-pueblo-pueblowinair-ilex-001",
       "name": "Pueblo Winair",
       "chain": "Winair",
-      "address1": "300 Ilex St, Ste B",
-      "city": "Pueblo",
-      "state": "CO",
-      "phone": "719-542-7288",
-      "lat": 38.2577236,
-      "lon": -104.6039515,
-      "brandsRep": [
-        "American Standard",
-        "Trane",
-        "Rheem",
-        "Ruud"
-      ],
-      "partsFor": [
+      "trades": [
         "HVAC",
         "Plumbing"
       ],
+      "primaryTrade": "HVAC",
+      "address": {
+        "line1": "300 Ilex St, Ste B",
+        "line2": null,
+        "city": "Pueblo",
+        "state": "CO",
+        "postalCode": "81003"
+      },
+      "contact": {
+        "phone": "719-542-7288",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.2577236,
+        "lon": -104.6039515,
+        "arrivalLat": 38.25778,
+        "arrivalLon": -104.603895,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "American Standard",
+          "Trane",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Plumbing"
+        ]
+      },
       "tags": [
         "hvac",
         "plumbing",
@@ -239,12 +321,6 @@
         "https://www.pueblowinair.com/",
         "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/HVAC-Supplies/contact-us"
       ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "HVAC",
-      "postalCode": "81003",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -252,14 +328,7 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.25778,
-      "arrivalLon": -104.603895,
-      "arrivalType": "will_call"
+      }
     }
   ]
 }
