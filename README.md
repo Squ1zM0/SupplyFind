@@ -39,7 +39,7 @@ supply-house-directory/
 │   ├── brands.json
 │   ├── chains.json
 │   └── manufacturers.json
-└── README.md                        # Schema documentation
+└── README.md                        # Project documentation
 
 scripts/                             # Data processing utilities (root level)
 audit/                               # Audit reports and changelogs (root level)
@@ -138,7 +138,7 @@ Additional documentation available in root directory:
 
 Contributions are welcome! When adding or updating supply house data:
 
-1. Follow the schema documented in `supply-house-directory/README.md`
+1. Follow the detailed schema documented in `supply-house-directory/README.md`
 2. Verify all addresses using authoritative sources
 3. Test coordinates for accurate navigation
 4. Include verification metadata
