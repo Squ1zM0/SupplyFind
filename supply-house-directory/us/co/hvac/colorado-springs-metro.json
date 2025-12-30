@@ -1,79 +1,51 @@
 {
   "version": "1.0.0",
-  "updated": "2025-12-29",
-  "country": "US",
+  "trade": "hvac",
+  "metro": "Colorado Springs Metro",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "colorado-springs-metro",
-    "name": "Colorado Springs Metro"
-  },
-  "scope": {
-    "trade": "hvac"
-  },
-  "audit": {
-    "status": "expanded",
-    "notes": [
-      "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
-      "2025-12-25: Added Gustave A. Larson branch (Colorado Springs).",
-      "2025-12-26: Added Trane Supply Colorado Springs location.",
-      "2025-12-29: Added CFM Company Colorado Springs south office location."
-    ],
-    "verificationMode": null
-  },
   "branches": [
     {
       "id": "co-colorado-springs-galarson-aeroplaza-001",
-      "name": "Gustave A. Larson – Colorado Springs",
+      "name": "Gustave A. Larson \u2013 Colorado Springs",
       "chain": "Gustave A. Larson",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "855 Aeroplaza Dr, Suite 100",
-        "line2": "",
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80916"
-      },
-      "contact": {
-        "phone": "719-268-6644",
-        "website": "https://www.galarson.com/locations",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.823568,
-        "lon": -104.721024,
-        "arrivalLat": 38.823624,
-        "arrivalLon": -104.720968,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Trane",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "855 Aeroplaza Dr, Suite 100",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80916",
+      "phone": "719-268-6644",
+      "website": "https://www.galarson.com/locations",
+      "lat": 38.823568,
+      "lon": -104.721024,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
+      ],
+      "services": [],
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Colorado+Springs"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official Company Website",
@@ -85,56 +57,52 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.823624,
+      "arrivalLon": -104.720968,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-cosprings-tranesupply-list-001",
       "name": "Trane Supply - Colorado Springs",
       "chain": "Trane Supply",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "4840 List Drive",
-        "line2": "",
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80919"
-      },
-      "contact": {
-        "phone": "(719) 266-8800",
-        "website": "https://www.tranesupply.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.9127,
-        "lon": -104.8343,
-        "arrivalLat": 38.9127,
-        "arrivalLon": -104.8343,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Trane"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "4840 List Drive",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80919",
+      "phone": "(719) 266-8800",
+      "website": "https://www.tranesupply.com/",
+      "lat": 38.9127,
+      "lon": -104.8343,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "notes": "Full line of HVAC parts, supplies, equipment, and commercial sales. Factory-owned Trane supply house. Verified 2025-12-26.",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Full line of HVAC parts, supplies, equipment, and commercial sales. Factory-owned Trane supply house. Verified 2025-12-26.",
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "American Standard",
+        "Trane"
+      ],
+      "services": [],
       "sources": [
         "https://www.tranesupply.com/store-locator",
         "https://www.google.com/maps/place/Trane+Supply+Colorado+Springs"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Directories",
@@ -146,113 +114,109 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.9127,
+      "arrivalLon": -104.8343,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-colorado-springs-cfm-buckingham-001",
       "name": "CFM Company - Colorado Springs (South Office)",
       "chain": "CFM Company",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "4260 Buckingham Dr, #130",
-        "line2": "",
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80907"
-      },
-      "contact": {
-        "phone": "(719) 632-3507",
-        "website": "https://www.cfmcompany.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.8903,
-        "lon": -104.8369,
-        "arrivalLat": 38.8903,
-        "arrivalLon": -104.8369,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-29",
-        "geoSource": "MapQuest"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "AboveAir",
-          "Advanced Cooling Technologies",
-          "Advanced Thermal Hydronics",
-          "Airedale by Modine",
-          "Alfa Laval",
-          "Armstrong Fluid Technology",
-          "Baltimore Aircoil Company",
-          "Blender Products",
-          "Bromic Heating",
-          "Chil-Pak",
-          "Climate by Design International",
-          "Desert Aire",
-          "Dri-Steem",
-          "Ductsox",
-          "Dynamic Air Quality Solutions",
-          "Enervex",
-          "FanAm",
-          "Flexmaster USA",
-          "Governair",
-          "Greenheck",
-          "Hansentek",
-          "Huntair",
-          "Indeeco",
-          "Johnson Controls",
-          "Koch Filters",
-          "Magic Aire",
-          "Mammoth",
-          "Monoxivent",
-          "Nordfab Ducting",
-          "Olimpia Splendid",
-          "Paragon Controls",
-          "Powered Aire",
-          "Price Industries",
-          "Puroflux",
-          "RBI Boilers",
-          "Roberts Gordon",
-          "Roof Products and Systems",
-          "Runtal",
-          "Samsung HVAC",
-          "Selkirk",
-          "Semco",
-          "Smardt",
-          "Smith Cast Iron Boilers",
-          "SolutionAir",
-          "Technical Systems Inc",
-          "Temtrol",
-          "Thermaduct",
-          "Tigerflow",
-          "Vaughan Air",
-          "Venmar CES",
-          "Vent Products",
-          "Veotec",
-          "Vibro-Acoustics",
-          "WaterFurnace International",
-          "Young Regulator"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Commercial HVAC",
-          "Hydronic Systems",
-          "Ventilation"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "4260 Buckingham Dr, #130",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "phone": "(719) 632-3507",
+      "website": "https://www.cfmcompany.com/",
+      "lat": 38.8903,
+      "lon": -104.8369,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-29",
+      "notes": "Independent HVAC and plumbing manufacturer's representative serving southern Colorado. South office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Independent HVAC and plumbing manufacturer's representative serving southern Colorado. South office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
+      "partsFor": [
+        "HVAC",
+        "Commercial HVAC",
+        "Hydronic Systems",
+        "Ventilation"
+      ],
+      "brandsRep": [
+        "ABB",
+        "AboveAir",
+        "Advanced Cooling Technologies",
+        "Advanced Thermal Hydronics",
+        "Airedale by Modine",
+        "Alfa Laval",
+        "Armstrong Fluid Technology",
+        "Baltimore Aircoil Company",
+        "Blender Products",
+        "Bromic Heating",
+        "Chil-Pak",
+        "Climate by Design International",
+        "Desert Aire",
+        "Dri-Steem",
+        "Ductsox",
+        "Dynamic Air Quality Solutions",
+        "Enervex",
+        "FanAm",
+        "Flexmaster USA",
+        "Governair",
+        "Greenheck",
+        "Hansentek",
+        "Huntair",
+        "Indeeco",
+        "Johnson Controls",
+        "Koch Filters",
+        "Magic Aire",
+        "Mammoth",
+        "Monoxivent",
+        "Nordfab Ducting",
+        "Olimpia Splendid",
+        "Paragon Controls",
+        "Powered Aire",
+        "Price Industries",
+        "Puroflux",
+        "RBI Boilers",
+        "Roberts Gordon",
+        "Roof Products and Systems",
+        "Runtal",
+        "Samsung HVAC",
+        "Selkirk",
+        "Semco",
+        "Smardt",
+        "Smith Cast Iron Boilers",
+        "SolutionAir",
+        "Technical Systems Inc",
+        "Temtrol",
+        "Thermaduct",
+        "Tigerflow",
+        "Vaughan Air",
+        "Venmar CES",
+        "Vent Products",
+        "Veotec",
+        "Vibro-Acoustics",
+        "WaterFurnace International",
+        "Young Regulator"
+      ],
+      "services": [],
       "sources": [
         "https://www.cfmcompany.com/contact/",
         "https://www.cfmcompany.com/manufacturers-line-card/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official Company Website",
@@ -263,7 +227,21 @@
         ],
         "coords_verified": "2025-12-29",
         "geocoding_method": "MapQuest verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-29",
+      "geoSource": "MapQuest",
+      "arrivalLat": 38.8903,
+      "arrivalLon": -104.8369,
+      "arrivalType": "storefront"
     }
-  ]
+  ],
+  "auditStatus": "expanded",
+  "auditNotes": [
+    "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
+    "2025-12-25: Added Gustave A. Larson branch (Colorado Springs).",
+    "2025-12-26: Added Trane Supply Colorado Springs location.",
+    "2025-12-29: Added CFM Company Colorado Springs south office location."
+  ],
+  "updated": "2025-12-29"
 }

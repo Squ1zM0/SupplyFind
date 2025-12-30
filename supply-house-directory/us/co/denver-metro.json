@@ -1,77 +1,45 @@
 {
   "version": "DENVER_AUDIT_v1",
   "updated": "2025-12-27",
-  "country": "US",
+  "auditStatus": "in_progress",
+  "auditNotes": [
+    "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
+    "2025-12-26: Added source documentation for Baker Distributing, Ferguson, Hercules Industries",
+    "2025-12-26: Verified physical locations for major chains via web research",
+    "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal",
+    "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial.",
+    "2025-12-27: Removed non-existent Baker Distributing - Englewood (South Denver) location at 3107 S Platte River Dr. Location does not exist."
+  ],
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "denver-metro",
-    "name": "Denver Metro"
-  },
-  "scope": {
-    "trade": "multi"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [
-      "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
-      "2025-12-26: Added source documentation for Baker Distributing, Ferguson, Hercules Industries",
-      "2025-12-26: Verified physical locations for major chains via web research",
-      "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal",
-      "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial.",
-      "2025-12-27: Removed non-existent Baker Distributing - Englewood (South Denver) location at 3107 S Platte River Dr. Location does not exist."
-    ],
-    "verificationMode": null
-  },
+  "metro": "Denver Metro",
   "branches": [
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing – Ice Design Center (Denver)",
+      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
       "chain": "Baker Distributing",
-      "trades": [
+      "address1": "5050 Osage St Suite 300",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13038931120",
+      "lat": 39.7897,
+      "lon": -105.0148,
+      "brandsRep": [
+        "Daikin",
+        "Goodman"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "5050 Osage St Suite 300",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80221"
-      },
-      "contact": {
-        "phone": "+13038931120",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7897,
-        "lon": -105.0148,
-        "arrivalLat": 39.789756,
-        "arrivalLon": -105.014744,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps + verified business directories"
-      },
-      "brands": {
-        "brandsRep": [
-          "Daikin",
-          "Goodman"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "commercial",
         "refrigeration",
         "hvac"
       ],
       "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.bakerdist.com/locations"
+      "trades": [
+        "HVAC"
       ],
+      "postalCode": "80221",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -79,59 +47,48 @@
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.bakerdist.com/locations"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps + verified business directories",
+      "arrivalLat": 39.789756,
+      "arrivalLon": -105.014744,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
       "name": "Ferguson - Denver (Plumbing/PVF & HVAC)",
       "chain": "Ferguson",
-      "trades": [
+      "address1": "550 Raritan Way",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13039428036",
+      "website": "https://www.ferguson.com/store/co/denver/plumbingpvf-0383",
+      "hours": "",
+      "lat": 39.72406,
+      "lon": -105.00913,
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "partsFor": [
         "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "Plumbing",
-      "address": {
-        "line1": "550 Raritan Way",
-        "line2": "",
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80204-4931"
-      },
-      "contact": {
-        "phone": "+13039428036",
-        "website": "https://www.ferguson.com/store/co/denver/plumbingpvf-0383",
-        "hours": ""
-      },
-      "geo": {
-        "lat": 39.72406,
-        "lon": -105.00913,
-        "arrivalLat": 39.724116,
-        "arrivalLon": -105.009074,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Fujitsu",
-          "Mitsubishi Electric",
-          "Carrier",
-          "Bryant",
-          "Honeywell",
-          "Rheem",
-          "Amana",
-          "Kohler",
-          "Moen",
-          "Delta"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Plumbing"
-        ]
-      },
       "tags": [
         "plumbing",
         "hvac",
@@ -142,6 +99,12 @@
         "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
         "https://www.fergusonhome.com/brands/c109293"
       ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": "80204-4931",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -149,60 +112,49 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.724116,
+      "arrivalLon": -105.009074,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson – Denver",
+      "name": "Gustave A. Larson \u2013 Denver",
       "chain": "Gustave A. Larson",
-      "trades": [
+      "address1": "6030 Washington St, Suite 100",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13038921550",
+      "lat": 39.805763,
+      "lon": -104.977661,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "6030 Washington St, Suite 100",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80216"
-      },
-      "contact": {
-        "phone": "+13038921550",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.805763,
-        "lon": -104.977661,
-        "arrivalLat": 39.805819,
-        "arrivalLon": -104.977605,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Trane",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvacr",
         "wholesale"
       ],
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Denver"
       ],
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80216",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official Company Website",
@@ -214,55 +166,47 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.805819,
+      "arrivalLon": -104.977605,
+      "arrivalType": "storefront"
     },
     {
-      "id": "co-herculesindu-d7ea9ca0",
       "name": "Hercules Industries (HQ) - Denver",
       "chain": "Hercules Industries",
-      "trades": [
-        "HVAC"
+      "address1": "1310 W Evans Ave",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13037777241",
+      "website": "https://www.herculesindustries.com/locations/",
+      "hours": "",
+      "lat": 39.6785,
+      "lon": -105.0039,
+      "brandsRep": [],
+      "partsFor": [
+        "Sheet Metal",
+        "Ductwork",
+        "HVAC Accessories"
       ],
-      "address": {
-        "line1": "1310 W Evans Ave",
-        "line2": "",
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80223"
-      },
-      "contact": {
-        "phone": "+13037777241",
-        "website": "https://www.herculesindustries.com/locations/",
-        "hours": ""
-      },
-      "geo": {
-        "lat": 39.6785,
-        "lon": -105.0039,
-        "arrivalLat": 39.678584,
-        "arrivalLon": -105.003816,
-        "arrivalType": "warehouse",
-        "coordsStatus": "verified",
-        "geoPrecision": "warehouse",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps + Verified location databases"
-      },
-      "brands": {
-        "brandsRep": [],
-        "manufacturersPartsFor": [
-          "Sheet Metal",
-          "Ductwork",
-          "HVAC Accessories"
-        ]
-      },
       "tags": [
         "hvac",
         "ductwork",
         "supply-house"
       ],
       "notes": "Corporate HQ with physical retail/distribution storefront. Walk-in business hours M-F 6:30am-4:30pm, Sat 8am-12pm. Source: https://www. herculesindustries. com/locations/, verified 2025-12-26. Ductwork manufacturer and HVAC supply house. Source: herculesindustries. [Coordinate refinement 2025-12-27: Moved from street position to warehouse entrance. Industrial facility with customer counter.] [Arrival coordinates refined 2025-12-27: Warehouse location]",
+      "id": "co-herculesindu-d7ea9ca0",
       "sources": [
         "https://www.herculesindustries.com/locations/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80223",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -270,62 +214,51 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "warehouse",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps + Verified location databases",
+      "arrivalLat": 39.678584,
+      "arrivalLon": -105.003816,
+      "arrivalType": "warehouse"
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply – Denver (#5)",
+      "name": "Johnstone Supply \u2013 Denver (#5)",
       "chain": "Johnstone Supply",
-      "trades": [
+      "address1": "2701 W 7th Ave",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13035735626",
+      "lat": 39.72843,
+      "lon": -105.02131,
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "2701 W 7th Ave",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80204-4114"
-      },
-      "contact": {
-        "phone": "+13035735626",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.72843,
-        "lon": -105.02131,
-        "arrivalLat": 39.72843,
-        "arrivalLon": -105.02131,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Goodman",
-          "Amana",
-          "Lennox",
-          "Daikin",
-          "Bosch",
-          "Fujitsu",
-          "Copeland",
-          "Honeywell"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvacr",
         "wholesale"
       ],
-      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "sources": [
         "https://www.johnstonesupply.com/locations",
         "https://www.google.com/maps/place/Johnstone+Supply+Denver"
       ],
+      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80204-4114",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Johnstone Official Store Locator",
@@ -337,115 +270,95 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.72843,
+      "arrivalLon": -105.02131,
+      "arrivalType": "storefront"
     },
     {
-      "id": "co-lennoxstores-95d62dda",
       "name": "Lennox Stores - Centennial",
       "chain": "Lennox Stores",
-      "trades": [
+      "address1": "7367 S Revere Parkway",
+      "address2": "Unit 1D",
+      "city": "Centennial",
+      "state": "CO",
+      "phone": "+17205311678",
+      "website": "https://m.lennoxpros.com/stores/location/denver",
+      "hours": "M-F: 7:30 am - 4:30 pm (Drive-Thru)",
+      "lat": 39.58383,
+      "lon": -104.83758,
+      "brandsRep": [
+        "Lennox"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "7367 S Revere Parkway",
-        "line2": "Unit 1D",
-        "city": "Centennial",
-        "state": "CO",
-        "postalCode": "80112"
-      },
-      "contact": {
-        "phone": "+17205311678",
-        "website": "https://m.lennoxpros.com/stores/location/denver",
-        "hours": "M-F: 7:30 am - 4:30 pm (Drive-Thru)"
-      },
-      "geo": {
-        "lat": 39.58383,
-        "lon": -104.83758,
-        "arrivalLat": 39.583886,
-        "arrivalLon": -104.837524,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps + Multiple verified business directories"
-      },
-      "brands": {
-        "brandsRep": [
-          "Lennox"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
       "notes": "Verified via LennoxPros Denver area stores page. Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from parkway road position to actual Unit 1D entrance. Industrial park location required precise entrance placement.] [Arrival coordinates refined 2025-12-27: Parkway/Boulevard address]",
+      "id": "co-lennoxstores-95d62dda",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80112",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "coordsStatus": "verified",
       "sources": [
         "LennoxPros store locator",
         "LennoxPros Denver area stores page"
       ],
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
-      }
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps + Multiple verified business directories",
+      "arrivalLat": 39.583886,
+      "arrivalLon": -104.837524,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) – Denver",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
       "chain": "Lohmiller & Company (Carrier West)",
-      "trades": [
+      "address1": "4800 Osage St",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13038254328",
+      "lat": 39.7831,
+      "lon": -105.0068,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "4800 Osage St",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80221"
-      },
-      "contact": {
-        "phone": "+13038254328",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7831,
-        "lon": -105.0068,
-        "arrivalLat": 39.783156,
-        "arrivalLon": -105.006744,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "wholesale",
         "oem-parts"
       ],
-      "notes": "",
       "sources": [
         "https://www.lohmillercompany.com/locations/denver/",
         "https://www.lohmillercompany.com/locations/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80221",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -453,57 +366,45 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.783156,
+      "arrivalLon": -105.006744,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) – Englewood",
+      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
-      "trades": [
+      "address1": "8465 Concord Center Dr",
+      "city": "Englewood",
+      "state": "CO",
+      "phone": "+13033711244",
+      "lat": 39.567365,
+      "lon": -104.825739,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "8465 Concord Center Dr",
-        "line2": null,
-        "city": "Englewood",
-        "state": "CO",
-        "postalCode": "80112"
-      },
-      "contact": {
-        "phone": "+13033711244",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.567365,
-        "lon": -104.825739,
-        "arrivalLat": 39.567421,
-        "arrivalLon": -104.825683,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "MapQuest + verified company location page"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "wholesale",
         "oem-parts"
       ],
-      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "sources": [
         "https://www.lohmillercompany.com/locations/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80112",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -511,65 +412,55 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "MapQuest + verified company location page",
+      "notes": "[Coordinate refinement 2025-12-27: Concord Center location - moved to main entrance/parking area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "arrivalLat": 39.567421,
+      "arrivalLon": -104.825683,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
-      "trades": [
+      "address1": "4800 Osage St, Suite 800",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13035685300",
+      "lat": 39.7821,
+      "lon": -105.0112,
+      "brandsRep": [
+        "Carrier",
+        "Copeland",
+        "Emerson",
+        "Fujitsu",
+        "LG",
+        "Mitsubishi Electric",
+        "Honeywell",
+        "Trane",
+        "York",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "4800 Osage St, Suite 800",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80221"
-      },
-      "contact": {
-        "phone": "+13035685300",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7821,
-        "lon": -105.0112,
-        "arrivalLat": 39.782156,
-        "arrivalLon": -105.011144,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Copeland",
-          "Emerson",
-          "Fujitsu",
-          "LG",
-          "Mitsubishi Electric",
-          "Honeywell",
-          "Trane",
-          "York",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvacr",
         "wholesale"
       ],
-      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.rsd.net/locations/?storenumber=72",
         "https://www.google.com/maps/place/RSD+Denver"
       ],
+      "notes": "Independent HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Source: RSD manufacturer line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80221",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official RSD Locations",
@@ -581,55 +472,41 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.782156,
+      "arrivalLon": -105.011144,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply – Denver (Bryant)",
+      "name": "Trane Supply \u2013 Denver (Bryant)",
       "chain": "Trane Supply",
-      "trades": [
-        "HVAC"
+      "address1": "445 Bryant St, Unit 5",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13032283310",
+      "lat": 39.7277,
+      "lon": -105.0182,
+      "brandsRep": [
+        "American Standard",
+        "Trane"
       ],
-      "address": {
-        "line1": "445 Bryant St, Unit 5",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80204"
-      },
-      "contact": {
-        "phone": "+13032283310",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7277,
-        "lon": -105.0182,
-        "arrivalLat": 39.727756,
-        "arrivalLon": -105.018144,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Trane"
-        ],
-        "manufacturersPartsFor": [
-          "Trane"
-        ]
-      },
+      "partsFor": [
+        "Trane"
+      ],
       "tags": [
         "commercial",
         "residential"
       ],
       "notes": "Factory-owned Trane supply house. Verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.tranesupply.com/locations"
+      "trades": [
+        "HVAC"
       ],
+      "postalCode": "80204",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -640,62 +517,55 @@
         "sources": [
           "https://www.chamberofcommerce.com/business-directory/colorado/denver/heating-equipment-supplier/1585434-trane-supply"
         ]
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.tranesupply.com/locations"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.727756,
+      "arrivalLon": -105.018144,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration – Denver",
+      "name": "United Refrigeration \u2013 Denver",
       "chain": "United Refrigeration",
-      "trades": [
+      "address1": "140 S Pecos St, Units A & B",
+      "address2": "Also listed as 560 S Lipan St (same storefront listing)",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13037449100",
+      "lat": 39.713585,
+      "lon": -105.004059,
+      "brandsRep": [
+        "Copeland",
+        "Daikin",
+        "Bosch",
+        "Amana",
+        "Honeywell",
+        "Emerson",
+        "Aprilaire",
+        "Mueller Industries"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "140 S Pecos St, Units A & B",
-        "line2": "Also listed as 560 S Lipan St (same storefront listing)",
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80223-1781"
-      },
-      "contact": {
-        "phone": "+13037449100",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.713585,
-        "lon": -105.004059,
-        "arrivalLat": 39.713641,
-        "arrivalLon": -105.004003,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Copeland",
-          "Daikin",
-          "Bosch",
-          "Amana",
-          "Honeywell",
-          "Emerson",
-          "Aprilaire",
-          "Mueller Industries"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvacr",
         "wholesale"
       ],
-      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "sources": [
         "https://www.uri.com",
         "https://www.google.com/maps/place/United+Refrigeration+Denver"
       ],
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80223-1781",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & URI Official Website",
@@ -707,58 +577,47 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.713641,
+      "arrivalLon": -105.004003,
+      "arrivalType": "storefront"
     },
     {
-      "id": "co-winairwinsup-ca256015",
       "name": "Denver Winair",
       "chain": "Winair / Winsupply",
-      "trades": [
+      "address1": "1550 W Evans Ave",
+      "address2": "Unit M",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13037650663",
+      "website": "https://www.denverwinair.com",
+      "hours": "",
+      "lat": 39.67752,
+      "lon": -105.00594,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "1550 W Evans Ave",
-        "line2": "Unit M",
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80223"
-      },
-      "contact": {
-        "phone": "+13037650663",
-        "website": "https://www.denverwinair.com",
-        "hours": ""
-      },
-      "geo": {
-        "lat": 39.67752,
-        "lon": -105.00594,
-        "arrivalLat": 39.677576,
-        "arrivalLon": -105.005884,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "supply-house"
       ],
       "notes": "Verified via Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "Denver Winair contact page"
+      "id": "co-winairwinsup-ca256015",
+      "trades": [
+        "HVAC"
       ],
+      "postalCode": "80223",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -771,58 +630,50 @@
           "https://denverwinair.com/",
           "https://www.mapquest.com/us/colorado/denver-winair-276168511"
         ]
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "Denver Winair contact page"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.677576,
+      "arrivalLon": -105.005884,
+      "arrivalType": "will_call"
     },
     {
-      "id": "co-winairwinsup-97b08e60",
       "name": "North Denver Winair",
       "chain": "Winair / Winsupply",
-      "trades": [
+      "address1": "490 E 76th Ave",
+      "address2": "Bldg 6B",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13032872633",
+      "website": "https://www.northdenverwinair.com",
+      "hours": "",
+      "lat": 39.8318,
+      "lon": -104.98188,
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "490 E 76th Ave",
-        "line2": "Bldg 6B",
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80229"
-      },
-      "contact": {
-        "phone": "+13032872633",
-        "website": "https://www.northdenverwinair.com",
-        "hours": ""
-      },
-      "geo": {
-        "lat": 39.8318,
-        "lon": -104.98188,
-        "arrivalLat": 39.831856,
-        "arrivalLon": -104.981824,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "supply-house"
       ],
       "notes": "Verified via Winsupply/North Denver Winair contact page. Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "Winsupply/North Denver Winair contact page"
+      "id": "co-winairwinsup-97b08e60",
+      "trades": [
+        "HVAC"
       ],
+      "postalCode": "80229",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -834,55 +685,44 @@
           "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies/contact-us",
           "https://www.mapquest.com/us/colorado/north-denver-winair-9993168"
         ]
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "Winsupply/North Denver Winair contact page"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.831856,
+      "arrivalLon": -104.981824,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores – Denver",
+      "name": "Lennox Stores \u2013 Denver",
       "chain": "Lennox Stores",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "2000 W 64th Ln",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80221"
-      },
-      "contact": {
-        "phone": "+13034288200",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.8124,
-        "lon": -105.0157,
-        "arrivalLat": 39.812456,
-        "arrivalLon": -105.015644,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Lennox"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "2000 W 64th Ln",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13034288200",
+      "lat": 39.8124,
+      "lon": -105.0157,
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "LennoxPros store locator"
+      "brandsRep": [
+        "Lennox"
       ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80221",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -890,55 +730,44 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "LennoxPros store locator"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.812456,
+      "arrivalLon": -105.015644,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores – Aurora",
+      "name": "Lennox Stores \u2013 Aurora",
       "chain": "Lennox Stores",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "19100 E 22nd Ave",
-        "line2": null,
-        "city": "Aurora",
-        "state": "CO",
-        "postalCode": "80011"
-      },
-      "contact": {
-        "phone": "+13033638100",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7475,
-        "lon": -104.7638,
-        "arrivalLat": 39.747556,
-        "arrivalLon": -104.763744,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Lennox"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "19100 E 22nd Ave",
+      "city": "Aurora",
+      "state": "CO",
+      "phone": "+13033638100",
+      "lat": 39.7475,
+      "lon": -104.7638,
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "LennoxPros store locator"
+      "brandsRep": [
+        "Lennox"
       ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80011",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -946,62 +775,51 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "LennoxPros store locator"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.747556,
+      "arrivalLon": -104.763744,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors – Denver",
+      "name": "A/C Distributors \u2013 Denver",
       "chain": "A/C Distributors",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "2501 W 3rd Ave",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80219"
-      },
-      "contact": {
-        "phone": "+13039340000",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7098,
-        "lon": -105.0219,
-        "arrivalLat": 39.709856,
-        "arrivalLon": -105.021844,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Rheem",
-          "Ruud",
-          "Goodman",
-          "Daikin"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "2501 W 3rd Ave",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13039340000",
+      "lat": 39.7098,
+      "lon": -105.0219,
       "tags": [
         "hvac",
         "equipment",
         "parts",
         "local"
       ],
-      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "Official company contact required"
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Goodman",
+        "Daikin"
       ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80219",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -1009,121 +827,99 @@
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "Official company contact required"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.709856,
+      "arrivalLon": -105.021844,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co – Commerce City",
+      "name": "HVAC Distributors Co \u2013 Commerce City",
       "chain": "HVAC Distributors Co",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "6175 E 56th Ave",
-        "line2": null,
-        "city": "Commerce City",
-        "state": "CO",
-        "postalCode": "80022"
-      },
-      "contact": {
-        "phone": "+13032881111",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.8006,
-        "lon": -104.9157,
-        "arrivalLat": 39.800656,
-        "arrivalLon": -104.915644,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Rheem",
-          "Ruud",
-          "Honeywell"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "6175 E 56th Ave",
+      "city": "Commerce City",
+      "state": "CO",
+      "phone": "+13032881111",
+      "lat": 39.8006,
+      "lon": -104.9157,
       "tags": [
         "hvac",
         "equipment",
         "parts",
         "local"
       ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud",
+        "Honeywell"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
       "notes": "Local HVAC distributor. Regional HVAC equipment and parts distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80022",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": false,
+        "addressSource": "Manufacturer Line Card (requires re-verification)",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "coordsStatus": "verified",
       "sources": [
         "Official company contact required"
       ],
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": false,
-        "addressSource": "Manufacturer Line Card (requires re-verification)",
-        "addressVerifiedDate": "2025-12-27"
-      }
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.800656,
+      "arrivalLon": -104.915644,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir – Wheat Ridge",
+      "name": "WinAir \u2013 Wheat Ridge",
       "chain": "WinAir",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "4895 Ward Rd Unit B",
-        "line2": null,
-        "city": "Wheat Ridge",
-        "state": "CO",
-        "postalCode": "80033"
-      },
-      "contact": {
-        "phone": "+13034231100",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7847,
-        "lon": -105.1376,
-        "arrivalLat": 39.784756,
-        "arrivalLon": -105.137544,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "4895 Ward Rd Unit B",
+      "city": "Wheat Ridge",
+      "state": "CO",
+      "phone": "+13034231100",
+      "lat": 39.7847,
+      "lon": -105.1376,
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.winsupplyinc.com/locations"
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Rheem",
+        "Ruud"
       ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80033",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -1131,60 +927,52 @@
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.784756,
+      "arrivalLon": -105.137544,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing – Centennial",
+      "name": "Comfort Air Distributing \u2013 Centennial",
       "chain": "Comfort Air Distributing",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "15501 E Fremont Dr",
-        "line2": null,
-        "city": "Centennial",
-        "state": "CO",
-        "postalCode": "80112"
-      },
-      "contact": {
-        "phone": "+13037908800",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.5919,
-        "lon": -104.7978,
-        "arrivalLat": 39.591956,
-        "arrivalLon": -104.797744,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Geocoded from corrected address"
-      },
-      "brands": {
-        "brandsRep": [
-          "Rheem",
-          "Honeywell",
-          "Aprilaire",
-          "LG",
-          "Bosch",
-          "Nu-Calgon"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "15501 E Fremont Dr",
+      "city": "Centennial",
+      "state": "CO",
+      "phone": "+13037908800",
+      "lat": 39.5919,
+      "lon": -104.7978,
       "tags": [
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "partsFor": [
+        "HVAC"
       ],
       "notes": "Comfort Air Distributing Rheem Wholesaler. Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Address updated per user feedback, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80112",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Geocoded from corrected address",
@@ -1192,66 +980,55 @@
         "addressVerified": true,
         "addressSource": "Google Business Profile (user-verified)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Geocoded from corrected address",
+      "arrivalLat": 39.591956,
+      "arrivalLon": -104.797744,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD – Centennial",
+      "name": "RSD \u2013 Centennial",
       "chain": "RSD",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "7184 S Revere Pkwy, Building 2",
-        "line2": null,
-        "city": "Centennial",
-        "state": "CO",
-        "postalCode": "80112"
-      },
-      "contact": {
-        "phone": "(303) 792-2354",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.5869,
-        "lon": -104.8276,
-        "arrivalLat": 39.5869,
-        "arrivalLon": -104.8276,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Copeland",
-          "Emerson",
-          "Fujitsu",
-          "LG",
-          "Mitsubishi Electric",
-          "Honeywell",
-          "Trane",
-          "York",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "address1": "7184 S Revere Pkwy, Building 2",
+      "city": "Centennial",
+      "state": "CO",
+      "phone": "(303) 792-2354",
+      "lat": 39.5869,
+      "lon": -104.8276,
       "tags": [
         "hvac",
         "equipment",
         "parts"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Copeland",
+        "Emerson",
+        "Fujitsu",
+        "LG",
+        "Mitsubishi Electric",
+        "Honeywell",
+        "Trane",
+        "York",
+        "Rheem",
+        "Ruud"
+      ],
+      "partsFor": [
+        "HVAC"
       ],
       "notes": "RSD Store #74. HVAC/R wholesaler representing Carrier, Copeland, Emerson, Fujitsu, LG, Mitsubishi, Honeywell, and other major brands. Relocated from 6825 S Galena St. Address verified via Google Business Profile and official RSD store locator (Store #74), 2025-12-27.",
       "sources": [
         "https://www.rsd.net/store/0074-centennial-co",
         "https://www.google.com/maps/place/RSD+Centennial"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80112",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official RSD Store Locator",
@@ -1263,64 +1040,49 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps pin + verified geocoding services"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.5869,
+      "arrivalLon": -104.8276,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply – Denver",
+      "name": "Rampart Supply \u2013 Denver",
       "chain": "Rampart Supply",
+      "address1": "285 Rio Grande Blvd",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13036296122",
+      "lat": 39.715679,
+      "lon": -104.99742,
+      "brandsRep": [
+        "Buderus",
+        "HTP",
+        "Laars",
+        "Lochinvar",
+        "Triangle Tube",
+        "Weil-McLain"
+      ],
+      "partsFor": [
+        "Boilers",
+        "Hydronic components",
+        "Heating",
+        "Plumbing"
+      ],
+      "tags": [
+        "hvac-hydronics",
+        "wholesale"
+      ],
       "trades": [
         "HVAC",
         "Plumbing"
       ],
       "primaryTrade": "HVAC",
-      "address": {
-        "line1": "285 Rio Grande Blvd",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80223"
-      },
-      "contact": {
-        "phone": "+13036296122",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.715679,
-        "lon": -104.99742,
-        "arrivalLat": 39.715679,
-        "arrivalLon": -104.99742,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps + MapQuest verified showroom entrance"
-      },
-      "brands": {
-        "brandsRep": [
-          "Buderus",
-          "HTP",
-          "Laars",
-          "Lochinvar",
-          "Triangle Tube",
-          "Weil-McLain"
-        ],
-        "manufacturersPartsFor": [
-          "Boilers",
-          "Hydronic components",
-          "Heating",
-          "Plumbing"
-        ]
-      },
-      "tags": [
-        "hvac-hydronics",
-        "wholesale"
-      ],
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]",
-      "sources": [
-        "https://www.rampartsupply.com/"
-      ],
+      "postalCode": "80223",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -1328,62 +1090,51 @@
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps + MapQuest verified showroom entrance",
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.]",
+      "arrivalLat": 39.715679,
+      "arrivalLon": -104.99742,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
       "name": "Graybar (Denver Area Service Center)",
       "chain": "Graybar",
-      "trades": [
-        "Electrical"
+      "address1": "480 E 55TH AVE UNIT 500",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+17206024400",
+      "lat": 39.7972,
+      "lon": -104.9816,
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia Lighting",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
       ],
-      "address": {
-        "line1": "480 E 55TH AVE UNIT 500",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80216"
-      },
-      "contact": {
-        "phone": "+17206024400",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7972,
-        "lon": -104.9816,
-        "arrivalLat": 39.797256,
-        "arrivalLon": -104.981544,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Eaton",
-          "Schneider Electric",
-          "Square D",
-          "Siemens",
-          "Hubbell",
-          "Lithonia Lighting",
-          "Acuity Brands",
-          "Southwire",
-          "Belden",
-          "Panduit",
-          "Fluke",
-          "3M"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1392,6 +1143,11 @@
       "sources": [
         "https://www.graybar.com/store-locator"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80216",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1402,63 +1158,47 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.797256,
+      "arrivalLon": -104.981544,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-rexel-denver-425-quivas",
       "name": "Rexel Denver (#7325)",
       "chain": "Rexel",
-      "trades": [
-        "Electrical"
+      "address1": "425 Quivas Street",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13035727100",
+      "lat": 39.7247,
+      "lon": -105.0044,
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia Lighting",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
       ],
-      "address": {
-        "line1": "425 Quivas Street",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80204"
-      },
-      "contact": {
-        "phone": "+13035727100",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7247,
-        "lon": -105.0044,
-        "arrivalLat": 39.7247,
-        "arrivalLon": -105.0044,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Eaton",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Belden",
-          "Lithonia Lighting",
-          "Acuity Brands",
-          "Klein Tools",
-          "Milwaukee",
-          "Fluke",
-          "Greenlee",
-          "Panduit",
-          "Hubbell"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1467,6 +1207,11 @@
       "sources": [
         "https://www.rexelusa.com/locations/co/denver/7325"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80204",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1477,63 +1222,47 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7247,
+      "arrivalLon": -105.0044,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-rexel-denver-east-11175-e-55th",
       "name": "Rexel Denver East (#3201)",
       "chain": "Rexel",
-      "trades": [
-        "Electrical"
+      "address1": "11175 E 55TH AVE, UNIT 100",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13037285888",
+      "lat": 39.7962,
+      "lon": -104.7836,
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia Lighting",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
       ],
-      "address": {
-        "line1": "11175 E 55TH AVE, UNIT 100",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80239"
-      },
-      "contact": {
-        "phone": "+13037285888",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7962,
-        "lon": -104.7836,
-        "arrivalLat": 39.796256,
-        "arrivalLon": -104.783544,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Eaton",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Belden",
-          "Lithonia Lighting",
-          "Acuity Brands",
-          "Klein Tools",
-          "Milwaukee",
-          "Fluke",
-          "Greenlee",
-          "Panduit",
-          "Hubbell"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1542,6 +1271,11 @@
       "sources": [
         "https://www.rexelusa.com/locations/co/denver/3201"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80239",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1552,69 +1286,53 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.796256,
+      "arrivalLon": -104.783544,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
       "name": "CED (Consolidated Electrical Distributors) - Denver",
       "chain": "CED",
-      "trades": [
-        "Electrical"
+      "address1": "2405 W 5th Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13036231233",
+      "lat": 39.72423,
+      "lon": -105.01515,
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Belden",
+        "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
+        "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
+        "Panduit",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
-      "address": {
-        "line1": "2405 W 5th Avenue",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80204"
-      },
-      "contact": {
-        "phone": "+13036231233",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.72423,
-        "lon": -105.01515,
-        "arrivalLat": 39.72423,
-        "arrivalLon": -105.01515,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Acuity Brands",
-          "Belden",
-          "Brady",
-          "Cantex",
-          "Cooper",
-          "Eaton",
-          "Fluke",
-          "Greenlee",
-          "Hubbell",
-          "Ideal",
-          "Klein Tools",
-          "Leviton",
-          "Lithonia Lighting",
-          "Milwaukee",
-          "Panduit",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Square D"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1623,6 +1341,11 @@
       "sources": [
         "https://www.cedColorado.com/locations"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80204",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1633,63 +1356,47 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.72423,
+      "arrivalLon": -105.01515,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-ces-denver-central-2630-w-2nd",
       "name": "City Electric Supply - Denver Central (Colorado Electric Supply)",
       "chain": "City Electric Supply",
-      "trades": [
-        "Electrical"
+      "address1": "2630 W 2nd Ave",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13039960111",
+      "lat": 39.718955,
+      "lon": -105.019012,
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity Brands",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
       ],
-      "address": {
-        "line1": "2630 W 2nd Ave",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80219"
-      },
-      "contact": {
-        "phone": "+13039960111",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.718955,
-        "lon": -105.019012,
-        "arrivalLat": 39.718955,
-        "arrivalLon": -105.019012,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Southwire",
-          "Siemens",
-          "Eaton",
-          "Square D",
-          "Schneider Electric",
-          "Philips",
-          "Acuity Brands",
-          "RAB Lighting",
-          "Lutron",
-          "Klein Tools",
-          "Fluke",
-          "Milwaukee",
-          "Hubbell",
-          "Leviton"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1699,6 +1406,10 @@
         "https://www.google.com/maps/place/City+Electric+Supply+Denver",
         "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80219",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -1710,61 +1421,46 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.718955,
+      "arrivalLon": -105.019012,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
       "name": "Border States Electric - Denver",
       "chain": "Border States",
-      "trades": [
-        "Electrical"
+      "address1": "5475 Joliet St Unit B",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+17205319895",
+      "lat": 39.794972,
+      "lon": -104.860753,
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Eaton",
+        "Hubbell",
+        "Schneider Electric",
+        "Legrand",
+        "Leviton",
+        "Milwaukee",
+        "nVent",
+        "Rockwell Automation",
+        "Southwire",
+        "Belden"
       ],
-      "address": {
-        "line1": "5475 Joliet St Unit B",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80239"
-      },
-      "contact": {
-        "phone": "+17205319895",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.794972,
-        "lon": -104.860753,
-        "arrivalLat": 39.795028,
-        "arrivalLon": -104.860697,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Acuity Brands",
-          "Eaton",
-          "Hubbell",
-          "Schneider Electric",
-          "Legrand",
-          "Leviton",
-          "Milwaukee",
-          "nVent",
-          "Rockwell Automation",
-          "Southwire",
-          "Belden"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
@@ -1773,6 +1469,11 @@
       "sources": [
         "https://www.borderstates.com/brands"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80239",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1783,63 +1484,51 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.795028,
+      "arrivalLon": -104.860697,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
       "name": "Crescent Electric Supply Company - Denver (Branch #B080)",
       "chain": "Crescent Electric",
-      "trades": [
-        "Electrical"
+      "address1": "5925 Washington St Ste 300",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13036291188",
+      "lat": 39.804388,
+      "lon": -104.977336,
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
+        "Klein Tools",
+        "Southwire"
       ],
-      "address": {
-        "line1": "5925 Washington St Ste 300",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80216"
-      },
-      "contact": {
-        "phone": "+13036291188",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.804388,
-        "lon": -104.977336,
-        "arrivalLat": 39.804388,
-        "arrivalLon": -104.977336,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Square D",
-          "Eaton",
-          "Hubbell",
-          "Leviton",
-          "Lithonia Lighting",
-          "Milwaukee",
-          "Klein Tools",
-          "Southwire"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
       ],
       "notes": "Electrical supply distributor. National electrical distributor, verified 2025-12-26",
-      "sources": [],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80216",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1850,62 +1539,50 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.804388,
+      "arrivalLon": -104.977336,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
       "name": "Anixter - Denver",
       "chain": "Anixter",
-      "trades": [
-        "Electrical"
+      "address1": "10432 E 49th Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13033739200",
+      "lat": 39.7862,
+      "lon": -104.8655,
+      "brandsRep": [
+        "Panduit",
+        "Belden",
+        "CommScope",
+        "Cisco",
+        "Fluke",
+        "3M",
+        "Hubbell"
       ],
-      "address": {
-        "line1": "10432 E 49th Avenue",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80238"
-      },
-      "contact": {
-        "phone": "+13033739200",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7862,
-        "lon": -104.8655,
-        "arrivalLat": 39.7862,
-        "arrivalLon": -104.8655,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Panduit",
-          "Belden",
-          "CommScope",
-          "Cisco",
-          "Fluke",
-          "3M",
-          "Hubbell"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
       ],
       "notes": "Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26",
-      "sources": [],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80238",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1916,60 +1593,48 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.7862,
+      "arrivalLon": -104.8655,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
       "name": "Quality Electrical Distribution (QED) - Denver",
       "chain": "QED",
-      "trades": [
-        "Electrical"
+      "address1": "1661 W 3rd Ave",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13038255011",
+      "lat": 39.7154,
+      "lon": -105.0052,
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Leviton",
+        "Hubbell",
+        "Lithonia Lighting"
       ],
-      "address": {
-        "line1": "1661 W 3rd Ave",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80223"
-      },
-      "contact": {
-        "phone": "+13038255011",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7154,
-        "lon": -105.0052,
-        "arrivalLat": 39.715456,
-        "arrivalLon": -105.005144,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Square D",
-          "Eaton",
-          "Leviton",
-          "Hubbell",
-          "Lithonia Lighting"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
       "tags": [
         "electrical",
         "wholesale"
       ],
       "notes": "Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "sources": [],
+      "trades": [
+        "Electrical"
+      ],
+      "postalCode": "80223",
+      "coordsStatus": "verified",
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -1980,50 +1645,34 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.715456,
+      "arrivalLon": -105.005144,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-sdi-oneida-001",
       "name": "Select Distributing (SDI Denver)",
       "chain": "Select Distributing",
-      "trades": [
+      "address1": "4201 Oneida St, Unit B",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "720-570-7801",
+      "lat": 39.7847,
+      "lon": -104.9995,
+      "brandsRep": [
+        "Rheem",
+        "Ruud",
+        "Fujitsu",
+        "Daikin",
+        "Mitsubishi Electric"
+      ],
+      "partsFor": [
         "HVAC"
       ],
-      "address": {
-        "line1": "4201 Oneida St, Unit B",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80216"
-      },
-      "contact": {
-        "phone": "720-570-7801",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.7847,
-        "lon": -104.9995,
-        "arrivalLat": 39.784756,
-        "arrivalLon": -104.999444,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps"
-      },
-      "brands": {
-        "brandsRep": [
-          "Rheem",
-          "Ruud",
-          "Fujitsu",
-          "Daikin",
-          "Mitsubishi Electric"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
       "tags": [
         "hvac",
         "wholesale",
@@ -2035,6 +1684,11 @@
         "https://sdidenver.com",
         "https://www.mapquest.com/us/colorado/select-distributing-inc-350583807"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80216",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -2045,52 +1699,36 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps",
+      "arrivalLat": 39.784756,
+      "arrivalLon": -104.999444,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-denver-northwinair-76th-001",
       "name": "North Denver Winair",
       "chain": "Winair",
-      "trades": [
-        "HVAC"
+      "address1": "490 E 76th Ave, Building 6B",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "303-287-4511",
+      "lat": 39.8383,
+      "lon": -104.8869,
+      "brandsRep": [
+        "American Standard",
+        "Trane",
+        "Rheem",
+        "Ruud",
+        "Mitsubishi Electric"
       ],
-      "address": {
-        "line1": "490 E 76th Ave, Building 6B",
-        "line2": null,
-        "city": "Denver",
-        "state": "CO",
-        "postalCode": "80229"
-      },
-      "contact": {
-        "phone": "303-287-4511",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.8383,
-        "lon": -104.8869,
-        "arrivalLat": 39.8383,
-        "arrivalLon": -104.8869,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Trane",
-          "Rheem",
-          "Ruud",
-          "Mitsubishi Electric"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Refrigeration",
-          "Hydronics"
-        ]
-      },
+      "partsFor": [
+        "HVAC",
+        "Refrigeration",
+        "Hydronics"
+      ],
       "tags": [
         "hvac",
         "wholesale",
@@ -2101,6 +1739,11 @@
       "sources": [
         "https://www.winair.us/locations/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "postalCode": "80229",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -2111,7 +1754,13 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps",
+      "arrivalLat": 39.8383,
+      "arrivalLon": -104.8869,
+      "arrivalType": "storefront"
     }
   ]
 }

@@ -1,20 +1,8 @@
 {
   "version": "PUEBLO_SOUTH_FILTER_AUDIT_v1",
-  "updated": "2025-12-26",
-  "country": "US",
+  "trade": "filter",
+  "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "pueblo-south",
-    "name": "Pueblo / South Colorado"
-  },
-  "scope": {
-    "trade": "filter"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [],
-    "verificationMode": null
-  },
+  "updated": "2025-12-26",
   "branches": []
 }

@@ -1,22 +1,12 @@
 {
   "version": "audited_zero_v1",
-  "updated": "2025-12-25",
-  "country": "US",
+  "trade": "hvac",
+  "metro": "Eastern Plains",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "eastern-plains",
-    "name": "Eastern Plains"
-  },
-  "scope": {
-    "trade": "hvac"
-  },
-  "audit": {
-    "status": "audit_complete_no_storefronts",
-    "notes": [
-      "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
-    ],
-    "verificationMode": null
-  },
-  "branches": []
+  "branches": [],
+  "auditStatus": "audit_complete_no_storefronts",
+  "auditNotes": [
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros."
+  ],
+  "updated": "2025-12-25"
 }

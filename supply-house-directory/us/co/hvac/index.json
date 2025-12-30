@@ -1,11 +1,9 @@
 {
-  "type": "index",
-  "state": "CO",
+  "version": "1.0.0",
   "updated": "2025-12-25",
-  "scope": {
-    "trade": "hvac"
-  },
-  "entries": [
+  "state": "CO",
+  "trade": "hvac",
+  "metros": [
     {
       "id": "denver-metro",
       "name": "Denver Metro",

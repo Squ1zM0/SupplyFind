@@ -1,61 +1,27 @@
 {
   "version": "WESTERN_SLOPE_FILTER_AUDIT_v1",
-  "updated": "2025-12-26",
-  "country": "US",
+  "trade": "filter",
+  "metro": "Western Slope",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "western-slope",
-    "name": "Western Slope"
-  },
-  "scope": {
-    "trade": "filter"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [],
-    "verificationMode": null
-  },
+  "updated": "2025-12-26",
   "branches": [
     {
       "id": "filter-supply-grand-junction",
       "name": "Filter Supply",
       "chain": "Independent",
-      "trades": [
-        "Filter"
-      ],
-      "address": {
-        "line1": "308 Pitkin Ave",
-        "line2": null,
-        "city": "Grand Junction",
-        "state": "CO",
-        "postalCode": "81501"
-      },
-      "contact": {
-        "phone": "970-254-9043",
-        "website": "",
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.064678,
-        "lon": -108.56734,
-        "arrivalLat": 39.064734,
-        "arrivalLon": -108.567284,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-26",
-        "geoSource": "Verified source"
-      },
-      "brands": {
-        "brandsRep": [],
-        "manufacturersPartsFor": []
-      },
-      "tags": [
-        "automotive"
-      ],
+      "trade": "filter",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81501",
+      "address1": "308 Pitkin Ave",
+      "phone": "970-254-9043",
+      "website": "",
+      "lat": 39.064678,
+      "lon": -108.56734,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
       "notes": "Local filter supplier specializing in air and gas filters, including industrial and automotive applications. Serves Western Slope region. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -66,7 +32,24 @@
         "addressVerified": true,
         "addressSource": "Web Verification - Business Directories",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "partsFor": [
+        "Industrial Filtration",
+        "Air Filters",
+        "Gas Filters"
+      ],
+      "trades": [
+        "Filter"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source",
+      "arrivalLat": 39.064734,
+      "arrivalLon": -108.567284,
+      "arrivalType": "storefront",
+      "tags": [
+        "automotive"
+      ]
     }
   ]
 }

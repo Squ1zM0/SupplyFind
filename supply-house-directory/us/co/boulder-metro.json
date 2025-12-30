@@ -1,71 +1,39 @@
 {
   "version": "AUDIT_BOULDER_SAT_v1",
-  "updated": "2025-12-27",
-  "country": "US",
+  "region": "Boulder / Broomfield / Longmont (CO)",
   "state": "CO",
-  "area": {
-    "kind": "region",
-    "id": "boulder-metro",
-    "name": "Boulder / Broomfield / Longmont (CO)"
-  },
-  "scope": {
-    "trade": "multi"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [
-      "Strict storefront-only pass completed.",
-      "No HVAC supply storefronts were added because none could be confirmed via official distributor branch locators for the allowed cities (Boulder, Broomfield, Longmont) at time of audit.",
-      "Non-official listings (Yelp/MapQuest/third-party directories) are intentionally excluded under strict rules."
-    ],
-    "verificationMode": "strict_storefront_only"
-  },
+  "country": "US",
+  "updated": "2025-12-27",
+  "verificationMode": "strict_storefront_only",
+  "notes": [
+    "Strict storefront-only pass completed.",
+    "No HVAC supply storefronts were added because none could be confirmed via official distributor branch locators for the allowed cities (Boulder, Broomfield, Longmont) at time of audit.",
+    "Non-official listings (Yelp/MapQuest/third-party directories) are intentionally excluded under strict rules."
+  ],
   "branches": [
     {
       "id": "co-broomfield-comfort-air-001",
-      "name": "Comfort Air Distributing – Broomfield",
+      "name": "Comfort Air Distributing \u2013 Broomfield",
       "chain": "Comfort Air Distributing",
-      "trades": [
-        "HVAC"
+      "address1": "11575 Main St, Unit 500",
+      "city": "Broomfield",
+      "state": "CO",
+      "phone": "+17207430888",
+      "lat": 39.9229,
+      "lon": -105.0696,
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
       ],
-      "address": {
-        "line1": "11575 Main St, Unit 500",
-        "line2": null,
-        "city": "Broomfield",
-        "state": "CO",
-        "postalCode": "80020"
-      },
-      "contact": {
-        "phone": "+17207430888",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.9229,
-        "lon": -105.0696,
-        "arrivalLat": 39.922956,
-        "arrivalLon": -105.069544,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "MapQuest + commercial property directories"
-      },
-      "brands": {
-        "brandsRep": [
-          "Rheem",
-          "Honeywell",
-          "Aprilaire",
-          "LG",
-          "Bosch",
-          "Nu-Calgon"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC equipment",
-          "HVAC parts",
-          "Supplies"
-        ]
-      },
+      "partsFor": [
+        "HVAC equipment",
+        "HVAC parts",
+        "Supplies"
+      ],
       "tags": [
         "hvac",
         "wholesale"
@@ -74,6 +42,10 @@
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80020",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -81,55 +53,40 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "MapQuest + commercial property directories",
+      "arrivalLat": 39.922956,
+      "arrivalLon": -105.069544,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-louisville-uri-001",
-      "name": "United Refrigeration (URI) – Louisville",
+      "name": "United Refrigeration (URI) \u2013 Louisville",
       "chain": "United Refrigeration",
-      "trades": [
-        "HVAC"
+      "address1": "1533 Arthur St, Ste A",
+      "city": "Louisville",
+      "state": "CO",
+      "phone": "+13039268500",
+      "lat": 39.9819,
+      "lon": -105.1314,
+      "brandsRep": [
+        "Copeland",
+        "Daikin",
+        "Bosch",
+        "Amana",
+        "Honeywell",
+        "Emerson",
+        "Aprilaire",
+        "Mueller Industries"
       ],
-      "address": {
-        "line1": "1533 Arthur St, Ste A",
-        "line2": null,
-        "city": "Louisville",
-        "state": "CO",
-        "postalCode": "80027"
-      },
-      "contact": {
-        "phone": "+13039268500",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.9819,
-        "lon": -105.1314,
-        "arrivalLat": 39.9819,
-        "arrivalLon": -105.1314,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Copeland",
-          "Daikin",
-          "Bosch",
-          "Amana",
-          "Honeywell",
-          "Emerson",
-          "Aprilaire",
-          "Mueller Industries"
-        ],
-        "manufacturersPartsFor": [
-          "Refrigeration",
-          "HVAC",
-          "Supplies"
-        ]
-      },
+      "partsFor": [
+        "Refrigeration",
+        "HVAC",
+        "Supplies"
+      ],
       "tags": [
         "hvac",
         "refrigeration",
@@ -140,6 +97,10 @@
         "https://www.uri.com",
         "https://www.google.com/maps/place/United+Refrigeration+Louisville"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80027",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & URI Official Website",
@@ -151,61 +112,46 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.9819,
+      "arrivalLon": -105.1314,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-longmont-winair-001",
-      "name": "Longmont Winair (Winsupply) – Longmont",
+      "name": "Longmont Winair (Winsupply) \u2013 Longmont",
       "chain": "Winsupply / Winair",
+      "address1": "1140 Boston Ave, Unit C",
+      "city": "Longmont",
+      "state": "CO",
+      "phone": "+13036519641",
+      "lat": 40.1567502,
+      "lon": -105.1121159,
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "partsFor": [
+        "HVAC supplies",
+        "Plumbing supplies"
+      ],
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
       "trades": [
         "HVAC",
         "Plumbing"
       ],
       "primaryTrade": "HVAC",
-      "address": {
-        "line1": "1140 Boston Ave, Unit C",
-        "line2": null,
-        "city": "Longmont",
-        "state": "CO",
-        "postalCode": "80501"
-      },
-      "contact": {
-        "phone": "+13036519641",
-        "website": null,
-        "hours": null
-      },
-      "geo": {
-        "lat": 40.1567502,
-        "lon": -105.1121159,
-        "arrivalLat": 40.156806,
-        "arrivalLon": -105.11206,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "MapQuest + verified business registries"
-      },
-      "brands": {
-        "brandsRep": [
-          "AO Smith",
-          "Charlotte Pipe",
-          "American Standard",
-          "Sloan",
-          "Liberty Pumps"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC supplies",
-          "Plumbing supplies"
-        ]
-      },
-      "tags": [
-        "hvac",
-        "wholesale"
-      ],
-      "notes": "[Coordinate refinement 2025-12-27: Multi-tenant unit - moved to Unit C entrance. Verified building front access coordinates.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.winsupplyinc.com/locations"
-      ],
+      "postalCode": "80501",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -216,61 +162,49 @@
         "sources": [
           "https://www.winsupplyinc.com/Location/Longmont-CO/80501/HVAC-Supplies/contact-us"
         ]
-      }
+      },
+      "coordsStatus": "verified",
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "MapQuest + verified business registries",
+      "notes": "[Coordinate refinement 2025-12-27: Multi-tenant unit - moved to Unit C entrance. Verified building front access coordinates.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "arrivalLat": 40.156806,
+      "arrivalLon": -105.11206,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Longmont",
+      "name": "Ferguson Plumbing Supply \u2013 Longmont",
       "chain": "Ferguson",
-      "trades": [
-        "HVAC",
-        "Plumbing"
+      "address1": "1567 Vista View Dr",
+      "city": "Longmont",
+      "state": "CO",
+      "phone": "+13038453750",
+      "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
+      "lat": 40.1577,
+      "lon": -105.1038,
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
       ],
-      "primaryTrade": "Plumbing",
-      "address": {
-        "line1": "1567 Vista View Dr",
-        "line2": null,
-        "city": "Longmont",
-        "state": "CO",
-        "postalCode": "80504"
-      },
-      "contact": {
-        "phone": "+13038453750",
-        "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-        "hours": null
-      },
-      "geo": {
-        "lat": 40.1577,
-        "lon": -105.1038,
-        "arrivalLat": 40.1577,
-        "arrivalLon": -105.1038,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Fujitsu",
-          "Mitsubishi Electric",
-          "Carrier",
-          "Bryant",
-          "Honeywell",
-          "Rheem",
-          "Amana",
-          "Kohler",
-          "Moen",
-          "Delta"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC equipment",
-          "HVAC parts",
-          "Plumbing",
-          "Supplies"
-        ]
-      },
+      "partsFor": [
+        "HVAC equipment",
+        "HVAC parts",
+        "Plumbing",
+        "Supplies"
+      ],
       "tags": [
         "hvac",
         "plumbing",
@@ -281,6 +215,12 @@
         "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
       ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": "80504",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -292,7 +232,14 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 40.1577,
+      "arrivalLon": -105.1038,
+      "arrivalType": "storefront"
     }
   ]
 }

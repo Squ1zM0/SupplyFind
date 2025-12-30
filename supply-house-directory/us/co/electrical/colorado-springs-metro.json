@@ -1,90 +1,25 @@
 {
   "version": "COLORADO_SPRINGS_ELECTRICAL_EXPANSION_v2",
-  "updated": "2025-12-25",
-  "country": "US",
+  "trade": "electrical",
+  "metro": "Colorado Springs Metro",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "colorado-springs-metro",
-    "name": "Colorado Springs Metro"
-  },
-  "scope": {
-    "trade": "electrical"
-  },
-  "audit": {
-    "status": "expanded",
-    "notes": [
-      "Rounds 1–5 initialized for Electrical under strict storefront rules.",
-      "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
-      "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
-      "Added confirmed electrical storefronts; coords pending verification.",
-      "Coordinates verified for all listed branches.",
-      "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
-      "2025-12-26: Comprehensive expansion - Added City Electric Supply Colorado Springs Central (new 2024 location with verified address and phone). Removed second CES branch pending address verification."
-    ],
-    "verificationMode": null
-  },
+  "updated": "2025-12-25",
   "branches": [
     {
       "id": "cos-graybar",
-      "name": "Graybar Electric – Colorado Springs",
+      "name": "Graybar Electric \u2013 Colorado Springs",
       "chain": "Graybar",
-      "trades": [
-        "Electrical"
-      ],
-      "address": {
-        "line1": "2555 Busch Ave",
-        "line2": null,
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80907"
-      },
-      "contact": {
-        "phone": "719-578-1611",
-        "website": "https://www.graybar.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.79873,
-        "lon": -104.78599,
-        "arrivalLat": 38.79873,
-        "arrivalLon": -104.78599,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Eaton",
-          "Schneider Electric",
-          "Square D",
-          "Siemens",
-          "Hubbell",
-          "Lithonia Lighting",
-          "Acuity Brands",
-          "Southwire",
-          "Belden",
-          "Panduit",
-          "Fluke",
-          "3M"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
-      "tags": [],
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "2555 Busch Ave",
+      "phone": "719-578-1611",
+      "website": "https://www.graybar.com/",
+      "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
-      "sources": [
-        "https://www.graybar.com/store-finder",
-        "https://www.google.com/maps/place/Graybar+Colorado+Springs"
-      ],
+      "lat": 38.79873,
+      "lon": -104.78599,
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Graybar Official Website",
@@ -96,75 +31,58 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
-    },
-    {
-      "id": "cos-ced",
-      "name": "CED – Colorado Springs",
-      "chain": "CED",
+      },
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Square D",
+        "Siemens",
+        "Hubbell",
+        "Lithonia Lighting",
+        "Acuity Brands",
+        "Southwire",
+        "Belden",
+        "Panduit",
+        "Fluke",
+        "3M"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.graybar.com/store-finder",
+        "https://www.google.com/maps/place/Graybar+Colorado+Springs"
+      ],
       "trades": [
         "Electrical"
       ],
-      "address": {
-        "line1": "4305 N Sinton Rd",
-        "line2": null,
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80907"
-      },
-      "contact": {
-        "phone": "719-598-1414",
-        "website": "https://www.ced.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.89527,
-        "lon": -104.82972,
-        "arrivalLat": 38.89527,
-        "arrivalLon": -104.82972,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Acuity Brands",
-          "Belden",
-          "Brady",
-          "Cantex",
-          "Cooper",
-          "Eaton",
-          "Fluke",
-          "Greenlee",
-          "Hubbell",
-          "Ideal",
-          "Klein Tools",
-          "Leviton",
-          "Lithonia Lighting",
-          "Milwaukee",
-          "Panduit",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Square D"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
-      "tags": [],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.79873,
+      "arrivalLon": -104.78599,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "cos-ced",
+      "name": "CED \u2013 Colorado Springs",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "4305 N Sinton Rd",
+      "phone": "719-598-1414",
+      "website": "https://www.ced.com/",
+      "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "sources": [
-        "https://www.cedal.com/locations",
-        "https://www.google.com/maps/place/CED+Colorado+Springs"
-      ],
+      "lat": 38.89527,
+      "lon": -104.82972,
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official CED Portal",
@@ -176,69 +94,65 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
-    },
-    {
-      "id": "cos-ces",
-      "name": "City Electric Supply – Colorado Springs",
-      "chain": "City Electric Supply",
+      },
+      "brandsRep": [
+        "ABB",
+        "Acuity Brands",
+        "Belden",
+        "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
+        "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia Lighting",
+        "Milwaukee",
+        "Panduit",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.cedal.com/locations",
+        "https://www.google.com/maps/place/CED+Colorado+Springs"
+      ],
       "trades": [
         "Electrical"
       ],
-      "address": {
-        "line1": "2303 Waynoka Rd",
-        "line2": null,
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80915"
-      },
-      "contact": {
-        "phone": "719-597-9000",
-        "website": "https://www.cityelectricsupply.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.86635,
-        "lon": -104.71638,
-        "arrivalLat": 38.86635,
-        "arrivalLon": -104.71638,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Southwire",
-          "Siemens",
-          "Eaton",
-          "Square D",
-          "Schneider Electric",
-          "Philips",
-          "Acuity Brands",
-          "RAB Lighting",
-          "Lutron",
-          "Klein Tools",
-          "Fluke",
-          "Milwaukee",
-          "Hubbell",
-          "Leviton"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical",
-          "Lighting",
-          "Wire & Cable",
-          "Tools",
-          "Controls"
-        ]
-      },
-      "tags": [],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.89527,
+      "arrivalLon": -104.82972,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "cos-ces",
+      "name": "City Electric Supply \u2013 Colorado Springs",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "2303 Waynoka Rd",
+      "phone": "719-597-9000",
+      "website": "https://www.cityelectricsupply.com/",
+      "coordsStatus": "verified",
       "notes": "Electrical supply counter storefront. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
-        "https://servlectric.com/branch/city-electric-supply-colorado-springs"
-      ],
+      "lat": 38.86635,
+      "lon": -104.71638,
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Directories",
@@ -250,60 +164,86 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider Electric",
+        "Philips",
+        "Acuity Brands",
+        "RAB Lighting",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.86635,
+      "arrivalLon": -104.71638,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-colorado-springs-blazer-electric-1",
       "name": "Blazer Electric Supply",
       "chain": "Blazer Electric Supply",
-      "trades": [
-        "Electrical"
-      ],
-      "address": {
-        "line1": "6125 Omaha Blvd",
-        "line2": "",
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80915"
-      },
-      "contact": {
-        "phone": "719-596-1333",
-        "website": "",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.870465,
-        "lon": -104.722245,
-        "arrivalLat": 38.870465,
-        "arrivalLon": -104.722245,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Square D",
-          "Eaton",
-          "Hubbell",
-          "Leviton",
-          "Southwire",
-          "Milwaukee"
-        ],
-        "manufacturersPartsFor": [
-          "Electrical"
-        ]
-      },
+      "trade": "electrical",
+      "address1": "6125 Omaha Blvd",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "phone": "719-596-1333",
+      "website": "",
+      "lat": 38.870465,
+      "lon": -104.722245,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "notes": "",
       "tags": [
         "electrical",
         "wholesale"
       ],
-      "notes": "",
+      "partsFor": [
+        "Electrical"
+      ],
+      "brandsRep": [
+        "Square D",
+        "Eaton",
+        "Hubbell",
+        "Leviton",
+        "Southwire",
+        "Milwaukee"
+      ],
+      "services": [],
       "sources": [
         "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
         "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
       ],
+      "trades": [
+        "Electrical"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -315,62 +255,46 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.870465,
+      "arrivalLon": -104.722245,
+      "arrivalType": "storefront"
     },
     {
       "id": "rexel-colorado-springs-3224",
       "name": "Rexel - Colorado Springs (#3224)",
       "chain": "Rexel",
-      "trades": [
-        "Electrical"
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4945 Northpark Dr",
+      "phone": "719-596-1234",
+      "website": "https://www.rexelusa.com/locations/co/colorado-springs/3224",
+      "lat": 38.92931,
+      "lon": -104.79709,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Eaton",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Belden",
+        "Lithonia Lighting",
+        "Acuity Brands",
+        "Klein Tools",
+        "Milwaukee",
+        "Fluke",
+        "Greenlee",
+        "Panduit",
+        "Hubbell"
       ],
-      "address": {
-        "line1": "4945 Northpark Dr",
-        "line2": null,
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80918"
-      },
-      "contact": {
-        "phone": "719-596-1234",
-        "website": "https://www.rexelusa.com/locations/co/colorado-springs/3224",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.92931,
-        "lon": -104.79709,
-        "arrivalLat": 38.929366,
-        "arrivalLon": -104.797034,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "Eaton",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Belden",
-          "Lithonia Lighting",
-          "Acuity Brands",
-          "Klein Tools",
-          "Milwaukee",
-          "Fluke",
-          "Greenlee",
-          "Panduit",
-          "Hubbell"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Rexel branch serving Colorado Springs. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "sources": [
-        "https://www.rexelusa.com/locations/co/colorado-springs/3224"
-      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -381,63 +305,59 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://www.rexelusa.com/locations/co/colorado-springs/3224"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.929366,
+      "arrivalLon": -104.797034,
+      "arrivalType": "storefront"
     },
     {
       "id": "ces-colorado-springs-central-001",
       "name": "City Electric Supply - Colorado Springs Central",
       "chain": "City Electric Supply",
-      "trades": [
-        "Electrical"
+      "trade": "electrical",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4626 Northpark Drive",
+      "phone": "719-785-0600",
+      "website": "https://www.cityelectricsupply.com",
+      "lat": 38.9105,
+      "lon": -104.7927,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Acuity Brands",
+        "Eaton",
+        "Fluke",
+        "Hubbell",
+        "Klein Tools",
+        "Leviton",
+        "Lutron",
+        "Milwaukee",
+        "Philips",
+        "RAB Lighting",
+        "Schneider Electric",
+        "Siemens",
+        "Southwire",
+        "Square D"
       ],
-      "address": {
-        "line1": "4626 Northpark Drive",
-        "line2": null,
-        "city": "Colorado Springs",
-        "state": "CO",
-        "postalCode": "80918"
-      },
-      "contact": {
-        "phone": "719-785-0600",
-        "website": "https://www.cityelectricsupply.com",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.9105,
-        "lon": -104.7927,
-        "arrivalLat": 38.910556,
-        "arrivalLon": -104.792644,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Acuity Brands",
-          "Eaton",
-          "Fluke",
-          "Hubbell",
-          "Klein Tools",
-          "Leviton",
-          "Lutron",
-          "Milwaukee",
-          "Philips",
-          "RAB Lighting",
-          "Schneider Electric",
-          "Siemens",
-          "Southwire",
-          "Square D"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "City Electric Supply Colorado Springs Central branch with 7,500 sq ft showroom. New location opened in 2024 to support Colorado Springs growth. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
-        "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
-      ],
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -449,7 +369,36 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "sources": [
+        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
+        "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.910556,
+      "arrivalLon": -104.792644,
+      "arrivalType": "storefront"
     }
+  ],
+  "auditStatus": "expanded",
+  "auditNotes": [
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
+    "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
+    "Added confirmed electrical storefronts; coords pending verification.",
+    "Coordinates verified for all listed branches.",
+    "2025-12-25: Added 1 Rexel electrical branch entries (verified via Rexel location pages).",
+    "2025-12-26: Comprehensive expansion - Added City Electric Supply Colorado Springs Central (new 2024 location with verified address and phone). Removed second CES branch pending address verification."
   ]
 }

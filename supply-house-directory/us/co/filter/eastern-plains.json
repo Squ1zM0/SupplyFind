@@ -1,20 +1,8 @@
 {
   "version": "EASTERN_PLAINS_FILTER_AUDIT_v1",
-  "updated": "2025-12-26",
-  "country": "US",
+  "trade": "filter",
+  "metro": "Eastern Plains",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "eastern-plains",
-    "name": "Eastern Plains"
-  },
-  "scope": {
-    "trade": "filter"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [],
-    "verificationMode": null
-  },
+  "updated": "2025-12-26",
   "branches": []
 }

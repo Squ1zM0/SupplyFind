@@ -1,74 +1,36 @@
 {
   "version": "EASTERN_PLAINS_PLUMBING_EXPANSION_v1",
-  "updated": "2025-12-26",
-  "country": "US",
+  "trade": "plumbing",
+  "metro": "Eastern Plains",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "eastern-plains",
-    "name": "Eastern Plains"
-  },
-  "scope": {
-    "trade": "plumbing"
-  },
-  "audit": {
-    "status": "expanded",
-    "notes": [
-      "2025-12-26: Added 2 plumbing supply houses to Eastern Plains region: Dahl Fort Morgan and Dahl Sterling",
-      "2025-12-26: All entries verified as physical storefront plumbing wholesalers using authoritative sources",
-      "2025-12-26: Eastern Plains now has appropriate coverage for rural plumbing supply needs"
-    ],
-    "verificationMode": null
-  },
+  "updated": "2025-12-26",
   "branches": [
     {
       "id": "co-fort-morgan-dahl-plumbing-1",
       "name": "Dahl Plumbing - Fort Morgan",
       "chain": "Hajoca (Dahl)",
-      "trades": [
-        "Plumbing"
+      "trade": "plumbing",
+      "address1": "19637 US Hwy 34",
+      "address2": "",
+      "city": "Fort Morgan",
+      "state": "CO",
+      "postalCode": "80701",
+      "phone": "970-867-2456",
+      "website": "https://dahlfortmorgan.com/",
+      "lat": 40.243623,
+      "lon": -103.842296,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
       ],
-      "address": {
-        "line1": "19637 US Hwy 34",
-        "line2": "",
-        "city": "Fort Morgan",
-        "state": "CO",
-        "postalCode": "80701"
-      },
-      "contact": {
-        "phone": "970-867-2456",
-        "website": "https://dahlfortmorgan.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 40.243623,
-        "lon": -103.842296,
-        "arrivalLat": 40.243679,
-        "arrivalLon": -103.84224,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Delta",
-          "Kohler",
-          "Bradford White",
-          "Charlotte Pipe",
-          "AO Smith",
-          "American Standard",
-          "Watts"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eastern Plains region carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "https://www.hajoca.com/suppliers/",
-        "https://dahlfortmorgan.com/"
-      ],
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -76,56 +38,51 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/",
+        "https://dahlfortmorgan.com/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.243679,
+      "arrivalLon": -103.84224,
+      "arrivalType": "will_call"
     },
     {
       "id": "co-sterling-dahl-plumbing-1",
       "name": "Dahl Plumbing - Sterling",
       "chain": "Hajoca (Dahl)",
-      "trades": [
-        "Plumbing"
+      "trade": "plumbing",
+      "address1": "155 Cucarola Rd #A",
+      "address2": "",
+      "city": "Sterling",
+      "state": "CO",
+      "postalCode": "80751",
+      "phone": "970-522-9879",
+      "website": "https://dahlplumbing.com/sterling/",
+      "lat": 40.628109,
+      "lon": -103.216985,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "AO Smith",
+        "American Standard",
+        "Watts"
       ],
-      "address": {
-        "line1": "155 Cucarola Rd #A",
-        "line2": "",
-        "city": "Sterling",
-        "state": "CO",
-        "postalCode": "80751"
-      },
-      "contact": {
-        "phone": "970-522-9879",
-        "website": "https://dahlplumbing.com/sterling/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 40.628109,
-        "lon": -103.216985,
-        "arrivalLat": 40.628165,
-        "arrivalLon": -103.216929,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Delta",
-          "Kohler",
-          "Bradford White",
-          "Charlotte Pipe",
-          "AO Smith",
-          "American Standard",
-          "Watts"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Sterling and northeastern Colorado carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.hajoca.com/suppliers/",
-        "https://dahlplumbing.com/sterling/"
-      ],
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -133,7 +90,30 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/",
+        "https://dahlplumbing.com/sterling/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 40.628165,
+      "arrivalLon": -103.216929,
+      "arrivalType": "will_call"
     }
+  ],
+  "auditStatus": "expanded",
+  "auditNotes": [
+    "2025-12-26: Added 2 plumbing supply houses to Eastern Plains region: Dahl Fort Morgan and Dahl Sterling",
+    "2025-12-26: All entries verified as physical storefront plumbing wholesalers using authoritative sources",
+    "2025-12-26: Eastern Plains now has appropriate coverage for rural plumbing supply needs"
   ]
 }

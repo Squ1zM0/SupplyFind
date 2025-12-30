@@ -1,81 +1,58 @@
 {
   "version": "audited_zero_v1",
-  "updated": "2025-12-29",
-  "country": "US",
+  "trade": "hvac",
+  "metro": "Western Slope",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "western-slope",
-    "name": "Western Slope"
-  },
-  "scope": {
-    "trade": "hvac"
-  },
-  "audit": {
-    "status": "expanded",
-    "notes": [
-      "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
-      "2025-12-25: Added Gustave A. Larson branch (Grand Junction).",
-      "2025-12-26: Added Johnstone Supply Durango and Sid Harvey Grand Junction locations identified in expansion research.",
-      "2025-12-29: Added CFM Company Grand Junction west office location."
-    ],
-    "verificationMode": null
-  },
   "branches": [
     {
       "id": "co-grand-junction-johnstone-1",
       "name": "Johnstone Supply - Grand Junction",
       "chain": "Johnstone Supply",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "3192 Hall Ave",
-        "line2": "",
-        "city": "Grand Junction",
-        "state": "CO",
-        "postalCode": "81504"
+      "trade": "hvac",
+      "address1": "3192 Hall Ave",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81504",
+      "phone": "970-434-1374",
+      "website": "https://www.johnstonesupply.com/",
+      "lat": 39.08907,
+      "lon": -108.51499,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "accuracy": {
+        "address": "verified",
+        "phone": "verified",
+        "coordinates": "verified"
       },
-      "contact": {
-        "phone": "970-434-1374",
-        "website": "https://www.johnstonesupply.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.08907,
-        "lon": -108.51499,
-        "arrivalLat": 39.08907,
-        "arrivalLon": -108.51499,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Goodman",
-          "Amana",
-          "Lennox",
-          "Daikin",
-          "Bosch",
-          "Fujitsu",
-          "Copeland",
-          "Honeywell"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Major HVAC distributor with 30,000+ products from 400+ vendors. Source: Johnstone Supply line card, verified 2025-12-26",
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
+      ],
+      "services": [],
       "sources": [
         "https://www.johnstonesupply.com/locations",
         "https://www.google.com/maps/place/Johnstone+Supply+Grand+Junction"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Johnstone Store Locator",
@@ -87,60 +64,56 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.08907,
+      "arrivalLon": -108.51499,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-galarson-north-ave-001",
-      "name": "Gustave A. Larson – Grand Junction",
+      "name": "Gustave A. Larson \u2013 Grand Junction",
       "chain": "Gustave A. Larson",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "2930 North Ave",
-        "line2": "",
-        "city": "Grand Junction",
-        "state": "CO",
-        "postalCode": "81504-5490"
-      },
-      "contact": {
-        "phone": "970-245-6278",
-        "website": "https://www.galarson.com/locations",
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.0781,
-        "lon": -108.5454,
-        "arrivalLat": 39.0781,
-        "arrivalLon": -108.5454,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Carrier",
-          "Bryant",
-          "Payne",
-          "Trane",
-          "Rheem",
-          "Ruud"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "2930 North Ave",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81504-5490",
+      "phone": "970-245-6278",
+      "website": "https://www.galarson.com/locations",
+      "lat": 39.0781,
+      "lon": -108.5454,
+      "coverage": "metro",
+      "verified": "needs_verification",
+      "verifiedDate": "",
+      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "HVAC distributor. Regional HVAC distributor, verified 2025-12-26",
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne",
+        "Trane",
+        "Rheem",
+        "Ruud"
+      ],
+      "services": [],
       "sources": [
         "https://www.galarson.com/locations",
         "https://www.google.com/maps/place/Gustave+A+Larson+Grand+Junction"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -152,63 +125,59 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.0781,
+      "arrivalLon": -108.5454,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-durango-johnstone-girard-001",
       "name": "Johnstone Supply - Durango",
       "chain": "Johnstone Supply",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "120-B Girard Street",
-        "line2": "",
-        "city": "Durango",
-        "state": "CO",
-        "postalCode": "81303"
-      },
-      "contact": {
-        "phone": "(970) 382-8075",
-        "website": "https://www.johnstonesupply.com",
-        "hours": null
-      },
-      "geo": {
-        "lat": 37.2417,
-        "lon": -107.8689,
-        "arrivalLat": 37.2417,
-        "arrivalLon": -107.8689,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Goodman",
-          "Amana",
-          "Lennox",
-          "Daikin",
-          "Bosch",
-          "Fujitsu",
-          "Copeland",
-          "Honeywell"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Refrigeration"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "120-B Girard Street",
+      "address2": "",
+      "city": "Durango",
+      "state": "CO",
+      "postalCode": "81303",
+      "phone": "(970) 382-8075",
+      "website": "https://www.johnstonesupply.com",
+      "lat": 37.2417,
+      "lon": -107.8689,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "notes": "Serves southwestern Colorado HVAC contractors",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Serves southwestern Colorado HVAC contractors",
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Amana",
+        "Lennox",
+        "Daikin",
+        "Bosch",
+        "Fujitsu",
+        "Copeland",
+        "Honeywell"
+      ],
+      "services": [],
       "sources": [
         "https://www.johnstonesupply.com/locations",
         "https://www.google.com/maps/place/Johnstone+Supply+Durango"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple HVAC Directories",
@@ -220,61 +189,57 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 37.2417,
+      "arrivalLon": -107.8689,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grandjunction-sidharvey-i70-001",
       "name": "Sid Harvey - Grand Junction",
       "chain": "Sid Harvey",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "2922A I-70 Business Loop",
-        "line2": "",
-        "city": "Grand Junction",
-        "state": "CO",
-        "postalCode": "81504"
-      },
-      "contact": {
-        "phone": "(970) 256-0700",
-        "website": "https://www.sidharvey.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.082866,
-        "lon": -108.527343,
-        "arrivalLat": 39.082866,
-        "arrivalLon": -108.527343,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "Goodman",
-          "Armstrong Air",
-          "Rheem",
-          "Mitsubishi Electric",
-          "Honeywell",
-          "Fujitsu"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Refrigeration"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "2922A I-70 Business Loop",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81504",
+      "phone": "(970) 256-0700",
+      "website": "https://www.sidharvey.com/",
+      "lat": 39.082866,
+      "lon": -108.527343,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-26",
+      "notes": "Western slope HVAC distributor",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Western slope HVAC distributor",
+      "partsFor": [
+        "HVAC",
+        "Refrigeration"
+      ],
+      "brandsRep": [
+        "Goodman",
+        "Armstrong Air",
+        "Rheem",
+        "Mitsubishi Electric",
+        "Honeywell",
+        "Fujitsu"
+      ],
+      "services": [],
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/Locations",
         "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -286,113 +251,109 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.082866,
+      "arrivalLon": -108.527343,
+      "arrivalType": "storefront"
     },
     {
       "id": "co-grand-junction-cfm-westgate-001",
       "name": "CFM Company - Grand Junction (West Office)",
       "chain": "CFM Company",
-      "trades": [
-        "HVAC"
-      ],
-      "address": {
-        "line1": "575 S Westgate Dr, Ste C",
-        "line2": "",
-        "city": "Grand Junction",
-        "state": "CO",
-        "postalCode": "81505"
-      },
-      "contact": {
-        "phone": "(970) 245-5700",
-        "website": "https://www.cfmcompany.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 39.0868,
-        "lon": -108.5911,
-        "arrivalLat": 39.0868,
-        "arrivalLon": -108.5911,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-29",
-        "geoSource": "MapQuest"
-      },
-      "brands": {
-        "brandsRep": [
-          "ABB",
-          "AboveAir",
-          "Advanced Cooling Technologies",
-          "Advanced Thermal Hydronics",
-          "Airedale by Modine",
-          "Alfa Laval",
-          "Armstrong Fluid Technology",
-          "Baltimore Aircoil Company",
-          "Blender Products",
-          "Bromic Heating",
-          "Chil-Pak",
-          "Climate by Design International",
-          "Desert Aire",
-          "Dri-Steem",
-          "Ductsox",
-          "Dynamic Air Quality Solutions",
-          "Enervex",
-          "FanAm",
-          "Flexmaster USA",
-          "Governair",
-          "Greenheck",
-          "Hansentek",
-          "Huntair",
-          "Indeeco",
-          "Johnson Controls",
-          "Koch Filters",
-          "Magic Aire",
-          "Mammoth",
-          "Monoxivent",
-          "Nordfab Ducting",
-          "Olimpia Splendid",
-          "Paragon Controls",
-          "Powered Aire",
-          "Price Industries",
-          "Puroflux",
-          "RBI Boilers",
-          "Roberts Gordon",
-          "Roof Products and Systems",
-          "Runtal",
-          "Samsung HVAC",
-          "Selkirk",
-          "Semco",
-          "Smardt",
-          "Smith Cast Iron Boilers",
-          "SolutionAir",
-          "Technical Systems Inc",
-          "Temtrol",
-          "Thermaduct",
-          "Tigerflow",
-          "Vaughan Air",
-          "Venmar CES",
-          "Vent Products",
-          "Veotec",
-          "Vibro-Acoustics",
-          "WaterFurnace International",
-          "Young Regulator"
-        ],
-        "manufacturersPartsFor": [
-          "HVAC",
-          "Commercial HVAC",
-          "Hydronic Systems",
-          "Ventilation"
-        ]
-      },
+      "trade": "hvac",
+      "address1": "575 S Westgate Dr, Ste C",
+      "address2": "",
+      "city": "Grand Junction",
+      "state": "CO",
+      "postalCode": "81505",
+      "phone": "(970) 245-5700",
+      "website": "https://www.cfmcompany.com/",
+      "lat": 39.0868,
+      "lon": -108.5911,
+      "coverage": "regional",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-29",
+      "notes": "Independent HVAC and plumbing manufacturer's representative serving western Colorado. West office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "notes": "Independent HVAC and plumbing manufacturer's representative serving western Colorado. West office location. Specializes in commercial HVAC equipment, hydronic systems, and ventilation products.",
+      "partsFor": [
+        "HVAC",
+        "Commercial HVAC",
+        "Hydronic Systems",
+        "Ventilation"
+      ],
+      "brandsRep": [
+        "ABB",
+        "AboveAir",
+        "Advanced Cooling Technologies",
+        "Advanced Thermal Hydronics",
+        "Airedale by Modine",
+        "Alfa Laval",
+        "Armstrong Fluid Technology",
+        "Baltimore Aircoil Company",
+        "Blender Products",
+        "Bromic Heating",
+        "Chil-Pak",
+        "Climate by Design International",
+        "Desert Aire",
+        "Dri-Steem",
+        "Ductsox",
+        "Dynamic Air Quality Solutions",
+        "Enervex",
+        "FanAm",
+        "Flexmaster USA",
+        "Governair",
+        "Greenheck",
+        "Hansentek",
+        "Huntair",
+        "Indeeco",
+        "Johnson Controls",
+        "Koch Filters",
+        "Magic Aire",
+        "Mammoth",
+        "Monoxivent",
+        "Nordfab Ducting",
+        "Olimpia Splendid",
+        "Paragon Controls",
+        "Powered Aire",
+        "Price Industries",
+        "Puroflux",
+        "RBI Boilers",
+        "Roberts Gordon",
+        "Roof Products and Systems",
+        "Runtal",
+        "Samsung HVAC",
+        "Selkirk",
+        "Semco",
+        "Smardt",
+        "Smith Cast Iron Boilers",
+        "SolutionAir",
+        "Technical Systems Inc",
+        "Temtrol",
+        "Thermaduct",
+        "Tigerflow",
+        "Vaughan Air",
+        "Venmar CES",
+        "Vent Products",
+        "Veotec",
+        "Vibro-Acoustics",
+        "WaterFurnace International",
+        "Young Regulator"
+      ],
+      "services": [],
       "sources": [
         "https://www.cfmcompany.com/contact/",
         "https://www.cfmcompany.com/manufacturers-line-card/"
       ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official Company Website",
@@ -403,7 +364,21 @@
         ],
         "coords_verified": "2025-12-29",
         "geocoding_method": "MapQuest verified coordinates"
-      }
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-29",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.0868,
+      "arrivalLon": -108.5911,
+      "arrivalType": "storefront"
     }
-  ]
+  ],
+  "auditStatus": "expanded",
+  "auditNotes": [
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-25: Added Gustave A. Larson branch (Grand Junction).",
+    "2025-12-26: Added Johnstone Supply Durango and Sid Harvey Grand Junction locations identified in expansion research.",
+    "2025-12-29: Added CFM Company Grand Junction west office location."
+  ],
+  "updated": "2025-12-29"
 }

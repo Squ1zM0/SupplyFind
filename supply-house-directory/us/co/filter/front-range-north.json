@@ -1,59 +1,27 @@
 {
   "version": "FRONT_RANGE_NORTH_FILTER_AUDIT_v1",
-  "updated": "2025-12-26",
-  "country": "US",
+  "trade": "filter",
+  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "front-range-north",
-    "name": "Front Range North (Fort Collins / Loveland / Greeley)"
-  },
-  "scope": {
-    "trade": "filter"
-  },
-  "audit": {
-    "status": "in_progress",
-    "notes": [],
-    "verificationMode": null
-  },
+  "updated": "2025-12-26",
   "branches": [
     {
       "id": "filtersource-fort-collins",
       "name": "FilterSource LLC",
       "chain": "Independent",
-      "trades": [
-        "Filter"
-      ],
-      "address": {
-        "line1": "328 S Link Ln #14",
-        "line2": null,
-        "city": "Fort Collins",
-        "state": "CO",
-        "postalCode": "80524"
-      },
-      "contact": {
-        "phone": "970-204-4758",
-        "website": "https://www.industrialfiltersource.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 40.58329,
-        "lon": -105.04913,
-        "arrivalLat": 40.583374,
-        "arrivalLon": -105.049046,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-26",
-        "geoSource": "Verified source"
-      },
-      "brands": {
-        "brandsRep": [],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "trade": "filter",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80524",
+      "address1": "328 S Link Ln #14",
+      "phone": "970-204-4758",
+      "website": "https://www.industrialfiltersource.com/",
+      "lat": 40.58329,
+      "lon": -105.04913,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
       "notes": "Industrial filters distributor offering air, liquid, gas, hydraulic, and water filtration products. Specializes in OEM replacements, custom applications, and short lead times for manufacturing, cleanrooms, wastewater. Serves manufacturing, bakeries, breweries, chemical plants, HVAC, oil & gas, power generation, water/wastewater treatment. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
-      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -63,7 +31,23 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Industrial Filtration",
+        "HVAC Air Filters",
+        "Water Filtration",
+        "Hydraulic Filters",
+        "Gas Filters"
+      ],
+      "trades": [
+        "Filter"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source",
+      "arrivalLat": 40.583374,
+      "arrivalLon": -105.049046,
+      "arrivalType": "storefront"
     }
   ]
 }
