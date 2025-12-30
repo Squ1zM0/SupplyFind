@@ -8,7 +8,7 @@ SupplyFind helps contractors quickly locate nearby supply houses with accurate a
 
 - **Precision geolocation**: Coordinates verified to route to actual customer entrances, not road centerlines
 - **Verified addresses**: Every address sourced from official company websites or Google Business profiles
-- **Trade-specific data**: Organized by trade (HVAC, electrical, plumbing, filters) for quick filtering
+- **Trade-specific data**: Organized by trade (HVAC, electrical, plumbing, filter) for quick filtering
 - **Rich metadata**: Brands carried, services offered, coverage areas, and contact information
 
 ## 📁 Repository Structure
@@ -23,7 +23,7 @@ supply-house-directory/
 │       │   └── ...
 │       ├── electrical/              # Electrical supply houses
 │       ├── plumbing/                # Plumbing supply houses
-│       └── filters/                 # Filter supply houses
+│       └── filter/                  # Filter supply houses
 ├── _meta/                           # Metadata files
 │   ├── brands.json                  # Brand listings
 │   ├── chains.json                  # Chain/company information
@@ -50,7 +50,7 @@ Each branch includes:
 - `id`: Unique branch identifier
 - `name`: Branch display name
 - `chain`: Parent company/chain name
-- `trade`: Primary trade category (hvac, electrical, plumbing, filters)
+- `trade`: Primary trade category (hvac, electrical, plumbing, filter)
 - `address1`, `address2`, `city`, `state`, `postalCode`: Physical address
 - `phone`: Contact phone number
 - `website`: Branch or chain website
