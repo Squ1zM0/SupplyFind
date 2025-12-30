@@ -1,43 +1,77 @@
 {
   "version": "1.1",
-  "metro": "Colorado Springs",
-  "state": "CO",
   "updated": "2025-12-27",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "colorado-springs-metro",
+    "name": "Colorado Springs"
+  },
+  "scope": {
+    "trade": "multi"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [
+      "2025-12-26: Added brand verification for Sid Harvey and Johnstone Supply",
+      "2025-12-26: Added 3 new HVAC distributors: Charles D Jones Company, Lohmiller & Company, Rampart Supply"
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Colorado Springs",
+      "name": "Comfort Air Distributing – Colorado Springs",
       "chain": "Comfort Air Distributing",
-      "address1": "3275 N El Paso St",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17194738000",
-      "lat": 38.8754,
-      "lon": -104.8272,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "3275 N El Paso St",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80907"
+      },
+      "contact": {
+        "phone": "+17194738000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8754,
+        "lon": -104.8272,
+        "arrivalLat": 38.875456,
+        "arrivalLon": -104.827144,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "Rheem",
+          "Honeywell",
+          "Aprilaire",
+          "LG",
+          "Bosch",
+          "Nu-Calgon"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80907",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -45,52 +79,63 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.875456,
-      "arrivalLon": -104.827144,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply \u2013 Colorado Springs",
+      "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
-      "address1": "3720 E Pikes Peak Ave",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17196350000",
-      "lat": 38.845617,
-      "lon": -104.757164,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "3720 E Pikes Peak Ave",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80907"
+      },
+      "contact": {
+        "phone": "+17196350000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.845617,
+        "lon": -104.757164,
+        "arrivalLat": 38.845617,
+        "arrivalLon": -104.757164,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Goodman",
+          "Amana",
+          "Lennox",
+          "Daikin",
+          "Bosch",
+          "Fujitsu",
+          "Copeland",
+          "Honeywell"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
-      ],
-      "brandsRep": [
-        "Goodman",
-        "Amana",
-        "Lennox",
-        "Daikin",
-        "Bosch",
-        "Fujitsu",
-        "Copeland",
-        "Honeywell"
-      ],
-      "partsFor": [
-        "HVAC"
       ],
       "notes": "Johnstone Supply location with full brand line card. Source: johnstonesupply.com, verified 2025-12-26",
       "sources": [
         "https://www.johnstonesupply.com/locations",
         "https://www.google.com/maps/place/Johnstone+Supply+Colorado+Springs"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80907",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Johnstone Store Locator",
@@ -102,41 +147,55 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.845617,
-      "arrivalLon": -104.757164,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Colorado Springs",
+      "name": "Lennox Stores – Colorado Springs",
       "chain": "Lennox Stores",
-      "address1": "5850 Tutt Blvd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17195916000",
-      "lat": 38.8945,
-      "lon": -104.69581,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "5850 Tutt Blvd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80923"
+      },
+      "contact": {
+        "phone": "+17195916000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8945,
+        "lon": -104.69581,
+        "arrivalLat": 38.8945,
+        "arrivalLon": -104.69581,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps + MapQuest verified entrance"
+      },
+      "brands": {
+        "brandsRep": [
+          "Lennox"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Lennox"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Coordinate refinement 2025-12-27: Moved from boulevard road position to building entrance. Boulevard location required precise entrance-level coordinates.]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "LennoxPros store locator"
       ],
-      "postalCode": "80923",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -144,48 +203,59 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "LennoxPros store locator"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified entrance",
-      "arrivalLat": 38.8945,
-      "arrivalLon": -104.69581,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Colorado Springs",
+      "name": "WinSupply HVAC – Colorado Springs",
       "chain": "WinSupply HVAC",
-      "address1": "3110 N Stone Ave",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "(719) 578-0722",
-      "lat": 38.87698,
-      "lon": -104.81656,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "3110 N Stone Ave",
+        "line2": "Suite 180",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80907"
+      },
+      "contact": {
+        "phone": "(719) 578-0722",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.87698,
+        "lon": -104.81656,
+        "arrivalLat": 38.87698,
+        "arrivalLon": -104.81656,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Web search verified coordinates"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Rheem",
+          "Ruud"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
+      "sources": [
+        "https://www.winsupplyinc.com/locations"
       ],
-      "postalCode": "80907",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "GPS coordinates from web verification",
@@ -197,53 +267,60 @@
           "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80907/HVAC-Supplies",
           "https://www.manta.com/c/mhqpctk/winsupply-inc"
         ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.winsupplyinc.com/locations"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Web search verified coordinates",
-      "arrivalLat": 38.87698,
-      "arrivalLon": -104.81656,
-      "arrivalType": "will_call",
-      "address2": "Suite 180"
+      }
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey \u2013 Colorado Springs",
+      "name": "Sid Harvey – Colorado Springs",
       "chain": "Sid Harvey",
-      "address1": "901 Motor City Dr",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17196335000",
-      "lat": 38.8122,
-      "lon": -104.8244,
+      "trades": [
+        "HVAC"
+      ],
+      "address": {
+        "line1": "901 Motor City Dr",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80905"
+      },
+      "contact": {
+        "phone": "+17196335000",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8122,
+        "lon": -104.8244,
+        "arrivalLat": 38.812256,
+        "arrivalLon": -104.824344,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Previously verified during geocoding audit"
+      },
+      "brands": {
+        "brandsRep": [
+          "Goodman",
+          "Armstrong Air",
+          "Rheem",
+          "Mitsubishi Electric",
+          "Honeywell",
+          "Fujitsu"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "equipment",
         "parts"
       ],
-      "brandsRep": [
-        "Goodman",
-        "Armstrong Air",
-        "Rheem",
-        "Mitsubishi Electric",
-        "Honeywell",
-        "Fujitsu"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
       "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/OurBrands"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80905",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -251,42 +328,54 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.812256,
-      "arrivalLon": -104.824344,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply \u2013 Colorado Springs",
+      "name": "CT Supply – Colorado Springs",
       "chain": "CT Supply",
-      "address1": "6260 Omaha Blvd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17199419930",
-      "lat": 38.874312,
-      "lon": -104.715174,
-      "brandsRep": [],
-      "partsFor": [
-        "HVAC equipment",
-        "HVAC parts",
-        "Tools"
+      "trades": [
+        "HVAC"
       ],
+      "address": {
+        "line1": "6260 Omaha Blvd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80915"
+      },
+      "contact": {
+        "phone": "+17199419930",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.874312,
+        "lon": -104.715174,
+        "arrivalLat": 38.874368,
+        "arrivalLon": -104.715118,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps + MapQuest verified entrance coordinates"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": [
+          "HVAC equipment",
+          "HVAC parts",
+          "Tools"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
       ],
-      "latLonSource": "MapQuest address page (6260 Omaha Blvd)",
-      "latLonVerifiedAt": "2025-12-25",
-      "latLonVerified": true,
-      "trades": [
-        "HVAC"
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [
+        "Official company contact required"
       ],
-      "postalCode": "80915",
       "verification": {
         "coords_verified": "2025-12-27",
         "geocoding_method": "Previously verified during geocoding audit",
@@ -297,44 +386,55 @@
         "sources": [
           "https://www.ctsupplyinc.com/"
         ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "Official company contact required"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified entrance coordinates",
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "arrivalLat": 38.874368,
-      "arrivalLon": -104.715118,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries \u2013 Colorado Springs",
+      "name": "Hercules Industries – Colorado Springs",
       "chain": "Hercules Industries",
-      "address1": "1383 Vapor Trl",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17195743231",
-      "lat": 38.80057,
-      "lon": -104.72562,
-      "brandsRep": [],
-      "partsFor": [
-        "HVAC sheet metal",
-        "HVAC supplies",
-        "Tools"
+      "trades": [
+        "HVAC"
       ],
+      "address": {
+        "line1": "1383 Vapor Trl",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80916"
+      },
+      "contact": {
+        "phone": "+17195743231",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.80057,
+        "lon": -104.72562,
+        "arrivalLat": 38.800626,
+        "arrivalLon": -104.725564,
+        "arrivalType": "will_call",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": [
+          "HVAC sheet metal",
+          "HVAC supplies",
+          "Tools"
+        ]
+      },
       "tags": [
         "hvac",
         "sheet-metal",
         "wholesale"
       ],
-      "latLonVerified": false,
-      "latLonNeedsPrecise": true,
-      "latLonSource": "MapQuest business listing (address verified; coords pending precise geocode)",
-      "latLonVerifiedAt": "2025-12-25",
+      "notes": "",
+      "sources": [
+        "https://www.herculesindustries.com/locations/"
+      ],
       "verification": {
         "coords_verified": "2025-12-26",
         "addressVerified": true,
@@ -343,60 +443,62 @@
         "sources": [
           "https://www.herculesindustries.com/locations"
         ]
-      },
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80916",
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.herculesindustries.com/locations/"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 38.800626,
-      "arrivalLon": -104.725564,
-      "arrivalType": "will_call"
+      }
     },
     {
       "id": "co-colorado-springs-united-refrigeration-1",
       "name": "United Refrigeration Inc (Branch 408)",
       "chain": "United Refrigeration",
-      "address1": "772 Clark Pl",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17196356700",
-      "lat": 38.8822,
-      "lon": -104.7635,
-      "brandsRep": [
-        "Copeland",
-        "Daikin",
-        "Bosch",
-        "Amana",
-        "Honeywell",
-        "Emerson",
-        "Aprilaire",
-        "Mueller Industries"
-      ],
-      "partsFor": [
+      "trades": [
         "HVAC"
       ],
+      "address": {
+        "line1": "772 Clark Pl",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80915"
+      },
+      "contact": {
+        "phone": "+17196356700",
+        "website": "https://www.uri.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8822,
+        "lon": -104.7635,
+        "arrivalLat": 38.8822,
+        "arrivalLon": -104.7635,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps"
+      },
+      "brands": {
+        "brandsRep": [
+          "Copeland",
+          "Daikin",
+          "Bosch",
+          "Amana",
+          "Honeywell",
+          "Emerson",
+          "Aprilaire",
+          "Mueller Industries"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "refrigeration",
         "wholesale"
       ],
-      "website": "https://www.uri.com/",
+      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
       "sources": [
         "https://www.uri.com/locations/"
       ],
-      "notes": "Major independent HVAC/R distributor carrying Copeland, Daikin, Bosch, Honeywell, Emerson, and other leading brands. Source: URI official line card, verified 2025-12-26",
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "postalCode": "80915",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -407,49 +509,60 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 38.8822,
-      "arrivalLon": -104.7635,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
       "name": "Blazer Electric Supply",
       "chain": "Blazer Electric Supply",
-      "address1": "6125 Omaha Blvd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+17195961333",
-      "lat": 38.870465,
-      "lon": -104.722245,
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Southwire",
-        "Milwaukee"
-      ],
-      "partsFor": [
+      "trades": [
         "Electrical"
       ],
+      "address": {
+        "line1": "6125 Omaha Blvd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80915"
+      },
+      "contact": {
+        "phone": "+17195961333",
+        "website": "https://www.buyblazer.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.870465,
+        "lon": -104.722245,
+        "arrivalLat": 38.870465,
+        "arrivalLon": -104.722245,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Eaton",
+          "Hubbell",
+          "Leviton",
+          "Southwire",
+          "Milwaukee"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical"
+        ]
+      },
       "tags": [
         "electrical",
         "wholesale"
       ],
-      "website": "https://www.buyblazer.com/",
+      "notes": "",
       "sources": [
         "https://www.google.com/maps/place/Blazer+Electric+Supply+Colorado+Springs",
         "https://www.mapquest.com/us/colorado/blazer-electric-supply-company-263530383"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80915",
-      "coordsStatus": "verified",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & MapQuest Verified",
@@ -461,58 +574,70 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.870465,
-      "arrivalLon": -104.722245,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-graybar-001",
       "name": "Graybar (Colorado Springs)",
       "chain": "Graybar",
-      "address1": "4635 Galley Rd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-380-4500",
-      "lat": 38.868938,
-      "lon": -104.734612,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "4635 Galley Rd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80915"
+      },
+      "contact": {
+        "phone": "719-380-4500",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.868938,
+        "lon": -104.734612,
+        "arrivalLat": 38.868938,
+        "arrivalLon": -104.734612,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Square D",
+          "Siemens",
+          "Hubbell",
+          "Lithonia Lighting",
+          "Acuity Brands",
+          "Southwire",
+          "Belden",
+          "Panduit",
+          "Fluke",
+          "3M"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
-      ],
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia Lighting",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
       ],
       "notes": "Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
       "sources": [
         "https://www.graybar.com/store/CSCO",
         "https://www.google.com/maps/place/Graybar+Colorado+Springs"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80915",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Graybar Official Website",
@@ -524,60 +649,71 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.868938,
-      "arrivalLon": -104.734612,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-city-electric-001",
       "name": "City Electric Supply (Colorado Springs - Northpark)",
       "chain": "City Electric Supply",
-      "address1": "4626 Northpark Dr",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-895-1400",
-      "lat": 38.9105,
-      "lon": -104.7927,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "4626 Northpark Dr",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80918"
+      },
+      "contact": {
+        "phone": "719-895-1400",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.9105,
+        "lon": -104.7927,
+        "arrivalLat": 38.910556,
+        "arrivalLon": -104.792644,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Southwire",
+          "Siemens",
+          "Eaton",
+          "Square D",
+          "Schneider Electric",
+          "Philips",
+          "Acuity Brands",
+          "RAB Lighting",
+          "Lutron",
+          "Klein Tools",
+          "Fluke",
+          "Milwaukee",
+          "Hubbell",
+          "Leviton"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
         "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80918",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -589,60 +725,71 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.910556,
-      "arrivalLon": -104.792644,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-city-electric-002",
       "name": "City Electric Supply (Colorado Springs - Woolsey Hts)",
       "chain": "City Electric Supply",
-      "address1": "1478 Woolsey Hts",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "",
-      "lat": 38.8732,
-      "lon": -104.7204,
+      "trades": [
+        "Electrical"
+      ],
+      "address": {
+        "line1": "1478 Woolsey Hts",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80915"
+      },
+      "contact": {
+        "phone": "",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8732,
+        "lon": -104.7204,
+        "arrivalLat": 38.8732,
+        "arrivalLon": -104.7204,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Southwire",
+          "Siemens",
+          "Eaton",
+          "Square D",
+          "Schneider Electric",
+          "Philips",
+          "Acuity Brands",
+          "RAB Lighting",
+          "Lutron",
+          "Klein Tools",
+          "Fluke",
+          "Milwaukee",
+          "Hubbell",
+          "Leviton"
+        ],
+        "manufacturersPartsFor": [
+          "Electrical",
+          "Lighting",
+          "Wire & Cable",
+          "Tools",
+          "Controls"
+        ]
+      },
       "tags": [
         "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
       ],
       "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
       "sources": [
         "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs",
         "https://servlectric.com/branch/city-electric-supply-colorado-springs"
       ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80915",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Directories",
@@ -654,55 +801,66 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.8732,
-      "arrivalLon": -104.7204,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-ferguson-002",
       "name": "Ferguson Plumbing Supply (Colorado Springs - Northpark)",
       "chain": "Ferguson",
-      "address1": "4875 Northpark Dr",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-260-9446",
-      "lat": 38.9152,
-      "lon": -104.8003,
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "address": {
+        "line1": "4875 Northpark Dr",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80918"
+      },
+      "contact": {
+        "phone": "719-260-9446",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.9152,
+        "lon": -104.8003,
+        "arrivalLat": 38.915256,
+        "arrivalLon": -104.800244,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "American Standard",
+          "Fujitsu",
+          "Mitsubishi Electric",
+          "Carrier",
+          "Bryant",
+          "Honeywell",
+          "Rheem",
+          "Amana",
+          "Kohler",
+          "Moen",
+          "Delta"
+        ],
+        "manufacturersPartsFor": [
+          "Plumbing"
+        ]
+      },
       "tags": [
         "plumbing"
-      ],
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi Electric",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "partsFor": [
-        "Plumbing"
       ],
       "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "sources": [
         "https://www.ferguson.com/store/co/colorado-springs",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
       ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "postalCode": "80918",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -714,38 +872,53 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.915256,
-      "arrivalLon": -104.800244,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-charlesdjones-sierramadre-001",
       "name": "Charles D Jones Company - Colorado Springs",
       "chain": "Charles D Jones Company",
-      "address1": "822 S Sierra Madre St, Ste A",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-635-5573",
-      "lat": 38.8503,
-      "lon": -104.8214,
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Trane",
-        "Lennox",
-        "Rheem",
-        "Goodman"
+      "trades": [
+        "HVAC"
       ],
-      "partsFor": [
-        "HVAC",
-        "Refrigeration"
-      ],
+      "address": {
+        "line1": "822 S Sierra Madre St, Ste A",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80903"
+      },
+      "contact": {
+        "phone": "719-635-5573",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8503,
+        "lon": -104.8214,
+        "arrivalLat": 38.8503,
+        "arrivalLon": -104.8214,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne",
+          "Trane",
+          "Lennox",
+          "Rheem",
+          "Goodman"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Refrigeration"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale",
@@ -756,11 +929,6 @@
         "https://www.cdjones.com/",
         "https://www.mapquest.com/us/colorado/charles-d-jones-401304732"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "postalCode": "80903",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -771,32 +939,48 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 38.8503,
-      "arrivalLon": -104.8214,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-lohmiller-newport-001",
       "name": "Lohmiller & Company - Colorado Springs",
       "chain": "Lohmiller & Company",
-      "address1": "930 N Newport Rd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-444-0505",
-      "lat": 38.8625,
-      "lon": -104.8509,
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne"
-      ],
-      "partsFor": [
+      "trades": [
         "HVAC"
       ],
+      "address": {
+        "line1": "930 N Newport Rd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80907"
+      },
+      "contact": {
+        "phone": "719-444-0505",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8625,
+        "lon": -104.8509,
+        "arrivalLat": 38.8625,
+        "arrivalLon": -104.8509,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps"
+      },
+      "brands": {
+        "brandsRep": [
+          "Carrier",
+          "Bryant",
+          "Payne"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC"
+        ]
+      },
       "tags": [
         "hvac",
         "wholesale"
@@ -805,11 +989,6 @@
       "sources": [
         "https://www.lohmiller.com/colorado-springs/"
       ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "postalCode": "80907",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -820,36 +999,54 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 38.8625,
-      "arrivalLon": -104.8509,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "co-cos-rampart-union-001",
       "name": "Rampart Supply - Colorado Springs",
       "chain": "Rampart Supply",
-      "address1": "1801 N Union Blvd",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-471-7200",
-      "lat": 38.8756,
-      "lon": -104.8275,
-      "brandsRep": [
-        "Lochinvar",
-        "Weil-McLain",
-        "Viessmann",
-        "Navien",
-        "Rinnai",
-        "Bradford White"
-      ],
-      "partsFor": [
+      "trades": [
         "HVAC",
         "Plumbing"
       ],
+      "primaryTrade": "HVAC",
+      "address": {
+        "line1": "1801 N Union Blvd",
+        "line2": null,
+        "city": "Colorado Springs",
+        "state": "CO",
+        "postalCode": "80909"
+      },
+      "contact": {
+        "phone": "719-471-7200",
+        "website": null,
+        "hours": null
+      },
+      "geo": {
+        "lat": 38.8756,
+        "lon": -104.8275,
+        "arrivalLat": 38.8756,
+        "arrivalLon": -104.8275,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps"
+      },
+      "brands": {
+        "brandsRep": [
+          "Lochinvar",
+          "Weil-McLain",
+          "Viessmann",
+          "Navien",
+          "Rinnai",
+          "Bradford White"
+        ],
+        "manufacturersPartsFor": [
+          "HVAC",
+          "Plumbing"
+        ]
+      },
       "tags": [
         "hvac",
         "plumbing",
@@ -862,13 +1059,6 @@
         "https://www.rampartsupply.com/",
         "https://www.yellowpages.com/colorado-springs-co/mip/rampart-supply-576600743"
       ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "HVAC",
-      "coordsStatus": "verified",
-      "postalCode": "80909",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -879,18 +1069,7 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 38.8756,
-      "arrivalLon": -104.8275,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditStatus": "in_progress",
-  "auditNotes": [
-    "2025-12-26: Added brand verification for Sid Harvey and Johnstone Supply",
-    "2025-12-26: Added 3 new HVAC distributors: Charles D Jones Company, Lohmiller & Company, Rampart Supply"
   ]
 }

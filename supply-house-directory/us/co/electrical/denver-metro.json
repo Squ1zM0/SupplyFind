@@ -1,35 +1,75 @@
 {
   "version": "DENVER_ELECTRICAL_FINAL_AUDIT_v1",
-  "trade": "electrical",
-  "metro": "Denver Metro",
-  "state": "CO",
   "updated": "2025-12-25",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "denver-metro",
+    "name": "Denver Metro"
+  },
+  "scope": {
+    "trade": "electrical"
+  },
+  "audit": {
+    "status": "expanded",
+    "notes": [
+      "2025-12-25: Chain-by-chain web storefront audit for Denver Metro. Added confirmed storefronts with addresses/phones; coordinates left as needs_verify unless sourced.",
+      "Next: verify remaining CES satellite branches (Commerce City, Stapleton, etc.) and Platt presence using official locator; coordinate verification for all branches.",
+      "Final Denver Metro electrical audit complete. All entries verified as physical storefront counters.",
+      "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
+      "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research.",
+      "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply (2 locations), WESCO E 47th Ave, and City Electric Supply branches (Boulder, Centennial, Broomfield). All verified via official sources and business directories.",
+      "2025-12-27: WESCO audit and correction - Removed invalid WESCO entries (756 S Jason St, 6883 E 47th Ave Dr). Updated 11198 E 45th Ave entry to reflect actual operating name 'KVA Supply Co' (WESCO subsidiary). Only one WESCO-affiliated location remains in Denver metro per verified ground truth."
+    ],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "anixter-denver-10432-e-49th",
       "name": "Anixter - Denver",
       "chain": "Anixter",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80238",
-      "address1": "10432 E 49th Avenue",
-      "phone": "303-373-9200",
-      "website": "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html",
-      "lat": 39.7862,
-      "lon": -104.8655,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Panduit",
-        "Belden",
-        "CommScope",
-        "Cisco",
-        "Fluke",
-        "3M",
-        "Hubbell"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "10432 E 49th Avenue",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80238"
+      },
+      "contact": {
+        "phone": "303-373-9200",
+        "website": "https://www.anixter.com/en_us/about-us/contact-us/global-locations-contact-info/usa/colorado/denver.html",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7862,
+        "lon": -104.8655,
+        "arrivalLat": 39.7862,
+        "arrivalLon": -104.8655,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Panduit",
+          "Belden",
+          "CommScope",
+          "Cisco",
+          "Fluke",
+          "3M",
+          "Hubbell"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Anixter Denver location page. Data communication and electrical distributor specializing in network infrastructure and electrical products. Verified 2025-12-26",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -41,54 +81,60 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7862,
-      "arrivalLon": -104.8655,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "border-states-denver-5475-joliet",
       "name": "Border States Electric - Denver",
       "chain": "Border States",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80239",
-      "address1": "5475 Joliet St Unit B",
-      "phone": "720-531-9895",
-      "website": "https://solutions.borderstates.com/branch-locations/",
-      "lat": 39.794972,
-      "lon": -104.860753,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Acuity Brands",
-        "Eaton",
-        "Hubbell",
-        "Schneider Electric",
-        "Legrand",
-        "Leviton",
-        "Milwaukee",
-        "nVent",
-        "Rockwell Automation",
-        "Southwire",
-        "Belden"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "5475 Joliet St Unit B",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80239"
+      },
+      "contact": {
+        "phone": "720-531-9895",
+        "website": "https://solutions.borderstates.com/branch-locations/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.794972,
+        "lon": -104.860753,
+        "arrivalLat": 39.795028,
+        "arrivalLon": -104.860697,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Acuity Brands",
+          "Eaton",
+          "Hubbell",
+          "Schneider Electric",
+          "Legrand",
+          "Leviton",
+          "Milwaukee",
+          "nVent",
+          "Rockwell Automation",
+          "Southwire",
+          "Belden"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Border States Denver branch. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "sources": [
+        "https://www.borderstates.com/brands"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -100,65 +146,69 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.borderstates.com/brands"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.795028,
-      "arrivalLon": -104.860697,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ced-denver-2405-w-5th",
       "name": "CED (Consolidated Electrical Distributors) - Denver",
       "chain": "CED",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80204",
-      "address1": "2405 W 5th Avenue",
-      "phone": "303-623-1233",
-      "website": "https://denver.portalced.com/",
-      "lat": 39.72423,
-      "lon": -105.01515,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Acuity Brands",
-        "Belden",
-        "Brady",
-        "Cantex",
-        "Cooper",
-        "Eaton",
-        "Fluke",
-        "Greenlee",
-        "Hubbell",
-        "Ideal",
-        "Klein Tools",
-        "Leviton",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Panduit",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "2405 W 5th Avenue",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80204"
+      },
+      "contact": {
+        "phone": "303-623-1233",
+        "website": "https://denver.portalced.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.72423,
+        "lon": -105.01515,
+        "arrivalLat": 39.72423,
+        "arrivalLon": -105.01515,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Acuity Brands",
+          "Belden",
+          "Brady",
+          "Cantex",
+          "Cooper",
+          "Eaton",
+          "Fluke",
+          "Greenlee",
+          "Hubbell",
+          "Ideal",
+          "Klein Tools",
+          "Leviton",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Panduit",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Wholesale electrical distributor branch. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "sources": [
+        "https://denver.portalced.com/",
+        "https://www.engproducts.com/distributor/denver/co/ced"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -170,60 +220,63 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://denver.portalced.com/",
-        "https://www.engproducts.com/distributor/denver/co/ced"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.72423,
-      "arrivalLon": -105.01515,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ces-denver-central-2630-w-2nd",
       "name": "City Electric Supply - Denver Central (Colorado Electric Supply)",
       "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80219",
-      "address1": "2630 W 2nd Ave",
-      "phone": "303-996-0111",
-      "website": "https://www.cityelectricsupply.com/branch/301",
-      "lat": 39.718955,
-      "lon": -105.019012,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider Electric",
-        "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "2630 W 2nd Ave",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80219"
+      },
+      "contact": {
+        "phone": "303-996-0111",
+        "website": "https://www.cityelectricsupply.com/branch/301",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.718955,
+        "lon": -105.019012,
+        "arrivalLat": 39.718955,
+        "arrivalLon": -105.019012,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "Southwire",
+          "Siemens",
+          "Eaton",
+          "Square D",
+          "Schneider Electric",
+          "Philips",
+          "Acuity Brands",
+          "RAB Lighting",
+          "Lutron",
+          "Klein Tools",
+          "Fluke",
+          "Milwaukee",
+          "Hubbell",
+          "Leviton"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "CES/Colorado Electric Supply branch; coordinates sourced from public directory and should be re-verified. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
+      "sources": [
+        "https://www.google.com/maps/place/City+Electric+Supply+Denver",
+        "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
+      ],
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Multiple Verified Directories",
@@ -235,54 +288,54 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Denver",
-        "https://www.loc8nearme.com/colorado/denver/city-electric-supply/"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.718955,
-      "arrivalLon": -105.019012,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "crescent-electric-denver-5925-washington",
       "name": "Crescent Electric Supply Company - Denver (Branch #B080)",
       "chain": "Crescent Electric",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80216",
-      "address1": "5925 Washington St Ste 300",
-      "phone": "303-629-1188",
-      "website": "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave",
-      "lat": 39.804388,
-      "lon": -104.977336,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "5925 Washington St Ste 300",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80216"
+      },
+      "contact": {
+        "phone": "303-629-1188",
+        "website": "https://www.crescentelectric.com/locations/co/denver/1780-w-6th-ave",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.804388,
+        "lon": -104.977336,
+        "arrivalLat": 39.804388,
+        "arrivalLon": -104.977336,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Eaton",
+          "Hubbell",
+          "Leviton",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Klein Tools",
+          "Southwire"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Crescent Electric Denver branch listing. Electrical supply distributor. National electrical distributor, verified 2025-12-26",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -293,55 +346,62 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.804388,
-      "arrivalLon": -104.977336,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "graybar-denver-area-service-center-480-e-55th",
       "name": "Graybar (Denver Area Service Center)",
       "chain": "Graybar",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80216",
-      "address1": "480 E 55TH AVE UNIT 500",
-      "phone": "720-602-4400",
-      "website": "https://www.graybar.com/store/DESC/co/denver",
-      "lat": 39.7972,
-      "lon": -104.9816,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia Lighting",
-        "Acuity Brands",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "480 E 55TH AVE UNIT 500",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80216"
+      },
+      "contact": {
+        "phone": "720-602-4400",
+        "website": "https://www.graybar.com/store/DESC/co/denver",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7972,
+        "lon": -104.9816,
+        "arrivalLat": 39.797256,
+        "arrivalLon": -104.981544,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Square D",
+          "Siemens",
+          "Hubbell",
+          "Lithonia Lighting",
+          "Acuity Brands",
+          "Southwire",
+          "Belden",
+          "Panduit",
+          "Fluke",
+          "3M"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Full-service counter + will call. Sales office at same address uses different main phone. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "sources": [
+        "https://www.graybar.com/store/DESC/co/denver",
+        "https://www.graybar.com/store/DECO/co/denver"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -353,51 +413,51 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.graybar.com/store/DESC/co/denver",
-        "https://www.graybar.com/store/DECO/co/denver"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.797256,
-      "arrivalLon": -104.981544,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "qed-denver-1661-w-3rd",
       "name": "Quality Electrical Distribution (QED) - Denver",
       "chain": "QED",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80223",
-      "address1": "1661 W 3rd Ave",
-      "phone": "303-825-5011",
-      "website": "https://www.qedelectric.com/about/location/denver",
-      "lat": 39.7154,
-      "lon": -105.0052,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Leviton",
-        "Hubbell",
-        "Lithonia Lighting"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "1661 W 3rd Ave",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80223"
+      },
+      "contact": {
+        "phone": "303-825-5011",
+        "website": "https://www.qedelectric.com/about/location/denver",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7154,
+        "lon": -105.0052,
+        "arrivalLat": 39.715456,
+        "arrivalLon": -105.005144,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Square D",
+          "Eaton",
+          "Leviton",
+          "Hubbell",
+          "Lithonia Lighting"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "QED Denver branch. Regional electrical distributor. Quality Electrical Distribution, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -409,56 +469,62 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.715456,
-      "arrivalLon": -105.005144,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "rexel-denver-425-quivas",
       "name": "Rexel Denver (#7325)",
       "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80204",
-      "address1": "425 Quivas Street",
-      "phone": "303-572-7100",
-      "website": "https://www.rexelusa.com/locations/co/denver/7325",
-      "lat": 39.7247,
-      "lon": -105.0044,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "425 Quivas Street",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80204"
+      },
+      "contact": {
+        "phone": "303-572-7100",
+        "website": "https://www.rexelusa.com/locations/co/denver/7325",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7247,
+        "lon": -105.0044,
+        "arrivalLat": 39.7247,
+        "arrivalLon": -105.0044,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Belden",
+          "Lithonia Lighting",
+          "Acuity Brands",
+          "Klein Tools",
+          "Milwaukee",
+          "Fluke",
+          "Greenlee",
+          "Panduit",
+          "Hubbell"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Counter / will-call branch. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "sources": [
+        "https://www.rexelusa.com/locations/co/denver/7325"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -469,59 +535,62 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/co/denver/7325"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.7247,
-      "arrivalLon": -105.0044,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "rexel-denver-east-11175-e-55th",
       "name": "Rexel Denver East / Aurora (#3201)",
       "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80239",
-      "address1": "11175 E 55th Ave, Unit 100",
-      "phone": "303-728-5888",
-      "website": "https://www.rexelusa.com/locations/co/denver-east/3201",
-      "lat": 39.7962,
-      "lon": -104.7836,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
-      "notes": "DC + will-call at same physical site \u2014 single entry only. Aurora/Denver East branch combining distribution center and customer counter. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "address": {
+        "line1": "11175 E 55th Ave, Unit 100",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80239"
+      },
+      "contact": {
+        "phone": "303-728-5888",
+        "website": "https://www.rexelusa.com/locations/co/denver-east/3201",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7962,
+        "lon": -104.7836,
+        "arrivalLat": 39.796256,
+        "arrivalLon": -104.783544,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Belden",
+          "Lithonia Lighting",
+          "Acuity Brands",
+          "Klein Tools",
+          "Milwaukee",
+          "Fluke",
+          "Greenlee",
+          "Panduit",
+          "Hubbell"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
+      "notes": "DC + will-call at same physical site — single entry only. Aurora/Denver East branch combining distribution center and customer counter. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "sources": [
+        "https://www.rexelusa.com/locations/co/denver-east/3201"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -532,59 +601,62 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/co/denver-east/3201"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.796256,
-      "arrivalLon": -104.783544,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "kva-supply-denver-11198-e-45th",
       "name": "KVA Supply Co",
       "chain": "WESCO",
       "operatingName": "KVA Supply Co",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80239",
-      "address1": "11198 E 45th Ave",
-      "phone": "303-217-7500",
-      "website": "https://buy.wesco.com/content/kvasupply",
-      "lat": 39.779135,
-      "lon": -104.856062,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Leviton",
-        "Hubbell",
-        "Panduit",
-        "Southwire",
-        "Belden",
-        "Fluke",
-        "Klein Tools",
-        "Milwaukee",
-        "Lithonia Lighting"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "11198 E 45th Ave",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80239"
+      },
+      "contact": {
+        "phone": "303-217-7500",
+        "website": "https://buy.wesco.com/content/kvasupply",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.779135,
+        "lon": -104.856062,
+        "arrivalLat": 39.779191,
+        "arrivalLon": -104.856006,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Siemens",
+          "Leviton",
+          "Hubbell",
+          "Panduit",
+          "Southwire",
+          "Belden",
+          "Fluke",
+          "Klein Tools",
+          "Milwaukee",
+          "Lithonia Lighting"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27.",
+      "sources": [
+        "https://buy.wesco.com/content/kvasupply"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -597,59 +669,62 @@
         "addressVerified": true,
         "addressSource": "Google Business Profile & WESCO Official Website",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://buy.wesco.com/content/kvasupply"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.779191,
-      "arrivalLon": -104.856006,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "rexel-centennial-7611",
       "name": "Rexel - Centennial (#7611)",
       "chain": "Rexel",
-      "trade": "electrical",
-      "city": "Centennial",
-      "state": "CO",
-      "postalCode": "80112",
-      "address1": "14678 E Easter Ave",
-      "phone": "303-680-8400",
-      "website": "https://www.rexelusa.com/locations/co/centennial/7611",
-      "lat": 39.58701,
-      "lon": -104.82012,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
-        "Klein Tools",
-        "Milwaukee",
-        "Fluke",
-        "Greenlee",
-        "Panduit",
-        "Hubbell"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "14678 E Easter Ave",
+        "line2": null,
+        "city": "Centennial",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "303-680-8400",
+        "website": "https://www.rexelusa.com/locations/co/centennial/7611",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.58701,
+        "lon": -104.82012,
+        "arrivalLat": 39.58701,
+        "arrivalLon": -104.82012,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Eaton",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Belden",
+          "Lithonia Lighting",
+          "Acuity Brands",
+          "Klein Tools",
+          "Milwaukee",
+          "Fluke",
+          "Greenlee",
+          "Panduit",
+          "Hubbell"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Rexel branch serving Centennial / south Denver metro. Full-line electrical distributor representing ABB, Eaton, Schneider Electric, Siemens, and other major brands. Source: Rexel USA official brand catalog, verified 2025-12-26",
+      "sources": [
+        "https://www.rexelusa.com/locations/co/centennial/7611"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-25",
         "sources": [
@@ -660,65 +735,69 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-25"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.rexelusa.com/locations/co/centennial/7611"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.58701,
-      "arrivalLon": -104.82012,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ced-centennial-jordan-001",
       "name": "CED - Centennial",
       "chain": "CED",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80238",
-      "address1": "9300 E 46th Place",
-      "phone": "(303) 733-2211",
-      "website": "https://ceddenvereast.portalced.com",
-      "lat": 39.7821,
-      "lon": -104.8772,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Acuity Brands",
-        "Belden",
-        "Brady",
-        "Cantex",
-        "Cooper",
-        "Eaton",
-        "Fluke",
-        "Greenlee",
-        "Hubbell",
-        "Ideal",
-        "Klein Tools",
-        "Leviton",
-        "Lithonia Lighting",
-        "Milwaukee",
-        "Panduit",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "9300 E 46th Place",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80238"
+      },
+      "contact": {
+        "phone": "(303) 733-2211",
+        "website": "https://ceddenvereast.portalced.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7821,
+        "lon": -104.8772,
+        "arrivalLat": 39.7821,
+        "arrivalLon": -104.8772,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps pin"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Acuity Brands",
+          "Belden",
+          "Brady",
+          "Cantex",
+          "Cooper",
+          "Eaton",
+          "Fluke",
+          "Greenlee",
+          "Hubbell",
+          "Ideal",
+          "Klein Tools",
+          "Leviton",
+          "Lithonia Lighting",
+          "Milwaukee",
+          "Panduit",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "CED electrical supply serving Denver metro. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+      "sources": [
+        "https://ceddenvereast.portalced.com/ContactUs",
+        "https://www.mapquest.com/us/colorado/ced-denver-east-549202296"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -730,58 +809,60 @@
         "addressVerified": true,
         "addressSource": "Official CED Website & Google Business Profile",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://ceddenvereast.portalced.com/ContactUs",
-        "https://www.mapquest.com/us/colorado/ced-denver-east-549202296"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.7821,
-      "arrivalLon": -104.8772,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "borderstates-brighton-havana-001",
       "name": "Border States Electric - Brighton",
       "chain": "Border States",
-      "trade": "electrical",
-      "city": "Brighton",
-      "state": "CO",
-      "postalCode": "80601",
-      "address1": "10899 Havana Street",
-      "phone": "",
-      "website": "https://solutions.borderstates.com/branch-locations/",
-      "lat": 39.919988,
-      "lon": -104.852623,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "ABB",
-        "Acuity Brands",
-        "Eaton",
-        "Hubbell",
-        "Schneider Electric",
-        "Legrand",
-        "Leviton",
-        "Milwaukee",
-        "nVent",
-        "Rockwell Automation",
-        "Southwire",
-        "Belden"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "10899 Havana Street",
+        "line2": null,
+        "city": "Brighton",
+        "state": "CO",
+        "postalCode": "80601"
+      },
+      "contact": {
+        "phone": "",
+        "website": "https://solutions.borderstates.com/branch-locations/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.919988,
+        "lon": -104.852623,
+        "arrivalLat": 39.919988,
+        "arrivalLon": -104.852623,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "ABB",
+          "Acuity Brands",
+          "Eaton",
+          "Hubbell",
+          "Schneider Electric",
+          "Legrand",
+          "Leviton",
+          "Milwaukee",
+          "nVent",
+          "Rockwell Automation",
+          "Southwire",
+          "Belden"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Border States serving northern metro Denver area. Electrical distributor representing ABB, Acuity, Eaton, Hubbell, Schneider Electric, and other leading manufacturers. Source: Border States official brands page, verified 2025-12-26",
+      "sources": [
+        "https://www.borderstates.com/brands"
+      ],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -792,52 +873,53 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.borderstates.com/brands"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.919988,
-      "arrivalLon": -104.852623,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
       "name": "Elliott Electric Supply - Denver",
       "chain": "Elliott Electric Supply",
-      "trade": "electrical",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80238",
-      "address1": "10070 E 40th Ave",
-      "phone": "720-259-9108",
-      "website": "https://www.elliottelectric.com",
-      "lat": 39.770928,
-      "lon": -104.868599,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Eaton",
-        "Schneider Electric",
-        "Hubbell",
-        "Legrand",
-        "Lithonia Lighting",
-        "Cooper Lighting",
-        "Acuity Brands"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "10070 E 40th Ave",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80238"
+      },
+      "contact": {
+        "phone": "720-259-9108",
+        "website": "https://www.elliottelectric.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.770928,
+        "lon": -104.868599,
+        "arrivalLat": 39.770984,
+        "arrivalLon": -104.868543,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Eaton",
+          "Schneider Electric",
+          "Hubbell",
+          "Legrand",
+          "Lithonia Lighting",
+          "Cooper Lighting",
+          "Acuity Brands"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Elliott Electric Supply Denver branch. Full-service electrical distributor for commercial, industrial, and residential contractors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -849,49 +931,53 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.770984,
-      "arrivalLon": -104.868543,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "elliott-electric-centennial-15152-fremont",
       "name": "Elliott Electric Supply - Centennial",
       "chain": "Elliott Electric Supply",
-      "trade": "electrical",
-      "city": "Centennial",
-      "state": "CO",
-      "postalCode": "80112",
-      "address1": "15152 E Fremont Dr",
-      "phone": "720-278-7555",
-      "website": "https://www.elliottelectric.com",
-      "lat": 39.583993,
-      "lon": -104.812113,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Eaton",
-        "Schneider Electric",
-        "Hubbell",
-        "Legrand",
-        "Lithonia Lighting",
-        "Cooper Lighting",
-        "Acuity Brands"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "15152 E Fremont Dr",
+        "line2": null,
+        "city": "Centennial",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "720-278-7555",
+        "website": "https://www.elliottelectric.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.583993,
+        "lon": -104.812113,
+        "arrivalLat": 39.583993,
+        "arrivalLon": -104.812113,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Eaton",
+          "Schneider Electric",
+          "Hubbell",
+          "Legrand",
+          "Lithonia Lighting",
+          "Cooper Lighting",
+          "Acuity Brands"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -902,56 +988,60 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.583993,
-      "arrivalLon": -104.812113,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ces-denver-boulder-001",
       "name": "City Electric Supply - Boulder",
       "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Boulder",
-      "state": "CO",
-      "postalCode": "80301",
-      "address1": "3245 Prairie Ave",
-      "phone": "720-974-4774",
-      "website": "https://www.cityelectricsupply.com",
-      "lat": 40.034143,
-      "lon": -105.248774,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Acuity Brands",
-        "Eaton",
-        "Fluke",
-        "Hubbell",
-        "Klein Tools",
-        "Leviton",
-        "Lutron",
-        "Milwaukee",
-        "Philips",
-        "RAB Lighting",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "3245 Prairie Ave",
+        "line2": null,
+        "city": "Boulder",
+        "state": "CO",
+        "postalCode": "80301"
+      },
+      "contact": {
+        "phone": "720-974-4774",
+        "website": "https://www.cityelectricsupply.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 40.034143,
+        "lon": -105.248774,
+        "arrivalLat": 40.034199,
+        "arrivalLon": -105.248718,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "gps-coordinates.org"
+      },
+      "brands": {
+        "brandsRep": [
+          "Acuity Brands",
+          "Eaton",
+          "Fluke",
+          "Hubbell",
+          "Klein Tools",
+          "Leviton",
+          "Lutron",
+          "Milwaukee",
+          "Philips",
+          "RAB Lighting",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "City Electric Supply Boulder branch. Full-service electrical distributor for residential, commercial, and industrial contractors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -963,55 +1053,60 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.034199,
-      "arrivalLon": -105.248718,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ces-centennial-001",
       "name": "City Electric Supply - Centennial (Denver South)",
       "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Centennial",
-      "state": "CO",
-      "postalCode": "80112",
-      "address1": "7318 S Revere Parkway, Suite B3",
-      "phone": "303-858-9988",
-      "website": "https://www.cityelectricsupply.com",
-      "lat": 39.581452,
-      "lon": -104.831279,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Acuity Brands",
-        "Eaton",
-        "Fluke",
-        "Hubbell",
-        "Klein Tools",
-        "Leviton",
-        "Lutron",
-        "Milwaukee",
-        "Philips",
-        "RAB Lighting",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "7318 S Revere Parkway, Suite B3",
+        "line2": null,
+        "city": "Centennial",
+        "state": "CO",
+        "postalCode": "80112"
+      },
+      "contact": {
+        "phone": "303-858-9988",
+        "website": "https://www.cityelectricsupply.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.581452,
+        "lon": -104.831279,
+        "arrivalLat": 39.581536,
+        "arrivalLon": -104.831195,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Google Maps + MapQuest verified coordinates"
+      },
+      "brands": {
+        "brandsRep": [
+          "Acuity Brands",
+          "Eaton",
+          "Fluke",
+          "Hubbell",
+          "Klein Tools",
+          "Leviton",
+          "Lutron",
+          "Milwaukee",
+          "Philips",
+          "RAB Lighting",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -1023,55 +1118,60 @@
         "addressVerified": true,
         "addressSource": "City Electric Supply Official Website & Google Business Profile",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified coordinates",
-      "arrivalLat": 39.581536,
-      "arrivalLon": -104.831195,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "ces-broomfield-001",
       "name": "City Electric Supply - Broomfield",
       "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Broomfield",
-      "state": "CO",
-      "postalCode": "80020",
-      "address1": "2380 W Midway Blvd, Suite 2",
-      "phone": "303-466-4618",
-      "website": "https://www.cityelectricsupply.com",
-      "lat": 39.92775,
-      "lon": -105.06912,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Acuity Brands",
-        "Eaton",
-        "Fluke",
-        "Hubbell",
-        "Klein Tools",
-        "Leviton",
-        "Lutron",
-        "Milwaukee",
-        "Philips",
-        "RAB Lighting",
-        "Schneider Electric",
-        "Siemens",
-        "Southwire",
-        "Square D"
+      "trades": [
+        "Electrical"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "2380 W Midway Blvd, Suite 2",
+        "line2": null,
+        "city": "Broomfield",
+        "state": "CO",
+        "postalCode": "80020"
+      },
+      "contact": {
+        "phone": "303-466-4618",
+        "website": "https://www.cityelectricsupply.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.92775,
+        "lon": -105.06912,
+        "arrivalLat": 39.927834,
+        "arrivalLon": -105.069036,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "MapQuest + verified business directories"
+      },
+      "brands": {
+        "brandsRep": [
+          "Acuity Brands",
+          "Eaton",
+          "Fluke",
+          "Hubbell",
+          "Klein Tools",
+          "Leviton",
+          "Lutron",
+          "Milwaukee",
+          "Philips",
+          "RAB Lighting",
+          "Schneider Electric",
+          "Siemens",
+          "Southwire",
+          "Square D"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "City Electric Supply Broomfield branch. Wholesale electrical supplies for residential, commercial, and industrial projects. Verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite on Midway Blvd - moved to Suite 2 entrance. Industrial location with verified customer entrance.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -1083,32 +1183,7 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + verified business directories",
-      "arrivalLat": 39.927834,
-      "arrivalLon": -105.069036,
-      "arrivalType": "storefront"
+      }
     }
-  ],
-  "auditStatus": "expanded",
-  "auditNotes": [
-    "2025-12-25: Chain-by-chain web storefront audit for Denver Metro. Added confirmed storefronts with addresses/phones; coordinates left as needs_verify unless sourced.",
-    "Next: verify remaining CES satellite branches (Commerce City, Stapleton, etc.) and Platt presence using official locator; coordinate verification for all branches.",
-    "Final Denver Metro electrical audit complete. All entries verified as physical storefront counters.",
-    "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
-    "2025-12-26: Added CED Centennial, Rexel Denver Quivas St, and Border States Brighton locations identified in expansion research.",
-    "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply (2 locations), WESCO E 47th Ave, and City Electric Supply branches (Boulder, Centennial, Broomfield). All verified via official sources and business directories.",
-    "2025-12-27: WESCO audit and correction - Removed invalid WESCO entries (756 S Jason St, 6883 E 47th Ave Dr). Updated 11198 E 45th Ave entry to reflect actual operating name 'KVA Supply Co' (WESCO subsidiary). Only one WESCO-affiliated location remains in Denver metro per verified ground truth."
   ]
 }

@@ -1,33 +1,65 @@
 {
   "version": "DENVER_FILTER_AUDIT_v1",
-  "trade": "filter",
-  "metro": "Denver Metro",
-  "state": "CO",
   "updated": "2025-12-26",
+  "country": "US",
+  "state": "CO",
+  "area": {
+    "kind": "metro",
+    "id": "denver-metro",
+    "name": "Denver Metro"
+  },
+  "scope": {
+    "trade": "filter"
+  },
+  "audit": {
+    "status": "in_progress",
+    "notes": [],
+    "verificationMode": null
+  },
   "branches": [
     {
       "id": "colorado-air-filter-denver-platte",
       "name": "Colorado Air Filter LLC - Denver",
       "chain": "Colorado Air Filter",
-      "trade": "filter",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80223",
-      "address1": "1495 S Platte River Dr",
-      "phone": "303-893-3030",
-      "website": "https://www.coloradoairfilter.com/",
-      "lat": 39.688315,
-      "lon": -105.008916,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Glasfloss",
-        "Rensa Filtration",
-        "Mann + Hummel",
-        "Mikropor",
-        "Columbus Industries"
+      "trades": [
+        "Filter"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "1495 S Platte River Dr",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80223"
+      },
+      "contact": {
+        "phone": "303-893-3030",
+        "website": "https://www.coloradoairfilter.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.688315,
+        "lon": -105.008916,
+        "arrivalLat": 39.688371,
+        "arrivalLon": -105.00886,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [
+          "Glasfloss",
+          "Rensa Filtration",
+          "Mann + Hummel",
+          "Mikropor",
+          "Columbus Industries"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Largest locally owned air filter distributor in the Rocky Mountain region. Specializes in commercial and industrial HVAC air filters, cleanroom, hospital, manufacturing facility solutions. NAFA certified technicians. Same-day service and custom-sized filters made on site. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -37,40 +69,45 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Industrial Filtration",
-        "Cleanroom Filtration",
-        "Water Filtration"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.688371,
-      "arrivalLon": -105.00886,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "camfil-denver-8th-ave",
       "name": "Camfil - Denver (DBA Air Filter Solutions)",
       "chain": "Camfil",
-      "trade": "filter",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80204",
-      "address1": "2500 West 8th Ave, Ste B",
-      "phone": "303-893-3030",
-      "website": "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
-      "lat": 39.7288,
-      "lon": -105.0182,
-      "coordsStatus": "verified",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
+      "trades": [
+        "Filter"
+      ],
+      "address": {
+        "line1": "2500 West 8th Ave, Ste B",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80204"
+      },
+      "contact": {
+        "phone": "303-893-3030",
+        "website": "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7288,
+        "lon": -105.0182,
+        "arrivalLat": 39.728856,
+        "arrivalLon": -105.018144,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -80,41 +117,45 @@
         "addressVerified": true,
         "addressSource": "Web Verification - Official Company Sources",
         "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "HEPA Filters",
-        "ULPA Filters",
-        "Carbon Filters",
-        "Dust Collectors"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.728856,
-      "arrivalLon": -105.018144,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "alpine-air-filter-littleton",
       "name": "Alpine Air Filter and Clean Rooms",
       "chain": "Independent",
-      "trade": "filter",
-      "city": "Littleton",
-      "state": "CO",
-      "postalCode": "80127",
-      "address1": "10747 West Peakview Drive",
-      "phone": "303-598-4026",
-      "website": "https://www.alpineairfilterandcleanrooms.com/",
-      "lat": 39.598667,
-      "lon": -105.11894,
-      "coordsStatus": "verified",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
+      "trades": [
+        "Filter"
+      ],
+      "address": {
+        "line1": "10747 West Peakview Drive",
+        "line2": null,
+        "city": "Littleton",
+        "state": "CO",
+        "postalCode": "80127"
+      },
+      "contact": {
+        "phone": "303-598-4026",
+        "website": "https://www.alpineairfilterandcleanrooms.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.598667,
+        "lon": -105.11894,
+        "arrivalLat": 39.598723,
+        "arrivalLon": -105.118884,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Family-owned filter specialist. Custom air filter solutions, installation services, and full-service cleanroom filtration. Serves commercial and industrial sectors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -123,39 +164,45 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Cleanroom Filtration",
-        "Custom Air Filters"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.598723,
-      "arrivalLon": -105.118884,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "superior-filtration-denver-yuma",
       "name": "Superior Filtration Products",
       "chain": "Independent",
-      "trade": "filter",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80219",
-      "address1": "209 Yuma St, Unit 3",
-      "phone": "303-742-8888",
-      "website": "https://www.superiorfiltrationproducts.com/",
-      "lat": 39.7129,
-      "lon": -105.0111,
-      "coordsStatus": "verified",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
+      "trades": [
+        "Filter"
+      ],
+      "address": {
+        "line1": "209 Yuma St, Unit 3",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80219"
+      },
+      "contact": {
+        "phone": "303-742-8888",
+        "website": "https://www.superiorfiltrationproducts.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7129,
+        "lon": -105.0111,
+        "arrivalLat": 39.7129,
+        "arrivalLon": -105.0111,
+        "arrivalType": "entrance",
+        "coordsStatus": "verified",
+        "geoPrecision": "entrance",
+        "geoVerifiedDate": "2025-12-27",
+        "geoSource": "Official Website + Google Business Profile"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Industrial and residential filter supplier. Specializes in HVAC air filters, water filtration systems, pre-filters, final filters, HEPA filters, frames, and housings. Offers installation and consultation. ADDRESS CORRECTED 2025-12-27: Updated from 2650 W 3rd Ave Unit 3 to 209 Yuma St Unit 3 (official website and Google Business Profile confirmed address). Multi-tenant industrial complex - Unit 3 entrance.",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
@@ -168,47 +215,52 @@
         "addressVerifiedDate": "2025-12-27",
         "previousAddress": "2650 W 3rd Ave, Unit 3 (incorrect - found during address audit)",
         "correctionReason": "Directions/address mismatch - Google Maps was showing different location than dataset. Official website and Google Business Profile both confirm 209 Yuma St, Unit 3 as correct physical location."
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Water Filtration",
-        "HEPA Filters",
-        "Industrial Filtration"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Official Website + Google Business Profile",
-      "arrivalLat": 39.7129,
-      "arrivalLon": -105.0111,
-      "arrivalType": "entrance"
+      }
     },
     {
       "id": "air-force-filter-denver-bryant",
       "name": "Air Force Filter & Supply",
       "chain": "Independent",
-      "trade": "filter",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80219",
-      "address1": "225 Bryant St",
-      "phone": "303-922-5000",
-      "website": "http://www.airforcefilter.com",
-      "lat": 39.7136,
-      "lon": -105.0252,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Tri-dim",
-        "Glasfloss",
-        "Purolator",
-        "Clarcor",
-        "Columbus Industries",
-        "Air Flow Technologies"
+      "trades": [
+        "Filter"
       ],
-      "manufacturersPartsFor": [],
+      "address": {
+        "line1": "225 Bryant St",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80219"
+      },
+      "contact": {
+        "phone": "303-922-5000",
+        "website": "http://www.airforcefilter.com",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7136,
+        "lon": -105.0252,
+        "arrivalLat": 39.713656,
+        "arrivalLon": -105.025144,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [
+          "Tri-dim",
+          "Glasfloss",
+          "Purolator",
+          "Clarcor",
+          "Columbus Industries",
+          "Air Flow Technologies"
+        ],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Manufacturer and distributor of HVAC and industrial air filters. Family-owned since 1999. Offers standard and custom-made filters, replacement filters for a wide range of systems. Provides diagnostic, maintenance, and efficiency consultation. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -218,39 +270,45 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Industrial Filtration",
-        "Custom Air Filters"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.713656,
-      "arrivalLon": -105.025144,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "scan-air-filters-wheat-ridge",
       "name": "Scan Air Filters",
       "chain": "Independent",
-      "trade": "filter",
-      "city": "Wheat Ridge",
-      "state": "CO",
-      "postalCode": "80033",
-      "address1": "10250 W 44th Ave",
-      "phone": "303-420-7226",
-      "website": "https://scanaircolorado.com/",
-      "lat": 39.7786,
-      "lon": -105.1126,
-      "coordsStatus": "verified",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
+      "trades": [
+        "Filter"
+      ],
+      "address": {
+        "line1": "10250 W 44th Ave",
+        "line2": null,
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "postalCode": "80033"
+      },
+      "contact": {
+        "phone": "303-420-7226",
+        "website": "https://scanaircolorado.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.7786,
+        "lon": -105.1126,
+        "arrivalLat": 39.778656,
+        "arrivalLon": -105.112544,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Air filter distributor serving commercial properties, clean rooms, educational institutions, hospitals. Stocks wide variety of industrial and commercial HVAC air filters, water filters, dust collectors. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -259,40 +317,46 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Water Filtration",
-        "Dust Collectors",
-        "Industrial Filtration"
-      ],
-      "trades": [
-        "Filter"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.778656,
-      "arrivalLon": -105.112544,
-      "arrivalType": "storefront"
+      }
     },
     {
       "id": "air-purification-company-denver",
       "name": "Air Purification Company - Denver",
       "chain": "Air Purification Company",
-      "trade": "filter",
-      "city": "Denver",
-      "state": "CO",
-      "postalCode": "80221",
-      "address1": "1861 West 64th Lane",
-      "phone": "303-428-2800",
-      "website": "https://www.airpurificationcompany.com/",
-      "lat": 39.81292,
-      "lon": -105.01134,
-      "coordsStatus": "verified",
-      "brandsRep": [],
-      "manufacturersPartsFor": [],
+      "trades": [
+        "Filter",
+        "HVAC"
+      ],
+      "address": {
+        "line1": "1861 West 64th Lane",
+        "line2": null,
+        "city": "Denver",
+        "state": "CO",
+        "postalCode": "80221"
+      },
+      "contact": {
+        "phone": "303-428-2800",
+        "website": "https://www.airpurificationcompany.com/",
+        "hours": null
+      },
+      "geo": {
+        "lat": 39.81292,
+        "lon": -105.01134,
+        "arrivalLat": 39.812976,
+        "arrivalLon": -105.011284,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-26",
+        "geoSource": "Verified source"
+      },
+      "brands": {
+        "brandsRep": [],
+        "manufacturersPartsFor": []
+      },
+      "tags": [],
       "notes": "Regional HVAC distributor representing over 50 manufacturers. Provides air filtration products, air purification systems, and IAQ equipment for commercial, municipal, and industrial clients. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "sources": [],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -302,22 +366,7 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      },
-      "partsFor": [
-        "HVAC Air Filters",
-        "Air Purification",
-        "IAQ Systems"
-      ],
-      "trades": [
-        "Filter",
-        "HVAC"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-26",
-      "geoSource": "Verified source",
-      "arrivalLat": 39.812976,
-      "arrivalLon": -105.011284,
-      "arrivalType": "storefront"
+      }
     }
   ]
 }

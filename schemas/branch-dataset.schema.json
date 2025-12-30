@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://supplyfind.com/schemas/branch-dataset.schema.json",
+  "title": "Branch Dataset",
+  "description": "Schema for files containing supply house branch records",
+  "type": "object",
+  "required": ["version", "updated", "country", "state", "area", "scope", "branches"],
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Dataset version identifier"
+    },
+    "updated": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Last update date in YYYY-MM-DD format"
+    },
+    "country": {
+      "type": "string",
+      "description": "Country code (e.g., 'US')"
+    },
+    "state": {
+      "type": "string",
+      "description": "State/province code (e.g., 'CO')"
+    },
+    "area": {
+      "type": "object",
+      "required": ["kind", "id", "name"],
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": ["metro", "region", "statewide", "custom"],
+          "description": "Type of geographic area"
+        },
+        "id": {
+          "type": "string",
+          "description": "Stable slug identifier (e.g., 'denver-metro')"
+        },
+        "name": {
+          "type": "string",
+          "description": "Human-readable name (e.g., 'Denver Metro')"
+        }
+      }
+    },
+    "scope": {
+      "type": "object",
+      "required": ["trade"],
+      "properties": {
+        "trade": {
+          "type": "string",
+          "enum": ["hvac", "plumbing", "electrical", "filter", "multi"],
+          "description": "Trade focus of this dataset"
+        }
+      }
+    },
+    "audit": {
+      "type": "object",
+      "description": "Audit and verification metadata",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["in_progress", "complete", "canonical_complete", "expanded"],
+          "description": "Current audit status"
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Audit notes and history"
+        },
+        "verificationMode": {
+          "type": ["string", "null"],
+          "description": "Verification methodology used"
+        }
+      }
+    },
+    "branches": {
+      "type": "array",
+      "items": {
+        "$ref": "branch-record.schema.json"
+      },
+      "description": "Array of branch records"
+    }
+  }
+}

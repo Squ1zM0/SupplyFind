@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://supplyfind.com/schemas/branch-record.schema.json",
+  "title": "Branch Record",
+  "description": "Schema for a single supply house branch record",
+  "type": "object",
+  "required": ["id", "name", "address", "contact", "geo", "brands", "trades"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique identifier for the branch"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the branch"
+    },
+    "chain": {
+      "type": ["string", "null"],
+      "description": "Chain/parent company name"
+    },
+    "trades": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of trades this branch serves"
+    },
+    "primaryTrade": {
+      "type": "string",
+      "description": "Primary trade focus (optional)"
+    },
+    "address": {
+      "type": "object",
+      "required": ["line1", "city", "state", "postalCode"],
+      "properties": {
+        "line1": {
+          "type": "string"
+        },
+        "line2": {
+          "type": ["string", "null"]
+        },
+        "city": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "postalCode": {
+          "type": "string"
+        }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "phone": {
+          "type": ["string", "null"]
+        },
+        "website": {
+          "type": ["string", "null"]
+        },
+        "hours": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "geo": {
+      "type": "object",
+      "required": ["lat", "lon"],
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lon": {
+          "type": "number"
+        },
+        "arrivalLat": {
+          "type": ["number", "null"]
+        },
+        "arrivalLon": {
+          "type": ["number", "null"]
+        },
+        "arrivalType": {
+          "type": ["string", "null"]
+        },
+        "coordsStatus": {
+          "type": "string",
+          "enum": ["verified", "estimated", "needs_review", "needs_verify"]
+        },
+        "geoPrecision": {
+          "type": ["string", "null"]
+        },
+        "geoVerifiedDate": {
+          "type": ["string", "null"]
+        },
+        "geoSource": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "brands": {
+      "type": "object",
+      "properties": {
+        "brandsRep": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "manufacturersPartsFor": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string",
+      "description": "General notes about the branch"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Source URLs for verification"
+    },
+    "verification": {
+      "type": "object",
+      "description": "Verification metadata",
+      "properties": {
+        "coordsVerified": {
+          "type": ["string", "null"]
+        },
+        "coords_verified": {
+          "type": ["string", "null"]
+        },
+        "storefrontConfirmed": {
+          "type": ["string", "null"]
+        },
+        "storefront_confirmed": {
+          "type": ["string", "null"]
+        },
+        "geocodingMethod": {
+          "type": ["string", "null"]
+        },
+        "geocoding_method": {
+          "type": ["string", "null"]
+        },
+        "addressVerified": {
+          "type": ["boolean", "null"]
+        },
+        "addressSource": {
+          "type": ["string", "null"]
+        },
+        "addressVerifiedDate": {
+          "type": ["string", "null"]
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "notes": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "partsFor": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Legacy field - parts/equipment categories (deprecated, use trades)"
+    },
+    "operatingName": {
+      "type": "string",
+      "description": "Operating name if different from chain name"
+    }
+  }
+}
