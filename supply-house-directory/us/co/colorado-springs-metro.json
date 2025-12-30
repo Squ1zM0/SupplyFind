@@ -78,7 +78,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.comfortairdistributing.com/"
+        ]
       }
     },
     {
@@ -202,7 +206,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "LennoxPros store locator"
+        ]
       }
     },
     {
@@ -266,7 +274,8 @@
         "sources": [
           "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80907/HVAC-Supplies",
           "https://www.manta.com/c/mhqpctk/winsupply-inc"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -327,7 +336,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.sidharvey.com/wps/portal/c/OurBrands"
+        ]
       }
     },
     {
@@ -385,7 +398,8 @@
         "addressVerifiedDate": "2025-12-27",
         "sources": [
           "https://www.ctsupplyinc.com/"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -442,7 +456,9 @@
         "addressVerifiedDate": "2025-12-27",
         "sources": [
           "https://www.herculesindustries.com/locations"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27",
+        "geocoding_method": "Verified source"
       }
     },
     {

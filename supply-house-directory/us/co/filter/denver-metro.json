@@ -68,7 +68,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -116,7 +118,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Web Verification - Official Company Sources",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -163,7 +167,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -214,7 +220,9 @@
         "addressSource": "Official Website + Google Business Profile",
         "addressVerifiedDate": "2025-12-27",
         "previousAddress": "2650 W 3rd Ave, Unit 3 (incorrect - found during address audit)",
-        "correctionReason": "Directions/address mismatch - Google Maps was showing different location than dataset. Official website and Google Business Profile both confirm 209 Yuma St, Unit 3 as correct physical location."
+        "correctionReason": "Directions/address mismatch - Google Maps was showing different location than dataset. Official website and Google Business Profile both confirm 209 Yuma St, Unit 3 as correct physical location.",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Official Website + Google Business Profile"
       }
     },
     {
@@ -269,7 +277,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -316,7 +326,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -365,8 +377,11 @@
         ],
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
-      }
+        "addressVerifiedDate": "2025-12-26",
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
+      },
+      "primaryTrade": "Filter"
     }
   ]
 }

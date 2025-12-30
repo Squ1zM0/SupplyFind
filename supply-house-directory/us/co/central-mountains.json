@@ -18,43 +18,60 @@
   },
   "branches": [
     {
-      "id": "",
-      "name": "City Electric Supply",
-      "chain": null,
+      "id": "co-leadville-city-electric-001",
+      "name": "City Electric Supply - Leadville",
+      "chain": "City Electric Supply",
       "trades": [
         "Electrical"
       ],
       "address": {
-        "line1": "212 W 7th St, Leadville, CO 80461",
-        "line2": null,
+        "line1": "212 W 7th St",
+        "line2": "",
         "city": "Leadville",
-        "state": "",
-        "postalCode": ""
+        "state": "CO",
+        "postalCode": "80461"
       },
       "contact": {
         "phone": "719-486-1700",
-        "website": null,
+        "website": "https://www.cityelectricsupply.com",
         "hours": null
       },
       "geo": {
         "lat": 39.2508,
         "lon": -106.2925,
-        "arrivalLat": null,
-        "arrivalLon": null,
-        "arrivalType": null,
-        "coordsStatus": "needs_verify",
-        "geoPrecision": null,
-        "geoVerifiedDate": null,
-        "geoSource": null
+        "arrivalLat": 39.2508,
+        "arrivalLon": -106.2925,
+        "arrivalType": "storefront",
+        "coordsStatus": "verified",
+        "geoPrecision": "storefront",
+        "geoVerifiedDate": "2025-12-30",
+        "geoSource": "Google Maps pin"
       },
       "brands": {
         "brandsRep": [],
         "manufacturersPartsFor": []
       },
-      "tags": [],
-      "notes": "",
-      "sources": [],
-      "verification": {}
+      "tags": [
+        "electrical",
+        "wholesale"
+      ],
+      "notes": "Electrical supply wholesaler. Verified 2025-12-30",
+      "sources": [
+        "https://www.cityelectricsupply.com",
+        "https://www.google.com/maps/place/City+Electric+Supply+Leadville"
+      ],
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Official Company Website",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.cityelectricsupply.com",
+          "https://www.google.com/maps/place/City+Electric+Supply+Leadville"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "Google Maps verified coordinates"
+      }
     }
   ]
 }

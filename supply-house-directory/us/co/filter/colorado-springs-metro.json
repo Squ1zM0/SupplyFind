@@ -62,7 +62,9 @@
         ],
         "addressVerified": true,
         "addressSource": "Web Verification - Official Company Sources",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Verified source"
       }
     }
   ]

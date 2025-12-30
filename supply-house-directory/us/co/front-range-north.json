@@ -86,7 +86,8 @@
         "sources": [
           "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/wholesaler/2006110704-sid-harvey-s",
           "https://www.achrnews.com/directories/2937-hvacr-directory/listing/12151-sid-harvey-s-fort-collins-co"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -147,7 +148,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.comfortairdistributing.com/"
+        ]
       }
     },
     {
@@ -203,7 +208,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "LennoxPros store locator"
+        ]
       }
     },
     {
@@ -267,7 +276,8 @@
         "sources": [
           "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
           "https://www.mapquest.com/us/colorado/greeley-winsupply-429191270"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {

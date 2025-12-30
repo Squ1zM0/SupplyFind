@@ -70,7 +70,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "LennoxPros store locator"
+        ]
       }
     },
     {
@@ -131,7 +135,11 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.comfortairdistributing.com/"
+        ]
       }
     },
     {
@@ -199,7 +207,8 @@
         "addressVerifiedDate": "2025-12-27",
         "sources": [
           "https://www.rampartsupply.com/storelocator"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -327,7 +336,12 @@
         "notes": "Coordinates verified in prior audit pass",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.pueblowinair.com/",
+          "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/HVAC-Supplies/contact-us"
+        ]
       }
     }
   ]

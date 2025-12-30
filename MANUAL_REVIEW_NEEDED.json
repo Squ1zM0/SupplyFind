@@ -1,0 +1,24 @@
+[
+  {
+    "file": "us/co/central-mountains.json",
+    "branch_id": "",
+    "branch_name": "City Electric Supply",
+    "issue": "Empty sources array - REVIEW NEEDED to add verification sources"
+  },
+  {
+    "file": "us/co/central-mountains.json",
+    "branch_id": "",
+    "branch_name": "City Electric Supply",
+    "issue": "Missing addressSource - REVIEW NEEDED to verify with authoritative source"
+  },
+  {
+    "file": "us/co/filter/denver-metro.json",
+    "branch_id": "air-purification-company-denver",
+    "branch_name": "Air Purification Company - Denver",
+    "issue": "Auto-assigned primaryTrade to 'Filter' - REVIEW NEEDED for proper classification",
+    "trades": [
+      "Filter",
+      "HVAC"
+    ]
+  }
+]

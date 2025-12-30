@@ -212,7 +212,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.winsupplyinc.com/s/view-products/top-brands"
+        ]
       }
     },
     {
@@ -268,7 +272,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.hajoca.com/suppliers/"
+        ]
       }
     },
     {
@@ -324,7 +332,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.hajoca.com/suppliers/"
+        ]
       }
     },
     {
@@ -380,7 +392,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.hajoca.com/suppliers/"
+        ]
       }
     },
     {
@@ -440,7 +456,8 @@
         "addressVerifiedDate": "2025-12-27",
         "sources": [
           "https://www.rampartsupply.com/storelocator"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -498,7 +515,8 @@
         "sources": [
           "https://hdsupplysolutions.com/",
           "https://www.mapquest.com/us/colorado/hd-supply-facilities-maintenance-375448621"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -556,7 +574,8 @@
         "addressVerifiedDate": "2025-12-27",
         "sources": [
           "https://woe.gatewaysupply.net/locations"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -684,7 +703,8 @@
         "sources": [
           "https://www.flinksupply.com/",
           "https://local.yahoo.com/info-19619767-flink-supply-denver/"
-        ]
+        ],
+        "storefront_confirmed": "2025-12-27"
       }
     },
     {
@@ -869,7 +889,13 @@
         "storefront_confirmed": "2025-12-26",
         "addressVerified": true,
         "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "sources": [
+          "https://greatwesternpipe.com/",
+          "https://greatwesternpipe.com/contact-us/"
+        ],
+        "coords_verified": "2025-12-26",
+        "geocoding_method": "Verified source"
       }
     },
     {
@@ -932,7 +958,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "sources": [
+          "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+          "https://www.fergusonhome.com/brands/c109293"
+        ]
       }
     },
     {
@@ -995,7 +1025,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "sources": [
+          "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+          "https://www.fergusonhome.com/brands/c109293"
+        ]
       }
     },
     {
@@ -1058,7 +1092,11 @@
         "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
         "addressVerified": true,
         "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-26"
+        "addressVerifiedDate": "2025-12-26",
+        "sources": [
+          "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+          "https://www.fergusonhome.com/brands/c109293"
+        ]
       }
     }
   ]
