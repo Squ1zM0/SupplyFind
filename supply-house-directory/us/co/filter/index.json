@@ -1,11 +1,9 @@
 {
-  "type": "index",
-  "state": "CO",
+  "version": "1.0.0",
   "updated": "2025-12-26",
-  "scope": {
-    "trade": "filter"
-  },
-  "entries": [
+  "state": "CO",
+  "trade": "filter",
+  "metros": [
     {
       "id": "denver-metro",
       "name": "Denver Metro",

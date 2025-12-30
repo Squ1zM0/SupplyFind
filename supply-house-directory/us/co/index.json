@@ -1,11 +1,8 @@
 {
-  "type": "index",
-  "state": "CO",
+  "version": "1.92",
   "updated": "2025-12-26",
-  "scope": {
-    "trade": "multi"
-  },
-  "entries": [
+  "state": "CO",
+  "metros": [
     {
       "id": "denver-metro",
       "name": "Denver Metro",
@@ -45,5 +42,19 @@
       "name": "Eastern Plains",
       "file": "us/co/eastern-plains.json"
     }
-  ]
+  ],
+  "trades": {
+    "hvac": {
+      "index": "us/co/hvac/index.json"
+    },
+    "plumbing": {
+      "index": "us/co/plumbing/index.json"
+    },
+    "electrical": {
+      "index": "us/co/electrical/index.json"
+    },
+    "filter": {
+      "index": "us/co/filter/index.json"
+    }
+  }
 }

@@ -1,81 +1,39 @@
 {
   "version": "1.0-plumbing-seed__ADD5",
-  "updated": "2025-12-27",
-  "country": "US",
+  "trade": "plumbing",
+  "metro": "Pueblo / South Colorado",
   "state": "CO",
-  "area": {
-    "kind": "metro",
-    "id": "pueblo-south",
-    "name": "Pueblo / South Colorado"
-  },
-  "scope": {
-    "trade": "plumbing"
-  },
-  "audit": {
-    "status": "expanded",
-    "notes": [
-      "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
-      "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St",
-      "2025-12-26: Added Winsupply of Salida location identified in expansion research.",
-      "2025-12-26: Added ABC Plumbing Pueblo - independent regional supplier"
-    ],
-    "verificationMode": null
-  },
+  "updated": "2025-12-27",
   "branches": [
     {
       "id": "ferguson-plumbing-pueblo-s-santa-fe",
       "name": "Ferguson Plumbing Supply (Pueblo)",
       "chain": "Ferguson",
-      "trades": [
-        "HVAC",
-        "Plumbing"
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81006",
+      "address1": "1109 S Santa Fe Ave",
+      "phone": "719-547-3077",
+      "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
+      "lat": 38.2467,
+      "lon": -104.6087,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi Electric",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
       ],
-      "primaryTrade": "Plumbing",
-      "address": {
-        "line1": "1109 S Santa Fe Ave",
-        "line2": null,
-        "city": "Pueblo",
-        "state": "CO",
-        "postalCode": "81006"
-      },
-      "contact": {
-        "phone": "719-547-3077",
-        "website": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.2467,
-        "lon": -104.6087,
-        "arrivalLat": 38.2467,
-        "arrivalLon": -104.6087,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Google Maps pin"
-      },
-      "brands": {
-        "brandsRep": [
-          "American Standard",
-          "Fujitsu",
-          "Mitsubishi Electric",
-          "Carrier",
-          "Bryant",
-          "Honeywell",
-          "Rheem",
-          "Amana",
-          "Kohler",
-          "Moen",
-          "Delta"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-      "sources": [
-        "https://www.ferguson.com/store/co/pueblo",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Pueblo"
-      ],
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -87,52 +45,57 @@
         ],
         "coords_verified": "2025-12-27",
         "geocoding_method": "Google Maps verified coordinates"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.ferguson.com/store/co/pueblo",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Pueblo"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.2467,
+      "arrivalLon": -104.6087,
+      "arrivalType": "storefront"
     },
     {
       "id": "pueblo-winnelson-ilex",
       "name": "Pueblo Winnelson",
       "chain": "Winsupply (Winnelson)",
-      "trades": [
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "300 Ilex St",
+      "phone": "719-544-1584",
+      "website": "http://www.pueblowinnelson.com/",
+      "lat": 38.2577236,
+      "lon": -104.6039515,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Coordinates sourced from public distributor listing. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "partsFor": [
         "Plumbing"
       ],
-      "address": {
-        "line1": "300 Ilex St",
-        "line2": null,
-        "city": "Pueblo",
-        "state": "CO",
-        "postalCode": "81003"
-      },
-      "contact": {
-        "phone": "719-544-1584",
-        "website": "http://www.pueblowinnelson.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.2577236,
-        "lon": -104.6039515,
-        "arrivalLat": 38.25778,
-        "arrivalLon": -104.603895,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "Previously verified during geocoding audit"
-      },
-      "brands": {
-        "brandsRep": [
-          "AO Smith",
-          "Charlotte Pipe",
-          "American Standard",
-          "Sloan",
-          "Liberty Pumps"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
-      "notes": "Coordinates sourced from public distributor listing. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "sources": [
         "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ],
+      "trades": [
+        "Plumbing"
       ],
       "verification": {
         "coords_verified": "2025-12-27",
@@ -141,56 +104,38 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-27"
-      }
+      },
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.25778,
+      "arrivalLon": -104.603895,
+      "arrivalType": "will_call"
     },
     {
       "id": "rampart-supply-pueblo-4th",
       "name": "Rampart Supply (Pueblo)",
       "chain": "Rampart Supply",
-      "trades": [
-        "HVAC",
-        "Plumbing"
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "320 E 4th St",
+      "phone": "719-583-0111",
+      "website": "https://www.rampartsupply.com/storelocator",
+      "lat": 38.270425,
+      "lon": -104.606473,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Weil-McLain",
+        "Buderus",
+        "Lochinvar",
+        "Triangle Tube",
+        "HTP",
+        "Laars"
       ],
-      "primaryTrade": "HVAC",
-      "address": {
-        "line1": "320 E 4th St",
-        "line2": null,
-        "city": "Pueblo",
-        "state": "CO",
-        "postalCode": "81003"
-      },
-      "contact": {
-        "phone": "719-583-0111",
-        "website": "https://www.rampartsupply.com/storelocator",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.270425,
-        "lon": -104.606473,
-        "arrivalLat": 38.270481,
-        "arrivalLon": -104.606417,
-        "arrivalType": "will_call",
-        "coordsStatus": "verified",
-        "geoPrecision": "entrance",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Weil-McLain",
-          "Buderus",
-          "Lochinvar",
-          "Triangle Tube",
-          "HTP",
-          "Laars"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Plumbing supply house; also HVAC in some contexts. Hydronic heating and plumbing specialist. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "https://www.rampartsupply.com/"
-      ],
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -201,56 +146,51 @@
         "sources": [
           "https://www.rampartsupply.com/storelocator"
         ]
-      }
+      },
+      "partsFor": [
+        "Boilers",
+        "Hydronic Equipment",
+        "Radiant Heating",
+        "Steam Systems"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "sources": [
+        "https://www.rampartsupply.com/"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.270481,
+      "arrivalLon": -104.606417,
+      "arrivalType": "will_call"
     },
     {
       "id": "winsupply-salida-oak-001",
       "name": "Winsupply of Salida",
       "chain": "Winsupply",
-      "trades": [
-        "HVAC",
-        "Plumbing"
+      "trade": "plumbing",
+      "city": "Salida",
+      "state": "CO",
+      "postalCode": "81201",
+      "address1": "338 Oak St",
+      "phone": "719-530-0501",
+      "website": "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
+      "lat": 38.537835,
+      "lon": -106.003346,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "AO Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
       ],
-      "primaryTrade": "Plumbing",
-      "address": {
-        "line1": "338 Oak St",
-        "line2": null,
-        "city": "Salida",
-        "state": "CO",
-        "postalCode": "81201"
-      },
-      "contact": {
-        "phone": "719-530-0501",
-        "website": "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.537835,
-        "lon": -106.003346,
-        "arrivalLat": 38.537835,
-        "arrivalLon": -106.003346,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "AO Smith",
-          "Charlotte Pipe",
-          "American Standard",
-          "Sloan",
-          "Liberty Pumps"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Plumbing and HVAC supply serving Arkansas Valley region. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
-      "sources": [
-        "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
-        "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
-      ],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -262,53 +202,49 @@
         "addressVerified": true,
         "addressSource": "Official Store Locator",
         "addressVerifiedDate": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
+        "https://www.chamberofcommerce.com/business-directory/colorado/salida/heating-equipment-supplier/2012397317-winsupply-of-salida"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.537835,
+      "arrivalLon": -106.003346,
+      "arrivalType": "storefront"
     },
     {
       "id": "abc-plumbing-pueblo-spring",
       "name": "ABC Plumbing, Heating and Irrigation - Pueblo",
       "chain": "ABC Plumbing",
-      "trades": [
-        "Plumbing"
+      "trade": "plumbing",
+      "city": "Pueblo",
+      "state": "CO",
+      "postalCode": "81003",
+      "address1": "101 Spring St",
+      "phone": "719-542-5631",
+      "website": "https://abcplumbing.com/",
+      "lat": 38.268428,
+      "lon": -104.610091,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Bradford White"
       ],
-      "address": {
-        "line1": "101 Spring St",
-        "line2": null,
-        "city": "Pueblo",
-        "state": "CO",
-        "postalCode": "81003"
-      },
-      "contact": {
-        "phone": "719-542-5631",
-        "website": "https://abcplumbing.com/",
-        "hours": null
-      },
-      "geo": {
-        "lat": 38.268428,
-        "lon": -104.610091,
-        "arrivalLat": 38.268428,
-        "arrivalLon": -104.610091,
-        "arrivalType": "storefront",
-        "coordsStatus": "verified",
-        "geoPrecision": "storefront",
-        "geoVerifiedDate": "2025-12-27",
-        "geoSource": "gps-coordinates.org"
-      },
-      "brands": {
-        "brandsRep": [
-          "Kohler",
-          "Delta",
-          "Moen",
-          "American Standard",
-          "Bradford White"
-        ],
-        "manufacturersPartsFor": []
-      },
-      "tags": [],
+      "manufacturersPartsFor": [],
       "notes": "Independent regional plumbing, heating, and irrigation supply house serving Pueblo area. Also offers licensed plumbing and well technician services. Source: ABC Plumbing official website, verified 2025-12-26",
-      "sources": [
-        "https://abcplumbing.com/"
-      ],
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -319,7 +255,31 @@
         "addressVerified": true,
         "addressSource": "Official Website",
         "addressVerifiedDate": "2025-12-26"
-      }
+      },
+      "partsFor": [
+        "Plumbing",
+        "Irrigation",
+        "Heating"
+      ],
+      "sources": [
+        "https://abcplumbing.com/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.268428,
+      "arrivalLon": -104.610091,
+      "arrivalType": "storefront"
     }
-  ]
+  ],
+  "auditNotes": [
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+    "2025-12-26: Removed 1 duplicate Winnelson entry at 300 Ilex St",
+    "2025-12-26: Added Winsupply of Salida location identified in expansion research.",
+    "2025-12-26: Added ABC Plumbing Pueblo - independent regional supplier"
+  ],
+  "auditStatus": "expanded"
 }
