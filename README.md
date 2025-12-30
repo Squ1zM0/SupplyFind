@@ -16,22 +16,33 @@ SupplyFind helps contractors quickly locate nearby supply houses with accurate a
 ```
 supply-house-directory/
 ├── us/
+│   ├── index.json
 │   └── co/                          # Colorado (current coverage)
-│       ├── hvac/                    # HVAC supply houses
+│       ├── index.json
+│       ├── STATEWIDE_SUMMARY.json
+│       ├── denver-metro.json        # Regional cross-trade files
+│       ├── colorado-springs-metro.json
+│       ├── boulder-metro.json
+│       ├── front-range-north.json
+│       ├── pueblo-south.json
+│       ├── western-slope.json
+│       ├── eastern-plains.json
+│       ├── central-mountains.json
+│       ├── hvac/                    # Trade-specific directories
+│       │   ├── index.json
 │       │   ├── denver-metro.json
-│       │   ├── colorado-springs-metro.json
 │       │   └── ...
-│       ├── electrical/              # Electrical supply houses
-│       ├── plumbing/                # Plumbing supply houses
-│       └── filter/                  # Filter supply houses
+│       ├── electrical/
+│       ├── plumbing/
+│       └── filter/
 ├── _meta/                           # Metadata files
-│   ├── brands.json                  # Brand listings
-│   ├── chains.json                  # Chain/company information
-│   └── manufacturers.json           # Manufacturer details
+│   ├── brands.json
+│   ├── chains.json
+│   └── manufacturers.json
 └── README.md                        # Schema documentation
 
-scripts/                             # Data processing utilities
-audit/                              # Audit reports and changelogs
+scripts/                             # Data processing utilities (root level)
+audit/                               # Audit reports and changelogs (root level)
 ```
 
 ## 🗺️ Current Coverage
