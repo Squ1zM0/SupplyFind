@@ -233,6 +233,126 @@
       "arrivalLat": 40.5352,
       "arrivalLon": -105.0585,
       "arrivalType": "storefront"
+    },
+    {
+      "id": "co-fort-collins-lohmiller-fossil-001",
+      "name": "Lohmiller & Company - Fort Collins",
+      "chain": "Lohmiller & Company",
+      "trade": "hvac",
+      "address1": "5009 Fossil Blvd",
+      "address2": "",
+      "city": "Fort Collins",
+      "state": "CO",
+      "postalCode": "80525",
+      "phone": "(970) 282-7781",
+      "website": "https://www.lohmillercompany.com/locations/",
+      "lat": 40.51701,
+      "lon": -105.08022,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Lohmiller & Company Fort Collins distribution center. Major Carrier and Bryant distributor.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.lohmillercompany.com/locations/",
+        "https://www.mapquest.com/us/colorado/carrier-west-414884316"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.lohmillercompany.com/locations/",
+          "https://www.mapquest.com/us/colorado/carrier-west-414884316"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 40.51701,
+      "arrivalLon": -105.08022,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-johnstown-lohmiller-reagan-001",
+      "name": "Lohmiller & Company - Johnstown",
+      "chain": "Lohmiller & Company",
+      "trade": "hvac",
+      "address1": "3867 Ronald Reagan Blvd",
+      "address2": "",
+      "city": "Johnstown",
+      "state": "CO",
+      "postalCode": "80534",
+      "phone": "(970) 282-7781",
+      "website": "https://www.lohmillercompany.com/locations/",
+      "lat": 40.4067,
+      "lon": -104.9632,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Lohmiller & Company Johnstown location serving northern front range. Major Carrier and Bryant distributor.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.lohmillercompany.com/locations/",
+        "https://www.mapquest.com/us/colorado/carrier-commercial-service-277400446"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.lohmillercompany.com/locations/",
+          "https://www.mapquest.com/us/colorado/carrier-commercial-service-277400446"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "Web verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 40.4067,
+      "arrivalLon": -104.9632,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",
@@ -240,7 +360,8 @@
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
     "2025-12-25: Added Gustave A. Larson branch (Fort Collins).",
     "2025-12-26: Added Lennox Stores Fort Collins location.",
-    "2025-12-29: Added CFM Company Fort Collins north office location."
+    "2025-12-29: Added CFM Company Fort Collins north office location.",
+    "2025-12-30: Added Lohmiller & Company locations (Fort Collins and Johnstown)."
   ],
-  "updated": "2025-12-29"
+  "updated": "2025-12-30"
 }

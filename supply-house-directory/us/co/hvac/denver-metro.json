@@ -420,6 +420,251 @@
       "arrivalLat": 39.69042,
       "arrivalLon": -105.00141,
       "arrivalType": "storefront"
+    },
+    {
+      "id": "co-denver-lohmiller-osage-001",
+      "name": "Lohmiller & Company - Denver",
+      "chain": "Lohmiller & Company",
+      "trade": "hvac",
+      "address1": "4800 Osage St",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80221",
+      "phone": "(303) 825-4328",
+      "website": "https://www.lohmillercompany.com/locations/denver/",
+      "lat": 39.784179,
+      "lon": -105.011268,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Lohmiller & Company headquarters and main Denver distribution center. Major Carrier and Bryant distributor serving Colorado and Wyoming since 1948.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.lohmillercompany.com/locations/denver/",
+        "https://www.mapquest.com/us/colorado/lohmiller-company-401161502"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.lohmillercompany.com/locations/denver/",
+          "https://www.mapquest.com/us/colorado/lohmiller-company-401161502"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.784179,
+      "arrivalLon": -105.011268,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-denver-winair-evans-001",
+      "name": "Denver Winair Co.",
+      "chain": "Winair",
+      "trade": "hvac",
+      "address1": "1550 W Evans Ave, Unit M",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80223",
+      "phone": "303-936-2873",
+      "website": "https://denverwinair.com/",
+      "lat": 39.678836,
+      "lon": -105.005776,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Wholesale distributor for HVAC products, sheet metal supplies, and refrigeration equipment serving residential and commercial contractors.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Refrigeration",
+        "Sheet Metal"
+      ],
+      "brandsRep": [
+        "American Standard",
+        "Mitsubishi Electric",
+        "Honeywell",
+        "Rheem",
+        "Ruud",
+        "Aprilaire"
+      ],
+      "services": [],
+      "sources": [
+        "https://denverwinair.com/",
+        "https://www.mapquest.com/us/colorado/denver-winair-276168511"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://denverwinair.com/",
+          "https://www.mapquest.com/us/colorado/denver-winair-276168511"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.678836,
+      "arrivalLon": -105.005776,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-denver-comfortair-42nd-001",
+      "name": "Comfort Air Distributing - Denver",
+      "chain": "Comfort Air Distributing",
+      "trade": "hvac",
+      "address1": "5757 E 42nd Ave",
+      "address2": "",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80216",
+      "phone": "(303) 399-1752",
+      "website": "https://www.comfortairdistributing.com/locations",
+      "lat": 39.777990,
+      "lon": -104.919360,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Headquarters location. Leading HVAC wholesale distributor specializing in Rheem and WeatherKing products, serving Colorado and Wyoming contractors.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial",
+        "Ductless Systems",
+        "Water Heaters"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "WeatherKing",
+        "Ruud"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.comfortairdistributing.com/locations",
+        "https://www.mapquest.com/us/colorado/comfort-air-distributing-9977271"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.comfortairdistributing.com/locations",
+          "https://www.mapquest.com/us/colorado/comfort-air-distributing-9977271"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.777990,
+      "arrivalLon": -104.919360,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-englewood-lohmiller-concord-001",
+      "name": "Lohmiller & Company - Englewood",
+      "chain": "Lohmiller & Company",
+      "trade": "hvac",
+      "address1": "8465 Concord Center Dr",
+      "address2": "",
+      "city": "Englewood",
+      "state": "CO",
+      "postalCode": "80112",
+      "phone": "(303) 371-1244",
+      "website": "https://www.lohmillercompany.com/locations/",
+      "lat": 39.5645,
+      "lon": -104.8245,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Lohmiller & Company south Denver metro location. Carrier and Bryant distributor.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.lohmillercompany.com/locations/",
+        "https://www.mapquest.com/us/colorado/lohmiller-co-351229257"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.lohmillercompany.com/locations/",
+          "https://www.mapquest.com/us/colorado/lohmiller-co-351229257"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 39.5645,
+      "arrivalLon": -104.8245,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",
@@ -428,7 +673,8 @@
     "2025-12-25: Added Gustave A. Larson branch (Englewood).",
     "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
     "2025-12-26: Added Trane Supply Englewood location.",
-    "2025-12-29: Added CFM Company Denver headquarters location."
+    "2025-12-29: Added CFM Company Denver headquarters location.",
+    "2025-12-30: Added Lohmiller & Company (Denver and Englewood), Denver Winair, and Comfort Air Distributing locations."
   ],
-  "updated": "2025-12-29"
+  "updated": "2025-12-30"
 }

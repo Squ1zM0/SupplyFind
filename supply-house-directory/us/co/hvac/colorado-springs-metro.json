@@ -234,6 +234,188 @@
       "arrivalLat": 38.8903,
       "arrivalLon": -104.8369,
       "arrivalType": "storefront"
+    },
+    {
+      "id": "co-colorado-springs-lohmiller-newport-001",
+      "name": "Lohmiller & Company - Colorado Springs",
+      "chain": "Lohmiller & Company",
+      "trade": "hvac",
+      "address1": "930 N Newport Rd",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80916",
+      "phone": "(719) 444-0505",
+      "website": "https://www.lohmillercompany.com/locations/",
+      "lat": 38.813982,
+      "lon": -104.736249,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Lohmiller & Company Colorado Springs distribution center. Major Carrier and Bryant distributor.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Carrier",
+        "Bryant",
+        "Payne"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.lohmillercompany.com/locations/",
+        "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/air-conditioning-system-supplier/2023557831-carrier-west"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & Business Directories",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.lohmillercompany.com/locations/",
+          "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/air-conditioning-system-supplier/2023557831-carrier-west"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "Web search verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "Web verification",
+      "arrivalLat": 38.813982,
+      "arrivalLon": -104.736249,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-colorado-springs-comfortair-paonia-001",
+      "name": "Comfort Air Distributing - Colorado Springs",
+      "chain": "Comfort Air Distributing",
+      "trade": "hvac",
+      "address1": "1440 Paonia St",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "phone": "(719) 596-7862",
+      "website": "https://www.comfortairdistributing.com/locations",
+      "lat": 38.86781,
+      "lon": -104.71677,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "HVAC wholesale distributor specializing in Rheem and WeatherKing products.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial",
+        "Ductless Systems",
+        "Water Heaters"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "WeatherKing",
+        "Ruud"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.comfortairdistributing.com/locations",
+        "https://www.mapquest.com/us/colorado/comfort-air-distributing-378528250"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.comfortairdistributing.com/locations",
+          "https://www.mapquest.com/us/colorado/comfort-air-distributing-378528250"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 38.86781,
+      "arrivalLon": -104.71677,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "co-colorado-springs-ctsupply-omaha-001",
+      "name": "CT Supply Inc.",
+      "chain": "CT Supply",
+      "trade": "hvac",
+      "address1": "6260 Omaha Blvd",
+      "address2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "phone": "(719) 941-9930",
+      "website": "https://www.ctsupplyinc.com/",
+      "lat": 38.8582,
+      "lon": -104.7098,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2025-12-30",
+      "notes": "Wholesale HVAC equipment, parts, and supplies distributor serving Colorado Springs area contractors.",
+      "tags": [
+        "hvac",
+        "wholesale"
+      ],
+      "partsFor": [
+        "HVAC",
+        "Residential",
+        "Commercial"
+      ],
+      "brandsRep": [
+        "Daikin",
+        "Rheem",
+        "Goodman"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.ctsupplyinc.com/",
+        "https://www.mapquest.com/us/colorado/ct-supply-435613276"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official Company Website & MapQuest",
+        "addressVerifiedDate": "2025-12-30",
+        "storefront_confirmed": "2025-12-30",
+        "sources": [
+          "https://www.ctsupplyinc.com/",
+          "https://www.mapquest.com/us/colorado/ct-supply-435613276"
+        ],
+        "coords_verified": "2025-12-30",
+        "geocoding_method": "MapQuest verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 38.8582,
+      "arrivalLon": -104.7098,
+      "arrivalType": "storefront"
     }
   ],
   "auditStatus": "expanded",
@@ -241,7 +423,8 @@
     "2025-12-25: Created metro file; continuing statewide HVAC supply house expansion with verified storefront locations.",
     "2025-12-25: Added Gustave A. Larson branch (Colorado Springs).",
     "2025-12-26: Added Trane Supply Colorado Springs location.",
-    "2025-12-29: Added CFM Company Colorado Springs south office location."
+    "2025-12-29: Added CFM Company Colorado Springs south office location.",
+    "2025-12-30: Added Lohmiller & Company, Comfort Air Distributing, and CT Supply Inc. locations."
   ],
-  "updated": "2025-12-29"
+  "updated": "2025-12-30"
 }
