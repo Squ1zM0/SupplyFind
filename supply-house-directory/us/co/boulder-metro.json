@@ -13,7 +13,7 @@
   "branches": [
     {
       "id": "co-broomfield-comfort-air-001",
-      "name": "Comfort Air Distributing \u2013 Broomfield",
+      "name": "Comfort Air Distributing – Broomfield",
       "chain": "Comfort Air Distributing",
       "address1": "11575 Main St, Unit 500",
       "city": "Broomfield",
@@ -64,7 +64,7 @@
     },
     {
       "id": "co-louisville-uri-001",
-      "name": "United Refrigeration (URI) \u2013 Louisville",
+      "name": "United Refrigeration (URI) – Louisville",
       "chain": "United Refrigeration",
       "address1": "1533 Arthur St, Ste A",
       "city": "Louisville",
@@ -80,7 +80,7 @@
         "Honeywell",
         "Emerson",
         "Aprilaire",
-        "Mueller Industries"
+        "Mueller"
       ],
       "partsFor": [
         "Refrigeration",
@@ -123,7 +123,7 @@
     },
     {
       "id": "co-longmont-winair-001",
-      "name": "Longmont Winair (Winsupply) \u2013 Longmont",
+      "name": "Longmont Winair (Winsupply) – Longmont",
       "chain": "Winsupply / Winair",
       "address1": "1140 Boston Ave, Unit C",
       "city": "Longmont",
@@ -132,7 +132,7 @@
       "lat": 40.1567502,
       "lon": -105.1121159,
       "brandsRep": [
-        "AO Smith",
+        "A.O. Smith",
         "Charlotte Pipe",
         "American Standard",
         "Sloan",
@@ -177,7 +177,7 @@
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply \u2013 Longmont",
+      "name": "Ferguson Plumbing Supply – Longmont",
       "chain": "Ferguson",
       "address1": "1567 Vista View Dr",
       "city": "Longmont",
@@ -189,7 +189,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",

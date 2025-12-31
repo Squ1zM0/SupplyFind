@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "pueblo-graybar",
-      "name": "Graybar Electric \u2013 Pueblo",
+      "name": "Graybar Electric – Pueblo",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Pueblo",
@@ -23,12 +23,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Southwire",
         "Belden",
         "Panduit",
@@ -146,12 +146,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Klein Tools",
         "Milwaukee",
         "Fluke",
@@ -208,7 +208,7 @@
       "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
-        "Acuity Brands",
+        "Acuity",
         "Belden",
         "Brady",
         "Cantex",
@@ -220,10 +220,10 @@
         "Ideal",
         "Klein Tools",
         "Leviton",
-        "Lithonia Lighting",
+        "Lithonia",
         "Milwaukee",
         "Panduit",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Southwire",
         "Square D"
@@ -280,7 +280,7 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Leviton",
         "Hubbell",
@@ -290,7 +290,7 @@
         "Fluke",
         "Klein Tools",
         "Milwaukee",
-        "Lithonia Lighting"
+        "Lithonia"
       ],
       "manufacturersPartsFor": [],
       "notes": "WESCO Pueblo branch. Full-line electrical distributor serving commercial and industrial projects. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
@@ -327,7 +327,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
+    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added verified Graybar Pueblo storefront.",

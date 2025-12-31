@@ -15,7 +15,7 @@
   "branches": [
     {
       "id": "co-denver-baker-ice-denver-osage-001",
-      "name": "Baker Distributing \u2013 Ice Design Center (Denver)",
+      "name": "Baker Distributing – Ice Design Center (Denver)",
       "chain": "Baker Distributing",
       "address1": "5050 Osage St Suite 300",
       "city": "Denver",
@@ -75,7 +75,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -123,7 +123,7 @@
     },
     {
       "id": "co-denver-galarson-washington-001",
-      "name": "Gustave A. Larson \u2013 Denver",
+      "name": "Gustave A. Larson – Denver",
       "chain": "Gustave A. Larson",
       "address1": "6030 Washington St, Suite 100",
       "city": "Denver",
@@ -225,7 +225,7 @@
     },
     {
       "id": "co-denver-johnstone-7th-001",
-      "name": "Johnstone Supply \u2013 Denver (#5)",
+      "name": "Johnstone Supply – Denver (#5)",
       "chain": "Johnstone Supply",
       "address1": "2701 W 7th Ave",
       "city": "Denver",
@@ -330,7 +330,7 @@
     },
     {
       "id": "co-denver-lohmiller-osage-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Denver",
+      "name": "Lohmiller & Company (Carrier West) – Denver",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "4800 Osage St",
       "city": "Denver",
@@ -377,7 +377,7 @@
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
-      "name": "Lohmiller & Company (Carrier West) \u2013 Englewood",
+      "name": "Lohmiller & Company (Carrier West) – Englewood",
       "chain": "Lohmiller & Company (Carrier West)",
       "address1": "8465 Concord Center Dr",
       "city": "Englewood",
@@ -424,7 +424,7 @@
     },
     {
       "id": "co-denver-rsd-osage-001",
-      "name": "RSD (Refrigeration Supplies Distributor) \u2013 Denver",
+      "name": "RSD (Refrigeration Supplies Distributor) – Denver",
       "chain": "RSD (Refrigeration Supplies Distributor)",
       "address1": "4800 Osage St, Suite 800",
       "city": "Denver",
@@ -438,7 +438,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Honeywell",
         "Trane",
         "York",
@@ -483,7 +483,7 @@
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
-      "name": "Trane Supply \u2013 Denver (Bryant)",
+      "name": "Trane Supply – Denver (Bryant)",
       "chain": "Trane Supply",
       "address1": "445 Bryant St, Unit 5",
       "city": "Denver",
@@ -531,7 +531,7 @@
     },
     {
       "id": "co-denver-uri-pecos-001",
-      "name": "United Refrigeration \u2013 Denver",
+      "name": "United Refrigeration – Denver",
       "chain": "United Refrigeration",
       "address1": "140 S Pecos St, Units A & B",
       "address2": "Also listed as 560 S Lipan St (same storefront listing)",
@@ -548,7 +548,7 @@
         "Honeywell",
         "Emerson",
         "Aprilaire",
-        "Mueller Industries"
+        "Mueller"
       ],
       "partsFor": [
         "HVAC"
@@ -699,7 +699,7 @@
     },
     {
       "id": "co-denver-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Denver",
+      "name": "Lennox Stores – Denver",
       "chain": "Lennox Stores",
       "address1": "2000 W 64th Ln",
       "city": "Denver",
@@ -744,7 +744,7 @@
     },
     {
       "id": "co-aurora-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Aurora",
+      "name": "Lennox Stores – Aurora",
       "chain": "Lennox Stores",
       "address1": "19100 E 22nd Ave",
       "city": "Aurora",
@@ -789,7 +789,7 @@
     },
     {
       "id": "co-denver-acdist-001",
-      "name": "A/C Distributors \u2013 Denver",
+      "name": "A/C Distributors – Denver",
       "chain": "A/C Distributors",
       "address1": "2501 W 3rd Ave",
       "city": "Denver",
@@ -841,7 +841,7 @@
     },
     {
       "id": "co-commercecity-hvacdistco-001",
-      "name": "HVAC Distributors Co \u2013 Commerce City",
+      "name": "HVAC Distributors Co – Commerce City",
       "chain": "HVAC Distributors Co",
       "address1": "6175 E 56th Ave",
       "city": "Commerce City",
@@ -892,7 +892,7 @@
     },
     {
       "id": "co-wheatridge-winair-001",
-      "name": "WinAir \u2013 Wheat Ridge",
+      "name": "WinAir – Wheat Ridge",
       "chain": "WinAir",
       "address1": "4895 Ward Rd Unit B",
       "city": "Wheat Ridge",
@@ -941,7 +941,7 @@
     },
     {
       "id": "co-centennial-comfortair-002",
-      "name": "Comfort Air Distributing \u2013 Centennial",
+      "name": "Comfort Air Distributing – Centennial",
       "chain": "Comfort Air Distributing",
       "address1": "15501 E Fremont Dr",
       "city": "Centennial",
@@ -991,7 +991,7 @@
     },
     {
       "id": "co-centennial-rsd-001",
-      "name": "RSD \u2013 Centennial",
+      "name": "RSD – Centennial",
       "chain": "RSD",
       "address1": "7184 S Revere Pkwy, Building 2",
       "city": "Centennial",
@@ -1010,7 +1010,7 @@
         "Emerson",
         "Fujitsu",
         "LG",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Honeywell",
         "Trane",
         "York",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "co-denver-rampart-001",
-      "name": "Rampart Supply \u2013 Denver",
+      "name": "Rampart Supply – Denver",
       "chain": "Rampart Supply",
       "address1": "285 Rio Grande Blvd",
       "city": "Denver",
@@ -1116,12 +1116,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Southwire",
         "Belden",
         "Panduit",
@@ -1179,12 +1179,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Klein Tools",
         "Milwaukee",
         "Fluke",
@@ -1243,12 +1243,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Southwire",
         "Belden",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Klein Tools",
         "Milwaukee",
         "Fluke",
@@ -1306,7 +1306,7 @@
       "lon": -105.01515,
       "brandsRep": [
         "ABB",
-        "Acuity Brands",
+        "Acuity",
         "Belden",
         "Brady",
         "Cantex",
@@ -1318,10 +1318,10 @@
         "Ideal",
         "Klein Tools",
         "Leviton",
-        "Lithonia Lighting",
+        "Lithonia",
         "Milwaukee",
         "Panduit",
-        "Schneider Electric",
+        "Schneider",
         "Siemens",
         "Southwire",
         "Square D"
@@ -1379,10 +1379,10 @@
         "Siemens",
         "Eaton",
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
+        "Acuity",
+        "RAB",
         "Lutron",
         "Klein Tools",
         "Fluke",
@@ -1442,15 +1442,15 @@
       "lon": -104.860753,
       "brandsRep": [
         "ABB",
-        "Acuity Brands",
+        "Acuity",
         "Eaton",
         "Hubbell",
-        "Schneider Electric",
+        "Schneider",
         "Legrand",
         "Leviton",
         "Milwaukee",
         "nVent",
-        "Rockwell Automation",
+        "Rockwell",
         "Southwire",
         "Belden"
       ],
@@ -1507,7 +1507,7 @@
         "Eaton",
         "Hubbell",
         "Leviton",
-        "Lithonia Lighting",
+        "Lithonia",
         "Milwaukee",
         "Klein Tools",
         "Southwire"
@@ -1616,7 +1616,7 @@
         "Eaton",
         "Leviton",
         "Hubbell",
-        "Lithonia Lighting"
+        "Lithonia"
       ],
       "partsFor": [
         "Electrical",
@@ -1668,7 +1668,7 @@
         "Ruud",
         "Fujitsu",
         "Daikin",
-        "Mitsubishi Electric"
+        "Mitsubishi"
       ],
       "partsFor": [
         "HVAC"
@@ -1722,7 +1722,7 @@
         "Trane",
         "Rheem",
         "Ruud",
-        "Mitsubishi Electric"
+        "Mitsubishi"
       ],
       "partsFor": [
         "HVAC",

@@ -22,7 +22,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -82,7 +82,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -140,7 +140,7 @@
       "lon": -105.014427,
       "coordsStatus": "verified",
       "brandsRep": [
-        "AO Smith",
+        "A.O. Smith",
         "Charlotte Pipe",
         "American Standard",
         "Sloan",
@@ -192,7 +192,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],
@@ -242,7 +242,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],
@@ -292,7 +292,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],
@@ -381,7 +381,7 @@
     },
     {
       "id": "denver-hdsupply-plumbing",
-      "name": "HD Supply Facilities Maintenance \u2013 Denver (Plumbing)",
+      "name": "HD Supply Facilities Maintenance – Denver (Plumbing)",
       "chain": "HD Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -432,7 +432,7 @@
     },
     {
       "id": "denver-gateway-supply",
-      "name": "Gateway Supply \u2013 Denver",
+      "name": "Gateway Supply – Denver",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -483,7 +483,7 @@
     },
     {
       "id": "centennial-ferguson-plumbing",
-      "name": "Ferguson Plumbing Supply \u2013 Centennial",
+      "name": "Ferguson Plumbing Supply – Centennial",
       "chain": "Ferguson",
       "trade": "plumbing",
       "city": "Centennial",
@@ -499,7 +499,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -542,7 +542,7 @@
     },
     {
       "id": "denver-flink-plumbing",
-      "name": "Flink Supply Company \u2013 Denver",
+      "name": "Flink Supply Company – Denver",
       "chain": "Flink Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -606,7 +606,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -666,7 +666,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -722,9 +722,9 @@
       "lon": -104.9442,
       "coordsStatus": "verified",
       "brandsRep": [
-        "Mueller Industries",
+        "Mueller",
         "Charlotte Pipe",
-        "Anvil International",
+        "Anvil",
         "Victaulic",
         "NIBCO"
       ],
@@ -772,7 +772,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -828,7 +828,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -884,7 +884,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",

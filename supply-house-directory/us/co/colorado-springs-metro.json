@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-cos-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Colorado Springs",
+      "name": "Comfort Air Distributing – Colorado Springs",
       "chain": "Comfort Air Distributing",
       "address1": "3275 N El Paso St",
       "city": "Colorado Springs",
@@ -56,7 +56,7 @@
     },
     {
       "id": "co-cos-johnstone-001",
-      "name": "Johnstone Supply \u2013 Colorado Springs",
+      "name": "Johnstone Supply – Colorado Springs",
       "chain": "Johnstone Supply",
       "address1": "3720 E Pikes Peak Ave",
       "city": "Colorado Springs",
@@ -113,7 +113,7 @@
     },
     {
       "id": "co-cos-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Colorado Springs",
+      "name": "Lennox Stores – Colorado Springs",
       "chain": "Lennox Stores",
       "address1": "5850 Tutt Blvd",
       "city": "Colorado Springs",
@@ -158,7 +158,7 @@
     },
     {
       "id": "co-cos-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Colorado Springs",
+      "name": "WinSupply HVAC – Colorado Springs",
       "chain": "WinSupply HVAC",
       "address1": "3110 N Stone Ave",
       "city": "Colorado Springs",
@@ -212,7 +212,7 @@
     },
     {
       "id": "co-cos-sidharvey-001",
-      "name": "Sid Harvey \u2013 Colorado Springs",
+      "name": "Sid Harvey – Colorado Springs",
       "chain": "Sid Harvey",
       "address1": "901 Motor City Dr",
       "city": "Colorado Springs",
@@ -227,9 +227,9 @@
       ],
       "brandsRep": [
         "Goodman",
-        "Armstrong Air",
+        "Armstrong",
         "Rheem",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Honeywell",
         "Fujitsu"
       ],
@@ -262,7 +262,7 @@
     },
     {
       "id": "co-cos-ct-supply-001",
-      "name": "CT Supply \u2013 Colorado Springs",
+      "name": "CT Supply – Colorado Springs",
       "chain": "CT Supply",
       "address1": "6260 Omaha Blvd",
       "city": "Colorado Springs",
@@ -312,7 +312,7 @@
     },
     {
       "id": "co-cos-hercules-001",
-      "name": "Hercules Industries \u2013 Colorado Springs",
+      "name": "Hercules Industries – Colorado Springs",
       "chain": "Hercules Industries",
       "address1": "1383 Vapor Trl",
       "city": "Colorado Springs",
@@ -377,7 +377,7 @@
         "Honeywell",
         "Emerson",
         "Aprilaire",
-        "Mueller Industries"
+        "Mueller"
       ],
       "partsFor": [
         "HVAC"
@@ -485,12 +485,12 @@
       "brandsRep": [
         "ABB",
         "Eaton",
-        "Schneider Electric",
+        "Schneider",
         "Square D",
         "Siemens",
         "Hubbell",
-        "Lithonia Lighting",
-        "Acuity Brands",
+        "Lithonia",
+        "Acuity",
         "Southwire",
         "Belden",
         "Panduit",
@@ -551,10 +551,10 @@
         "Siemens",
         "Eaton",
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
+        "Acuity",
+        "RAB",
         "Lutron",
         "Klein Tools",
         "Fluke",
@@ -616,10 +616,10 @@
         "Siemens",
         "Eaton",
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
+        "Acuity",
+        "RAB",
         "Lutron",
         "Klein Tools",
         "Fluke",
@@ -679,7 +679,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
