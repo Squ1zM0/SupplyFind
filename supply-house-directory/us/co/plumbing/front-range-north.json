@@ -22,7 +22,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -84,7 +84,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],
@@ -116,7 +116,7 @@
     },
     {
       "id": "dahl-greeley-199-evans",
-      "name": "Dahl \u2013 Greeley (Evans)",
+      "name": "Dahl – Greeley (Evans)",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Evans",
@@ -134,7 +134,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],
@@ -179,7 +179,7 @@
       "coordsStatus": "verified",
       "notes": "Plumbing wholesale distributor (chamber listing). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
       "brandsRep": [
-        "AO Smith",
+        "A.O. Smith",
         "Charlotte Pipe",
         "American Standard",
         "Sloan",
@@ -230,7 +230,7 @@
         "Kohler",
         "Bradford White",
         "Charlotte Pipe",
-        "AO Smith",
+        "A.O. Smith",
         "American Standard",
         "Watts"
       ],

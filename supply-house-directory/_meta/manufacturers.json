@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
-  "updated": "2025-12-26",
+  "version": "1.3",
+  "updated": "2025-12-31",
   "manufacturers": [
     "Trane",
     "Carrier",
@@ -9,7 +9,7 @@
     "Goodman",
     "York",
     "Daikin",
-    "Mitsubishi Electric",
+    "Mitsubishi",
     "LG",
     "Honeywell",
     "Aprilaire"

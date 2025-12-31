@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey \u2013 Fort Collins",
+      "name": "Sid Harvey – Fort Collins",
       "chain": "Sid Harvey",
       "address1": "300 Lincoln Ct",
       "city": "Fort Collins",
@@ -25,7 +25,7 @@
         "Payne",
         "Goodman",
         "Daikin",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Honeywell",
         "Rheem",
         "Fujitsu"
@@ -63,7 +63,7 @@
     },
     {
       "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Loveland",
+      "name": "Comfort Air Distributing – Loveland",
       "chain": "Comfort Air Distributing",
       "address1": "2840 N Lincoln Ave",
       "city": "Loveland",
@@ -113,7 +113,7 @@
     },
     {
       "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Loveland",
+      "name": "Lennox Stores – Loveland",
       "chain": "Lennox Stores",
       "address1": "113 E 29th St",
       "city": "Loveland",
@@ -158,7 +158,7 @@
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Greeley",
+      "name": "WinSupply HVAC – Greeley",
       "chain": "WinSupply HVAC",
       "address1": "1979 2nd Ave",
       "city": "Greeley",
@@ -212,7 +212,7 @@
     },
     {
       "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply \u2013 Fort Collins",
+      "name": "Ferguson Plumbing Supply – Fort Collins",
       "chain": "Ferguson",
       "address1": "2321 Donella Ct",
       "city": "Fort Collins",
@@ -224,7 +224,7 @@
       "brandsRep": [
         "American Standard",
         "Fujitsu",
-        "Mitsubishi Electric",
+        "Mitsubishi",
         "Carrier",
         "Bryant",
         "Honeywell",
@@ -294,10 +294,10 @@
         "Siemens",
         "Eaton",
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
+        "Acuity",
+        "RAB",
         "Lutron",
         "Klein Tools",
         "Fluke",
@@ -353,12 +353,12 @@
       "lon": -105.0252,
       "brandsRep": [
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Leviton",
         "Eaton",
         "Cooper",
         "Hubbell",
-        "Lithonia Lighting",
+        "Lithonia",
         "Milwaukee",
         "Klein Tools",
         "Southwire",
@@ -425,10 +425,10 @@
         "Siemens",
         "Eaton",
         "Square D",
-        "Schneider Electric",
+        "Schneider",
         "Philips",
-        "Acuity Brands",
-        "RAB Lighting",
+        "Acuity",
+        "RAB",
         "Lutron",
         "Klein Tools",
         "Fluke",
@@ -523,7 +523,7 @@
     }
   ],
   "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply \u2013 Fort Collins (no physical branch exists).",
+    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
     "2025-12-26: Removed 1 duplicate entry(ies)",
     "2025-12-26: Added Trane Supply Fort Collins location"
   ],

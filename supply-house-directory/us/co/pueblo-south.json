@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-pueblo-lennoxstores-001",
-      "name": "Lennox Stores \u2013 Pueblo",
+      "name": "Lennox Stores – Pueblo",
       "chain": "Lennox Stores",
       "address1": "3920 N Freeway Rd",
       "city": "Pueblo",
@@ -51,7 +51,7 @@
     },
     {
       "id": "co-pueblo-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Pueblo",
+      "name": "Comfort Air Distributing – Pueblo",
       "chain": "Comfort Air Distributing",
       "address1": "120 E Industrial Blvd",
       "city": "Pueblo West",
@@ -101,7 +101,7 @@
     },
     {
       "id": "co-pueblo-rampart-001",
-      "name": "Rampart Supply \u2013 Pueblo",
+      "name": "Rampart Supply – Pueblo",
       "chain": "Rampart Supply",
       "address1": "320 E 4th St",
       "city": "Pueblo",
