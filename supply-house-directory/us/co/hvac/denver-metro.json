@@ -128,6 +128,68 @@
       "arrivalType": "storefront"
     },
     {
+      "id": "co-denver-comfortair-001",
+      "name": "Comfort Air Distributing – Denver",
+      "chain": "Comfort Air Distributing",
+      "trade": "hvac",
+      "address1": "9400 E 46th Pl",
+      "address2": "Unit 100",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80238",
+      "phone": "+13037908800",
+      "website": "https://www.comfortairdistributing.com/",
+      "lat": 39.7809,
+      "lon": -104.8785,
+      "coverage": "metro",
+      "verified": "web_verified",
+      "verifiedDate": "2026-01-10",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: User report via Google Maps link, verified 2026-01-10",
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "services": [],
+      "sources": [
+        "https://www.comfortairdistributing.com/",
+        "https://maps.app.goo.gl/QRGXHHsWswqSh5E99"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "coordsStatus": "verified",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Maps (user-reported)",
+        "addressVerifiedDate": "2026-01-10",
+        "storefront_confirmed": "2026-01-10",
+        "sources": [
+          "https://www.comfortairdistributing.com/",
+          "https://maps.app.goo.gl/QRGXHHsWswqSh5E99"
+        ],
+        "coords_verified": "2026-01-10",
+        "geocoding_method": "OpenStreetMap Nominatim"
+      },
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2026-01-10",
+      "geoSource": "OpenStreetMap Nominatim",
+      "arrivalLat": 39.7809,
+      "arrivalLon": -104.8785,
+      "arrivalType": "will_call"
+    },
+    {
       "id": "co-centennial-sidharvey-revere-001",
       "name": "Sid Harvey - Centennial",
       "chain": "Sid Harvey",
@@ -428,7 +490,8 @@
     "2025-12-25: Added Gustave A. Larson branch (Englewood).",
     "2025-12-26: Added Sid Harvey locations (Denver, Centennial) and RSD Aurora identified in expansion research.",
     "2025-12-26: Added Trane Supply Englewood location.",
-    "2025-12-29: Added CFM Company Denver headquarters location."
+    "2025-12-29: Added CFM Company Denver headquarters location.",
+    "2026-01-10: Added Comfort Air Distributing Denver location (9400 E 46th Pl Unit 100) based on user-reported Google Maps link."
   ],
-  "updated": "2025-12-29"
+  "updated": "2026-01-10"
 }

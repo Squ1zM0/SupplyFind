@@ -1,6 +1,6 @@
 {
   "version": "DENVER_AUDIT_v1",
-  "updated": "2025-12-27",
+  "updated": "2026-01-10",
   "auditStatus": "in_progress",
   "auditNotes": [
     "2025-12-26: Removed 6 duplicate/invalid entries (RSD duplicate, URI duplicate, Ferguson HVAC duplicate, Lennox Stores duplicate, WinSupply HVAC wrong address, US Air wrong address)",
@@ -8,7 +8,8 @@
     "2025-12-26: Verified physical locations for major chains via web research",
     "2025-12-26: Branch count reduced from 42 to 36 after duplicate removal",
     "2025-12-27: Removed duplicate Comfort Air Distributing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 15501 E Fremont Dr, Centennial.",
-    "2025-12-27: Removed non-existent Baker Distributing - Englewood (South Denver) location at 3107 S Platte River Dr. Location does not exist."
+    "2025-12-27: Removed non-existent Baker Distributing - Englewood (South Denver) location at 3107 S Platte River Dr. Location does not exist.",
+    "2026-01-10: Added Comfort Air Distributing Denver location (9400 E 46th Pl Unit 100) based on user-reported Google Maps link."
   ],
   "state": "CO",
   "metro": "Denver Metro",
@@ -937,6 +938,58 @@
       "geoSource": "Previously verified during geocoding audit",
       "arrivalLat": 39.784756,
       "arrivalLon": -105.137544,
+      "arrivalType": "will_call"
+    },
+    {
+      "id": "co-denver-comfortair-001",
+      "name": "Comfort Air Distributing – Denver",
+      "chain": "Comfort Air Distributing",
+      "address1": "9400 E 46th Pl",
+      "address2": "Unit 100",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+13037908800",
+      "lat": 39.7809,
+      "lon": -104.8785,
+      "tags": [
+        "hvac",
+        "equipment",
+        "parts"
+      ],
+      "brandsRep": [
+        "Rheem",
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
+      ],
+      "partsFor": [
+        "HVAC"
+      ],
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: User report via Google Maps link, verified 2026-01-10",
+      "sources": [
+        "https://www.comfortairdistributing.com/",
+        "https://maps.app.goo.gl/QRGXHHsWswqSh5E99"
+      ],
+      "trades": [
+        "HVAC"
+      ],
+      "postalCode": "80238",
+      "verification": {
+        "coords_verified": "2026-01-10",
+        "geocoding_method": "OpenStreetMap Nominatim",
+        "notes": "Location added based on user-reported Google Maps link",
+        "addressVerified": true,
+        "addressSource": "Google Maps (user-reported)",
+        "addressVerifiedDate": "2026-01-10"
+      },
+      "coordsStatus": "verified",
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2026-01-10",
+      "geoSource": "OpenStreetMap Nominatim",
+      "arrivalLat": 39.7809,
+      "arrivalLon": -104.8785,
       "arrivalType": "will_call"
     },
     {
