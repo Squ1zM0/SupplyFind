@@ -3,11 +3,11 @@
   "trade": "electrical",
   "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
   "state": "CO",
-  "updated": "2025-12-25",
+  "updated": "2026-01-30",
   "branches": [
     {
       "id": "foco-graybar",
-      "name": "Graybar Electric – Fort Collins",
+      "name": "Graybar Electric \u2013 Fort Collins",
       "chain": "Graybar",
       "trade": "electrical",
       "city": "Fort Collins",
@@ -70,7 +70,7 @@
     },
     {
       "id": "greeley-ced",
-      "name": "CED – Greeley",
+      "name": "CED \u2013 Greeley",
       "chain": "CED",
       "trade": "electrical",
       "city": "Greeley",
@@ -463,6 +463,109 @@
       "arrivalType": "storefront"
     },
     {
+      "id": "newco-greeley-6th-001",
+      "name": "Newco Inc - Greeley",
+      "chain": "Newco Inc",
+      "trade": "electrical",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "619 6th Ave",
+      "phone": "970-352-5024",
+      "website": "https://www.newco-inc.com/",
+      "lat": 40.42845,
+      "lon": -104.6852,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Family-owned, independent wholesale electrical distributor serving Colorado, Wyoming, Kansas, and Nebraska. Full-line electrical supplies for contractors and builders. Verified 2026-01-30.",
+      "verification": {
+        "storefront_confirmed": "2026-01-30",
+        "sources": [
+          "https://www.newco-inc.com/",
+          "https://www.mapquest.com/us/colorado/newco-inc-447725634"
+        ],
+        "coords_verified": "2026-01-30",
+        "geocoding_method": "MapQuest verified coordinates",
+        "addressVerified": true,
+        "addressSource": "Official Website & MapQuest",
+        "addressVerifiedDate": "2026-01-30"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "sources": [
+        "https://www.newco-inc.com/"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2026-01-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 40.42845,
+      "arrivalLon": -104.6852,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "ces-greeley-29th-001",
+      "name": "City Electric Supply - Greeley",
+      "chain": "City Electric Supply",
+      "trade": "electrical",
+      "city": "Greeley",
+      "state": "CO",
+      "postalCode": "80631",
+      "address1": "2990 West 29th Street #4",
+      "phone": "970-339-8110",
+      "website": "https://www.cityelectricsupply.com/",
+      "lat": 40.403372,
+      "lon": -104.731545,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Philips",
+        "RAB"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "City Electric Supply Greeley branch. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Verified 2026-01-30.",
+      "verification": {
+        "storefront_confirmed": "2026-01-30",
+        "sources": [
+          "https://www.cityelectricsupply.com/",
+          "https://cedgreeley.com/"
+        ],
+        "coords_verified": "2026-01-30",
+        "geocoding_method": "MapQuest verified coordinates",
+        "addressVerified": true,
+        "addressSource": "Business Listings & Online Directories",
+        "addressVerifiedDate": "2026-01-30"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools"
+      ],
+      "sources": [
+        "https://www.cityelectricsupply.com/"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2026-01-30",
+      "geoSource": "MapQuest",
+      "arrivalLat": 40.403372,
+      "arrivalLon": -104.731545,
+      "arrivalType": "storefront"
+    },
+    {
       "id": "elliott-electric-fort-collins-3942-automation",
       "name": "Elliott Electric Supply - Fort Collins",
       "chain": "Elliott Electric Supply",
@@ -635,7 +738,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",
@@ -643,6 +746,7 @@
     "2025-12-25: Added 2 Rexel electrical branch entries (verified via Rexel location pages).",
     "2025-12-26: Added CED Fort Collins and Border States Greeley locations identified in expansion research.",
     "2025-12-26: Comprehensive expansion - Added Elliott Electric Supply, WESCO, Crescent Electric, and City Electric Supply Fort Collins branches. All verified via official sources.",
-    "2025-12-27: WESCO audit - Removed invalid Fort Collins entry per ground truth verification (only 2 CO locations exist)."
+    "2025-12-27: WESCO audit - Removed invalid Fort Collins entry per ground truth verification (only 2 CO locations exist).",
+    "2026-01-30: Added Newco Inc and City Electric Supply Greeley locations identified during comprehensive Colorado coverage audit."
   ]
 }
