@@ -3,7 +3,7 @@
   "trade": "filter",
   "metro": "Colorado Springs Metro",
   "state": "CO",
-  "updated": "2025-12-26",
+  "updated": "2026-01-30",
   "branches": [
     {
       "id": "camfil-colorado-springs-elkton",
@@ -47,6 +47,56 @@
       "geoSource": "Verified source",
       "arrivalLat": 38.902284,
       "arrivalLon": -104.843316,
+      "arrivalType": "storefront"
+    },
+    {
+      "id": "air-force-filter-colorado-springs-elkton",
+      "name": "Air Force Filter & Supply - Colorado Springs",
+      "chain": "Independent",
+      "trade": "filter",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "1120 Elkton Drive, Suite F",
+      "phone": "719-635-5999",
+      "website": "http://www.airforcefilter.com",
+      "lat": 38.8974436,
+      "lon": -104.8464564,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Tri-dim",
+        "Glasfloss",
+        "Purolator",
+        "Clarcor",
+        "Columbus",
+        "Air Flow"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Manufacturer and distributor of HVAC and industrial air filters. Family-owned since 1999. Offers standard and custom-made filters, replacement filters for a wide range of systems. Provides diagnostic, maintenance, and efficiency consultation. Colorado Springs branch location. Verified 2026-01-30.",
+      "verification": {
+        "storefront_confirmed": "2026-01-30",
+        "sources": [
+          "https://www.airforcefilter.com",
+          "https://411.info/business/Air-Force-Filter-Supply-Colorado-Springs-CO-17043110",
+          "https://www.mapquest.com/us/colorado/colorado-springs/80907-3534/1120-elkton-dr-38.89781,-104.84608"
+        ],
+        "addressVerified": true,
+        "addressSource": "Business Listings & MapQuest",
+        "addressVerifiedDate": "2026-01-30"
+      },
+      "partsFor": [
+        "HVAC Air Filters",
+        "Industrial Filtration",
+        "Custom Air Filters"
+      ],
+      "trades": [
+        "Filter"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2026-01-30",
+      "geoSource": "MapQuest verified coordinates",
+      "arrivalLat": 38.8974436,
+      "arrivalLon": -104.8464564,
       "arrivalType": "storefront"
     }
   ]
