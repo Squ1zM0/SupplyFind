@@ -1,270 +1,174 @@
 {
-  "version": "FRONT_RANGE_NORTH_PLUMBING_DEEP_AUDIT_v1",
-  "trade": "plumbing",
-  "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
-  "state": "CO",
-  "updated": "2025-12-26",
-  "branches": [
-    {
-      "id": "ferguson-plumbing-ftc-donella",
-      "name": "Ferguson Plumbing Supply (Fort Collins)",
-      "chain": "Ferguson",
-      "trade": "plumbing",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80524",
-      "address1": "2321 Donella Ct",
-      "phone": "970-482-1722",
-      "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.6104,
-      "lon": -105.0229,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Ferguson Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
-          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6104,
-      "arrivalLon": -105.0229,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "hughes-supply-ftc-lincoln",
-      "name": "Hughes Supply (Fort Collins)",
-      "chain": "Hajoca (Hughes Supply)",
-      "trade": "plumbing",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80524",
-      "address1": "1903 E Lincoln Ave",
-      "phone": "970-493-0982",
-      "website": "https://hughessupplyftcollins.com/",
-      "lat": 40.59833,
-      "lon": -105.048254,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "A.O. Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply (Fort Collins). Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.598386,
-      "arrivalLon": -105.048198,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "dahl-greeley-199-evans",
-      "name": "Dahl – Greeley (Evans)",
-      "chain": "Dahl (Hajoca)",
-      "trade": "plumbing",
-      "city": "Evans",
-      "state": "CO",
-      "postalCode": "80620",
-      "address1": "1225 40th St",
-      "phone": "970-330-8462",
-      "website": "https://dahlplumbing.com/greeley/",
-      "lat": 40.378154,
-      "lon": -104.71644,
-      "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Industrial location - moved to parking lot entrance area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "A.O. Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + Google Maps verified entrance",
-      "arrivalLat": 40.37821,
-      "arrivalLon": -104.716384,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "winsupply-greeley-1979-2nd",
-      "name": "Greeley Winsupply Company",
-      "chain": "Winsupply",
-      "trade": "plumbing",
-      "city": "Greeley",
-      "state": "CO",
-      "postalCode": "80631",
-      "address1": "1979 2nd Ave",
-      "phone": "970-356-0404",
-      "website": "https://business.greeleychamber.com/list/member/greeley-winsupply-company-5521",
-      "lat": 40.392354,
-      "lon": -104.68647,
-      "coordsStatus": "verified",
-      "notes": "Plumbing wholesale distributor (chamber listing). Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "brandsRep": [
-        "A.O. Smith",
-        "Charlotte Pipe",
-        "American Standard",
-        "Sloan",
-        "Liberty Pumps"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.winsupplyinc.com/s/view-products/top-brands"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.39241,
-      "arrivalLon": -104.686414,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "dahl-loveland-11th-100",
-      "name": "Loveland Dahl",
-      "chain": "Dahl (Hajoca)",
-      "trade": "plumbing",
-      "city": "Loveland",
-      "state": "CO",
-      "postalCode": "80537",
-      "address1": "2105 E 11th St Ste 100",
-      "phone": "970-203-9200",
-      "website": "https://www.hajoca.com/our-brands/dahl/",
-      "lat": 40.392918,
-      "lon": -105.050544,
-      "coordsStatus": "verified",
-      "notes": "Dahl (Hajoca) Loveland branch. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "A.O. Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.392974,
-      "arrivalLon": -105.050488,
-      "arrivalType": "will_call"
-    }
-  ],
-  "auditNotes": [
-    "Verified physical plumbing storefront counters only.",
-    "Chain-by-chain audit: Ferguson, Hajoca (Dahl), Winsupply (Winnelson).",
-    "No removals required; no false storefronts found.",
-    "No additional independent plumbing wholesalers confirmed in Loveland or Greeley."
-  ],
-  "auditStatus": "deep_audit_complete"
+ "version": "FRONT_RANGE_NORTH_PLUMBING_DEEP_AUDIT_v1",
+ "trade": "plumbing",
+ "metro": "Front Range North (Fort Collins / Loveland / Greeley)",
+ "state": "CO",
+ "updated": "2026-10-24",
+ "branches": [
+  {
+   "id": "hughes-supply-ftc-lincoln",
+   "name": "Hughes Supply (Fort Collins)",
+   "chain": "Hajoca (Hughes Supply)",
+   "trade": "plumbing",
+   "city": "Fort Collins",
+   "state": "CO",
+   "postalCode": "80524",
+   "address1": "1903 E Lincoln Ave",
+   "phone": "970-493-0982",
+   "website": "https://hughessupplyftcollins.com/",
+   "lat": 40.59833,
+   "lon": -105.048254,
+   "coordsStatus": "verified",
+   "brandsRep": [
+    "Delta",
+    "Kohler",
+    "Bradford White",
+    "Charlotte Pipe",
+    "A.O. Smith",
+    "American Standard",
+    "Watts"
+   ],
+   "manufacturersPartsFor": [],
+   "notes": "Hajoca trade name: Hughes Supply (Fort Collins). Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "verification": {
+    "coords_attempted": "2025-12-26",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.hajoca.com/suppliers/"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "geoPrecision": "entrance",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "gps-coordinates.org",
+   "arrivalLat": 40.598386,
+   "arrivalLon": -105.048198,
+   "arrivalType": "will_call",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "dahl-greeley-199-evans",
+   "name": "Dahl \u2013 Greeley (Evans)",
+   "chain": "Dahl (Hajoca)",
+   "trade": "plumbing",
+   "city": "Evans",
+   "state": "CO",
+   "postalCode": "80620",
+   "address1": "1225 40th St",
+   "phone": "970-330-8462",
+   "website": "https://dahlplumbing.com/greeley/",
+   "lat": 40.378154,
+   "lon": -104.71644,
+   "coordsStatus": "verified",
+   "notes": "Counter/Warehouse/Office location serving Greeley area. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Industrial location - moved to parking lot entrance area. Verified customer access coordinates.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+   "brandsRep": [
+    "Delta",
+    "Kohler",
+    "Bradford White",
+    "Charlotte Pipe",
+    "A.O. Smith",
+    "American Standard",
+    "Watts"
+   ],
+   "manufacturersPartsFor": [],
+   "verification": {
+    "coords_attempted": "2025-12-26",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.hajoca.com/suppliers/"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "MapQuest + Google Maps verified entrance",
+   "arrivalLat": 40.37821,
+   "arrivalLon": -104.716384,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "dahl-loveland-11th-100",
+   "name": "Loveland Dahl",
+   "chain": "Dahl (Hajoca)",
+   "trade": "plumbing",
+   "city": "Loveland",
+   "state": "CO",
+   "postalCode": "80537",
+   "address1": "2105 E 11th St Ste 100",
+   "phone": "970-203-9200",
+   "website": "https://www.hajoca.com/our-brands/dahl/",
+   "lat": 40.392918,
+   "lon": -105.050544,
+   "coordsStatus": "verified",
+   "notes": "Dahl (Hajoca) Loveland branch. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "brandsRep": [],
+   "manufacturersPartsFor": [],
+   "verification": {
+    "coords_attempted": "2025-12-26",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.hajoca.com/suppliers/"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "geoPrecision": "entrance",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "gps-coordinates.org",
+   "arrivalLat": 40.392974,
+   "arrivalLon": -105.050488,
+   "arrivalType": "will_call",
+   "email": null,
+   "hours": "Mon-Fri 8:00 AM - 4:00 PM",
+   "primaryTrade": "Plumbing",
+   "brandsRepRepoLegacy": [
+    "Delta",
+    "Kohler",
+    "Bradford White",
+    "Charlotte Pipe",
+    "A.O. Smith",
+    "American Standard",
+    "Watts"
+   ],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.interiola.com/US/Loveland/177647982268741/Dahl-Loveland",
+   "spreadsheetSource": "https://www.interiola.com/US/Loveland/177647982268741/Dahl-Loveland",
+   "spreadsheetDateVerified": "2026-10-24"
+  }
+ ],
+ "auditNotes": [
+  "Verified physical plumbing storefront counters only.",
+  "Chain-by-chain audit: Ferguson, Hajoca (Dahl), Winsupply (Winnelson).",
+  "No removals required; no false storefronts found.",
+  "No additional independent plumbing wholesalers confirmed in Loveland or Greeley."
+ ],
+ "auditStatus": "deep_audit_complete"
 }

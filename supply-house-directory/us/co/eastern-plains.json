@@ -1,133 +1,1205 @@
 {
-  "version": "1.0.0",
-  "updated": "2025-12-27",
-  "state": "CO",
-  "metro": "Eastern Plains",
-  "branches": [
-    {
-      "id": "co-sterling-ced-1",
-      "name": "CED Sterling",
-      "chain": "CED",
-      "address1": "100 Broadway St, #5A",
-      "city": "Sterling",
-      "state": "CO",
-      "phone": "+19705801912",
-      "lat": 40.63324,
-      "lon": -103.20035,
-      "brandsRep": [
-        "ABB",
-        "Acuity",
-        "Belden",
-        "Brady",
-        "Cantex",
-        "Cooper",
-        "Eaton",
-        "Fluke",
-        "Greenlee",
-        "Hubbell",
-        "Ideal",
-        "Klein Tools",
-        "Leviton",
-        "Lithonia",
-        "Milwaukee",
-        "Panduit",
-        "Schneider",
-        "Siemens",
-        "Southwire",
-        "Square D"
-      ],
-      "partsFor": [
-        "Electrical"
-      ],
-      "tags": [
-        "electrical",
-        "wholesale"
-      ],
-      "website": "",
-      "sources": [
-        "https://sterlingco.portalced.com/ContactUs",
-        "https://www.google.com/maps/place/CED+Sterling"
-      ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80751",
-      "coordsStatus": "verified",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Official CED Portal",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://sterlingco.portalced.com/ContactUs",
-          "https://www.google.com/maps/place/CED+Sterling"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.633296,
-      "arrivalLon": -103.200294,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-sterling-crescent-electric-1",
-      "name": "Crescent Electric Supply",
-      "chain": "Crescent Electric Supply",
-      "address1": "104 California St",
-      "city": "Sterling",
-      "state": "CO",
-      "phone": "+19705226161",
-      "lat": 40.6297,
-      "lon": -103.21008,
-      "brandsRep": [
-        "Square D",
-        "Eaton",
-        "Hubbell",
-        "Leviton",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire"
-      ],
-      "partsFor": [
-        "Electrical"
-      ],
-      "tags": [
-        "electrical",
-        "wholesale"
-      ],
-      "website": "",
-      "sources": [
-        "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
-        "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80751",
-      "coordsStatus": "verified",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & MapQuest Verified",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
-          "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6297,
-      "arrivalLon": -103.21008,
-      "arrivalType": "storefront"
-    }
-  ]
+ "version": "1.0.0",
+ "updated": "2026-10-24",
+ "state": "CO",
+ "metro": "Eastern Plains",
+ "branches": [
+  {
+   "id": "co-sterling-ced-1",
+   "name": "CED Sterling",
+   "chain": "CED",
+   "address1": "100 Broadway St, #5A",
+   "city": "Sterling",
+   "state": "CO",
+   "phone": "+19705801912",
+   "lat": 40.63324,
+   "lon": -103.20035,
+   "brandsRep": [
+    "ABB",
+    "Acuity",
+    "Belden",
+    "Brady",
+    "Cantex",
+    "Cooper",
+    "Eaton",
+    "Fluke",
+    "Greenlee",
+    "Hubbell",
+    "Ideal",
+    "Klein Tools",
+    "Leviton",
+    "Lithonia",
+    "Milwaukee",
+    "Panduit",
+    "Schneider",
+    "Siemens",
+    "Southwire",
+    "Square D"
+   ],
+   "partsFor": [
+    "Electrical"
+   ],
+   "tags": [
+    "electrical",
+    "wholesale"
+   ],
+   "website": "",
+   "sources": [
+    "https://sterlingco.portalced.com/ContactUs",
+    "https://www.google.com/maps/place/CED+Sterling"
+   ],
+   "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+   "trades": [
+    "Electrical"
+   ],
+   "postalCode": "80751",
+   "coordsStatus": "verified",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Official CED Portal",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://sterlingco.portalced.com/ContactUs",
+     "https://www.google.com/maps/place/CED+Sterling"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.633296,
+   "arrivalLon": -103.200294,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "co-sterling-crescent-electric-1",
+   "name": "Crescent Electric Supply",
+   "chain": "Crescent Electric Supply",
+   "address1": "104 California St",
+   "city": "Sterling",
+   "state": "CO",
+   "phone": "+19705226161",
+   "lat": 40.6297,
+   "lon": -103.21008,
+   "brandsRep": [],
+   "partsFor": [
+    "Electrical"
+   ],
+   "tags": [
+    "electrical",
+    "wholesale"
+   ],
+   "website": "https://www.crescentelectric.com",
+   "sources": [
+    "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
+    "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "postalCode": "80751",
+   "coordsStatus": "verified",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & MapQuest Verified",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.google.com/maps/place/Crescent+Electric+Supply+Sterling",
+     "https://www.mapquest.com/us/colorado/crescent-electric-supply-company-10060157"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.6297,
+   "arrivalLon": -103.21008,
+   "arrivalType": "storefront",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM-5:00 PM",
+   "primaryTrade": "Electrical",
+   "brandsRepRepoLegacy": [
+    "Square D",
+    "Eaton",
+    "Hubbell",
+    "Leviton",
+    "Lithonia",
+    "Milwaukee",
+    "Klein Tools",
+    "Southwire"
+   ],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.crescentelectric.com",
+   "spreadsheetSource": "https://www.crescentelectric.com",
+   "spreadsheetDateVerified": "2026-10-24"
+  },
+  {
+   "id": "co-brush-brush-1402-mill-st-new",
+   "name": "Ace Hardware - Brush",
+   "chain": "Ace Hardware",
+   "address1": "1402 Mill St",
+   "city": "Brush",
+   "state": "CO",
+   "phone": "(970) 842-4832",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 7-6; M-Sa 7-7",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80723",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-burlington-burlington-16544-1298-martin-ave-new",
+   "name": "Burlington #16544 - Burlington",
+   "chain": "Ace Hardware",
+   "address1": "1298 Martin Ave",
+   "city": "Burlington",
+   "state": "CO",
+   "phone": "(719) 346-5546",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-F 6:45-6; Sa 7-5",
+   "branchLocatorUrl": "https://www.acehardware.com/store-details/16544",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80807",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 16544 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com/store-details/16544"
+   ]
+  },
+  {
+   "id": "co-cheyenne-wells-cheyenne-wells-170-e-2nd-s-new",
+   "name": "Ace Hardware - Cheyenne Wells",
+   "chain": "Ace Hardware",
+   "address1": "170 E 2nd S",
+   "city": "Cheyenne Wells",
+   "state": "CO",
+   "phone": "(719) 767-5659",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-F 7-6; Sa 8-4",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80810",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-flagler-flagler-423-main-ave-new",
+   "name": "Ace Hardware - Flagler",
+   "chain": "Ace Hardware",
+   "address1": "423 Main Ave",
+   "city": "Flagler",
+   "state": "CO",
+   "phone": "(719) 765-4648",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-F 7:30-6; Sa 8-5",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80815",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-fort-morgan-fort-morgan-1000-e-platte-ave-new",
+   "name": "Ace Hardware - Fort Morgan",
+   "chain": "Ace Hardware",
+   "address1": "1000 E Platte Ave",
+   "city": "Fort Morgan",
+   "state": "CO",
+   "phone": "(970) 370-2021",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 7-6; M-Sa 7-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80701",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-holyoke-holyoke-143-w-denver-st-new",
+   "name": "Ace Hardware - Holyoke",
+   "chain": "Ace Hardware",
+   "address1": "143 W Denver St",
+   "city": "Holyoke",
+   "state": "CO",
+   "phone": "(970) 854-4223",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-5; M-Sa 7:30-6",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80734",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-lamar-lamar-224-n-main-st-new",
+   "name": "Ace Hardware - Lamar",
+   "chain": "Ace Hardware",
+   "address1": "224 N Main St",
+   "city": "Lamar",
+   "state": "CO",
+   "phone": "(719) 336-7793",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-Sa 7:30-5:30",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "81052",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-limon-limon-21761-highway-40-287-new",
+   "name": "Ace Hardware - Limon",
+   "chain": "Ace Hardware",
+   "address1": "21761 Highway 40/287",
+   "city": "Limon",
+   "state": "CO",
+   "phone": "(719) 775-0580",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-Sa 7:30-6:30",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80828",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-sterling-ace-hardware-main-st-1350-w-main-st-new",
+   "name": "Ace Hardware (Main St) - Sterling",
+   "chain": "Ace Hardware",
+   "address1": "1350 W Main St",
+   "city": "Sterling",
+   "state": "CO",
+   "phone": "(970) 425-2256",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 7-6; M-Sa 7-7",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80751",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified; older scrape showed (970) 522-5104 — flag variant; NOTE: an old Sterling Ace LLC record at this address shows Permanently Closed but describes new ownership/management — store continues per StoreLocators Oct 2026 and active place record",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-sterling-mead-lumber-of-sterling-ace-19621-265-e-chestnut-st-new",
+   "name": "Mead Lumber of Sterling (Ace) #19621 - Sterling",
+   "chain": "Ace Hardware",
+   "address1": "265 E Chestnut St",
+   "city": "Sterling",
+   "state": "CO",
+   "phone": "(970) 522-4466",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-3; M-F 7-6; Sa 8-5",
+   "branchLocatorUrl": "https://www.acehardware.com/store-details/19621",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80751",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Ace store number 19621 per official Ace store-details page; converted to Ace retail Aug 7 2026 after 8-month remodel (HBS Dealer Aug 10 2026); Mead Lumber at this address since 1995",
+   "sources": [
+    "https://www.acehardware.com/store-details/19621"
+   ]
+  },
+  {
+   "id": "co-stratton-stratton-341-1st-street-new",
+   "name": "Ace Hardware - Stratton",
+   "chain": "Ace Hardware",
+   "address1": "341 - 1st Street",
+   "city": "Stratton",
+   "state": "CO",
+   "phone": "(719) 348-5784",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-F 7-5; Sa 7-12",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80836",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-wray-wray-333-dexter-st-new",
+   "name": "Ace Hardware - Wray",
+   "chain": "Ace Hardware",
+   "address1": "333 Dexter St",
+   "city": "Wray",
+   "state": "CO",
+   "phone": "(970) 332-4931",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 7-7",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80758",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-yuma-yuma-11817-700-e-8th-ave-new",
+   "name": "Yuma #11817 - Yuma",
+   "chain": "Ace Hardware",
+   "address1": "700 E 8th Ave",
+   "city": "Yuma",
+   "state": "CO",
+   "phone": "(970) 848-5552",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 7-7",
+   "branchLocatorUrl": "https://www.acehardware.com/store-details/11817",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80759",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 11817 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com/store-details/11817"
+   ]
+  },
+  {
+   "id": "co-burlington-home-store-burlington-111-hollowell-st-new",
+   "name": "Home Store – Burlington - Burlington",
+   "chain": "Do it Best",
+   "address1": "111 Hollowell St",
+   "city": "Burlington",
+   "state": "CO",
+   "phone": "719-346-8089",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Not shown",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80807",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator; name from nearby-store listing",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-cheyenne-wells-petersen-smith-hardware-161-s-1st-st-e-new",
+   "name": "Petersen/Smith Hardware - Cheyenne Wells",
+   "chain": "Do it Best",
+   "address1": "161 S 1st St E",
+   "city": "Cheyenne Wells",
+   "state": "CO",
+   "phone": "719-767-5734",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Sun closed; Mon-Fri 8-6; Sat 8-5",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80810",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 0428 (URL ID only, not a store number).",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-fort-morgan-bloedorn-lumber-fort-morgan-130-state-st-new",
+   "name": "Bloedorn Lumber – Fort Morgan - Fort Morgan",
+   "chain": "Do it Best",
+   "address1": "130 State St",
+   "city": "Fort Morgan",
+   "state": "CO",
+   "phone": "970-867-5646",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Not shown",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80701",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + old directory name",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-hugo-town-country-hardware-400-4th-st-new",
+   "name": "Town & Country Hardware - Hugo",
+   "chain": "Do it Best",
+   "address1": "400 4th St",
+   "city": "Hugo",
+   "state": "CO",
+   "phone": "719-743-2512",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Not shown",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80821",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page/microsite; formerly Hugo Lumber and Hardware Locator ID 1001 (URL ID only, not a store number).",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-lamar-home-store-lamar-1006-e-olive-st-new",
+   "name": "Home Store – Lamar - Lamar",
+   "chain": "Do it Best",
+   "address1": "1006 E Olive St",
+   "city": "Lamar",
+   "state": "CO",
+   "phone": "719-336-7405",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Sun closed; Mon-Sat 7:30-5:30",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "81052",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page; different store from TV candidate Lamar BMS (different address/phone) Locator ID 5121 (URL ID only, not a store number).",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-wiggins-country-do-it-best-hardware-218-main-st-new",
+   "name": "Country Do it Best Hardware - Wiggins",
+   "chain": "Do it Best",
+   "address1": "218 Main St",
+   "city": "Wiggins",
+   "state": "CO",
+   "phone": "970-483-7312",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Mon-Fri 7:30-5:30; Sat 7:30-5; Sun closed (place record)",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80654",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + microsite",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-julesburg-julesburg-121-walnut-st-new",
+   "name": "Great Western Building and Home Center - Julesburg",
+   "chain": "Great Western Building and Home Center",
+   "address1": "121 Walnut St",
+   "city": "Julesburg",
+   "state": "CO",
+   "phone": "(970) 463-6130",
+   "website": null,
+   "email": null,
+   "hours": "Mon-Fri 7-5; Sat 8-12",
+   "branchLocatorUrl": null,
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "Place records + directories (see Notes)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80737",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "Place records + directories (see Notes)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Lumber paint hardware home improvement (roofing windows/doors installation); ZIP is town standard",
+   "sources": []
+  },
+  {
+   "id": "co-brush-brush-1305-edison-st-a-new",
+   "name": "Hometown Auto and Hardware - Brush",
+   "chain": "Hometown Auto and Hardware",
+   "address1": "1305 Edison St A",
+   "city": "Brush",
+   "state": "CO",
+   "phone": "(970) 842-0433",
+   "website": "https://brushhometown.com",
+   "email": null,
+   "hours": "Sun 9-3; Mon-Fri 7-6; Sat 7-5",
+   "branchLocatorUrl": "https://brushhometown.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://brushhometown.com",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80723",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://brushhometown.com",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Auto parts + hardware (hardware & tools small engine repair equipment rentals); ZIP is town standard",
+   "sources": [
+    "https://brushhometown.com"
+   ]
+  },
+  {
+   "id": "co-holyoke-holyoke-128-s-campbell-ave-new",
+   "name": "MC Hardware & Supply LLC - Holyoke",
+   "chain": "MC Hardware & Supply LLC",
+   "address1": "128 S Campbell Ave",
+   "city": "Holyoke",
+   "state": "CO",
+   "phone": "(970) 854-6121",
+   "website": null,
+   "email": null,
+   "hours": "Mon-Fri 7:30-6; Sat 8-5",
+   "branchLocatorUrl": null,
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "Place records + directories (see Notes)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80734",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "Place records + directories (see Notes)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Single-source (Facebook place record); formerly Holyoke General Store (Do it Best documented 2008/2020) at same address — current name/phone per newer record; ZIP is town standard",
+   "sources": []
+  },
+  {
+   "id": "co-sterling-sterling-1545-1614-w-main-st-new",
+   "name": "Sterling #1545 - Sterling",
+   "chain": "The Home Depot",
+   "address1": "1614 W Main St",
+   "city": "Sterling",
+   "state": "CO",
+   "phone": "(970) 522-1599",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p (assumed)",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80751",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number; hours assumed from chain pattern not individually confirmed",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  },
+  {
+   "id": "co-haxtun-haxtun-building-center-true-value-321-s-colorado-ave-new",
+   "name": "Haxtun Building Center True Value - Haxtun",
+   "chain": "True Value",
+   "address1": "321 S Colorado Ave",
+   "city": "Haxtun",
+   "state": "CO",
+   "phone": "970-774-7655",
+   "website": "https://www.truevalue.com",
+   "email": null,
+   "hours": "Mon-Fri 7:30-5; Sat 8-12",
+   "branchLocatorUrl": "https://www.truevalue.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.truevalue.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80731",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.truevalue.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Official locator + stores.truevalue.com record; store number not verified",
+   "sources": [
+    "https://www.truevalue.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-limon-hoffman-drug-true-value-hardware-8591-900-main-st-new",
+   "name": "Hoffman Drug True Value Hardware #8591 - Limon",
+   "chain": "True Value",
+   "address1": "900 Main St",
+   "city": "Limon",
+   "state": "CO",
+   "phone": "719-775-2371",
+   "website": "https://www.truevalue.com",
+   "email": null,
+   "hours": "Mon-Fri 8-7; Sat 8-6; Sun 9-5",
+   "branchLocatorUrl": "https://www.truevalue.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.truevalue.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80828",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.truevalue.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Official locator + store page",
+   "sources": [
+    "https://www.truevalue.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-yuma-yuma-true-value-hardware-9544-117-s-main-st-new",
+   "name": "Yuma True Value Hardware #9544 - Yuma",
+   "chain": "True Value",
+   "address1": "117 S Main St",
+   "city": "Yuma",
+   "state": "CO",
+   "phone": "970-848-2090",
+   "website": "https://www.truevalue.com",
+   "email": null,
+   "hours": "Mon-Fri 8-6; Sat 8-5; Sun closed",
+   "branchLocatorUrl": "https://www.truevalue.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.truevalue.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80759",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.truevalue.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Official locator + store page",
+   "sources": [
+    "https://www.truevalue.com/find-a-store/colorado/"
+   ]
+  }
+ ]
 }

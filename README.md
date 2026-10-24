@@ -13,7 +13,8 @@ SupplyFind maintains a production-grade dataset of HVAC, Plumbing, and Electrica
 ## 📊 Current Coverage
 
 ### Colorado Dataset
-- **Total Branches**: 227
+- **Counting basis (2026-10-24 update)**: unique physical locations. Counter/will-call-only, rep/distributor-office, and doubtful branches are INCLUDED and labelled with a `branchType` field (e.g. Graybar Denver Counter, CFM offices, 5 doubtful Lennox stores, Dahl Montrose closure flag) — no branch was dropped for being counter-only, rep-office, or doubtful. The stale 227 claim is superseded by this count.
+- **Total Branches**: 293
 - **Trades Covered**: HVAC, Plumbing, Electrical, Filters
 - **Major Chains**: Ferguson, CED, Graybar, Rexel, Johnstone Supply, Baker Distributing, and 60+ more
 - **Data Quality**: Production-ready with full verification metadata
@@ -211,7 +212,7 @@ This project maintains a public dataset of supply house locations. All data is v
 
 ---
 
-**Last Updated**: December 27, 2025  
-**Total Branches**: 227  
+**Last Updated**: October 24, 2026  
+**Total Branches**: 293  
 **Data Quality**: Production-Grade ✅  
 **Documentation**: Comprehensive ✅

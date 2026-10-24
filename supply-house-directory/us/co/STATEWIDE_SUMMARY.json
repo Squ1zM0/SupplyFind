@@ -1,17 +1,22 @@
 {
-  "state": "CO",
-  "trades": [
-    "hvac",
-    "plumbing",
-    "electrical",
-    "filter"
-  ],
-  "status": "canonical_complete",
-  "updated": "2025-12-26",
-  "notes": [
-    "All trades completed under hardened rules.",
-    "Every region is either populated with verified storefronts or explicitly audited as zero.",
-    "No inferred locations included.",
-    "Filter trade added 2025-12-26 with statewide coverage of filter-specific suppliers."
-  ]
+ "state": "CO",
+ "trades": [
+  "hvac",
+  "plumbing",
+  "electrical",
+  "filter"
+ ],
+ "status": "canonical_complete",
+ "updated": "2026-10-24",
+ "notes": [
+  "All trades completed under hardened rules.",
+  "Every region is either populated with verified storefronts or explicitly audited as zero.",
+  "No inferred locations included.",
+  "Filter trade added 2025-12-26 with statewide coverage of filter-specific suppliers.",
+  "2026-10-24 SupplyFind update: union of spreadsheet v4 (193 locations) + repo branches + CES Brighton + Graybar Denver Counter = 293 unique physical locations. Branches needing coordinate verification (105) are labelled coordsStatus=needs_verification with no invented coordinates.",
+  "2026-10-24 Hardware category added: 276 hardware stores (Home Depot 46, Lowe's 28, Ace 133, True Value 25, Do it Best 27, independents 15, affiliation-unresolved 2) as a separate Hardware filter in the spreadsheet and tree; all tree records coordsStatus needs_verification; no per-branch brand lists published (call to confirm)."
+ ],
+ "totalBranches": 293,
+ "branchesWithVerifiedCoordinates": 188,
+ "branchesNeedingCoordinateVerification": 105
 }

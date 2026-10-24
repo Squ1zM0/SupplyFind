@@ -1,278 +1,231 @@
 {
-  "version": "1.0-plumbing-seed__ADD5",
-  "trade": "plumbing",
-  "metro": "Boulder / Broomfield / Longmont",
-  "state": "CO",
-  "updated": "2025-12-27",
-  "branches": [
-    {
-      "id": "ferguson-plumbing-longmont-vista-view",
-      "name": "Ferguson Plumbing Supply (Longmont)",
-      "chain": "Ferguson",
-      "trade": "plumbing",
-      "city": "Longmont",
-      "state": "CO",
-      "postalCode": "80504",
-      "address1": "1567 Vista View Dr",
-      "phone": "303-845-3750",
-      "website": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-      "lat": 40.1577,
-      "lon": -105.1038,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "Plumbing/PVF counter (shared site with HVAC). Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Ferguson Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.1577,
-      "arrivalLon": -105.1038,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "dahl-boulder-sterling-3180-100",
-      "name": "Dahl – Boulder",
-      "chain": "Dahl (Hajoca)",
-      "trade": "plumbing",
-      "city": "Boulder",
-      "state": "CO",
-      "postalCode": "80301",
-      "address1": "3180 Sterling Cir Ste 100",
-      "phone": "303-955-4460",
-      "website": "https://dahlplumbing.com/boulder/",
-      "lat": 40.03443,
-      "lon": -105.24637,
-      "coordsStatus": "verified",
-      "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "A.O. Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "MapQuest + Google Maps verified entrance",
-      "arrivalLat": 40.034486,
-      "arrivalLon": -105.246314,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "ferguson-plumbing-boulder-1840-55th",
-      "name": "Ferguson Plumbing Supply (Boulder)",
-      "chain": "Ferguson",
-      "trade": "plumbing",
-      "city": "Boulder",
-      "state": "CO",
-      "postalCode": "80301",
-      "address1": "1840 55th St",
-      "phone": "303-245-0456",
-      "website": "https://www.yelp.com/biz/ferguson-plumbing-supply-boulder-2",
-      "lat": 40.0267,
-      "lon": -105.2217,
-      "coordsStatus": "verified",
-      "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Ferguson Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.ferguson.com/store/co/boulder",
-          "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.ferguson.com/store/co/boulder",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.0267,
-      "arrivalLon": -105.2217,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "winnelson-longmont-795-s-sherman-13",
-      "name": "Longmont Winnelson",
-      "chain": "Winsupply",
-      "trade": "plumbing",
-      "city": "Longmont",
-      "state": "CO",
-      "postalCode": "80501",
-      "address1": "795 S Sherman St Ste 13",
-      "phone": "303-772-5460",
-      "website": "https://www.yelp.com/biz/longmont-winnelson-longmont",
-      "lat": 40.151531,
-      "lon": -105.108586,
-      "coordsStatus": "verified",
-      "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "brandsRep": [
-        "A.O. Smith",
-        "Charlotte Pipe",
-        "American Standard",
-        "Sloan",
-        "Liberty Pumps"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "coords_attempted": "2025-12-26",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.winsupplyinc.com/s/view-products/top-brands"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
-      "arrivalLat": 40.151587,
-      "arrivalLon": -105.10853,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "longmont-hughes-supply",
-      "name": "Hughes Supply – Longmont",
-      "chain": "Hajoca (Hughes Supply)",
-      "trade": "plumbing",
-      "city": "Longmont",
-      "state": "CO",
-      "postalCode": "80504",
-      "address1": "1610 Vista View Dr",
-      "phone": "720-526-6618",
-      "website": "https://hughessupply.com/",
-      "lat": 40.161774,
-      "lon": -104.995223,
-      "coordsStatus": "verified",
-      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Precise building location in Vista Commercial Center]",
-      "parentChain": "Hajoca",
-      "brandsRep": [
-        "Delta",
-        "Kohler",
-        "Bradford White",
-        "Charlotte Pipe",
-        "A.O. Smith",
-        "American Standard",
-        "Watts"
-      ],
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.hajoca.com/suppliers/"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27",
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "High-resolution GPS coordinates verified"
-      },
-      "geoPrecision": "rooftop",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "High-resolution GPS coordinates verified",
-      "arrivalLat": 40.161774,
-      "arrivalLon": -104.995223,
-      "arrivalType": "will_call"
-    }
-  ],
-  "auditNotes": [
-    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
-    "Gap-fill review performed; no additional physical plumbing storefronts confirmed."
-  ],
-  "auditStatus": "gap_fill_review_complete"
+ "version": "1.0-plumbing-seed__ADD5",
+ "trade": "plumbing",
+ "metro": "Boulder / Broomfield / Longmont",
+ "state": "CO",
+ "updated": "2026-10-24",
+ "branches": [
+  {
+   "id": "dahl-boulder-sterling-3180-100",
+   "name": "Dahl \u2013 Boulder",
+   "chain": "Dahl (Hajoca)",
+   "trade": "plumbing",
+   "city": "Boulder",
+   "state": "CO",
+   "postalCode": "80301",
+   "address1": "3180 Sterling Cir Ste 100",
+   "phone": "303-955-4460",
+   "website": "https://dahlplumbing.com/boulder/",
+   "lat": 40.03443,
+   "lon": -105.24637,
+   "coordsStatus": "verified",
+   "notes": "Counter/Warehouse/Office + showroom. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 100 entrance. Industrial location with precise customer access point.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+   "brandsRep": [
+    "Delta",
+    "Kohler",
+    "Bradford White",
+    "Charlotte Pipe",
+    "A.O. Smith",
+    "American Standard",
+    "Watts"
+   ],
+   "manufacturersPartsFor": [],
+   "verification": {
+    "coords_attempted": "2025-12-26",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.hajoca.com/suppliers/"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "MapQuest + Google Maps verified entrance",
+   "arrivalLat": 40.034486,
+   "arrivalLon": -105.246314,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "ferguson-plumbing-boulder-1840-55th",
+   "name": "Ferguson Plumbing Supply (Boulder)",
+   "chain": "Ferguson",
+   "trade": "plumbing",
+   "city": "Boulder",
+   "state": "CO",
+   "postalCode": "80301",
+   "address1": "1840 55th St",
+   "phone": "303-245-0456",
+   "website": "https://www.yelp.com/biz/ferguson-plumbing-supply-boulder-2",
+   "lat": 40.0267,
+   "lon": -105.2217,
+   "coordsStatus": "verified",
+   "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+   "brandsRep": [
+    "American Standard",
+    "Fujitsu",
+    "Mitsubishi",
+    "Carrier",
+    "Bryant",
+    "Honeywell",
+    "Rheem",
+    "Amana",
+    "Kohler",
+    "Moen",
+    "Delta"
+   ],
+   "manufacturersPartsFor": [],
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Ferguson Store Locator",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.ferguson.com/store/co/boulder",
+     "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.ferguson.com/store/co/boulder",
+    "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
+   ],
+   "trades": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "primaryTrade": "Plumbing",
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.0267,
+   "arrivalLon": -105.2217,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "longmont-hughes-supply",
+   "name": "Hughes Supply \u2013 Longmont",
+   "chain": "Hajoca (Hughes Supply)",
+   "trade": "plumbing",
+   "city": "Longmont",
+   "state": "CO",
+   "postalCode": "80504",
+   "address1": "1610 Vista View Dr",
+   "phone": "720-526-6618",
+   "website": "https://hughessupply.com/",
+   "lat": 40.161774,
+   "lon": -104.995223,
+   "coordsStatus": "verified",
+   "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-27 [Arrival coordinates refined 2025-12-27: Precise building location in Vista Commercial Center]",
+   "parentChain": "Hajoca",
+   "brandsRep": [
+    "Delta",
+    "Kohler",
+    "Bradford White",
+    "Charlotte Pipe",
+    "A.O. Smith",
+    "American Standard",
+    "Watts"
+   ],
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.hajoca.com/suppliers/"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "High-resolution GPS coordinates verified"
+   },
+   "geoPrecision": "rooftop",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "High-resolution GPS coordinates verified",
+   "arrivalLat": 40.161774,
+   "arrivalLon": -104.995223,
+   "arrivalType": "will_call",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "winnelson-longmont-795-s-sherman-13",
+   "name": "Longmont Winnelson",
+   "chain": "Winsupply",
+   "trade": "plumbing",
+   "city": "Longmont",
+   "state": "CO",
+   "postalCode": "80501",
+   "address1": "795 S Sherman St Ste 13",
+   "phone": "303-772-5460",
+   "website": "https://www.yelp.com/biz/longmont-winnelson-longmont",
+   "lat": 40.151531,
+   "lon": -105.108586,
+   "coordsStatus": "verified",
+   "notes": "Plumbing wholesale supply counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "brandsRep": [],
+   "manufacturersPartsFor": [],
+   "verification": {
+    "coords_attempted": "2025-12-26",
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "partsFor": [
+    "Plumbing"
+   ],
+   "sources": [
+    "https://www.winsupplyinc.com/s/view-products/top-brands"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "geoPrecision": "entrance",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "gps-coordinates.org",
+   "arrivalLat": 40.151587,
+   "arrivalLon": -105.10853,
+   "arrivalType": "will_call",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Longmont-CO/80501/Plumbing-Supplies",
+   "primaryTrade": "Plumbing",
+   "brandsRepRepoLegacy": [
+    "A.O. Smith",
+    "Charlotte Pipe",
+    "American Standard",
+    "Sloan",
+    "Liberty Pumps"
+   ],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.winsupplyinc.com/Location/Longmont-CO/80501/Plumbing-Supplies",
+   "spreadsheetSource": "https://www.winsupplyinc.com/Location/Longmont-CO/80501/Plumbing-Supplies",
+   "spreadsheetDateVerified": "2026-10-24"
+  }
+ ],
+ "auditNotes": [
+  "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+  "Gap-fill review performed; no additional physical plumbing storefronts confirmed."
+ ],
+ "auditStatus": "gap_fill_review_complete"
 }

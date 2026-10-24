@@ -1,531 +1,2820 @@
 {
-  "version": "1.2-corrected",
-  "metro": "Front Range North",
-  "state": "CO",
-  "updated": "2025-12-27",
-  "branches": [
-    {
-      "id": "co-fc-sidharvey-001",
-      "name": "Sid Harvey – Fort Collins",
-      "chain": "Sid Harvey",
-      "address1": "300 Lincoln Ct",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "(970) 221-1929",
-      "lat": 40.5833957,
-      "lon": -105.0464082,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Goodman",
-        "Daikin",
-        "Mitsubishi",
-        "Honeywell",
-        "Rheem",
-        "Fujitsu"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80524",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "GPS coordinates from web verification",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Chamber of Commerce & Industry Directories",
-        "addressVerifiedDate": "2025-12-27",
-        "sources": [
-          "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/wholesaler/2006110704-sid-harvey-s",
-          "https://www.achrnews.com/directories/2937-hvacr-directory/listing/12151-sid-harvey-s-fort-collins-co"
-        ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.sidharvey.com/locations"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Web search verified coordinates",
-      "arrivalLat": 40.5833957,
-      "arrivalLon": -105.0464082,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing – Loveland",
-      "chain": "Comfort Air Distributing",
-      "address1": "2840 N Lincoln Ave",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "+19706690000",
-      "lat": 40.4219,
-      "lon": -105.0759,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "https://www.comfortairdistributing.com/"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80538",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.421956,
-      "arrivalLon": -105.075844,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "co-loveland-lennoxstores-001",
-      "name": "Lennox Stores – Loveland",
-      "chain": "Lennox Stores",
-      "address1": "113 E 29th St",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "+19706130000",
-      "lat": 40.4206,
-      "lon": -105.074,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Lennox"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80538",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "LennoxPros store locator"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.420656,
-      "arrivalLon": -105.073944,
-      "arrivalType": "will_call"
-    },
-    {
-      "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC – Greeley",
-      "chain": "WinSupply HVAC",
-      "address1": "1979 2nd Ave",
-      "city": "Greeley",
-      "state": "CO",
-      "phone": "(970) 356-0404",
-      "lat": 40.39639,
-      "lon": -104.684443,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Carrier",
-        "Bryant",
-        "Payne",
-        "Rheem",
-        "Ruud"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80631",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "GPS coordinates from web verification",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Winsupply Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "sources": [
-          "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
-          "https://www.mapquest.com/us/colorado/greeley-winsupply-429191270"
-        ]
-      },
-      "coordsStatus": "verified",
-      "sources": [
-        "https://www.winsupplyinc.com/locations"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Web search verified coordinates",
-      "arrivalLat": 40.39639,
-      "arrivalLon": -104.684443,
-      "arrivalType": "will_call",
-      "address2": ""
-    },
-    {
-      "id": "co-fc-ferguson-hvac-001",
-      "name": "Ferguson Plumbing Supply – Fort Collins",
-      "chain": "Ferguson",
-      "address1": "2321 Donella Ct",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "+19704821722",
-      "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
-      "lat": 40.6104,
-      "lon": -105.0229,
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "partsFor": [
-        "HVAC equipment",
-        "HVAC parts",
-        "Plumbing",
-        "Supplies"
-      ],
-      "tags": [
-        "hvac",
-        "plumbing",
-        "wholesale"
-      ],
-      "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-0112. Source: Ferguson official website, verified 2025-12-26",
-      "sources": [
-        "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "postalCode": "80524",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Ferguson Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
-          "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6104,
-      "arrivalLon": -105.0229,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-frn-city-electric-002",
-      "name": "City Electric Supply (Fort Collins)",
-      "chain": "City Electric Supply",
-      "address1": "2415 E Mulberry St",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-776-6400",
-      "lat": 40.5854,
-      "lon": -105.0432,
-      "tags": [
-        "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider",
-        "Philips",
-        "Acuity",
-        "RAB",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
-        "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80524",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Multiple Verified Directories",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
-          "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.5854,
-      "arrivalLon": -105.0432,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-frn-ced-001",
-      "name": "Consolidated Electrical Distributors (Fort Collins)",
-      "chain": "Consolidated Electrical Distributors",
-      "address1": "1717 Heath Pkwy",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-484-4377",
-      "lat": 40.6001,
-      "lon": -105.0252,
-      "brandsRep": [
-        "Square D",
-        "Schneider",
-        "Leviton",
-        "Eaton",
-        "Cooper",
-        "Hubbell",
-        "Lithonia",
-        "Milwaukee",
-        "Klein Tools",
-        "Southwire",
-        "Cantex",
-        "Brady",
-        "Ideal",
-        "Panduit",
-        "Fluke"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "tags": [
-        "electrical"
-      ],
-      "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "sources": [
-        "https://www.cedal.com/locations",
-        "https://www.google.com/maps/place/CED+Fort+Collins"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80524",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Official CED Portal",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.cedal.com/locations",
-          "https://www.google.com/maps/place/CED+Fort+Collins"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.6001,
-      "arrivalLon": -105.0252,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-frn-city-electric-003",
-      "name": "City Electric Supply (Loveland)",
-      "chain": "City Electric Supply",
-      "address1": "1082 Denver Ave",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "970-663-3333",
-      "lat": 40.407917,
-      "lon": -105.045164,
-      "tags": [
-        "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider",
-        "Philips",
-        "Acuity",
-        "RAB",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26",
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
-        "https://servlectric.com/branch/city-electric-supply-loveland"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80537",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Multiple Directories",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
-          "https://servlectric.com/branch/city-electric-supply-loveland"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.407917,
-      "arrivalLon": -105.045164,
-      "arrivalType": "storefront"
-    },
-    {
-      "id": "co-fortcollins-tranesupply-donella-001",
-      "name": "Trane Supply - Fort Collins",
-      "chain": "Trane Supply",
-      "address1": "2416 Donella Court, Unit D",
-      "city": "Fort Collins",
-      "state": "CO",
-      "phone": "970-484-4139",
-      "lat": 40.5528,
-      "lon": -105.0447,
-      "brandsRep": [
-        "Trane",
-        "American Standard"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "tags": [
-        "hvac",
-        "wholesale"
-      ],
-      "notes": "Factory-owned Trane Supply house serving HVAC professionals. Hours: M-F 7:00 AM - 5:00 PM. Source: Trane official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-      "sources": [
-        "https://www.trane.com/commercial/north-america/us/en/contact-us/locate-sales-offices/fortcollins/fort-collins-trane-affiliated-products.html",
-        "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/heating-equipment-supplier/31281764-trane-supply"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "postalCode": "80524",
-      "verification": {
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.tranesupply.com/locations/"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Company website and Google Maps",
-        "addressVerified": true,
-        "addressSource": "Official Store Locator",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps",
-      "arrivalLat": 40.552856,
-      "arrivalLon": -105.044644,
-      "arrivalType": "storefront"
-    }
-  ],
-  "auditNotes": [
-    "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
-    "2025-12-26: Removed 1 duplicate entry(ies)",
-    "2025-12-26: Added Trane Supply Fort Collins location"
-  ],
-  "auditStatus": "in_progress"
+ "version": "1.2-corrected",
+ "metro": "Front Range North",
+ "state": "CO",
+ "updated": "2026-10-24",
+ "branches": [
+  {
+   "id": "co-fc-sidharvey-001",
+   "name": "Sid Harvey – Fort Collins",
+   "chain": "Sid Harvey",
+   "address1": "300 Lincoln Ct",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 221-1929",
+   "lat": 40.5833957,
+   "lon": -105.0464082,
+   "tags": [
+    "hvac",
+    "equipment",
+    "parts"
+   ],
+   "brandsRep": [
+    "Carrier",
+    "Bryant",
+    "Payne",
+    "Goodman",
+    "Daikin",
+    "Mitsubishi",
+    "Honeywell",
+    "Rheem",
+    "Fujitsu"
+   ],
+   "partsFor": [
+    "HVAC"
+   ],
+   "notes": "Major HVAC distributor. National HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "trades": [
+    "HVAC"
+   ],
+   "postalCode": "80524",
+   "verification": {
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "GPS coordinates from web verification",
+    "notes": "Coordinates verified in prior audit pass",
+    "addressVerified": true,
+    "addressSource": "Chamber of Commerce & Industry Directories",
+    "addressVerifiedDate": "2025-12-27",
+    "sources": [
+     "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/wholesaler/2006110704-sid-harvey-s",
+     "https://www.achrnews.com/directories/2937-hvacr-directory/listing/12151-sid-harvey-s-fort-collins-co"
+    ]
+   },
+   "coordsStatus": "verified",
+   "sources": [
+    "https://www.sidharvey.com/locations"
+   ],
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Web search verified coordinates",
+   "arrivalLat": 40.5833957,
+   "arrivalLon": -105.0464082,
+   "arrivalType": "will_call",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "co-loveland-comfortair-001",
+   "name": "Comfort Air Distributing – Loveland",
+   "chain": "Comfort Air Distributing",
+   "address1": "2840 N Lincoln Ave",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "+19706690000",
+   "lat": 40.4219,
+   "lon": -105.0759,
+   "tags": [
+    "hvac",
+    "equipment",
+    "parts"
+   ],
+   "brandsRep": [
+    "Rheem",
+    "Honeywell",
+    "Aprilaire",
+    "LG",
+    "Bosch",
+    "Nu-Calgon"
+   ],
+   "partsFor": [
+    "HVAC"
+   ],
+   "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "sources": [
+    "https://www.comfortairdistributing.com/"
+   ],
+   "trades": [
+    "HVAC"
+   ],
+   "postalCode": "80538",
+   "verification": {
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Previously verified during geocoding audit",
+    "notes": "Coordinates verified in prior audit pass",
+    "addressVerified": true,
+    "addressSource": "Official Website",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "coordsStatus": "verified",
+   "geoPrecision": "entrance",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Previously verified during geocoding audit",
+   "arrivalLat": 40.421956,
+   "arrivalLon": -105.075844,
+   "arrivalType": "will_call",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "co-loveland-lennoxstores-001",
+   "name": "Lennox Stores – Loveland",
+   "chain": "Lennox Stores",
+   "address1": "113 E 29th St",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "+19706130000",
+   "lat": 40.4206,
+   "lon": -105.074,
+   "tags": [
+    "hvac",
+    "equipment",
+    "parts"
+   ],
+   "brandsRep": [
+    "Lennox"
+   ],
+   "partsFor": [
+    "HVAC"
+   ],
+   "notes": "Factory-owned Lennox brand stores. Source: LennoxPros store locator, verified 2025-12-26. [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "trades": [
+    "HVAC"
+   ],
+   "postalCode": "80538",
+   "verification": {
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Previously verified during geocoding audit",
+    "notes": "Coordinates verified in prior audit pass",
+    "addressVerified": true,
+    "addressSource": "Official Store Locator",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "coordsStatus": "verified",
+   "sources": [
+    "LennoxPros store locator"
+   ],
+   "geoPrecision": "entrance",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Previously verified during geocoding audit",
+   "arrivalLat": 40.420656,
+   "arrivalLon": -105.073944,
+   "arrivalType": "will_call",
+   "brandListType": "repo representative (not spreadsheet line card)",
+   "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)"
+  },
+  {
+   "id": "co-frn-city-electric-002",
+   "name": "City Electric Supply (Fort Collins)",
+   "chain": "City Electric Supply",
+   "address1": "2415 E Mulberry St",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-776-6400",
+   "lat": 40.5854,
+   "lon": -105.0432,
+   "tags": [
+    "electrical"
+   ],
+   "brandsRep": [
+    "Southwire",
+    "Siemens",
+    "Eaton",
+    "Square D",
+    "Schneider",
+    "Philips",
+    "Acuity",
+    "RAB",
+    "Lutron",
+    "Klein Tools",
+    "Fluke",
+    "Milwaukee",
+    "Hubbell",
+    "Leviton"
+   ],
+   "partsFor": [
+    "Electrical",
+    "Lighting",
+    "Wire & Cable",
+    "Tools",
+    "Controls"
+   ],
+   "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26 [2026-10-24: a second tree record (electrical/front-range-north.json, Suite 5, 970-493-0101, spreadsheet-matched) sits at this same address — possible duplicate; NOT merged without confirmation.] [2026-10-24: deep-check flag — the official CES locator lists only ONE Fort Collins branch (2415 E Mulberry St Ste 5, 970-493-0101); this second Mulberry record is not on it. Possible stale duplicate — flagged, NOT merged (same-address pair flag already stood).]",
+   "sources": [
+    "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+    "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Multiple Verified Directories",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.google.com/maps/place/City+Electric+Supply+Fort+Collins",
+     "https://servlectric.com/branch/city-electric-supply-fort-collins-fort-collins"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "coordsStatus": "verified",
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.5854,
+   "arrivalLon": -105.0432,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "co-frn-ced-001",
+   "name": "Consolidated Electrical Distributors (Fort Collins)",
+   "chain": "Consolidated Electrical Distributors",
+   "address1": "1717 Heath Pkwy",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-484-4377",
+   "lat": 40.6001,
+   "lon": -105.0252,
+   "brandsRep": [
+    "Square D",
+    "Schneider",
+    "Leviton",
+    "Eaton",
+    "Cooper",
+    "Hubbell",
+    "Lithonia",
+    "Milwaukee",
+    "Klein Tools",
+    "Southwire",
+    "Cantex",
+    "Brady",
+    "Ideal",
+    "Panduit",
+    "Fluke"
+   ],
+   "partsFor": [
+    "Electrical",
+    "Lighting",
+    "Wire & Cable",
+    "Tools",
+    "Controls"
+   ],
+   "tags": [
+    "electrical"
+   ],
+   "notes": "Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
+   "sources": [
+    "https://www.cedal.com/locations",
+    "https://www.google.com/maps/place/CED+Fort+Collins"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Official CED Portal",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.cedal.com/locations",
+     "https://www.google.com/maps/place/CED+Fort+Collins"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "coordsStatus": "verified",
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.6001,
+   "arrivalLon": -105.0252,
+   "arrivalType": "storefront",
+   "brandListType": "repo representative (not spreadsheet line card)"
+  },
+  {
+   "id": "co-fc-ferguson-hvac-001",
+   "name": "Ferguson Plumbing Supply – Fort Collins",
+   "chain": "Ferguson",
+   "address1": "2321 Donella Ct",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "+19704821722",
+   "website": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
+   "lat": 40.6104,
+   "lon": -105.0229,
+   "brandsRep": [
+    "A.O. Smith",
+    "American Standard",
+    "Bradford White",
+    "Delta Faucet",
+    "FNW",
+    "Jones Stephens",
+    "KOHLER",
+    "Moen",
+    "PROFLO",
+    "Rinnai",
+    "Signature Hardware",
+    "State",
+    "TOTO"
+   ],
+   "partsFor": [
+    "HVAC equipment",
+    "HVAC parts",
+    "Plumbing",
+    "Supplies"
+   ],
+   "tags": [
+    "hvac",
+    "plumbing",
+    "wholesale"
+   ],
+   "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-0112. Source: Ferguson official website, verified 2025-12-26",
+   "sources": [
+    "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+    "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+   ],
+   "trades": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Ferguson Store Locator",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.ferguson.com/branch/fort-collins-co-plumbing?locationId=0112",
+     "https://www.google.com/maps/place/Ferguson+Plumbing+Fort+Collins"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "coordsStatus": "verified",
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.6104,
+   "arrivalLon": -105.0229,
+   "arrivalType": "storefront",
+   "email": null,
+   "hours": "Mon-Fri 6:30 AM - 4:00 PM",
+   "branchLocatorUrl": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
+   "spreadsheetSource": "https://www.ferguson.com/store/co/fort+collins/plumbingpvf-0112",
+   "spreadsheetDateVerified": "2026-10-24"
+  },
+  {
+   "id": "co-greeley-winsupply-001",
+   "name": "WinSupply HVAC – Greeley",
+   "chain": "WinSupply HVAC",
+   "address1": "1979 2nd Ave",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 356-0404",
+   "lat": 40.39639,
+   "lon": -104.684443,
+   "tags": [
+    "hvac",
+    "equipment",
+    "parts"
+   ],
+   "brandsRep": [],
+   "partsFor": [
+    "HVAC"
+   ],
+   "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+   "trades": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "postalCode": "80631",
+   "verification": {
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "GPS coordinates from web verification",
+    "notes": "Coordinates verified in prior audit pass",
+    "addressVerified": true,
+    "addressSource": "Official Winsupply Store Locator",
+    "addressVerifiedDate": "2025-12-27",
+    "sources": [
+     "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+     "https://www.mapquest.com/us/colorado/greeley-winsupply-429191270"
+    ]
+   },
+   "coordsStatus": "verified",
+   "sources": [
+    "https://www.winsupplyinc.com/locations"
+   ],
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Web search verified coordinates",
+   "arrivalLat": 40.39639,
+   "arrivalLon": -104.684443,
+   "arrivalType": "will_call",
+   "address2": "",
+   "website": "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+   "primaryTrade": "HVAC",
+   "brandsRepRepoLegacy": [
+    "Carrier",
+    "Bryant",
+    "Payne",
+    "Rheem",
+    "Ruud"
+   ],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+   "spreadsheetSource": "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
+   "spreadsheetDateVerified": "2026-10-24"
+  },
+  {
+   "id": "co-fortcollins-tranesupply-donella-001",
+   "name": "Trane Supply - Fort Collins",
+   "chain": "Trane Supply",
+   "address1": "2416 Donella Court, Unit D",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-484-4139",
+   "lat": 40.5528,
+   "lon": -105.0447,
+   "brandsRep": [
+    "Ameristar",
+    "ServiceFirst",
+    "Trane"
+   ],
+   "partsFor": [
+    "HVAC"
+   ],
+   "tags": [
+    "hvac",
+    "wholesale"
+   ],
+   "notes": "Factory-owned Trane Supply house serving HVAC professionals. Hours: M-F 7:00 AM - 5:00 PM. Source: Trane official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+   "sources": [
+    "https://www.trane.com/commercial/north-america/us/en/contact-us/locate-sales-offices/fortcollins/fort-collins-trane-affiliated-products.html",
+    "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/heating-equipment-supplier/31281764-trane-supply"
+   ],
+   "trades": [
+    "HVAC"
+   ],
+   "coordsStatus": "verified",
+   "postalCode": "80524",
+   "verification": {
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.tranesupply.com/locations/"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Company website and Google Maps",
+    "addressVerified": true,
+    "addressSource": "Official Store Locator",
+    "addressVerifiedDate": "2025-12-27"
+   },
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps",
+   "arrivalLat": 40.552856,
+   "arrivalLon": -105.044644,
+   "arrivalType": "storefront",
+   "website": "https://www.tranesupply.com",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM-5:00 PM",
+   "branchLocatorUrl": "https://www.tranesupply.com/store-locator/",
+   "primaryTrade": "HVAC",
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandSourceUrl": "https://www.tranesupply.com",
+   "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
+   "spreadsheetDateVerified": "2026-10-24"
+  },
+  {
+   "id": "co-frn-city-electric-003",
+   "name": "City Electric Supply (Loveland)",
+   "chain": "City Electric Supply",
+   "address1": "1082 Denver Ave",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "970-663-3333",
+   "lat": 40.407917,
+   "lon": -105.045164,
+   "tags": [
+    "electrical"
+   ],
+   "brandsRep": [],
+   "partsFor": [
+    "Electrical",
+    "Lighting",
+    "Wire & Cable",
+    "Tools",
+    "Controls"
+   ],
+   "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26 [2026-10-24 SupplyFind update: CES Loveland phone conflict merged - repo phone 970-663-3333 kept, spreadsheet phone +1 970-775-8222 preserved as phoneAlt; Fred decision D8 - confirm which number is current.] [2026-10-24: deep-check flag — phone differs from the official CES locator (970-775-8222, matches the spreadsheet row); this record's 970-663-3333 is unverified — flagged, NOT overwritten.]",
+   "sources": [
+    "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+    "https://servlectric.com/branch/city-electric-supply-loveland"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "postalCode": "80537",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Google Business Profile & Multiple Directories",
+    "addressVerifiedDate": "2025-12-27",
+    "storefront_confirmed": "2025-12-27",
+    "sources": [
+     "https://www.google.com/maps/place/City+Electric+Supply+Loveland",
+     "https://servlectric.com/branch/city-electric-supply-loveland"
+    ],
+    "coords_verified": "2025-12-27",
+    "geocoding_method": "Google Maps verified coordinates"
+   },
+   "coordsStatus": "verified",
+   "geoPrecision": "storefront",
+   "geoVerifiedDate": "2025-12-27",
+   "geoSource": "Google Maps pin",
+   "arrivalLat": 40.407917,
+   "arrivalLon": -105.045164,
+   "arrivalType": "storefront",
+   "website": "https://www.cityelectricsupply.com",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM-5:00 PM; Sat 8:00 AM-12:00 PM",
+   "primaryTrade": "Electrical",
+   "phoneAlt": "+1 970-775-8222",
+   "brandsRepRepoLegacy": [
+    "Southwire",
+    "Siemens",
+    "Eaton",
+    "Square D",
+    "Schneider",
+    "Philips",
+    "Acuity",
+    "RAB",
+    "Lutron",
+    "Klein Tools",
+    "Fluke",
+    "Milwaukee",
+    "Hubbell",
+    "Leviton"
+   ],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.cityelectricsupply.com",
+   "spreadsheetSource": "https://www.cityelectricsupply.com",
+   "spreadsheetDateVerified": "2026-10-24"
+  },
+  {
+   "id": "co-fort-collins-charles-d-jones-co-825-frontage-rd-suite-2-new",
+   "name": "Charles D. Jones Co. - Fort Collins",
+   "chain": "Charles D. Jones Co.",
+   "address1": "825 Frontage Rd Suite 2",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 224-9198",
+   "website": "https://cdjones.com",
+   "email": "marketing@cdjones.com",
+   "hours": "",
+   "branchLocatorUrl": "https://cdjones.com",
+   "brandsRep": [
+    "American Water Heaters",
+    "Arzel",
+    "Breezair",
+    "Guardian Fall Protection",
+    "Honeywell",
+    "Luxaire",
+    "Mitsubishi",
+    "Mitsubishi Electric",
+    "Peerless Boilers",
+    "Phoenix Coolers",
+    "Raypak",
+    "RenewAire",
+    "Reznor",
+    "Rinnai",
+    "Seeley International",
+    "SpacePak",
+    "WattMaster",
+    "York"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
+   "spreadsheetSource": "https://cms.cdjones.com/media/2643/mitsubishi-training-dsb-schedule-fall-2025.pdf",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "HVAC"
+   ],
+   "trades": [
+    "HVAC"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://cms.cdjones.com/media/2643/mitsubishi-training-dsb-schedule-fall-2025.pdf",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Phone not verified - left blank | V2 2026-10-24: V1 PHONE FILL: V1 street was '825 SW Frontage Rd'. Phone is place-listing verified (listing website field cdjones.com),  NOT confirmed on the official cdjones.com locator text in this round. | V2 2026-10-24: PARTIAL, not a full line card. Preferred-brands listing (Blue Book) plus Luxaire/Mitsubishi evidenced on cdjones.com. Company states it represents 300+ manufacturers, so this 18-brand list is NOT exhaustive. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://cdjones.com",
+    "https://cms.cdjones.com/media/2643/mitsubishi-training-dsb-schedule-fall-2025.pdf"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fastenal-2601-riverbend-ct-new",
+   "name": "Fastenal - Fort Collins",
+   "chain": "Fastenal",
+   "address1": "2601 Riverbend Ct",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "+1 970-482-2257",
+   "website": "https://www.fastenal.com",
+   "email": null,
+   "hours": "Mon-Fri 9:00 AM-3:00 PM",
+   "branchLocatorUrl": "",
+   "brandsRep": [
+    "3M",
+    "80/20 Inc",
+    "ABB Installation Products",
+    "Acme Electric",
+    "Aiphone",
+    "Alarm Controls",
+    "American Packing & Gasket Co",
+    "Anamet Electrical",
+    "Apex Tool Group",
+    "ASSA ABLOY",
+    "Band-It",
+    "Bayco Products",
+    "BEA",
+    "Blackburn",
+    "Brady Corporation",
+    "Brady Worldwide",
+    "Bryant",
+    "Burndy",
+    "Bussmann",
+    "Carlon",
+    "Carol",
+    "Cle-Line",
+    "East Penn Mfg.",
+    "Epson",
+    "Epson LabelWorks",
+    "Fastenal Approved Vendor",
+    "Greenfield Industries",
+    "HellermannTyton",
+    "Heyco Products",
+    "Hubbell",
+    "Hubbell Wiring Device-Kellems",
+    "Ideal Industries",
+    "J.J. Keller & Associates",
+    "Milwaukee Tool",
+    "Norseman Drill & Tool",
+    "Ormadus",
+    "Panduit",
+    "Power Phase",
+    "Prymsian Group",
+    "Quick Cable Corp.",
+    "RACO",
+    "Scotchcast",
+    "Scotchcode",
+    "Sealcon",
+    "Southwire Company",
+    "Ty-Fast",
+    "Ty-Rap"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.fastenal.com/product/Electrical",
+   "spreadsheetSource": "https://www.fastenal.com",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Filter"
+   ],
+   "trades": [
+    "Filter"
+   ],
+   "primaryTrade": "Filter",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.fastenal.com",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Fulfillment center / branch carrying filters and industrial supplies. No official Fastenal line card used - Thomasnet brand lists are third-party and were not used as official brands. | V2 2026-10-24: V1 ZIP FILL: official Fastenal locator (branch COFTC). Fax from official locator page. | V2 2026-10-24: GENERAL-LINE, not trade-exclusive (fasteners/tools/MRO first). Trade-relevant electrical subset from Fastenal's own Electrical category brand filters (wire/cable, cable ties/mounts, plugs/receptacles, ground kits). PARTIAL: the category filter rendering truncated after the early-alphabet brands, so this is not Fastenal's complete electrical brand list - verify a specific line on fastenal.com. Fastenal's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.fastenal.com"
+   ],
+   "fax": "(970) 482-5497"
+  },
+  {
+   "id": "co-loveland-ferguson-waterworks-4411-woods-ave-new",
+   "name": "Ferguson Waterworks - Loveland Waterworks",
+   "chain": "Ferguson Waterworks",
+   "address1": "4411 Woods Ave",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "970-278-0944",
+   "website": "https://www.ferguson.com",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.ferguson.com",
+   "brandsRep": [
+    "A.Y. McDonald",
+    "American Flow Control",
+    "Apollo Valves",
+    "Clow Valve",
+    "DeZURIK",
+    "FNW",
+    "Milwaukee Valve",
+    "Mueller Company",
+    "NIBCO",
+    "Powell Valves",
+    "XOMOX"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.ferguson.com/category/valves/gate-valves/",
+   "spreadsheetSource": "https://www.yellowpages.com/erie-co/ferguson-plumbing-supply",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Plumbing"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "primaryTrade": "Plumbing",
+   "postalCode": "80538",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.yellowpages.com/erie-co/ferguson-plumbing-supply",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Address/phone/ZIP from Ferguson listing | V2 2026-10-24: Company-wide. NO published Ferguson Waterworks line card found; brands evidenced on Ferguson.com waterworks/valve category pages only, NOT an exhaustive line card. Call branch to confirm waterworks stock. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.ferguson.com",
+    "https://www.yellowpages.com/erie-co/ferguson-plumbing-supply"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fort-collins-winnelson-winsupply-1616-riverside-ave-new",
+   "name": "Fort Collins Winnelson (Winsupply) - Fort Collins",
+   "chain": "Fort Collins Winnelson (Winsupply)",
+   "address1": "1616 Riverside Ave",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-484-8161",
+   "website": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Plumbing-Supplies",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Plumbing-Supplies",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://company.winsupply.com/locations/fort-collins-winnelson-co",
+   "spreadsheetSource": "https://company.winsupply.com/locations/fort-collins-winnelson-co",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Plumbing"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "primaryTrade": "Plumbing",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://company.winsupply.com/locations/fort-collins-winnelson-co",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "V2 2026-10-24: No published per-branch line card found (checked Winsupply local-company sites/locator and trade listings). Each Winsupply local company is independently owned; do not assume a shared list. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Plumbing-Supplies",
+    "https://company.winsupply.com/locations/fort-collins-winnelson-co"
+   ]
+  },
+  {
+   "id": "co-loveland-geary-pacific-supply-4525-viking-way-new",
+   "name": "Geary Pacific Supply - Loveland",
+   "chain": "Geary Pacific Supply",
+   "address1": "4525 Viking Way",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "800-946-2550",
+   "website": "http://www.gearypacific.com",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "http://www.gearypacific.com",
+   "brandsRep": [
+    "ADP",
+    "Allstyle",
+    "Amana",
+    "Amana PTAC",
+    "Aprilaire",
+    "Aspen",
+    "Bard",
+    "Braeburn",
+    "Caleffi",
+    "Copeland/White-Rodgers",
+    "Daikin",
+    "Ecobee",
+    "FirstCo",
+    "Goodman",
+    "Grundfos",
+    "Honeywell Home",
+    "Laars",
+    "Lochinvar",
+    "Mortex",
+    "Noritz",
+    "NTI Boilers",
+    "Nu-Calgon",
+    "Packard",
+    "Rehau",
+    "Resideo",
+    "Robertshaw",
+    "Sensi",
+    "Slant/Fin",
+    "SUPCO",
+    "Taco",
+    "Utica",
+    "Watts",
+    "Williams"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://47151432.fs1.hubspotusercontent-na1.net/hubfs/47151432/2025%20Geary%20Pacific%20Supply%20Partner%20Program-1.pdf",
+   "spreadsheetSource": "https://47151432.fs1.hubspotusercontent-na1.net/hubfs/47151432/2025%20Geary%20Pacific%20Supply%20Partner%20Program-1.pdf",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "HVAC"
+   ],
+   "trades": [
+    "HVAC"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80538",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://47151432.fs1.hubspotusercontent-na1.net/hubfs/47151432/2025%20Geary%20Pacific%20Supply%20Partner%20Program-1.pdf",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Address/phone/fax from official 2025 Partner Program line card | V2 2026-10-24: Company-wide, verified against v1: 2025 Geary Pacific Partner Program line card. No newer card found; this remains the latest published card found. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "http://www.gearypacific.com",
+    "https://47151432.fs1.hubspotusercontent-na1.net/hubfs/47151432/2025%20Geary%20Pacific%20Supply%20Partner%20Program-1.pdf"
+   ],
+   "fax": "970-484-0625"
+  },
+  {
+   "id": "co-fort-collins-george-t-sanders-company-5003-fossil-boulevard-new",
+   "name": "George T. Sanders Company - Fort Collins",
+   "chain": "George T. Sanders Company",
+   "address1": "5003 Fossil Boulevard",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-204-1450",
+   "website": "https://www.gtsanders.com",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
+   "brandsRep": [
+    "A.Y. McDonald",
+    "Allied Weld Fittings",
+    "American Standard",
+    "Anvil",
+    "Aquatic",
+    "Bemis",
+    "Blanco",
+    "Boss Products",
+    "Bradford White",
+    "BrassCraft",
+    "Charlotte Pipe",
+    "Cherne",
+    "Chicago Faucets",
+    "Cresline",
+    "Delta",
+    "Eemax",
+    "Elkay",
+    "Fernco",
+    "Fluidmaster",
+    "Gastite",
+    "Gerber",
+    "Holdrite",
+    "InSinkErator",
+    "IPS Weld-On",
+    "Just Sinks",
+    "Little Giant",
+    "Mill-Rose",
+    "Moen",
+    "Mueller",
+    "Navien",
+    "Nibco",
+    "Oatey",
+    "Pasco",
+    "RectorSeal",
+    "Red White",
+    "Rinnai",
+    "Saniflo",
+    "SharkBite",
+    "Sioux Chief",
+    "Sloan",
+    "Sterling",
+    "Toto",
+    "Tyler",
+    "Uponor",
+    "Viega",
+    "Watco",
+    "Watts",
+    "Woodford",
+    "Zoeller"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf",
+   "spreadsheetSource": "https://www.gtsanders.com",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "trades": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.gtsanders.com",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.gtsanders.com/AboutUs",
+    "https://www.gtsanders.com"
+   ],
+   "fax": "970-204-1422"
+  },
+  {
+   "id": "co-greeley-george-t-sanders-company-310-east-8th-street-new",
+   "name": "George T. Sanders Company - Greeley",
+   "chain": "George T. Sanders Company",
+   "address1": "310 East 8th Street",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "970-352-2856",
+   "website": "https://www.gtsanders.com",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
+   "brandsRep": [
+    "A.Y. McDonald",
+    "Allied Weld Fittings",
+    "American Standard",
+    "Anvil",
+    "Aquatic",
+    "Bemis",
+    "Blanco",
+    "Boss Products",
+    "Bradford White",
+    "BrassCraft",
+    "Charlotte Pipe",
+    "Cherne",
+    "Chicago Faucets",
+    "Cresline",
+    "Delta",
+    "Eemax",
+    "Elkay",
+    "Fernco",
+    "Fluidmaster",
+    "Gastite",
+    "Gerber",
+    "Holdrite",
+    "InSinkErator",
+    "IPS Weld-On",
+    "Just Sinks",
+    "Little Giant",
+    "Mill-Rose",
+    "Moen",
+    "Mueller",
+    "Navien",
+    "Nibco",
+    "Oatey",
+    "Pasco",
+    "RectorSeal",
+    "Red White",
+    "Rinnai",
+    "Saniflo",
+    "SharkBite",
+    "Sioux Chief",
+    "Sloan",
+    "Sterling",
+    "Toto",
+    "Tyler",
+    "Uponor",
+    "Viega",
+    "Watco",
+    "Watts",
+    "Woodford",
+    "Zoeller"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf",
+   "spreadsheetSource": "https://www.gtsanders.com",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "trades": [
+    "HVAC",
+    "Plumbing"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80631",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.gtsanders.com",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Showroom location | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.gtsanders.com/AboutUs",
+    "https://www.gtsanders.com"
+   ],
+   "fax": "970-352-0204"
+  },
+  {
+   "id": "co-fort-collins-grainger-4531-innovation-dr-new",
+   "name": "Grainger Branch 218 - Fort Collins",
+   "chain": "Grainger",
+   "address1": "4531 Innovation Dr",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "+1 800-472-4643",
+   "website": "https://www.grainger.com",
+   "email": null,
+   "hours": "Mon-Fri 7:30 AM-4:30 PM",
+   "branchLocatorUrl": "",
+   "brandsRep": [
+    "3M Electrical",
+    "A.O. Smith",
+    "Acme Electric",
+    "Acuity Brands",
+    "Advance",
+    "Air Handler",
+    "American Air Filter (see note)",
+    "Amprobe",
+    "Appleton",
+    "Browning",
+    "Carol Brand",
+    "Condor",
+    "Cooper Bussmann",
+    "Cooper Lighting",
+    "Cree",
+    "Dayton",
+    "DeWalt",
+    "Duracell",
+    "Eaton",
+    "Energizer",
+    "Fluke",
+    "Fostoria",
+    "Franklin",
+    "GE",
+    "Generac",
+    "General Cable",
+    "Grainger Approved",
+    "Hubbell",
+    "Ideal",
+    "Leeson Electric",
+    "Lithonia Lighting",
+    "Lovejoy",
+    "LumaPro",
+    "Lutron",
+    "Mag-Lite",
+    "Mersen",
+    "Milwaukee",
+    "Panduit",
+    "Pelican",
+    "Philips",
+    "Rayovac",
+    "Schneider Electric",
+    "Siemens",
+    "Sloan",
+    "Southwire",
+    "Speedaire",
+    "Square D",
+    "Stanley",
+    "Streamlight",
+    "TCP",
+    "Thomas & Betts",
+    "Tough Guy",
+    "Tripp Lite",
+    "US Motors",
+    "WEG",
+    "Westward"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://costars.s3.amazonaws.com/2016_Grainger_COSTARS_8_Bid_Item_Workbook_FINAL0919.pdf",
+   "spreadsheetSource": "https://www.grainger.com",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Filter"
+   ],
+   "trades": [
+    "Filter"
+   ],
+   "primaryTrade": "Filter",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.grainger.com",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Industrial/MRO distributor carrying HVAC filters. No filter-specific official line card published found. Phone is 1-800-GRAINGER company line from branch listings. | V2 2026-10-24: GENERAL-LINE, not trade-exclusive. Trade-relevant subset only: Grainger's full catalog runs to thousands of brands, so a literally complete list is not feasible in this file. List covers Grainger-owned brands (Dayton, Condor, Westward, LumaPro, Speedaire, Tough Guy, Air Handler, Grainger Approved) plus the electrical, lighting, motor, tool/test and filter families documented in Grainger catalog/contract brand listings. No single A-Z brand directory page was found on grainger.com; verify a specific line on grainger.com. Air Handler is Grainger's HVAC-filter brand in the contract listing. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.grainger.com"
+   ]
+  },
+  {
+   "id": "co-fort-collins-hercules-industries-1701-oakridge-dr-new",
+   "name": "Hercules Industries - Fort Collins",
+   "chain": "Hercules Industries",
+   "address1": "1701 Oakridge Dr",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-225-9016",
+   "website": "https://www.herculesindustries.com",
+   "email": null,
+   "hours": "Mon-Fri 7:00 AM-4:00 PM",
+   "branchLocatorUrl": "https://www.herculesindustries.com",
+   "brandsRep": [
+    "Hercules",
+    "Hercules MightyTough"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.herculesindustries.com/about",
+   "spreadsheetSource": "https://www.herculesindustries.com/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "HVAC"
+   ],
+   "trades": [
+    "HVAC"
+   ],
+   "primaryTrade": "HVAC",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.herculesindustries.com/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "V2 2026-10-24: No published third-party brand line card found. Hercules is primarily a manufacturer/distributor of its own HVAC sheet metal/duct and its own Hercules MightyTough sealants and adhesives (per official About page); distributed equipment brands are not published as a line card. Call branch to confirm equipment lines. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.herculesindustries.com",
+    "https://www.herculesindustries.com/"
+   ]
+  },
+  {
+   "id": "co-greeley-monarch-plumbing-supply-co-310-east-8th-street-new",
+   "name": "Monarch Plumbing Supply Co. - Greeley",
+   "chain": "Monarch Plumbing Supply Co.",
+   "address1": "310 East 8th Street",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 352-2856",
+   "website": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "",
+   "brandsRep": [
+    "Plumbing equipment & supplies (per Thomasnet description",
+    "no brand line card published)"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
+   "spreadsheetSource": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Plumbing"
+   ],
+   "trades": [
+    "Plumbing"
+   ],
+   "primaryTrade": "Plumbing",
+   "postalCode": "80631",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "V1 OMISSION RESOLVED - directory-verified,  NOT official-site verified: street address + phone corroborated by Manta listing (est. 1957,  president Steven Beck) and Thomasnet (Greeley 80631,  distributor of plumbing equipment & supplies). No official company website or Google Business profile found in this round; call to confirm before publishing as official-site verified. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co"
+   ]
+  },
+  {
+   "id": "co-loveland-qed-sonepar-541-w-67th-st-new",
+   "name": "QED / Sonepar - QED - Loveland",
+   "chain": "QED / Sonepar",
+   "address1": "541 W 67th St",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "800-700-5011",
+   "website": "https://www.qedelectric.com",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "",
+   "brandsRep": [
+    "3M",
+    "AAL (Current brands)",
+    "ABB Power",
+    "Access Lighting",
+    "Acculite",
+    "ACDelco Batteries",
+    "Acuity",
+    "Advanced",
+    "Alcan Cable",
+    "Allied Moulded Products",
+    "Allied Tube",
+    "American Fittings",
+    "American Lighting",
+    "American Polywater",
+    "AMP",
+    "AMProbe",
+    "Appleton",
+    "Arlington",
+    "Atkore",
+    "B-Line",
+    "Baldor",
+    "Baselite",
+    "Beacon",
+    "BEGA",
+    "Belden",
+    "Bergen",
+    "Berko/Marley",
+    "Beta-Calco",
+    "Birchwood",
+    "BK Lighting",
+    "Bodine",
+    "Brady",
+    "BRK",
+    "Broan/Nutone",
+    "Buchanan",
+    "Burndy",
+    "Caddy",
+    "Cadweld",
+    "Cameron",
+    "Cantex",
+    "Capri",
+    "Carlon",
+    "Cementex",
+    "Cerrowire",
+    "Challenge Technologies",
+    "Chargepoint",
+    "Chemlink",
+    "Coleman Cable",
+    "Columbia Lighting",
+    "Compass",
+    "Conduit Pipe Products",
+    "Continental Western Rope",
+    "Cooper Greengate",
+    "Cooper Lighting",
+    "Cooper Power Systems",
+    "Corelite",
+    "CRC Chemical",
+    "Cree",
+    "Creston",
+    "Crouse-Hinds",
+    "CSL Lighting",
+    "Current",
+    "Daisy / DayBrite",
+    "Deako",
+    "Delray",
+    "Delta Lighting",
+    "Delta-Therm",
+    "Dialight",
+    "Diamond Products",
+    "Diode LED",
+    "DMF",
+    "Dottie",
+    "Douglas",
+    "Dual-Lite",
+    "Dual-Lite (Current)",
+    "Dymo",
+    "EasyHeat",
+    "Ecofasten",
+    "Edwards Signaling",
+    "Elco",
+    "Elite LTG",
+    "Elliptipar",
+    "Emergi-Lite",
+    "Emerson EMON",
+    "Emporia",
+    "Encore Wire & Cable",
+    "Energie",
+    "Enphase",
+    "EPCO",
+    "Erico",
+    "Ericson",
+    "ETC",
+    "ETP",
+    "Eureka",
+    "Exitronics",
+    "Federal",
+    "Feiss",
+    "Finelite",
+    "Fluke",
+    "G.E. Lighting",
+    "Gafco Green",
+    "Galvan Industries",
+    "GardCo",
+    "Garvazzi",
+    "Generac",
+    "General Cable",
+    "GEocel",
+    "Greenlee",
+    "H.E. Williams",
+    "Hadsco",
+    "Halo Lighting",
+    "Hammond",
+    "Hapco",
+    "Harger Inc.",
+    "Haydon",
+    "HellermannTyton",
+    "Hi-Lite",
+    "Hinkley",
+    "Hoffman",
+    "HoldRite",
+    "Honeywell",
+    "Hubbell",
+    "Hubbell Industrial",
+    "Hubbell Lighting",
+    "Hydrel",
+    "Ideal",
+    "Idec",
+    "Ilsco",
+    "Intense",
+    "Inter-Lux",
+    "Intermatic",
+    "InVue",
+    "iTool",
+    "Kenall Manufacturing",
+    "Keystone",
+    "Kidde",
+    "Kim Lighting",
+    "Kim Lighting (Current)",
+    "King Wire",
+    "Klein",
+    "Knaack",
+    "Kurt Versen",
+    "Kurt Versen (Current)",
+    "KW Industries",
+    "LBL LTG",
+    "Ledalite",
+    "Ledvance",
+    "Legrand",
+    "Leviton",
+    "Lew Electric Fittings",
+    "LifeLab",
+    "Lightolier",
+    "LiteControl",
+    "LiteControl (Current)",
+    "Lithonia",
+    "Louisville Ladder",
+    "LSI",
+    "Lumetta",
+    "Lutron",
+    "Madison Electric",
+    "Marley",
+    "Maxilume",
+    "Maxim",
+    "Maxlite",
+    "Mersen",
+    "Metacaulk",
+    "Metalux",
+    "Midwest",
+    "Milbank",
+    "Millerburn",
+    "Milwaukee",
+    "Minka LTG",
+    "MP Husky",
+    "MTE / Marathon Products",
+    "Mulberry",
+    "Navilite",
+    "Neo-Ray",
+    "Nicor",
+    "Nora LTG",
+    "NSI",
+    "NuLite",
+    "Nuvo LTG",
+    "Ocal",
+    "Okonite",
+    "On-Q",
+    "Orbit",
+    "Ouellet Heaters",
+    "OZ Gedney",
+    "Panduit",
+    "Pass & Seymour",
+    "Path",
+    "Paulun LTG",
+    "Peerless",
+    "Pheonix",
+    "Picoma Industries",
+    "PIL",
+    "Pinnacle",
+    "Portfolio",
+    "Prescolite",
+    "Prescolite (Current)",
+    "Prime",
+    "Priority Wire & Cable",
+    "Progress Lighting",
+    "Prudential",
+    "Prysmian",
+    "RAB Lighting",
+    "Rack-A-Tiers",
+    "Raco/Hubbell",
+    "Ramset",
+    "Raychem",
+    "REC",
+    "Rectorseal",
+    "Republic",
+    "Rig-a-Light",
+    "RSA",
+    "Salisbury / Salco",
+    "Saylite",
+    "Scape Dream",
+    "Seagull Lighting",
+    "SEG",
+    "SELUX",
+    "Sennett Control Co.",
+    "Sensor Switch / nLight",
+    "Shat-R-Shield",
+    "Siemens",
+    "Signify",
+    "Simkar",
+    "Sola",
+    "Soladeck",
+    "Solar EZ",
+    "Southwire",
+    "Span",
+    "Specialty National",
+    "Specified Technologies",
+    "Sylvania",
+    "T&B",
+    "Taymac",
+    "Tech Lighting",
+    "Terralux",
+    "Thermoweld",
+    "Thomas & Betts",
+    "Thomas LTG",
+    "TJ Cope",
+    "Topaz",
+    "Tork",
+    "TPI",
+    "Transglobe",
+    "Translite",
+    "Tyco Electronics",
+    "Unirac",
+    "Unistrut",
+    "Unity",
+    "US Tray",
+    "Valmont",
+    "Venture Lighting",
+    "Visa",
+    "Volume",
+    "W.J. Whatley-Poles",
+    "WAC Lighting",
+    "Wage",
+    "Warmup",
+    "Watt Stopper",
+    "Widelite",
+    "Wiegmann",
+    "Wireduct",
+    "Woodhead",
+    "Xeal",
+    "Zumtobel"
+   ],
+   "brandListType": "published line card (spreadsheet v4)",
+   "brandsNote": "",
+   "brandSourceUrl": "https://susacdn.azureedge.net/qed/Docs/e732d0f2-bb2d-41e6-ade8-4140e5ef48ba.pdf?t=2025-04-07T15%3A16%3A00",
+   "spreadsheetSource": "http://qedelectric.com/about/locations",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Electrical"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "primaryTrade": "Electrical",
+   "postalCode": "80538",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "http://qedelectric.com/about/locations",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Parent: Sonepar. No official QED line card found. | V2 2026-10-24: V1 PHONE FILL (partial): no branch-direct number found in official locator,  business listings or chamber sources checked - the official QED locator gives only the company-wide 800-700-5011 for this branch. Branch-direct number remains unpublished; branch itself (address + company contact) is verified,  so it is NOT marked STILL UNVERIFIED as a branch. | V2 2026-10-24: Full 2024 QED General Line Card for the Rocky Mountain and Desert regions (Arizona + Colorado branches listed on the card, including Broomfield, Centennial, Colorado Springs, Denver, Grand Junction, Littleton, Loveland and Monument). Some lighting names appear on the card as Current/Acuity family brands; card spellings preserved where legible. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+   "sources": [
+    "http://qedelectric.com/about/locations"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fort-collins-winlectric-4036-redman-dr-ste-140-new",
+   "name": "Fort Collins Winlectric",
+   "chain": "Fort Collins Winlectric",
+   "address1": "4036 Redman Dr Ste 140",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-482-4648",
+   "website": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Electrical-Supplies",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Electrical-Supplies",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Electrical-Supplies",
+   "spreadsheetSource": "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Electrical-Supplies",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Electrical"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "primaryTrade": "Electrical",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Winsupply official locator",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 in Winsupply gap-fill; branch was in neither dataset."
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Fort Collins Winlectric. Added 2026-10-24 in Winsupply gap-fill; branch was in neither dataset. Distinct from the Fort Collins Winnelson plumbing branch. No published per-branch line card; call branch to confirm brands.",
+   "sources": [
+    "https://www.winsupplyinc.com/Location/Fort-Collins-CO/80524/Electrical-Supplies"
+   ]
+  },
+  {
+   "id": "co-loveland-northern-colorado-winwater-4000-patton-ave-new",
+   "name": "Northern Colorado Winwater",
+   "chain": "Northern Colorado Winwater",
+   "address1": "4000 Patton Ave",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "970-318-7021",
+   "website": "https://www.winsupplyinc.com/Location/Loveland-Co/80538/WaterWorks",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Loveland-Co/80538/WaterWorks",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.winsupplyinc.com/Location/Loveland-Co/80538/WaterWorks",
+   "spreadsheetSource": "https://www.winsupplyinc.com/Location/Loveland-Co/80538/WaterWorks",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Waterworks"
+   ],
+   "trades": [
+    "Waterworks"
+   ],
+   "primaryTrade": "Waterworks",
+   "postalCode": "80538",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Official locator/branch page, own site, or place record (see notes)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 per all-supply-houses scope decision; branch was in neither dataset."
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Northern Colorado Winwater, Loveland. Opened July 2026. Added 2026-10-24 per all-supply-houses scope decision; branch was in neither dataset. No published per-branch line card.",
+   "sources": [
+    "https://www.winsupplyinc.com/Location/Loveland-Co/80538/WaterWorks"
+   ]
+  },
+  {
+   "id": "co-frederick-ces-3771-monarch-st-new",
+   "name": "City Electric Supply - Frederick",
+   "chain": "City Electric Supply",
+   "address1": "3771 Monarch St #a",
+   "city": "Frederick",
+   "state": "CO",
+   "phone": "303-955-6576",
+   "website": "https://www.cityelectricsupply.com/branchLocator",
+   "email": null,
+   "hours": "",
+   "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Line card not publicly published - call branch to confirm",
+   "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
+   "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Electrical"
+   ],
+   "trades": [
+    "Electrical"
+   ],
+   "primaryTrade": "Electrical",
+   "postalCode": "80516",
+   "verification": {
+    "addressVerified": true,
+    "addressSource": "Official locator/portal (see notes)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "City Electric Supply, Frederick. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
+   "sources": [
+    "https://www.cityelectricsupply.com/branchLocator"
+   ]
+  },
+  {
+   "id": "co-eaton-poulsen-ace-hardware-inc-151-s-oak-ave-new",
+   "name": "Poulsen Ace Hardware Inc - Eaton",
+   "chain": "Ace Hardware",
+   "address1": "151 S Oak Ave",
+   "city": "Eaton",
+   "state": "CO",
+   "phone": "(970) 454-2542",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-5; M-F 7-7; Sa 8-6",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80615",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-estes-park-estes-park-561-lone-pine-dr-new",
+   "name": "Ace Hardware - Estes Park",
+   "chain": "Ace Hardware",
+   "address1": "561 Lone Pine Dr",
+   "city": "Estes Park",
+   "state": "CO",
+   "phone": "(970) 586-8656",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-5; M-Sa 8-6",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80517",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-firestone-ace-hardware-of-firestone-8258-colorado-blvd-new",
+   "name": "Ace Hardware of Firestone - Firestone",
+   "chain": "Ace Hardware",
+   "address1": "8258 Colorado Blvd",
+   "city": "Firestone",
+   "state": "CO",
+   "phone": "(303) 833-9191",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-5; M-F 8-8; Sa 8-7",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80504",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-fort-collins-ace-hardware-college-ave-215-s-college-ave-new",
+   "name": "Ace Hardware (College Ave) - Fort Collins",
+   "chain": "Ace Hardware",
+   "address1": "215 S College Ave",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 224-4437",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 8-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-fort-collins-ace-hardware-frontage-rd-225-nw-frontage-rd-new",
+   "name": "Ace Hardware (Frontage Rd) - Fort Collins",
+   "chain": "Ace Hardware",
+   "address1": "225 NW Frontage Rd",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 221-5300",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su closed; M-F 7-6; Sa 7-4",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-fort-collins-ace-hardware-of-fort-collins-inc-harmony-1001-e-harmony-rd-unit-b-new",
+   "name": "Ace Hardware of Fort Collins Inc. (Harmony) - Fort Collins",
+   "chain": "Ace Hardware",
+   "address1": "1001 E Harmony Rd Unit B",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 223-9273",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-5; M-F 8-8; Sa 8-7",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-greeley-ace-hardware-11th-ave-2626-11th-ave-new",
+   "name": "Ace Hardware (11th Ave) - Greeley",
+   "chain": "Ace Hardware",
+   "address1": "2626 11th Ave",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 378-0801",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 7:30-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80631",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-greeley-ace-hardware-bittersweet-plaza-3540-w-10th-st-new",
+   "name": "Ace Hardware Bittersweet Plaza - Greeley",
+   "chain": "Ace Hardware",
+   "address1": "3540 W 10th St",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 353-2851",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 7:30-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80634",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-greeley-hykes-ace-hardware-1722-9th-st-new",
+   "name": "Hykes Ace Hardware - Greeley",
+   "chain": "Ace Hardware",
+   "address1": "1722 9th St",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 353-1416",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 10-4; M-F 7:30-6; Sa 8-5:30",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80631",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-loveland-ace-hardware-29th-st-15962-269-e-29th-st-new",
+   "name": "Ace Hardware (29th St) #15962 - Loveland",
+   "chain": "Ace Hardware",
+   "address1": "269 E 29th St",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "(970) 663-2230",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-F 8-7; Sa 8-6",
+   "branchLocatorUrl": "https://www.acehardware.com/store-details/15962",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80538",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 15962 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com/store-details/15962"
+   ]
+  },
+  {
+   "id": "co-loveland-ace-hardware-eagle-dr-1195-eagle-dr-new",
+   "name": "Ace Hardware (Eagle Dr) - Loveland",
+   "chain": "Ace Hardware",
+   "address1": "1195 Eagle Dr",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "(970) 685-5380",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 9-6; M-Sa 8-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80537",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-red-feather-lakes-red-feather-lakes-15992-24-main-street-new",
+   "name": "Red Feather Lakes #15992 - Red Feather Lakes",
+   "chain": "Ace Hardware",
+   "address1": "24 Main Street",
+   "city": "Red Feather Lakes",
+   "state": "CO",
+   "phone": "(970) 881-2997",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su-Sa 8-6",
+   "branchLocatorUrl": "https://www.acehardware.com/store-details/15992",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80545",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 15992 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified; formerly Panhandle Creek Hardware (Do it Best); older record shows phone (970) 881-2001 — current roster phone (970) 881-2997 per StoreLocators Oct 2026",
+   "sources": [
+    "https://www.acehardware.com/store-details/15992"
+   ]
+  },
+  {
+   "id": "co-windsor-windsor-1245-main-st-new",
+   "name": "Ace Hardware - Windsor",
+   "chain": "Ace Hardware",
+   "address1": "1245 Main St",
+   "city": "Windsor",
+   "state": "CO",
+   "phone": "(970) 686-1470",
+   "website": "https://www.acehardware.com",
+   "email": null,
+   "hours": "Su 8-6; M-Sa 7-8",
+   "branchLocatorUrl": "https://www.acehardware.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80550",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+   "sources": [
+    "https://www.acehardware.com"
+   ]
+  },
+  {
+   "id": "co-estes-park-park-supply-hardware-411-hwy-7-new",
+   "name": "Park Supply Hardware - Estes Park",
+   "chain": "Do it Best",
+   "address1": "411 Hwy 7",
+   "city": "Estes Park",
+   "state": "CO",
+   "phone": "970-586-6305",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Mon-Fri 8-6; Sat 8-4 (place record)",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80517",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-fort-collins-josephs-hardware-home-center-2160-w-drake-rd-a5-new",
+   "name": "Josephs' Hardware & Home Center - Fort Collins",
+   "chain": "Do it Best",
+   "address1": "2160 W Drake Rd #A5",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-493-8000",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Not shown",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80526",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-fort-collins-mawson-lumber-hardware-350-linden-st-new",
+   "name": "Mawson Lumber & Hardware - Fort Collins",
+   "chain": "Do it Best",
+   "address1": "350 Linden St",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "970-482-8082",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Mon-Fri 7-5; Sat-Sun closed (place record)",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + place records",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-laporte-laporte-corner-hardware-3333-county-rd-54g-new",
+   "name": "LaPorte Corner Hardware - LaPorte",
+   "chain": "Do it Best",
+   "address1": "3333 County Rd 54G",
+   "city": "LaPorte",
+   "state": "CO",
+   "phone": "970-484-0466",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Sun 9-4; Mon-Fri 8-6; Sat 8-5:30",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80535",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 8782 (URL ID only, not a store number).",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-lasalle-warehouse-supply-inc-300-n-2nd-st-new",
+   "name": "Warehouse Supply Inc. - LaSalle",
+   "chain": "Do it Best",
+   "address1": "300 N 2nd St",
+   "city": "LaSalle",
+   "state": "CO",
+   "phone": "970-284-2041",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Mon-Fri 7-5; Sat 8-5 (place record)",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80645",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + place records; also listed as Hardware Hank same address/phone",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-loveland-bloedorn-lumber-loveland-1810-w-eisenhower-rd-new",
+   "name": "Bloedorn Lumber – Loveland - Loveland",
+   "chain": "Do it Best",
+   "address1": "1810 W Eisenhower Rd",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "970-667-2971",
+   "website": "https://www.doitbest.com",
+   "email": null,
+   "hours": "Not shown",
+   "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80537",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings; locator ZIP 80537; old directories show 80539",
+   "sources": [
+    "https://www.doitbest.com/find-a-store/colorado/"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fort-collins-2697-4227-corbett-dr-new",
+   "name": "Fort Collins #2697 - Fort Collins",
+   "chain": "Lowe's",
+   "address1": "4227 Corbett Dr",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 232-7910",
+   "website": "https://www.lowes.com",
+   "email": null,
+   "hours": "Mon-Sat 6 AM-10 PM; Sun 7 AM-9 PM",
+   "branchLocatorUrl": "https://www.lowes.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "lowes.com official store pages + dealer list",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "lowes.com official store pages + dealer list",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Variant phone 970-232-7939 appeared once in a directory — artifact",
+   "sources": [
+    "https://www.lowes.com"
+   ]
+  },
+  {
+   "id": "co-greeley-greeley-1812-2400-47th-ave-new",
+   "name": "Greeley #1812 - Greeley",
+   "chain": "Lowe's",
+   "address1": "2400 47th Ave",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 506-2280",
+   "website": "https://www.lowes.com",
+   "email": null,
+   "hours": "Mon-Sat 6 AM-10 PM; Sun 7 AM-9 PM",
+   "branchLocatorUrl": "https://www.lowes.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "lowes.com official store pages + dealer list",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80631",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "lowes.com official store pages + dealer list",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). ",
+   "sources": [
+    "https://www.lowes.com"
+   ]
+  },
+  {
+   "id": "co-loveland-loveland-2568-1355-sculptor-dr-new",
+   "name": "Loveland #2568 - Loveland",
+   "chain": "Lowe's",
+   "address1": "1355 Sculptor Dr",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "(970) 663-9910",
+   "website": "https://www.lowes.com",
+   "email": null,
+   "hours": "Mon-Sat 6 AM-10 PM; Sun 7 AM-9 PM",
+   "branchLocatorUrl": "https://www.lowes.com",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "lowes.com official store pages + dealer list",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80537",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "lowes.com official store pages + dealer list",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). ",
+   "sources": [
+    "https://www.lowes.com"
+   ]
+  },
+  {
+   "id": "co-firestone-firestone-1552-10858-jake-jabs-blvd-new",
+   "name": "Firestone #1552 - Firestone",
+   "chain": "The Home Depot",
+   "address1": "10858 Jake Jabs Blvd",
+   "city": "Firestone",
+   "state": "CO",
+   "phone": "(303) 678-1100",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80504",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fort-collins-jfk-1512-4502-john-f-kennedy-pkwy-new",
+   "name": "Fort Collins (JFK) #1512 - Fort Collins",
+   "chain": "The Home Depot",
+   "address1": "4502 John F Kennedy Pkwy",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 206-0774",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80525",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  },
+  {
+   "id": "co-fort-collins-fort-collins-magnolia-north-1544-1251-e-magnolia-st-new",
+   "name": "Fort Collins (Magnolia / North) #1544 - Fort Collins",
+   "chain": "The Home Depot",
+   "address1": "1251 E Magnolia St",
+   "city": "Fort Collins",
+   "state": "CO",
+   "phone": "(970) 224-1239",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80524",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  },
+  {
+   "id": "co-greeley-greeley-1515-2815-35th-ave-new",
+   "name": "Greeley #1515 - Greeley",
+   "chain": "The Home Depot",
+   "address1": "2815 35th Ave",
+   "city": "Greeley",
+   "state": "CO",
+   "phone": "(970) 506-0662",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80634",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  },
+  {
+   "id": "co-loveland-loveland-1529-1100-nickel-dr-new",
+   "name": "Loveland #1529 - Loveland",
+   "chain": "The Home Depot",
+   "address1": "1100 Nickel Dr",
+   "city": "Loveland",
+   "state": "CO",
+   "phone": "(970) 461-9406",
+   "website": "https://www.homedepot.com",
+   "email": null,
+   "hours": "Mon-Sat 6a-10p; Sun 7a-8p",
+   "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+   "brandsRep": [],
+   "brandListType": "no published line card",
+   "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
+   "brandSourceUrl": null,
+   "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+   "spreadsheetDateVerified": "2026-10-24",
+   "partsFor": [
+    "Hardware"
+   ],
+   "trades": [
+    "Hardware"
+   ],
+   "primaryTrade": "Hardware",
+   "postalCode": "80537",
+   "verification": {
+    "addressVerified": false,
+    "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+    "addressVerifiedDate": "2026-10-24",
+    "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+   },
+   "coordsStatus": "needs_verification",
+   "geoPrecision": "centroid",
+   "geoVerifiedDate": "2026-10-24",
+   "geoSource": "Coordinates not verified - see coordsStatus",
+   "notes": "Hardware category (new 2026-10-24). Wiki number",
+   "sources": [
+    "https://www.homedepot.com/l/CO"
+   ]
+  }
+ ],
+ "auditNotes": [
+  "Removed invalid storefront: Johnstone Supply – Fort Collins (no physical branch exists).",
+  "2025-12-26: Removed 1 duplicate entry(ies)",
+  "2025-12-26: Added Trane Supply Fort Collins location"
+ ],
+ "auditStatus": "in_progress"
 }
