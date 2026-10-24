@@ -3632,14 +3632,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "place record",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Timberline Ace listing for 569 32 Road #4, Grand Junction, CO 81504",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. PHONE CONFLICT: Timberline operator site shows (970) 523-0455 — roster uses StoreLocators Oct 2026; flag variant",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.087271,
+      "lon": -108.462429
     },
     {
       "id": "co-gunnison-gunnison-17399-820-w-tomichi-ave-new",
@@ -4660,14 +4662,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "place record",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Home Depot store 1513 listing for 2436 F Road, Grand Junction, CO 81505",
       "notes": "Hardware category (new 2026-10-24). Wiki number; hours assumed from chain pattern not individually confirmed",
       "sources": [
         "https://www.homedepot.com/l/CO"
-      ]
+      ],
+      "lat": 39.095635,
+      "lon": -108.600866
     },
     {
       "id": "co-montrose-montrose-1537-1401-ogden-rd-new",
