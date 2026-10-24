@@ -2451,14 +2451,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 8782 (URL ID only, not a store number).",
       "sources": [
         "https://www.doitbest.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 40.62652,
+      "lon": -105.13887
     },
     {
       "id": "co-lasalle-warehouse-supply-inc-300-n-2nd-st-new",

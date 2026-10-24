@@ -1185,14 +1185,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.96287,
+      "lon": -105.50943
     },
     {
       "id": "co-longmont-longmont-780-boston-ave-new",

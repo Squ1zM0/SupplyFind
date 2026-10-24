@@ -1434,14 +1434,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Ace store number 08872 per official Ace store-details URL (cross-check cited); sister store of Alamosa Building Supply; NOT in StoreLocators 132 — added on cross-check verification Oct 24 2026",
       "sources": [
         "https://www.acehardware.com/store-details/08872"
-      ]
+      ],
+      "lat": 37.26956,
+      "lon": -105.95444
     },
     {
       "id": "co-la-junta-la-junta-202-san-juan-ave-new",

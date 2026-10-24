@@ -3585,21 +3585,23 @@
         "Waterworks"
       ],
       "primaryTrade": "Waterworks",
-      "postalCode": "80970",
+      "postalCode": "80929",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official locator/branch page, own site, or place record (see notes)",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 per all-supply-houses scope decision; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Front Range Winwater, Colorado Springs. Added 2026-10-24 per all-supply-houses scope decision; branch was in neither dataset. Address variant 7195 E US Hwy 24, 80915 in one BBB listing — official address used. No published per-branch line card.",
       "sources": [
         "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80970/Waterworks-Supplies"
-      ]
+      ],
+      "lat": 38.83921,
+      "lon": -104.69569
     },
     {
       "id": "co-colorado-springs-windustrial-3200-n-nevada-ave-new",
@@ -4020,14 +4022,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 15201 verified on official Ace store-details page (browser pass Oct 24 2026). ",
       "sources": [
         "https://www.acehardware.com/store-details/15201"
-      ]
+      ],
+      "lat": 38.79291,
+      "lon": -104.75896
     },
     {
       "id": "co-colorado-springs-uintah-gardens-ace-hardware-elevation-ace-14531-1830-w-uintah-st-new",

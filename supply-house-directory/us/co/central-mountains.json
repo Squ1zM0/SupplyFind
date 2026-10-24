@@ -150,22 +150,24 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing",
-      "postalCode": null,
+      "postalCode": "80487",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://mnplbgsupply.com/",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "ZIP not in source - left blank | V2 2026-10-24: Company-wide, from official About Us page, which adds and much more; this 6-brand named set is PARTIAL, not a full line card (carried over from v1, no fuller list found). [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "http://mnplbgsupply.com",
         "http://mnplbgsupply.com/"
-      ]
+      ],
+      "lat": 40.50779,
+      "lon": -106.85632
     },
     {
       "id": "co-steamboat-springs-steamboat-springs-winnelson-winsupply-2555-copper-ridge-dr-new",
@@ -701,14 +703,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 17052 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com/store-details/17052"
-      ]
+      ],
+      "lat": 38.52452,
+      "lon": -105.99602
     },
     {
       "id": "co-steamboat-springs-steamboat-springs-2155-curve-plz-new",
@@ -912,14 +916,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 6366 (URL ID only, not a store number).",
       "sources": [
         "https://www.doitbest.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 40.23005,
+      "lon": -106.94372
     },
     {
       "id": "co-walden-timberline-builders-supply-209-main-st-new",
@@ -968,7 +974,7 @@
       "id": "co-edwards-edwards-33636-us-9-new",
       "name": "Edwards Building Center - Edwards",
       "chain": "Edwards Building Center",
-      "address1": "33636 US-9",
+      "address1": "33636 Highway 6",
       "city": "Edwards",
       "state": "CO",
       "phone": "(970) 926-3381",
@@ -996,14 +1002,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Sister store to Breckenridge; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family — NOT one of the five chains",
       "sources": [
         "https://coloradobuildingsupply.com"
-      ]
+      ],
+      "lat": 39.64625,
+      "lon": -106.6029
     },
     {
       "id": "co-poncha-springs-poncha-springs-10021-w-hwy-50-box-159-new",

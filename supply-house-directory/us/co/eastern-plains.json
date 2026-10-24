@@ -300,14 +300,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.29328,
+      "lon": -103.06782
     },
     {
       "id": "co-fort-morgan-fort-morgan-1000-e-platte-ave-new",
@@ -857,14 +859,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page/microsite; formerly Hugo Lumber and Hardware Locator ID 1001 (URL ID only, not a store number).",
       "sources": [
         "https://www.doitbest.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 39.13397,
+      "lon": -103.46918
     },
     {
       "id": "co-lamar-home-store-lamar-1006-e-olive-st-new",
@@ -1025,14 +1029,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Auto parts + hardware (hardware & tools small engine repair equipment rentals); ZIP is town standard",
       "sources": [
         "https://brushhometown.com"
-      ]
+      ],
+      "lat": 40.25565,
+      "lon": -103.63598
     },
     {
       "id": "co-holyoke-holyoke-128-s-campbell-ave-new",

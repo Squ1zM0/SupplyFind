@@ -3394,14 +3394,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Brands are company-wide generic, not branch-specific. | V2 2026-10-24: Sources checked: ced.com and CED portal branch sites (Boulder, Denver, Colorado Springs, Fort Collins, Grand Junction, Gunnison, All-Phase), plus trade listings. No company-wide published line card found - CED is decentralised by profit centre, so carriage varies by branch. IMPORTANT: the PDF linked in V1 for CED is NOT a CED document - it is Connexion's (cxconnect.com, Buffalo Grove, IL) Electrical Products Line Card, so it was NOT used as CED's list. Branch sites document examples including Square D, Eaton / Cutler-Hammer, BRK, Broan, NuTone, Generac, Ideal Tools, Ilsco, Intermatic, Klein Tools, Leviton, RAB and RACO, but that is not a complete company list - call the branch to confirm. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "https://cednorthdenver.portalced.com/"
-      ]
+      ],
+      "lat": 39.79346,
+      "lon": -104.97724
     },
     {
       "id": "co-centennial-charles-d-jones-co-9750-e-easter-ave-160-new",
@@ -3554,21 +3556,23 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80229",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.cityelectricsupply.com",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Flagship brands are company-wide TAMCO in-house brands; other brands vary by branch. | V2 2026-10-24: Sources checked: cityelectricsupply.com and CES blog, plus Dallas Chamber member spotlight. No single published full line card found - CES branches buy locally, so carriage varies by branch. Documented CES brands (from its own blog/announcements, NOT a complete list): TAMCO Group in-house brands Centaur, Tamlite, F4P, Fusion Lamps, RPP, Addvent and Thirteen Twenty-Nine; plus Milwaukee, Klein Tools, Southwire, Siemens, Wallbox, ChargePoint, Bosch, Legrand, 3M, Brady, Ideal, Fluke, Wiha, Generac, Lithonia, CME Wire and Salisbury by Honeywell. Call the branch to confirm. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "https://www.cityelectricsupply.com"
-      ]
+      ],
+      "lat": 39.81307,
+      "lon": -104.97886
     },
     {
       "id": "co-denver-city-electric-supply-1610-w-evans-ave-new",
@@ -4746,23 +4750,25 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "81631",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://www.gearypacific.com/",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "ZIP not verified - left blank; company-wide line card | V2 2026-10-24: Company-wide, verified against v1: 2025 Geary Pacific Partner Program line card. No newer card found; this remains the latest published card found. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "http://www.gearypacific.com",
         "http://www.gearypacific.com/"
       ],
-      "fax": "970-328-0728"
+      "fax": "970-328-0728",
+      "lat": 39.66331,
+      "lon": -106.82112
     },
     {
       "id": "co-berthoud-george-t-sanders-company-2257-1st-street-new",
@@ -5916,21 +5922,23 @@
         "Filter"
       ],
       "primaryTrade": "Filter",
-      "postalCode": null,
+      "postalCode": "80221",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.grainger.com",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Industrial/MRO distributor carrying HVAC filters. No filter-specific official line card published found. Phone is 1-800-GRAINGER company line from branch listings. | V2 2026-10-24: GENERAL-LINE, not trade-exclusive. Trade-relevant subset only: Grainger's full catalog runs to thousands of brands, so a literally complete list is not feasible in this file. List covers Grainger-owned brands (Dayton, Condor, Westward, LumaPro, Speedaire, Tough Guy, Air Handler, Grainger Approved) plus the electrical, lighting, motor, tool/test and filter families documented in Grainger catalog/contract brand listings. No single A-Z brand directory page was found on grainger.com; verify a specific line on grainger.com. Air Handler is Grainger's HVAC-filter brand in the contract listing. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "https://www.grainger.com"
-      ]
+      ],
+      "lat": 39.82181,
+      "lon": -104.98787
     },
     {
       "id": "co-denver-hercules-industries-4690-florence-st-new",
@@ -5960,22 +5968,24 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "80238",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.herculesindustries.com/",
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "ZIP not shown - left blank | V2 2026-10-24: No published third-party brand line card found. Hercules is primarily a manufacturer/distributor of its own HVAC sheet metal/duct and its own Hercules MightyTough sealants and adhesives (per official About page); distributed equipment brands are not published as a line card. Call branch to confirm equipment lines. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "https://www.herculesindustries.com",
         "https://www.herculesindustries.com/"
-      ]
+      ],
+      "lat": 39.78199,
+      "lon": -104.87194
     },
     {
       "id": "co-denver-hercules-industries-490-e-52nd-ave-110-new",
@@ -8313,14 +8323,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 in Winsupply gap-fill; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Northglenn Winlectric (postal city Denver). Added 2026-10-24 in Winsupply gap-fill; branch was in neither dataset. Distinct from the Winnelson plumbing branch at 480 E 76th Ave Bldg 5B in the same complex. No published per-branch line card; call branch to confirm brands.",
       "sources": [
         "https://www.winsupplyinc.com/Location/Denver-CO/80229/Electrical-supplies"
-      ]
+      ],
+      "lat": 39.83359,
+      "lon": -104.98143
     },
     {
       "id": "co-commerce-city-denver-winwater-8331-pontiac-st-new",
@@ -8999,14 +9011,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.81041,
+      "lon": -105.17347
     },
     {
       "id": "co-aurora-ace-hardware-arapahoe-crossing-6514-s-parker-rd-new",
@@ -10373,14 +10387,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.54255,
+      "lon": -104.94016
     },
     {
       "id": "co-johnstown-johnstown-ace-hardware-9-s-parish-ave-new",
@@ -10586,14 +10602,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. ",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.56673,
+      "lon": -105.10808
     },
     {
       "id": "co-littleton-columbine-ace-hardware-6720-s-pierce-st-new",
@@ -12433,14 +12451,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Number confirmed on official HD page",
       "sources": [
         "https://www.homedepot.com/l/CO"
-      ]
+      ],
+      "lat": 39.54526,
+      "lon": -105.001
     },
     {
       "id": "co-lakewood-lakewood-alameda-1514-6701-w-alameda-ave-new",

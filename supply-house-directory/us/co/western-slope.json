@@ -4318,14 +4318,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. BRANDING CONFLICT: DIB locator says Gambles Hardware; current place records say Ace Gambles of Hotchkiss same address/phone — possible co-op switch in progress; merge with conflict noted Locator ID 1656 (URL ID only, not a store number).",
       "sources": [
         "https://www.doitbest.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 38.79883,
+      "lon": -107.72059
     },
     {
       "id": "co-ignacio-qis-supply-1100-goddard-ave-new",
@@ -4957,14 +4959,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Researched current address, map geocoder full-address match, verified against business listing",
       "notes": "Hardware category (new 2026-10-24). Official locator + store page; store number not verified",
       "sources": [
         "https://www.truevalue.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 37.26813,
+      "lon": -107.86987
     },
     {
       "id": "co-fruita-fruita-true-value-1690-highway-6-50-new",
