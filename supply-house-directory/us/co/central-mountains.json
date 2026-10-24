@@ -1,1090 +1,1096 @@
-[
- {
-  "name": "City Electric Supply",
-  "city": "Leadville",
-  "phone": "719-486-1700",
-  "lat": 39.2508,
-  "lon": -106.2925,
-  "trades": [
-   "Electrical"
-  ],
-  "brandsRep": [],
-  "brandListType": "repo representative (not spreadsheet line card)",
-  "address1": "212 W 7th St, Leadville, CO 80461",
-  "id": "co-leadville-city-electric-supply-212-w-7th",
+{
+  "version": "1.92",
+  "updated": "2026-10-24",
   "state": "CO",
-  "chain": "City Electric Supply",
-  "notes": "[2026-10-24: deep-check flag — this Leadville record is NOT on the official CES locator (23 CO branches, no Leadville). Possible closed branch — flagged, NOT deleted.]"
- },
- {
-  "id": "co-basalt-george-t-sanders-company-0051-valley-circle-new",
-  "name": "George T. Sanders Company - Basalt",
-  "chain": "George T. Sanders Company",
-  "address1": "0051 Valley Circle",
-  "city": "Basalt",
-  "state": "CO",
-  "phone": "970-927-2450",
-  "website": "https://www.gtsanders.com",
-  "email": null,
-  "hours": "",
-  "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
-  "brandsRep": [
-   "A.Y. McDonald",
-   "Allied Weld Fittings",
-   "American Standard",
-   "Anvil",
-   "Aquatic",
-   "Bemis",
-   "Blanco",
-   "Boss Products",
-   "Bradford White",
-   "BrassCraft",
-   "Charlotte Pipe",
-   "Cherne",
-   "Chicago Faucets",
-   "Cresline",
-   "Delta",
-   "Eemax",
-   "Elkay",
-   "Fernco",
-   "Fluidmaster",
-   "Gastite",
-   "Gerber",
-   "Holdrite",
-   "InSinkErator",
-   "IPS Weld-On",
-   "Just Sinks",
-   "Little Giant",
-   "Mill-Rose",
-   "Moen",
-   "Mueller",
-   "Navien",
-   "Nibco",
-   "Oatey",
-   "Pasco",
-   "RectorSeal",
-   "Red White",
-   "Rinnai",
-   "Saniflo",
-   "SharkBite",
-   "Sioux Chief",
-   "Sloan",
-   "Sterling",
-   "Toto",
-   "Tyler",
-   "Uponor",
-   "Viega",
-   "Watco",
-   "Watts",
-   "Woodford",
-   "Zoeller"
-  ],
-  "brandListType": "published line card (spreadsheet v4)",
-  "brandsNote": "",
-  "brandSourceUrl": "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf",
-  "spreadsheetSource": "https://www.gtsanders.com",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "HVAC",
-   "Plumbing"
-  ],
-  "trades": [
-   "HVAC",
-   "Plumbing"
-  ],
-  "primaryTrade": "HVAC",
-  "postalCode": "81621",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://www.gtsanders.com",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-  "sources": [
-   "https://www.gtsanders.com/AboutUs",
-   "https://www.gtsanders.com"
-  ],
-  "fax": "970-927-2456"
- },
- {
-  "id": "co-steamboat-springs-m-n-plumbing-supply-company-2570-s-copper-frontage-3-new",
-  "name": "M&N Plumbing Supply Company - Steamboat Springs",
-  "chain": "M&N Plumbing Supply Company",
-  "address1": "2570 S Copper Frontage #3",
-  "city": "Steamboat Springs",
-  "state": "CO",
-  "phone": "970-870-6709",
-  "website": "http://mnplbgsupply.com",
-  "email": null,
-  "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-  "branchLocatorUrl": "http://mnplbgsupply.com",
-  "brandsRep": [
-   "Delta",
-   "Elkay",
-   "Mansfield",
-   "Moen",
-   "TOTO",
-   "Zoeller"
-  ],
-  "brandListType": "published line card (spreadsheet v4)",
-  "brandsNote": "",
-  "brandSourceUrl": "https://www.mnplbgsupply.com/aboutus",
-  "spreadsheetSource": "http://mnplbgsupply.com/",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Plumbing"
-  ],
-  "trades": [
-   "Plumbing"
-  ],
-  "primaryTrade": "Plumbing",
-  "postalCode": null,
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "http://mnplbgsupply.com/",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "ZIP not in source - left blank | V2 2026-10-24: Company-wide, from official About Us page, which adds and much more; this 6-brand named set is PARTIAL, not a full line card (carried over from v1, no fuller list found). [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-  "sources": [
-   "http://mnplbgsupply.com",
-   "http://mnplbgsupply.com/"
+  "metro": "Central Mountains",
+  "branches": [
+    {
+      "name": "City Electric Supply",
+      "city": "Leadville",
+      "phone": "719-486-1700",
+      "lat": 39.2508,
+      "lon": -106.2925,
+      "trades": [
+        "Electrical"
+      ],
+      "brandsRep": [],
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "address1": "212 W 7th St, Leadville, CO 80461",
+      "id": "co-leadville-city-electric-supply-212-w-7th",
+      "state": "CO",
+      "chain": "City Electric Supply",
+      "notes": "[2026-10-24: deep-check flag \u2014 this Leadville record is NOT on the official CES locator (23 CO branches, no Leadville). Possible closed branch \u2014 flagged, NOT deleted.]"
+    },
+    {
+      "id": "co-basalt-george-t-sanders-company-0051-valley-circle-new",
+      "name": "George T. Sanders Company - Basalt",
+      "chain": "George T. Sanders Company",
+      "address1": "0051 Valley Circle",
+      "city": "Basalt",
+      "state": "CO",
+      "phone": "970-927-2450",
+      "website": "https://www.gtsanders.com",
+      "email": null,
+      "hours": "",
+      "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
+      "brandsRep": [
+        "A.Y. McDonald",
+        "Allied Weld Fittings",
+        "American Standard",
+        "Anvil",
+        "Aquatic",
+        "Bemis",
+        "Blanco",
+        "Boss Products",
+        "Bradford White",
+        "BrassCraft",
+        "Charlotte Pipe",
+        "Cherne",
+        "Chicago Faucets",
+        "Cresline",
+        "Delta",
+        "Eemax",
+        "Elkay",
+        "Fernco",
+        "Fluidmaster",
+        "Gastite",
+        "Gerber",
+        "Holdrite",
+        "InSinkErator",
+        "IPS Weld-On",
+        "Just Sinks",
+        "Little Giant",
+        "Mill-Rose",
+        "Moen",
+        "Mueller",
+        "Navien",
+        "Nibco",
+        "Oatey",
+        "Pasco",
+        "RectorSeal",
+        "Red White",
+        "Rinnai",
+        "Saniflo",
+        "SharkBite",
+        "Sioux Chief",
+        "Sloan",
+        "Sterling",
+        "Toto",
+        "Tyler",
+        "Uponor",
+        "Viega",
+        "Watco",
+        "Watts",
+        "Woodford",
+        "Zoeller"
+      ],
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandsNote": "",
+      "brandSourceUrl": "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf",
+      "spreadsheetSource": "https://www.gtsanders.com",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "postalCode": "81621",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://www.gtsanders.com",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "sources": [
+        "https://www.gtsanders.com/AboutUs",
+        "https://www.gtsanders.com"
+      ],
+      "fax": "970-927-2456"
+    },
+    {
+      "id": "co-steamboat-springs-m-n-plumbing-supply-company-2570-s-copper-frontage-3-new",
+      "name": "M&N Plumbing Supply Company - Steamboat Springs",
+      "chain": "M&N Plumbing Supply Company",
+      "address1": "2570 S Copper Frontage #3",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "phone": "970-870-6709",
+      "website": "http://mnplbgsupply.com",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "http://mnplbgsupply.com",
+      "brandsRep": [
+        "Delta",
+        "Elkay",
+        "Mansfield",
+        "Moen",
+        "TOTO",
+        "Zoeller"
+      ],
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandsNote": "",
+      "brandSourceUrl": "https://www.mnplbgsupply.com/aboutus",
+      "spreadsheetSource": "http://mnplbgsupply.com/",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": null,
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "http://mnplbgsupply.com/",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "ZIP not in source - left blank | V2 2026-10-24: Company-wide, from official About Us page, which adds and much more; this 6-brand named set is PARTIAL, not a full line card (carried over from v1, no fuller list found). [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "sources": [
+        "http://mnplbgsupply.com",
+        "http://mnplbgsupply.com/"
+      ]
+    },
+    {
+      "id": "co-steamboat-springs-steamboat-springs-winnelson-winsupply-2555-copper-ridge-dr-new",
+      "name": "Steamboat Springs Winnelson (Winsupply) - Steamboat Springs",
+      "chain": "Steamboat Springs Winnelson (Winsupply)",
+      "address1": "2555 Copper Ridge Dr",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "phone": "970-879-8168",
+      "website": "http://www.steamboatspringswinnelson.com",
+      "email": null,
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM",
+      "branchLocatorUrl": "http://www.steamboatspringswinnelson.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
+      "spreadsheetSource": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": "80487",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "V2 2026-10-24: No published per-branch line card found (checked Winsupply local-company sites/locator and trade listings). Each Winsupply local company is independently owned; do not assume a shared list. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "sources": [
+        "http://www.steamboatspringswinnelson.com",
+        "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply"
+      ]
+    },
+    {
+      "id": "co-steamboat-springs-ferguson-plumbing-supply-2831-elk-river-rd-new",
+      "name": "Ferguson Plumbing Supply - Steamboat Springs",
+      "chain": "Ferguson Plumbing Supply",
+      "address1": "2831 Elk River Rd",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "phone": "970-879-2599",
+      "website": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
+      "email": null,
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "brandListType": "featured-brand set from Ferguson.com category pages (company-wide, not a branch line card)",
+      "brandsNote": "NO published Ferguson Plumbing line card found; featured-brand set from Ferguson.com category pages",
+      "brandSourceUrl": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": "80487",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official locator/branch page or place record (see notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Ferguson Plumbing Supply, Steamboat Springs. Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. Ferguson Selection Center shares the same address (counted as one physical location).",
+      "sources": [
+        "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182"
+      ]
+    },
+    {
+      "id": "co-avon-ferguson-plumbing-supply-40800-highway-6-units-2-3-4-new",
+      "name": "Ferguson Plumbing Supply - Avon",
+      "chain": "Ferguson Plumbing Supply",
+      "address1": "40800 Highway 6 Units 2 3 & 4",
+      "city": "Avon",
+      "state": "CO",
+      "phone": "970-445-3296",
+      "website": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "brandListType": "featured-brand set from Ferguson.com category pages (company-wide, not a branch line card)",
+      "brandsNote": "NO published Ferguson Plumbing line card found; featured-brand set from Ferguson.com category pages",
+      "brandSourceUrl": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "postalCode": "81620",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official locator/branch page or place record (see notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Ferguson Plumbing Supply, Avon (Vail valley). Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. XPRESSNET desk at the same address (counted as one physical location).",
+      "sources": [
+        "https://www.ferguson.com/store/co/avon/plumbingpvf-2779"
+      ]
+    },
+    {
+      "id": "co-frisco-ces-801-ten-mile-dr-new",
+      "name": "City Electric Supply - Frisco",
+      "chain": "City Electric Supply",
+      "address1": "801 Ten Mile Drive",
+      "city": "Frisco",
+      "state": "CO",
+      "phone": "970-668-0636",
+      "website": "https://www.cityelectricsupply.com/branchLocator",
+      "email": null,
+      "hours": "",
+      "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Electrical"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "primaryTrade": "Electrical",
+      "postalCode": "80443",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official locator/portal (see notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "City Electric Supply, Frisco. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
+      "sources": [
+        "https://www.cityelectricsupply.com/branchLocator"
+      ]
+    },
+    {
+      "id": "co-steamboat-springs-ces-2670-copper-ridge-new",
+      "name": "City Electric Supply - Steamboat Springs",
+      "chain": "City Electric Supply",
+      "address1": "2670 Copper Ridge Circle Unit #6",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "phone": "970-871-8800",
+      "website": "https://www.cityelectricsupply.com/branchLocator",
+      "email": null,
+      "hours": "",
+      "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Electrical"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "primaryTrade": "Electrical",
+      "postalCode": "80487",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official locator/portal (see notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "City Electric Supply, Steamboat Springs. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
+      "sources": [
+        "https://www.cityelectricsupply.com/branchLocator"
+      ]
+    },
+    {
+      "id": "co-avon-ces-vail-40814-hwy-6-new",
+      "name": "City Electric Supply - Vail",
+      "chain": "City Electric Supply",
+      "address1": "40814 Hwy 6 Unit D & E",
+      "city": "Avon",
+      "state": "CO",
+      "phone": "970-445-3231",
+      "website": "https://www.cityelectricsupply.com/branchLocator",
+      "email": null,
+      "hours": "",
+      "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Electrical"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "primaryTrade": "Electrical",
+      "postalCode": "81620",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Official locator/portal (see notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "City Electric Supply, Vail (postal city Avon). Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
+      "sources": [
+        "https://www.cityelectricsupply.com/branchLocator"
+      ]
+    },
+    {
+      "id": "co-avon-avon-216-east-benchmark-road-new",
+      "name": "Ace Hardware - Avon",
+      "chain": "Ace Hardware",
+      "address1": "216 East Benchmark Road",
+      "city": "Avon",
+      "state": "CO",
+      "phone": "(970) 446-4333",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-2; M-Sa 7:30-6",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81620",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-buena-vista-buena-vista-29785-hwy-24-n-new",
+      "name": "Ace Hardware - Buena Vista",
+      "chain": "Ace Hardware",
+      "address1": "29785 Hwy 24 N",
+      "city": "Buena Vista",
+      "state": "CO",
+      "phone": "(719) 395-8067",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 11-4; M-Sa 7:30-6",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81211",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-fairplay-fairplay-299-highway-285-po-box-940-new",
+      "name": "Ace Hardware - Fairplay",
+      "chain": "Ace Hardware",
+      "address1": "299 Highway 285 Po Box 940",
+      "city": "Fairplay",
+      "state": "CO",
+      "phone": "(719) 836-7095",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-4; M-Sa 8-7",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80440",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-hayden-hayden-111-n-6th-st-new",
+      "name": "Ace Hardware - Hayden",
+      "chain": "Ace Hardware",
+      "address1": "111 N 6th St",
+      "city": "Hayden",
+      "state": "CO",
+      "phone": "(970) 276-3922",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-6; M-Sa 8-8",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81639",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-leadville-leadville-1902-n-poplar-st-new",
+      "name": "Ace Hardware - Leadville",
+      "chain": "Ace Hardware",
+      "address1": "1902 N Poplar St",
+      "city": "Leadville",
+      "state": "CO",
+      "phone": "(719) 486-2220",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-4; M-F 8-6; Sa 8-5",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80461",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-salida-salida-17052-502-e-rainbow-blvd-new",
+      "name": "Salida #17052 - Salida",
+      "chain": "Ace Hardware",
+      "address1": "502 E Rainbow Blvd",
+      "city": "Salida",
+      "state": "CO",
+      "phone": "(719) 539-7601",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-5; M-Sa 8-6",
+      "branchLocatorUrl": "https://www.acehardware.com/store-details/17052",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81201",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 17052 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com/store-details/17052"
+      ]
+    },
+    {
+      "id": "co-steamboat-springs-steamboat-springs-2155-curve-plz-new",
+      "name": "Ace Hardware - Steamboat Springs",
+      "chain": "Ace Hardware",
+      "address1": "2155 Curve Plz",
+      "city": "Steamboat Springs",
+      "state": "CO",
+      "phone": "(970) 879-8014",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su 9-6; M-F 7:30-7; Sa 9-6",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80487",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-vail-vail-2111-n-frontage-rd-w-new",
+      "name": "Ace Hardware - Vail",
+      "chain": "Ace Hardware",
+      "address1": "2111 N Frontage Rd W",
+      "city": "Vail",
+      "state": "CO",
+      "phone": "(970) 476-8282",
+      "website": "https://www.acehardware.com",
+      "email": null,
+      "hours": "Su closed; M-F 7:30-6; Sa 8:30-5",
+      "branchLocatorUrl": "https://www.acehardware.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81657",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
+      "sources": [
+        "https://www.acehardware.com"
+      ]
+    },
+    {
+      "id": "co-breckenridge-breckenridge-13445-co-9-new",
+      "name": "Breckenridge Building Center - Breckenridge",
+      "chain": "Breckenridge Building Center",
+      "address1": "13445 CO-9",
+      "city": "Breckenridge",
+      "state": "CO",
+      "phone": "(970) 453-2372",
+      "website": "https://coloradobuildingsupply.com",
+      "email": null,
+      "hours": "Mon-Fri 7-5; Sat 8-1",
+      "branchLocatorUrl": "https://coloradobuildingsupply.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://coloradobuildingsupply.com",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80424",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://coloradobuildingsupply.com",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Full-service lumber/home-improvement with hardware tools paint & stain key cutting; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family \u2014 NOT one of the five chains",
+      "sources": [
+        "https://coloradobuildingsupply.com"
+      ]
+    },
+    {
+      "id": "co-idaho-springs-idaho-springs-2448-colorado-blvd-new",
+      "name": "Clear Creek Supply - Idaho Springs",
+      "chain": "Clear Creek Supply",
+      "address1": "2448 Colorado Blvd",
+      "city": "Idaho Springs",
+      "state": "CO",
+      "phone": "(303) 567-2693",
+      "website": null,
+      "email": null,
+      "hours": "Mon-Sat 8-5",
+      "branchLocatorUrl": null,
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "Place records + directories (see Notes)",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80452",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "Place records + directories (see Notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Single-source place record; hardware & tools plus auto parts and outdoor gear; ZIP is town standard",
+      "sources": []
+    },
+    {
+      "id": "co-phippsburg-flat-tops-ranch-supply-21475-hwy-131-new",
+      "name": "Flat Tops Ranch Supply - Phippsburg",
+      "chain": "Do it Best",
+      "address1": "21475 Hwy 131",
+      "city": "Phippsburg",
+      "state": "CO",
+      "phone": "970-736-2450",
+      "website": "https://www.doitbest.com",
+      "email": null,
+      "hours": "Not shown",
+      "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80469",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 6366 (URL ID only, not a store number).",
+      "sources": [
+        "https://www.doitbest.com/find-a-store/colorado/"
+      ]
+    },
+    {
+      "id": "co-walden-timberline-builders-supply-209-main-st-new",
+      "name": "Timberline Builders Supply - Walden",
+      "chain": "Do it Best",
+      "address1": "209 Main St",
+      "city": "Walden",
+      "state": "CO",
+      "phone": "970-723-4422",
+      "website": "https://www.doitbest.com",
+      "email": null,
+      "hours": "Mon-Fri 7-5:30; Sat 8-2 (place record)",
+      "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "80480",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings",
+      "sources": [
+        "https://www.doitbest.com/find-a-store/colorado/"
+      ]
+    },
+    {
+      "id": "co-edwards-edwards-33636-us-9-new",
+      "name": "Edwards Building Center - Edwards",
+      "chain": "Edwards Building Center",
+      "address1": "33636 US-9",
+      "city": "Edwards",
+      "state": "CO",
+      "phone": "(970) 926-3381",
+      "website": "https://coloradobuildingsupply.com",
+      "email": null,
+      "hours": "Not shown in sources",
+      "branchLocatorUrl": "https://coloradobuildingsupply.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://coloradobuildingsupply.com",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81632",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://coloradobuildingsupply.com",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Sister store to Breckenridge; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family \u2014 NOT one of the five chains",
+      "sources": [
+        "https://coloradobuildingsupply.com"
+      ]
+    },
+    {
+      "id": "co-poncha-springs-poncha-springs-10021-w-hwy-50-box-159-new",
+      "name": "Poncha Lumber - Poncha Springs",
+      "chain": "Poncha Lumber",
+      "address1": "10021 W Hwy 50 Box 159",
+      "city": "Poncha Springs",
+      "state": "CO",
+      "phone": "719-539-4754",
+      "website": null,
+      "email": null,
+      "hours": "Mon-Fri 7-5:30; Sat 8-5; Sun closed",
+      "branchLocatorUrl": null,
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "Place records + directories (see Notes)",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81242",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "Place records + directories (see Notes)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. AFFILIATION UNRESOLVED: doitbest.com microsite + place records exist, but store is ABSENT from the current Do it Best Colorado locator (verified by text fetch AND live locator check Oct 24 2026, 29 stores) \u2014 listed under its own name, NOT counted as Do it Best",
+      "sources": []
+    },
+    {
+      "id": "co-buena-vista-buena-vista-735-us-highway-24-n-new",
+      "name": "Rocky Mountain Lumber & Hardware - Buena Vista",
+      "chain": "Rocky Mountain Lumber & Hardware",
+      "address1": "735 US Highway 24 N",
+      "city": "Buena Vista",
+      "state": "CO",
+      "phone": "(719) 395-8611",
+      "website": "https://sterlinglbr.com",
+      "email": null,
+      "hours": "Mon-Fri 7:30-5; Sat 8-12",
+      "branchLocatorUrl": "https://sterlinglbr.com",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://sterlinglbr.com",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81211",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://sterlinglbr.com",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Lumber/hardware store (kitchen bath & paint millwork lumber); ZIP is town standard (store record did not show one)",
+      "sources": [
+        "https://sterlinglbr.com"
+      ]
+    },
+    {
+      "id": "co-avon-avon-vail-1525-295-yoder-ave-new",
+      "name": "Avon/Vail #1525 - Avon",
+      "chain": "The Home Depot",
+      "address1": "295 Yoder Ave",
+      "city": "Avon",
+      "state": "CO",
+      "phone": "(970) 748-9483",
+      "website": "https://www.homedepot.com",
+      "email": null,
+      "hours": "Mon-Sat 7a-9p; Sun 7a-8p",
+      "branchLocatorUrl": "https://www.homedepot.com/l/CO",
+      "brandsRep": [],
+      "brandListType": "no published line card",
+      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandSourceUrl": null,
+      "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+      "spreadsheetDateVerified": "2026-10-24",
+      "partsFor": [
+        "Hardware"
+      ],
+      "trades": [
+        "Hardware"
+      ],
+      "primaryTrade": "Hardware",
+      "postalCode": "81620",
+      "verification": {
+        "addressVerified": false,
+        "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
+        "addressVerifiedDate": "2026-10-24",
+        "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
+      },
+      "coordsStatus": "needs_verification",
+      "geoPrecision": "centroid",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Coordinates not verified - see coordsStatus",
+      "notes": "Hardware category (new 2026-10-24). Wiki number",
+      "sources": [
+        "https://www.homedepot.com/l/CO"
+      ]
+    }
   ]
- },
- {
-  "id": "co-steamboat-springs-steamboat-springs-winnelson-winsupply-2555-copper-ridge-dr-new",
-  "name": "Steamboat Springs Winnelson (Winsupply) - Steamboat Springs",
-  "chain": "Steamboat Springs Winnelson (Winsupply)",
-  "address1": "2555 Copper Ridge Dr",
-  "city": "Steamboat Springs",
-  "state": "CO",
-  "phone": "970-879-8168",
-  "website": "http://www.steamboatspringswinnelson.com",
-  "email": null,
-  "hours": "Mon-Fri 7:30 AM - 4:00 PM",
-  "branchLocatorUrl": "http://www.steamboatspringswinnelson.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Line card not publicly published - call branch to confirm",
-  "brandSourceUrl": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
-  "spreadsheetSource": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Plumbing"
-  ],
-  "trades": [
-   "Plumbing"
-  ],
-  "primaryTrade": "Plumbing",
-  "postalCode": "80487",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "V2 2026-10-24: No published per-branch line card found (checked Winsupply local-company sites/locator and trade listings). Each Winsupply local company is independently owned; do not assume a shared list. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-  "sources": [
-   "http://www.steamboatspringswinnelson.com",
-   "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply"
-  ]
- },
- {
-  "id": "co-steamboat-springs-ferguson-plumbing-supply-2831-elk-river-rd-new",
-  "name": "Ferguson Plumbing Supply - Steamboat Springs",
-  "chain": "Ferguson Plumbing Supply",
-  "address1": "2831 Elk River Rd",
-  "city": "Steamboat Springs",
-  "state": "CO",
-  "phone": "970-879-2599",
-  "website": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
-  "email": null,
-  "hours": "Mon-Fri 7:30 AM - 4:00 PM",
-  "branchLocatorUrl": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
-  "brandsRep": [
-   "A.O. Smith",
-   "American Standard",
-   "Bradford White",
-   "Delta Faucet",
-   "FNW",
-   "Jones Stephens",
-   "KOHLER",
-   "Moen",
-   "PROFLO",
-   "Rinnai",
-   "Signature Hardware",
-   "State",
-   "TOTO"
-  ],
-  "brandListType": "featured-brand set from Ferguson.com category pages (company-wide, not a branch line card)",
-  "brandsNote": "NO published Ferguson Plumbing line card found; featured-brand set from Ferguson.com category pages",
-  "brandSourceUrl": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
-  "spreadsheetSource": "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Plumbing"
-  ],
-  "trades": [
-   "Plumbing"
-  ],
-  "primaryTrade": "Plumbing",
-  "postalCode": "80487",
-  "verification": {
-   "addressVerified": true,
-   "addressSource": "Official locator/branch page or place record (see notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Ferguson Plumbing Supply, Steamboat Springs. Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. Ferguson Selection Center shares the same address (counted as one physical location).",
-  "sources": [
-   "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182"
-  ]
- },
- {
-  "id": "co-avon-ferguson-plumbing-supply-40800-highway-6-units-2-3-4-new",
-  "name": "Ferguson Plumbing Supply - Avon",
-  "chain": "Ferguson Plumbing Supply",
-  "address1": "40800 Highway 6 Units 2 3 & 4",
-  "city": "Avon",
-  "state": "CO",
-  "phone": "970-445-3296",
-  "website": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
-  "email": null,
-  "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-  "branchLocatorUrl": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
-  "brandsRep": [
-   "A.O. Smith",
-   "American Standard",
-   "Bradford White",
-   "Delta Faucet",
-   "FNW",
-   "Jones Stephens",
-   "KOHLER",
-   "Moen",
-   "PROFLO",
-   "Rinnai",
-   "Signature Hardware",
-   "State",
-   "TOTO"
-  ],
-  "brandListType": "featured-brand set from Ferguson.com category pages (company-wide, not a branch line card)",
-  "brandsNote": "NO published Ferguson Plumbing line card found; featured-brand set from Ferguson.com category pages",
-  "brandSourceUrl": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
-  "spreadsheetSource": "https://www.ferguson.com/store/co/avon/plumbingpvf-2779",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Plumbing"
-  ],
-  "trades": [
-   "Plumbing"
-  ],
-  "primaryTrade": "Plumbing",
-  "postalCode": "81620",
-  "verification": {
-   "addressVerified": true,
-   "addressSource": "Official locator/branch page or place record (see notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Ferguson Plumbing Supply, Avon (Vail valley). Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. XPRESSNET desk at the same address (counted as one physical location).",
-  "sources": [
-   "https://www.ferguson.com/store/co/avon/plumbingpvf-2779"
-  ]
- },
- {
-  "id": "co-frisco-ces-801-ten-mile-dr-new",
-  "name": "City Electric Supply - Frisco",
-  "chain": "City Electric Supply",
-  "address1": "801 Ten Mile Drive",
-  "city": "Frisco",
-  "state": "CO",
-  "phone": "970-668-0636",
-  "website": "https://www.cityelectricsupply.com/branchLocator",
-  "email": null,
-  "hours": "",
-  "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Line card not publicly published - call branch to confirm",
-  "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Electrical"
-  ],
-  "trades": [
-   "Electrical"
-  ],
-  "primaryTrade": "Electrical",
-  "postalCode": "80443",
-  "verification": {
-   "addressVerified": true,
-   "addressSource": "Official locator/portal (see notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "City Electric Supply, Frisco. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
-  "sources": [
-   "https://www.cityelectricsupply.com/branchLocator"
-  ]
- },
- {
-  "id": "co-steamboat-springs-ces-2670-copper-ridge-new",
-  "name": "City Electric Supply - Steamboat Springs",
-  "chain": "City Electric Supply",
-  "address1": "2670 Copper Ridge Circle Unit #6",
-  "city": "Steamboat Springs",
-  "state": "CO",
-  "phone": "970-871-8800",
-  "website": "https://www.cityelectricsupply.com/branchLocator",
-  "email": null,
-  "hours": "",
-  "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Line card not publicly published - call branch to confirm",
-  "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Electrical"
-  ],
-  "trades": [
-   "Electrical"
-  ],
-  "primaryTrade": "Electrical",
-  "postalCode": "80487",
-  "verification": {
-   "addressVerified": true,
-   "addressSource": "Official locator/portal (see notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "City Electric Supply, Steamboat Springs. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
-  "sources": [
-   "https://www.cityelectricsupply.com/branchLocator"
-  ]
- },
- {
-  "id": "co-avon-ces-vail-40814-hwy-6-new",
-  "name": "City Electric Supply - Vail",
-  "chain": "City Electric Supply",
-  "address1": "40814 Hwy 6 Unit D & E",
-  "city": "Avon",
-  "state": "CO",
-  "phone": "970-445-3231",
-  "website": "https://www.cityelectricsupply.com/branchLocator",
-  "email": null,
-  "hours": "",
-  "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Line card not publicly published - call branch to confirm",
-  "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetSource": "https://www.cityelectricsupply.com/branchLocator",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Electrical"
-  ],
-  "trades": [
-   "Electrical"
-  ],
-  "primaryTrade": "Electrical",
-  "postalCode": "81620",
-  "verification": {
-   "addressVerified": true,
-   "addressSource": "Official locator/portal (see notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "City Electric Supply, Vail (postal city Avon). Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
-  "sources": [
-   "https://www.cityelectricsupply.com/branchLocator"
-  ]
- },
- {
-  "id": "co-avon-avon-216-east-benchmark-road-new",
-  "name": "Ace Hardware - Avon",
-  "chain": "Ace Hardware",
-  "address1": "216 East Benchmark Road",
-  "city": "Avon",
-  "state": "CO",
-  "phone": "(970) 446-4333",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-2; M-Sa 7:30-6",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81620",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-buena-vista-buena-vista-29785-hwy-24-n-new",
-  "name": "Ace Hardware - Buena Vista",
-  "chain": "Ace Hardware",
-  "address1": "29785 Hwy 24 N",
-  "city": "Buena Vista",
-  "state": "CO",
-  "phone": "(719) 395-8067",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 11-4; M-Sa 7:30-6",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81211",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-fairplay-fairplay-299-highway-285-po-box-940-new",
-  "name": "Ace Hardware - Fairplay",
-  "chain": "Ace Hardware",
-  "address1": "299 Highway 285 Po Box 940",
-  "city": "Fairplay",
-  "state": "CO",
-  "phone": "(719) 836-7095",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-4; M-Sa 8-7",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80440",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-hayden-hayden-111-n-6th-st-new",
-  "name": "Ace Hardware - Hayden",
-  "chain": "Ace Hardware",
-  "address1": "111 N 6th St",
-  "city": "Hayden",
-  "state": "CO",
-  "phone": "(970) 276-3922",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-6; M-Sa 8-8",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81639",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-leadville-leadville-1902-n-poplar-st-new",
-  "name": "Ace Hardware - Leadville",
-  "chain": "Ace Hardware",
-  "address1": "1902 N Poplar St",
-  "city": "Leadville",
-  "state": "CO",
-  "phone": "(719) 486-2220",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-4; M-F 8-6; Sa 8-5",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80461",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-salida-salida-17052-502-e-rainbow-blvd-new",
-  "name": "Salida #17052 - Salida",
-  "chain": "Ace Hardware",
-  "address1": "502 E Rainbow Blvd",
-  "city": "Salida",
-  "state": "CO",
-  "phone": "(719) 539-7601",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-5; M-Sa 8-6",
-  "branchLocatorUrl": "https://www.acehardware.com/store-details/17052",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81201",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. STORE NUMBER 17052 verified on official Ace store-details page (browser pass Oct 24 2026). Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com/store-details/17052"
-  ]
- },
- {
-  "id": "co-steamboat-springs-steamboat-springs-2155-curve-plz-new",
-  "name": "Ace Hardware - Steamboat Springs",
-  "chain": "Ace Hardware",
-  "address1": "2155 Curve Plz",
-  "city": "Steamboat Springs",
-  "state": "CO",
-  "phone": "(970) 879-8014",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su 9-6; M-F 7:30-7; Sa 9-6",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80487",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-vail-vail-2111-n-frontage-rd-w-new",
-  "name": "Ace Hardware - Vail",
-  "chain": "Ace Hardware",
-  "address1": "2111 N Frontage Rd W",
-  "city": "Vail",
-  "state": "CO",
-  "phone": "(970) 476-8282",
-  "website": "https://www.acehardware.com",
-  "email": null,
-  "hours": "Su closed; M-F 7:30-6; Sa 8:30-5",
-  "branchLocatorUrl": "https://www.acehardware.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81657",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
-  "sources": [
-   "https://www.acehardware.com"
-  ]
- },
- {
-  "id": "co-breckenridge-breckenridge-13445-co-9-new",
-  "name": "Breckenridge Building Center - Breckenridge",
-  "chain": "Breckenridge Building Center",
-  "address1": "13445 CO-9",
-  "city": "Breckenridge",
-  "state": "CO",
-  "phone": "(970) 453-2372",
-  "website": "https://coloradobuildingsupply.com",
-  "email": null,
-  "hours": "Mon-Fri 7-5; Sat 8-1",
-  "branchLocatorUrl": "https://coloradobuildingsupply.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://coloradobuildingsupply.com",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80424",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://coloradobuildingsupply.com",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Full-service lumber/home-improvement with hardware tools paint & stain key cutting; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family — NOT one of the five chains",
-  "sources": [
-   "https://coloradobuildingsupply.com"
-  ]
- },
- {
-  "id": "co-idaho-springs-idaho-springs-2448-colorado-blvd-new",
-  "name": "Clear Creek Supply - Idaho Springs",
-  "chain": "Clear Creek Supply",
-  "address1": "2448 Colorado Blvd",
-  "city": "Idaho Springs",
-  "state": "CO",
-  "phone": "(303) 567-2693",
-  "website": null,
-  "email": null,
-  "hours": "Mon-Sat 8-5",
-  "branchLocatorUrl": null,
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "Place records + directories (see Notes)",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80452",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "Place records + directories (see Notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Single-source place record; hardware & tools plus auto parts and outdoor gear; ZIP is town standard",
-  "sources": []
- },
- {
-  "id": "co-phippsburg-flat-tops-ranch-supply-21475-hwy-131-new",
-  "name": "Flat Tops Ranch Supply - Phippsburg",
-  "chain": "Do it Best",
-  "address1": "21475 Hwy 131",
-  "city": "Phippsburg",
-  "state": "CO",
-  "phone": "970-736-2450",
-  "website": "https://www.doitbest.com",
-  "email": null,
-  "hours": "Not shown",
-  "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80469",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + store page Locator ID 6366 (URL ID only, not a store number).",
-  "sources": [
-   "https://www.doitbest.com/find-a-store/colorado/"
-  ]
- },
- {
-  "id": "co-walden-timberline-builders-supply-209-main-st-new",
-  "name": "Timberline Builders Supply - Walden",
-  "chain": "Do it Best",
-  "address1": "209 Main St",
-  "city": "Walden",
-  "state": "CO",
-  "phone": "970-723-4422",
-  "website": "https://www.doitbest.com",
-  "email": null,
-  "hours": "Mon-Fri 7-5:30; Sat 8-2 (place record)",
-  "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "80480",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://www.doitbest.com/find-a-store/colorado/",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings",
-  "sources": [
-   "https://www.doitbest.com/find-a-store/colorado/"
-  ]
- },
- {
-  "id": "co-edwards-edwards-33636-us-9-new",
-  "name": "Edwards Building Center - Edwards",
-  "chain": "Edwards Building Center",
-  "address1": "33636 US-9",
-  "city": "Edwards",
-  "state": "CO",
-  "phone": "(970) 926-3381",
-  "website": "https://coloradobuildingsupply.com",
-  "email": null,
-  "hours": "Not shown in sources",
-  "branchLocatorUrl": "https://coloradobuildingsupply.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://coloradobuildingsupply.com",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81632",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://coloradobuildingsupply.com",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Sister store to Breckenridge; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family — NOT one of the five chains",
-  "sources": [
-   "https://coloradobuildingsupply.com"
-  ]
- },
- {
-  "id": "co-poncha-springs-poncha-springs-10021-w-hwy-50-box-159-new",
-  "name": "Poncha Lumber - Poncha Springs",
-  "chain": "Poncha Lumber",
-  "address1": "10021 W Hwy 50 Box 159",
-  "city": "Poncha Springs",
-  "state": "CO",
-  "phone": "719-539-4754",
-  "website": null,
-  "email": null,
-  "hours": "Mon-Fri 7-5:30; Sat 8-5; Sun closed",
-  "branchLocatorUrl": null,
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "Place records + directories (see Notes)",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81242",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "Place records + directories (see Notes)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. AFFILIATION UNRESOLVED: doitbest.com microsite + place records exist, but store is ABSENT from the current Do it Best Colorado locator (verified by text fetch AND live locator check Oct 24 2026, 29 stores) — listed under its own name, NOT counted as Do it Best",
-  "sources": []
- },
- {
-  "id": "co-buena-vista-buena-vista-735-us-highway-24-n-new",
-  "name": "Rocky Mountain Lumber & Hardware - Buena Vista",
-  "chain": "Rocky Mountain Lumber & Hardware",
-  "address1": "735 US Highway 24 N",
-  "city": "Buena Vista",
-  "state": "CO",
-  "phone": "(719) 395-8611",
-  "website": "https://sterlinglbr.com",
-  "email": null,
-  "hours": "Mon-Fri 7:30-5; Sat 8-12",
-  "branchLocatorUrl": "https://sterlinglbr.com",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://sterlinglbr.com",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81211",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://sterlinglbr.com",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Lumber/hardware store (kitchen bath & paint millwork lumber); ZIP is town standard (store record did not show one)",
-  "sources": [
-   "https://sterlinglbr.com"
-  ]
- },
- {
-  "id": "co-avon-avon-vail-1525-295-yoder-ave-new",
-  "name": "Avon/Vail #1525 - Avon",
-  "chain": "The Home Depot",
-  "address1": "295 Yoder Ave",
-  "city": "Avon",
-  "state": "CO",
-  "phone": "(970) 748-9483",
-  "website": "https://www.homedepot.com",
-  "email": null,
-  "hours": "Mon-Sat 7a-9p; Sun 7a-8p",
-  "branchLocatorUrl": "https://www.homedepot.com/l/CO",
-  "brandsRep": [],
-  "brandListType": "no published line card",
-  "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
-  "brandSourceUrl": null,
-  "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
-  "spreadsheetDateVerified": "2026-10-24",
-  "partsFor": [
-   "Hardware"
-  ],
-  "trades": [
-   "Hardware"
-  ],
-  "primaryTrade": "Hardware",
-  "postalCode": "81620",
-  "verification": {
-   "addressVerified": false,
-   "addressSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
-   "addressVerifiedDate": "2026-10-24",
-   "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
-  },
-  "coordsStatus": "needs_verification",
-  "geoPrecision": "centroid",
-  "geoVerifiedDate": "2026-10-24",
-  "geoSource": "Coordinates not verified - see coordsStatus",
-  "notes": "Hardware category (new 2026-10-24). Wiki number",
-  "sources": [
-   "https://www.homedepot.com/l/CO"
-  ]
- }
-]
+}
