@@ -1,60 +1,65 @@
 {
- "version": "1.92",
- "updated": "2026-10-24",
- "state": "CO",
- "metros": [
-  {
-   "id": "denver-metro",
-   "name": "Denver Metro",
-   "file": "us/co/denver-metro.json",
-   "center": {
-    "lat": 39.7392,
-    "lon": -104.9903
-   }
-  },
-  {
-   "id": "boulder-metro",
-   "name": "Boulder / Broomfield / Longmont",
-   "file": "us/co/boulder-metro.json"
-  },
-  {
-   "id": "colorado-springs-metro",
-   "name": "Colorado Springs",
-   "file": "us/co/colorado-springs-metro.json"
-  },
-  {
-   "id": "front-range-north",
-   "name": "Front Range North (Fort Collins / Loveland / Greeley)",
-   "file": "us/co/front-range-north.json"
-  },
-  {
-   "id": "pueblo-south",
-   "name": "Pueblo / South Colorado",
-   "file": "us/co/pueblo-south.json"
-  },
-  {
-   "id": "western-slope",
-   "name": "Western Slope",
-   "file": "us/co/western-slope.json"
-  },
-  {
-   "id": "eastern-plains",
-   "name": "Eastern Plains",
-   "file": "us/co/eastern-plains.json"
+  "version": "1.92",
+  "updated": "2026-10-24",
+  "state": "CO",
+  "metros": [
+    {
+      "id": "denver-metro",
+      "name": "Denver Metro",
+      "file": "us/co/denver-metro.json",
+      "center": {
+        "lat": 39.7392,
+        "lon": -104.9903
+      }
+    },
+    {
+      "id": "boulder-metro",
+      "name": "Boulder / Broomfield / Longmont",
+      "file": "us/co/boulder-metro.json"
+    },
+    {
+      "id": "colorado-springs-metro",
+      "name": "Colorado Springs",
+      "file": "us/co/colorado-springs-metro.json"
+    },
+    {
+      "id": "front-range-north",
+      "name": "Front Range North (Fort Collins / Loveland / Greeley)",
+      "file": "us/co/front-range-north.json"
+    },
+    {
+      "id": "pueblo-south",
+      "name": "Pueblo / South Colorado",
+      "file": "us/co/pueblo-south.json"
+    },
+    {
+      "id": "western-slope",
+      "name": "Western Slope",
+      "file": "us/co/western-slope.json"
+    },
+    {
+      "id": "eastern-plains",
+      "name": "Eastern Plains",
+      "file": "us/co/eastern-plains.json"
+    },
+    {
+      "id": "central-mountains",
+      "name": "Central Mountains",
+      "file": "us/co/central-mountains.json"
+    }
+  ],
+  "trades": {
+    "hvac": {
+      "index": "us/co/hvac/index.json"
+    },
+    "plumbing": {
+      "index": "us/co/plumbing/index.json"
+    },
+    "electrical": {
+      "index": "us/co/electrical/index.json"
+    },
+    "filter": {
+      "index": "us/co/filter/index.json"
+    }
   }
- ],
- "trades": {
-  "hvac": {
-   "index": "us/co/hvac/index.json"
-  },
-  "plumbing": {
-   "index": "us/co/plumbing/index.json"
-  },
-  "electrical": {
-   "index": "us/co/electrical/index.json"
-  },
-  "filter": {
-   "index": "us/co/filter/index.json"
-  }
- }
 }
