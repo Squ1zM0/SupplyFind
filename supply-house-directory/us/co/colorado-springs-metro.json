@@ -2008,16 +2008,12 @@
       "hours": "Mon-Fri 7:00 AM-4:30 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
-        "American Standard",
-        "AO Smith",
-        "Frigidaire",
-        "IPEX",
-        "Keeprite",
-        "Kohler",
-        "Mitsubishi",
         "Rheem",
-        "Tempstar",
-        "Trane"
+        "Honeywell",
+        "Aprilaire",
+        "LG",
+        "Bosch",
+        "Nu-Calgon"
       ],
       "brandListType": "published line card (spreadsheet v4)",
       "brandsNote": "",
