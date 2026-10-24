@@ -1586,7 +1586,11 @@
       "email": null,
       "hours": "Mon-Sat 7:30-5:30",
       "branchLocatorUrl": "https://alamosabuildingsupply.com",
-      "brandsRep": [],
+      "brandsRep": [
+        "DeWalt",
+        "Makita",
+        "SENCO"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
@@ -1887,7 +1891,12 @@
       "email": null,
       "hours": "Sun 9-5; Mon-Sat 7-7",
       "branchLocatorUrl": "https://sutherlands.com",
-      "brandsRep": [],
+      "brandsRep": [
+        "DeWalt",
+        "Diablo",
+        "Gundlach",
+        "Milwaukee"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,

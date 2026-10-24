@@ -35,7 +35,14 @@
         "Payne",
         "Trane",
         "Rheem",
-        "Ruud"
+        "Ruud",
+        "ADP",
+        "Mitsubishi",
+        "Bard",
+        "Drake",
+        "Sporlan",
+        "Sanuvox",
+        "Emerson"
       ],
       "services": [],
       "sources": [
@@ -818,7 +825,22 @@
         "Veotec",
         "Vibro-Acoustics",
         "WaterFurnace",
-        "Young"
+        "Young",
+        "Innova (Ephoca)",
+        "LiquidPulse Cooling",
+        "Macurco Gas Detection",
+        "FlexAir",
+        "Transom",
+        "Zehnder Rittling",
+        "Westaire Engineering",
+        "Ventrol",
+        "Skyplume Technologies",
+        "Plasticair",
+        "IMI Flow Design",
+        "Flow Control Industries",
+        "Composite Cooling Solutions",
+        "AQC Dust Collecting Systems",
+        "Air Concepts"
       ],
       "services": [],
       "sources": [

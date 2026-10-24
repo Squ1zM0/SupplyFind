@@ -218,7 +218,15 @@
       "phone": "+17199419930",
       "lat": 38.874312,
       "lon": -104.715174,
-      "brandsRep": [],
+      "brandsRep": [
+        "Bosch",
+        "Crown Boiler",
+        "DiversiTech",
+        "Enerco",
+        "Fieldpiece",
+        "Jason Industrial",
+        "Legend Valve"
+      ],
       "partsFor": [
         "HVAC equipment",
         "HVAC parts",
@@ -256,72 +264,6 @@
       "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to front entrance. Industrial supplier location with customer access.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
       "arrivalLat": 38.874368,
       "arrivalLon": -104.715118,
-      "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
-      "id": "co-cos-city-electric-001",
-      "name": "City Electric Supply (Colorado Springs - Northpark)",
-      "chain": "City Electric Supply",
-      "address1": "4626 Northpark Dr",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "719-895-1400",
-      "lat": 38.9105,
-      "lon": -104.7927,
-      "tags": [
-        "electrical"
-      ],
-      "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider",
-        "Philips",
-        "Acuity",
-        "RAB",
-        "Lutron",
-        "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "notes": "Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Source: City Electric Supply official line card, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: a second tree record (electrical/colorado-springs-metro.json, Colorado Springs Central, 719-785-0600) sits at this same address — possible duplicate; NOT merged without confirmation.]",
-      "sources": [
-        "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
-        "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "postalCode": "80918",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Multiple Verified Directories",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.google.com/maps/place/City+Electric+Supply+Colorado+Springs+Central",
-          "https://servlectric.com/branch/city-electric-supply-colorado-springs-central"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 38.910556,
-      "arrivalLon": -104.792644,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)"
     },
@@ -626,7 +568,7 @@
       "address1": "1478 Woolsey Hts",
       "city": "Colorado Springs",
       "state": "CO",
-      "phone": "",
+      "phone": "719-895-1400",
       "lat": 38.8732,
       "lon": -104.7204,
       "tags": [
@@ -1800,7 +1742,17 @@
         "Sporlan Valve",
         "Standard Refrigeration",
         "Tecumseh",
-        "Trenton Refrigeration"
+        "Trenton Refrigeration",
+        "Alfa Laval",
+        "Bard",
+        "Bitzer",
+        "Bosch",
+        "Carlyle",
+        "Emerson Flow Controls",
+        "Kason",
+        "Parker",
+        "Supco",
+        "Unico"
       ],
       "partsFor": [
         "HVAC"
@@ -2697,7 +2649,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -3009,7 +2960,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",

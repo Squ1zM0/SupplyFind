@@ -6,70 +6,6 @@
   "updated": "2026-10-24",
   "branches": [
     {
-      "id": "foco-graybar",
-      "name": "Graybar Electric – Fort Collins",
-      "chain": "Graybar",
-      "trade": "electrical",
-      "city": "Fort Collins",
-      "state": "CO",
-      "postalCode": "80525",
-      "address1": "4600 Innovation Dr",
-      "phone": "970-206-0700",
-      "website": "https://www.graybar.com/",
-      "coordsStatus": "verified",
-      "notes": "Electrical supply counter storefront. Major electrical distributor with 1M+ products from 5000+ manufacturers including ABB, Eaton, Square D, Hubbell, and Lithonia. Source: Graybar official line card, verified 2025-12-26",
-      "lat": 40.529253,
-      "lon": -105.061632,
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Graybar Official Website",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.graybar.com/locations",
-          "https://www.google.com/maps/place/Graybar+Fort+Collins"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "brandsRep": [
-        "ABB",
-        "Eaton",
-        "Schneider",
-        "Square D",
-        "Siemens",
-        "Hubbell",
-        "Lithonia",
-        "Acuity",
-        "Southwire",
-        "Belden",
-        "Panduit",
-        "Fluke",
-        "3M"
-      ],
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
-      ],
-      "sources": [
-        "https://www.graybar.com/locations",
-        "https://www.google.com/maps/place/Graybar+Fort+Collins"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.529253,
-      "arrivalLon": -105.061632,
-      "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "greeley-ced",
       "name": "CED – Greeley",
       "chain": "CED",
@@ -892,7 +828,22 @@
       "lat": 40.5854,
       "lon": -105.0432,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Southwire",
+        "Siemens",
+        "Eaton",
+        "Square D",
+        "Schneider",
+        "Philips",
+        "Acuity",
+        "RAB",
+        "Lutron",
+        "Klein Tools",
+        "Fluke",
+        "Milwaukee",
+        "Hubbell",
+        "Leviton"
+      ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {

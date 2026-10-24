@@ -25,8 +25,10 @@
       "lat": 39.7897,
       "lon": -105.0148,
       "brandsRep": [
-        "Daikin",
-        "Goodman"
+        "Manitowoc Ice",
+        "Indigo NXT",
+        "Koolaire",
+        "Multiplex"
       ],
       "partsFor": [
         "HVAC"
@@ -652,7 +654,51 @@
         "Ruud",
         "Fujitsu",
         "Daikin",
-        "Mitsubishi"
+        "Mitsubishi",
+        "Aircycler",
+        "Air King",
+        "Aire Technologies",
+        "Airex",
+        "Armacell",
+        "Aspen Refrigerants",
+        "Bramec",
+        "Builders Best",
+        "Caldyn",
+        "Cendrex",
+        "Delta Breez",
+        "Design Poly",
+        "DiversiTech",
+        "Elgen",
+        "Famco",
+        "Fanam",
+        "Genesis (Resideo)",
+        "Genie Lift",
+        "Hailiang",
+        "Ideal Tridon",
+        "Intercorp",
+        "iO HVAC Controls",
+        "Knauf",
+        "Lucas-Milhaupt",
+        "Mason Industries",
+        "Metal Products",
+        "MK Morse",
+        "Nelco",
+        "Norseman Drill",
+        "Owens Corning",
+        "Ouellet",
+        "PHD",
+        "Quickflash",
+        "Quietflex",
+        "Reversomatic",
+        "RectorSeal",
+        "Shook",
+        "Shubee",
+        "Shurtape",
+        "Tamtech",
+        "USD Products",
+        "Vulc",
+        "Watts",
+        "Xventbox"
       ],
       "partsFor": [
         "HVAC"
@@ -2549,7 +2595,6 @@
       "lon": -105.0052,
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -3191,7 +3236,17 @@
         "Sporlan Valve",
         "Standard Refrigeration",
         "Tecumseh",
-        "Trenton Refrigeration"
+        "Trenton Refrigeration",
+        "Alfa Laval",
+        "Bard",
+        "Bitzer",
+        "Bosch",
+        "Carlyle",
+        "Emerson Flow Controls",
+        "Kason",
+        "Parker",
+        "Supco",
+        "Unico"
       ],
       "partsFor": [
         "HVAC"
@@ -3729,7 +3784,6 @@
         "D-Mark",
         "Filtration Group",
         "Freudenberg Filtration Technologies",
-        "Gates",
         "Glasfloss",
         "Koch Filtration",
         "Kuul",
@@ -3741,8 +3795,7 @@
         "Purafil",
         "Rensa Filtration",
         "Sanuvox",
-        "Smith Filter",
-        "Timken"
+        "Smith Filter"
       ],
       "brandListType": "published line card (spreadsheet v4)",
       "brandsNote": "",
@@ -6082,50 +6135,6 @@
       "lon": -104.98027
     },
     {
-      "id": "co-denver-hughes-supply-hajoca-445-bryant-st-new",
-      "name": "Hughes Supply (Hajoca) - Denver",
-      "chain": "Hughes Supply (Hajoca)",
-      "address1": "445 Bryant St",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "303-343-2260",
-      "website": "http://hughessupply.com/denver",
-      "email": null,
-      "hours": "Mon-Fri 6:00 AM - 4:30 PM",
-      "branchLocatorUrl": "http://hughessupply.com/denver",
-      "brandsRep": [],
-      "brandListType": "no published line card",
-      "brandsNote": "Line card not publicly published - call branch to confirm",
-      "brandSourceUrl": "http://hughessupply.com/denver",
-      "spreadsheetSource": "http://hughessupply.com/denver",
-      "spreadsheetDateVerified": "2026-10-24",
-      "partsFor": [
-        "Plumbing"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "postalCode": null,
-      "verification": {
-        "addressVerified": false,
-        "addressSource": "http://hughessupply.com/denver",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "address",
-      "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "ZIP not in source - left blank; note same street address as Trane Supply Denver (different business/phone) | V2 2026-10-24: No published line card found (checked hughessupply.com / Hajoca). Hajoca profit centers publish no company-wide brand list. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-      "sources": [
-        "http://hughessupply.com/denver",
-        "http://hughessupply.com/denver"
-      ],
-      "lat": 39.72276,
-      "lon": -105.01978
-    },
-    {
       "id": "co-denver-lennox-stores-partsplus-5725-pecos-st-bldg-3-new",
       "name": "Lennox Stores (PartsPlus) - Denver North",
       "chain": "Lennox Stores (PartsPlus)",
@@ -6341,7 +6350,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -6653,7 +6661,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -6965,7 +6972,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -7277,7 +7283,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",

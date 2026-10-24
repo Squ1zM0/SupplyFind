@@ -1,387 +1,388 @@
 {
- "version": "COLORADO_SPRINGS_PLUMBING_SATURATION_v1",
- "trade": "plumbing",
- "metro": "Colorado Springs Metro",
- "state": "CO",
- "updated": "2026-10-24",
- "branches": [
-  {
-   "id": "colorado-springs-winnelson-geiger",
-   "name": "Colorado Springs Winnelson",
-   "chain": "Winsupply (Winnelson)",
-   "trade": "plumbing",
-   "city": "Colorado Springs",
-   "state": "CO",
-   "postalCode": "80915",
-   "address1": "725 Geiger Ct",
-   "phone": "719-573-5503",
-   "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80915/Plumbing-Supplies",
-   "lat": 38.863395,
-   "lon": -104.701133,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.O. Smith",
-    "Charlotte Pipe",
-    "American Standard",
-    "Sloan",
-    "Liberty Pumps"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.winsupplyinc.com/s/view-products/top-brands"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 38.863451,
-   "arrivalLon": -104.701077,
-   "arrivalType": "will_call",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "cos-gateway-supply-plumbing",
-   "name": "Gateway Supply \u2013 Colorado Springs",
-   "chain": "Gateway Supply",
-   "trade": "plumbing",
-   "city": "Colorado Springs",
-   "state": "CO",
-   "postalCode": "80915",
-   "address1": "2840 S Circle Dr",
-   "phone": "719-597-4300",
-   "website": "https://www.gatewaysupply.net/",
-   "lat": 38.7927,
-   "lon": -104.7745,
-   "coordsStatus": "verified",
-   "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "brandsRep": [
-    "Kohler",
-    "Delta",
-    "Moen",
-    "American Standard"
-   ],
-   "partsFor": [
-    "Plumbing"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "Plumbing",
-   "verification": {
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Previously verified during geocoding audit",
-    "notes": "Coordinates verified in prior audit pass",
-    "addressVerified": true,
-    "addressSource": "Web Verification - Official Company Sources",
-    "addressVerifiedDate": "2025-12-27",
-    "sources": [
-     "https://woe.gatewaysupply.net/locations"
-    ]
-   },
-   "sources": [
-    "Official company contact required"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Previously verified during geocoding audit",
-   "arrivalLat": 38.792756,
-   "arrivalLon": -104.774444,
-   "arrivalType": "will_call",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "abc-plumbing-cos-fillmore",
-   "name": "ABC Plumbing & Electrical Supplies - Colorado Springs",
-   "chain": "ABC Plumbing",
-   "trade": "plumbing",
-   "city": "Colorado Springs",
-   "state": "CO",
-   "postalCode": "80907",
-   "address1": "707 E Fillmore St",
-   "phone": "800-632-0208",
-   "website": "https://abcplumbing.com/",
-   "lat": 38.847815,
-   "lon": -104.812823,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Kohler",
-    "Delta",
-    "Moen",
-    "American Standard",
-    "Bradford White"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Independent regional plumbing, sprinkler, and heating supply house serving Colorado Springs. Wide range of plumbing products with staff offering expert advice for DIY and professional customers. Source: ABC Plumbing official website, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "sources": [
-     "https://abcplumbing.com/"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing",
-    "Irrigation",
-    "Heating"
-   ],
-   "sources": [
-    "https://abcplumbing.com/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 38.847815,
-   "arrivalLon": -104.812823,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "dahl-castle-rock-perry",
-   "name": "Dahl Plumbing - Castle Rock",
-   "chain": "Hajoca (Dahl)",
-   "trade": "plumbing",
-   "city": "Castle Rock",
-   "state": "CO",
-   "postalCode": "80104",
-   "address1": "1733 S Perry St Ste 105",
-   "phone": "720-531-4006",
-   "website": "https://dahlplumbing.com/castlerock/",
-   "lat": 39.354079,
-   "lon": -104.86839,
-   "coordsStatus": "verified",
-   "brandsRep": [],
-   "manufacturersPartsFor": [],
-   "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "parentChain": "Hajoca",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.hajoca.com/suppliers/",
-    "https://dahlplumbing.com/castlerock/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.354135,
-   "arrivalLon": -104.868334,
-   "arrivalType": "will_call",
-   "email": null,
-   "hours": "Mon-Fri 7:30 AM - 4:30 PM",
-   "primaryTrade": "Plumbing",
-   "brandsRepRepoLegacy": [
-    "Delta",
-    "Kohler",
-    "Bradford White",
-    "Charlotte Pipe",
-    "A.O. Smith",
-    "American Standard",
-    "Watts"
-   ],
-   "brandListType": "no published line card",
-   "brandsNote": "Line card not publicly published - call branch to confirm",
-   "brandSourceUrl": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
-   "spreadsheetSource": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "dahl-colorado-springs-sinton",
-   "name": "Dahl Plumbing (Colorado Springs)",
-   "chain": "Hajoca (Dahl)",
-   "trade": "plumbing",
-   "city": "Colorado Springs",
-   "state": "CO",
-   "postalCode": "80907",
-   "address1": "4305 Sinton Rd",
-   "phone": "719-598-6611",
-   "website": "https://www.hajoca.com/our-brands/dahl/",
-   "lat": 38.89527,
-   "lon": -104.82972,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Allstone",
-    "Amba",
-    "Americh",
-    "Aquatic",
-    "Artos",
-    "Bain Ultra",
-    "Barclay",
-    "Blanco",
-    "Decolav",
-    "Electric Mirror",
-    "Elkay",
-    "Gerber",
-    "Houzer",
-    "Hydrosystems",
-    "InSinkErator",
-    "Jason",
-    "Jones Stephens",
-    "Kohler",
-    "Lacava",
-    "Luxart",
-    "Maax",
-    "Madeli",
-    "Mainline",
-    "Mountain",
-    "Mr. Steam",
-    "MTI",
-    "Myson",
-    "Native Trails",
-    "Premier Copper",
-    "Quick Drains",
-    "Robern",
-    "Rohl",
-    "Ronbow",
-    "Steamist",
-    "Sterling",
-    "Stone Forest",
-    "Swanstone",
-    "Toto",
-    "Watco",
-    "Zurn"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.hajoca.com/suppliers/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 38.895326,
-   "arrivalLon": -104.829664,
-   "arrivalType": "will_call",
-   "email": null,
-   "hours": "Counter Mon-Fri 7:00 AM - 4:30 PM; Showroom Mon-Fri 8:00 AM - 4:30 PM",
-   "branchLocatorUrl": "https://dahlplumbing.com/wp-content/uploads/sites/13/2016/01/Colorado-Springs-Showroom-Linecard_Final.pdf",
-   "primaryTrade": "Plumbing",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://dahlplumbing.com/wp-content/uploads/sites/13/2016/01/Colorado-Springs-Showroom-Linecard_Final.pdf",
-   "spreadsheetSource": "https://www.dahlcospringskitchenandbath.com",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "ferguson-plumbing-cos-northpark",
-   "name": "Ferguson Plumbing Supply (Colorado Springs)",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Colorado Springs",
-   "state": "CO",
-   "postalCode": "80918",
-   "address1": "4875-B Northpark Dr",
-   "phone": "719-260-9446",
-   "website": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
-   "lat": 38.9152,
-   "lon": -104.8003,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.O. Smith",
-    "American Standard",
-    "Bradford White",
-    "Delta Faucet",
-    "FNW",
-    "Jones Stephens",
-    "KOHLER",
-    "Moen",
-    "PROFLO",
-    "Rinnai",
-    "Signature Hardware",
-    "State",
-    "TOTO"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-   "verification": {
-    "addressVerified": true,
-    "addressSource": "Google Business Profile & Ferguson Store Locator",
-    "addressVerifiedDate": "2025-12-27",
-    "storefront_confirmed": "2025-12-27",
-    "sources": [
-     "https://www.ferguson.com/store/co/colorado-springs",
-     "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Google Maps verified coordinates"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.ferguson.com/store/co/colorado-springs",
-    "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "HVAC",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Google Maps pin",
-   "arrivalLat": 38.915256,
-   "arrivalLon": -104.800244,
-   "arrivalType": "storefront",
-   "email": null,
-   "hours": "Mon-Fri 6:30 AM - 5:00 PM; Sat 7:30 AM - 12:00 PM",
-   "branchLocatorUrl": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
-   "fax": "719-260-8729",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
-   "spreadsheetSource": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
-   "spreadsheetDateVerified": "2026-10-24"
-  }
- ],
- "auditNotes": [
-  "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
-  "Colorado Springs plumbing saturation v1: added 2 verified storefronts.",
-  "2025-12-26: Added ABC Plumbing Colorado Springs and Dahl Castle Rock locations"
- ],
- "auditStatus": "expanded"
+  "version": "COLORADO_SPRINGS_PLUMBING_SATURATION_v1",
+  "trade": "plumbing",
+  "metro": "Colorado Springs Metro",
+  "state": "CO",
+  "updated": "2026-10-24",
+  "branches": [
+    {
+      "id": "colorado-springs-winnelson-geiger",
+      "name": "Colorado Springs Winnelson",
+      "chain": "Winsupply (Winnelson)",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "725 Geiger Ct",
+      "phone": "719-573-5503",
+      "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80915/Plumbing-Supplies",
+      "lat": 38.863395,
+      "lon": -104.701133,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "A.O. Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.863451,
+      "arrivalLon": -104.701077,
+      "arrivalType": "will_call",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "cos-gateway-supply-plumbing",
+      "name": "Gateway Supply – Colorado Springs",
+      "chain": "Gateway Supply",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80915",
+      "address1": "2840 S Circle Dr",
+      "phone": "719-597-4300",
+      "website": "https://www.gatewaysupply.net/",
+      "lat": 38.7927,
+      "lon": -104.7745,
+      "coordsStatus": "verified",
+      "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://woe.gatewaysupply.net/locations"
+        ]
+      },
+      "sources": [
+        "Official company contact required"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 38.792756,
+      "arrivalLon": -104.774444,
+      "arrivalType": "will_call",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "abc-plumbing-cos-fillmore",
+      "name": "ABC Plumbing & Electrical Supplies - Colorado Springs",
+      "chain": "ABC Plumbing",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "707 E Fillmore St",
+      "phone": "800-632-0208",
+      "website": "https://abcplumbing.com/",
+      "lat": 38.847815,
+      "lon": -104.812823,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Bradford White",
+        "Toro"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Independent regional plumbing, sprinkler, and heating supply house serving Colorado Springs. Wide range of plumbing products with staff offering expert advice for DIY and professional customers. Source: ABC Plumbing official website, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://abcplumbing.com/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing",
+        "Irrigation",
+        "Heating"
+      ],
+      "sources": [
+        "https://abcplumbing.com/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.847815,
+      "arrivalLon": -104.812823,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "dahl-castle-rock-perry",
+      "name": "Dahl Plumbing - Castle Rock",
+      "chain": "Hajoca (Dahl)",
+      "trade": "plumbing",
+      "city": "Castle Rock",
+      "state": "CO",
+      "postalCode": "80104",
+      "address1": "1733 S Perry St Ste 105",
+      "phone": "720-531-4006",
+      "website": "https://dahlplumbing.com/castlerock/",
+      "lat": 39.354079,
+      "lon": -104.86839,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing and heating supplies serving Castle Rock and south metro Denver. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/",
+        "https://dahlplumbing.com/castlerock/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.354135,
+      "arrivalLon": -104.868334,
+      "arrivalType": "will_call",
+      "email": null,
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "primaryTrade": "Plumbing",
+      "brandsRepRepoLegacy": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "A.O. Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
+      "spreadsheetSource": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "dahl-colorado-springs-sinton",
+      "name": "Dahl Plumbing (Colorado Springs)",
+      "chain": "Hajoca (Dahl)",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80907",
+      "address1": "4305 Sinton Rd",
+      "phone": "719-598-6611",
+      "website": "https://www.hajoca.com/our-brands/dahl/",
+      "lat": 38.89527,
+      "lon": -104.82972,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Allstone",
+        "Amba",
+        "Americh",
+        "Aquatic",
+        "Artos",
+        "Bain Ultra",
+        "Barclay",
+        "Blanco",
+        "Decolav",
+        "Electric Mirror",
+        "Elkay",
+        "Gerber",
+        "Houzer",
+        "Hydrosystems",
+        "InSinkErator",
+        "Jason",
+        "Jones Stephens",
+        "Kohler",
+        "Lacava",
+        "Luxart",
+        "Maax",
+        "Madeli",
+        "Mainline",
+        "Mountain",
+        "Mr. Steam",
+        "MTI",
+        "Myson",
+        "Native Trails",
+        "Premier Copper",
+        "Quick Drains",
+        "Robern",
+        "Rohl",
+        "Ronbow",
+        "Steamist",
+        "Sterling",
+        "Stone Forest",
+        "Swanstone",
+        "Toto",
+        "Watco",
+        "Zurn"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 38.895326,
+      "arrivalLon": -104.829664,
+      "arrivalType": "will_call",
+      "email": null,
+      "hours": "Counter Mon-Fri 7:00 AM - 4:30 PM; Showroom Mon-Fri 8:00 AM - 4:30 PM",
+      "branchLocatorUrl": "https://dahlplumbing.com/wp-content/uploads/sites/13/2016/01/Colorado-Springs-Showroom-Linecard_Final.pdf",
+      "primaryTrade": "Plumbing",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://dahlplumbing.com/wp-content/uploads/sites/13/2016/01/Colorado-Springs-Showroom-Linecard_Final.pdf",
+      "spreadsheetSource": "https://www.dahlcospringskitchenandbath.com",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "ferguson-plumbing-cos-northpark",
+      "name": "Ferguson Plumbing Supply (Colorado Springs)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "postalCode": "80918",
+      "address1": "4875-B Northpark Dr",
+      "phone": "719-260-9446",
+      "website": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
+      "lat": 38.9152,
+      "lon": -104.8003,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/colorado-springs",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.ferguson.com/store/co/colorado-springs",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Colorado+Springs"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 38.915256,
+      "arrivalLon": -104.800244,
+      "arrivalType": "storefront",
+      "email": null,
+      "hours": "Mon-Fri 6:30 AM - 5:00 PM; Sat 7:30 AM - 12:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
+      "fax": "719-260-8729",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
+      "spreadsheetDateVerified": "2026-10-24"
+    }
+  ],
+  "auditNotes": [
+    "Seed pass: storefront plumbing supply houses (counter locations) gathered from public store locator / brand pages. Some entries may require strict lat/lon verification.",
+    "Colorado Springs plumbing saturation v1: added 2 verified storefronts.",
+    "2025-12-26: Added ABC Plumbing Colorado Springs and Dahl Castle Rock locations"
+  ],
+  "auditStatus": "expanded"
 }

@@ -73,13 +73,7 @@
       "phone": "+13036519641",
       "lat": 40.1567502,
       "lon": -105.1121159,
-      "brandsRep": [
-        "A.O. Smith",
-        "Charlotte Pipe",
-        "American Standard",
-        "Sloan",
-        "Liberty Pumps"
-      ],
+      "brandsRep": [],
       "partsFor": [
         "HVAC supplies",
         "Plumbing supplies"
@@ -222,7 +216,17 @@
         "Sporlan Valve",
         "Standard Refrigeration",
         "Tecumseh",
-        "Trenton Refrigeration"
+        "Trenton Refrigeration",
+        "Alfa Laval",
+        "Bard",
+        "Bitzer",
+        "Bosch",
+        "Carlyle",
+        "Emerson Flow Controls",
+        "Kason",
+        "Parker",
+        "Supco",
+        "Unico"
       ],
       "partsFor": [
         "Refrigeration",
@@ -683,7 +687,6 @@
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
-        "AAL (Current brands)",
         "ABB Power",
         "Access Lighting",
         "Acculite",
@@ -1208,7 +1211,14 @@
       "email": null,
       "hours": "Mon-Fri 7-5; Sat 8-5",
       "branchLocatorUrl": "https://budgethomesupply.com",
-      "brandsRep": [],
+      "brandsRep": [
+        "Deckorators",
+        "Eva-Last",
+        "MoistureShield",
+        "The Azek Company",
+        "TimberTech",
+        "Trex"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,

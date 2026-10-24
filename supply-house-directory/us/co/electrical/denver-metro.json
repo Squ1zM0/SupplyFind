@@ -194,67 +194,6 @@
       "brandListType": "repo representative (not spreadsheet line card)"
     },
     {
-      "id": "ces-centennial-001",
-      "name": "City Electric Supply - Centennial (Denver South)",
-      "chain": "City Electric Supply",
-      "trade": "electrical",
-      "city": "Centennial",
-      "state": "CO",
-      "postalCode": "80112",
-      "address1": "7318 S Revere Parkway, Suite B3",
-      "phone": "303-858-9988",
-      "website": "https://www.cityelectricsupply.com",
-      "lat": 39.581452,
-      "lon": -104.831279,
-      "coordsStatus": "verified",
-      "brandsRep": [
-        "Acuity",
-        "Eaton",
-        "Fluke",
-        "Hubbell",
-        "Klein Tools",
-        "Leviton",
-        "Lutron",
-        "Milwaukee",
-        "Philips",
-        "RAB",
-        "Schneider",
-        "Siemens",
-        "Southwire",
-        "Square D"
-      ],
-      "manufacturersPartsFor": [],
-      "notes": "City Electric Supply Centennial (Denver South) branch. Full-service electrical distributor for walk-in retail and contractor purchases. Verified 2025-12-27 [Coordinate refinement 2025-12-27: Multi-tenant complex - moved from parkway to actual Suite B3 entrance location.] [Arrival coordinates refined 2025-12-27: Multi-tenant industrial complex] [2026-10-24: deep-check flag — this Centennial record is NOT on the official CES locator; the official Denver South branch is 7039 S Jordan Rd, Centennial (303-790-7370, added separately). Possible stale record or move — flagged, NOT merged.]",
-      "verification": {
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.cityelectricsupply.com",
-          "https://www.mapquest.com/us/colorado/city-electric-supply-company-357717748"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified (exact building location)",
-        "addressVerified": true,
-        "addressSource": "City Electric Supply Official Website & Google Business Profile",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + MapQuest verified coordinates",
-      "arrivalLat": 39.581536,
-      "arrivalLon": -104.831195,
-      "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "borderstates-brighton-havana-001",
       "name": "Border States Electric - Brighton",
       "chain": "Border States",
@@ -676,18 +615,7 @@
       "lat": 39.583993,
       "lon": -104.812113,
       "coordsStatus": "needs_verification",
-      "brandsRep": [
-        "American Standard",
-        "AO Smith",
-        "Frigidaire",
-        "IPEX",
-        "Keeprite",
-        "Kohler",
-        "Mitsubishi",
-        "Rheem",
-        "Tempstar",
-        "Trane"
-      ],
+      "brandsRep": [],
       "manufacturersPartsFor": [],
       "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26 [2026-10-24 SupplyFind update: address/phone corrected to spreadsheet (repo 15152 E Fremont Dr stale); trade corrected Electrical->HVAC; coordinates still point to prior address - re-geocode.]",
       "verification": {
