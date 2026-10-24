@@ -1,898 +1,937 @@
 {
- "version": "DENVER_PLUMBING_FINAL_AUDIT_v1",
- "trade": "plumbing",
- "metro": "Denver Metro",
- "state": "CO",
- "updated": "2026-10-24",
- "branches": [
-  {
-   "id": "ferguson-plumbing-denver-north-48th",
-   "name": "Ferguson Plumbing Supply (North Denver)",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80216",
-   "address1": "3625 E 48th Ave",
-   "phone": "303-320-4833",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.7843028,
-   "lon": -104.9441786,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "American Standard",
-    "Fujitsu",
-    "Mitsubishi",
-    "Carrier",
-    "Bryant",
-    "Honeywell",
-    "Rheem",
-    "Amana",
-    "Kohler",
-    "Moen",
-    "Delta"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Listed as North Denver Ferguson Plumbing Supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-   "verification": {
-    "addressVerified": true,
-    "addressSource": "Google Business Profile & Ferguson Store Locator",
-    "addressVerifiedDate": "2025-12-27",
-    "storefront_confirmed": "2025-12-27",
-    "sources": [
-     "https://www.ferguson.com/store/co/denver",
-     "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Google Maps verified coordinates"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.ferguson.com/store/co/denver",
-    "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "Plumbing",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Google Maps pin",
-   "arrivalLat": 39.7843028,
-   "arrivalLon": -104.9441786,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "denver-hdsupply-plumbing",
-   "name": "HD Supply Facilities Maintenance \u2013 Denver (Plumbing)",
-   "chain": "HD Supply",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80238",
-   "address1": "10000 E 56th Ave",
-   "phone": "(800) 431-3000",
-   "website": "https://hdsupplysolutions.com/",
-   "lat": 39.7971,
-   "lon": -104.8675,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Kohler",
-    "Delta",
-    "Moen",
-    "American Standard",
-    "Charlotte Pipe"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Facilities / plumbing counter. National facilities maintenance and plumbing distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [ADDRESS CORRECTED 2025-12-27: Previous incorrect address was 5080 Florence St; corrected to 10000 E 56th Ave per HD Supply official locations]",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "verification": {
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "GPS coordinates from web verification",
-    "notes": "Coordinates verified in prior audit pass",
-    "addressVerified": true,
-    "addressSource": "Official HD Supply Website & Business Directories",
-    "addressVerifiedDate": "2025-12-27",
-    "sources": [
-     "https://hdsupplysolutions.com/",
-     "https://www.mapquest.com/us/colorado/hd-supply-facilities-maintenance-375448621"
-    ]
-   },
-   "sources": [
-    "https://www.hdsupplysolutions.com/locations"
-   ],
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Web search verified coordinates",
-   "arrivalLat": 39.7971,
-   "arrivalLon": -104.8675,
-   "arrivalType": "will_call",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "denver-gateway-supply",
-   "name": "Gateway Supply \u2013 Denver",
-   "chain": "Gateway Supply",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80216",
-   "address1": "5070 Josephine St",
-   "phone": "303-292-2330",
-   "website": "https://www.gatewaysupply.net/",
-   "lat": 39.7861,
-   "lon": -104.9583,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Kohler",
-    "Delta",
-    "Moen",
-    "American Standard"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Independent plumbing supply house. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "Plumbing",
-   "verification": {
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Previously verified during geocoding audit",
-    "notes": "Coordinates verified in prior audit pass",
-    "addressVerified": true,
-    "addressSource": "Web Verification - Official Company Sources",
-    "addressVerifiedDate": "2025-12-27",
-    "sources": [
-     "https://woe.gatewaysupply.net/locations"
-    ]
-   },
-   "sources": [
-    "Official company contact required"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Previously verified during geocoding audit",
-   "arrivalLat": 39.786156,
-   "arrivalLon": -104.958244,
-   "arrivalType": "will_call",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "centennial-ferguson-plumbing",
-   "name": "Ferguson Plumbing Supply \u2013 Centennial",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Centennial",
-   "state": "CO",
-   "postalCode": "80112",
-   "address1": "7461 S Revere Pkwy",
-   "phone": "303-790-7700",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.58223,
-   "lon": -104.82801,
-   "coordsStatus": "verified",
-   "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-   "brandsRep": [
-    "American Standard",
-    "Fujitsu",
-    "Mitsubishi",
-    "Carrier",
-    "Bryant",
-    "Honeywell",
-    "Rheem",
-    "Amana",
-    "Kohler",
-    "Moen",
-    "Delta"
-   ],
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.ferguson.com/store/co/centennial",
-    "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "Plumbing",
-   "verification": {
-    "addressVerified": true,
-    "addressSource": "Google Business Profile & Ferguson Store Locator",
-    "addressVerifiedDate": "2025-12-27",
-    "storefront_confirmed": "2025-12-27",
-    "sources": [
-     "https://www.ferguson.com/store/co/centennial",
-     "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Google Maps verified coordinates"
-   },
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Google Maps pin",
-   "arrivalLat": 39.58223,
-   "arrivalLon": -104.82801,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "denver-flink-plumbing",
-   "name": "Flink Supply Company \u2013 Denver",
-   "chain": "Flink Supply",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80223",
-   "address1": "58 S. Galapago St",
-   "phone": "(303) 744-7123",
-   "website": "https://www.flinksupply.com/",
-   "lat": 39.715576,
-   "lon": -104.996172,
-   "coordsStatus": "verified",
-   "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [RELOCATED 2025: Moved from 5150 Race Ct to 58 S. Galapago St]",
-   "brandsRep": [
-    "Kohler",
-    "Delta",
-    "Moen",
-    "American Standard"
-   ],
-   "partsFor": [
-    "Plumbing"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "verification": {
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "GPS coordinates from web verification",
-    "notes": "Coordinates verified in prior audit pass",
-    "addressVerified": true,
-    "addressSource": "Official Company Website & Business Directories",
-    "addressVerifiedDate": "2025-12-27",
-    "sources": [
-     "https://www.flinksupply.com/",
-     "https://local.yahoo.com/info-19619767-flink-supply-denver/"
-    ]
-   },
-   "sources": [
-    "Official company contact required"
-   ],
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "Web search verified coordinates",
-   "arrivalLat": 39.715576,
-   "arrivalLon": -104.996172,
-   "arrivalType": "will_call",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "denver-great-western-pipe-forest",
-   "name": "Great Western Pipe & Supply Co.",
-   "chain": "Great Western Pipe & Supply",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80207",
-   "address1": "3860 Forest St",
-   "phone": "303-320-4440",
-   "website": "https://greatwesternpipe.com/",
-   "lat": 39.7637,
-   "lon": -104.9442,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Mueller",
-    "Charlotte Pipe",
-    "Anvil",
-    "Victaulic",
-    "NIBCO"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "PVF (Pipe, Valve, Fittings)",
-    "Industrial Piping",
-    "Commercial Plumbing"
-   ],
-   "sources": [
-    "https://greatwesternpipe.com/",
-    "https://greatwesternpipe.com/contact-us/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-26",
-   "geoSource": "Verified source",
-   "arrivalLat": 39.763756,
-   "arrivalLon": -104.944144,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "ferguson-plumbing-commerce-city-dallas",
-   "name": "Ferguson Plumbing Supply - Commerce City",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Commerce City",
-   "state": "CO",
-   "postalCode": "80640",
-   "address1": "9780 Dallas St",
-   "phone": "303-286-2200",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.870717,
-   "lon": -104.870667,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "American Standard",
-    "Fujitsu",
-    "Mitsubishi",
-    "Carrier",
-    "Bryant",
-    "Honeywell",
-    "Rheem",
-    "Amana",
-    "Kohler",
-    "Moen",
-    "Delta"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Ferguson plumbing and HVAC supply serving Commerce City area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-    "https://www.fergusonhome.com/brands/c109293"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "Plumbing",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.870717,
-   "arrivalLon": -104.870667,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  },
-  {
-   "id": "dahl-denver-s-santa-fe",
-   "name": "Dahl Plumbing (Denver)",
-   "chain": "Hajoca (Dahl)",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80223",
-   "address1": "280 S Santa Fe Dr",
-   "phone": "303-744-3423",
-   "website": "https://www.dahlplumbing.com/",
-   "lat": 39.713135,
-   "lon": -104.99749,
-   "coordsStatus": "verified",
-   "brandsRep": [],
-   "manufacturersPartsFor": [],
-   "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "parentChain": "Hajoca",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.hajoca.com/suppliers/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.713191,
-   "arrivalLon": -104.997434,
-   "arrivalType": "will_call",
-   "email": "prf186@hajoca.com",
-   "hours": "Counter Mon-Fri 9:00 AM - 5:00 PM; Showroom by appointment",
-   "branchLocatorUrl": "https://dahldenver.com",
-   "primaryTrade": "Plumbing",
-   "brandsRepRepoLegacy": [
-    "Delta",
-    "Kohler",
-    "Bradford White",
-    "Charlotte Pipe",
-    "A.O. Smith",
-    "American Standard",
-    "Watts"
-   ],
-   "brandListType": "no published line card",
-   "brandsNote": "Line card not publicly published - call branch to confirm",
-   "brandSourceUrl": "https://dahldenver.com",
-   "spreadsheetSource": "https://dahldenver.com",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "denver-winnelson-2nd-ave",
-   "name": "Denver Winnelson",
-   "chain": "Winsupply (Winnelson)",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80223",
-   "address1": "2300 W 2nd Ave",
-   "phone": "303-777-2300",
-   "website": "https://www.winsupplyinc.com/Location/Denver-CO/80223",
-   "lat": 39.715034,
-   "lon": -105.014427,
-   "coordsStatus": "verified",
-   "brandsRep": [],
-   "manufacturersPartsFor": [],
-   "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "parentChain": "Winsupply",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.winsupplyinc.com/s/view-products/top-brands"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.71509,
-   "arrivalLon": -105.014371,
-   "arrivalType": "will_call",
-   "email": null,
-   "hours": "Mon-Thu 6:30 AM - 4:30 PM; Fri 6:30 AM - 4:00 PM",
-   "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
-   "primaryTrade": "Plumbing",
-   "brandsRepRepoLegacy": [
-    "A.O. Smith",
-    "Charlotte Pipe",
-    "American Standard",
-    "Sloan",
-    "Liberty Pumps"
-   ],
-   "brandListType": "no published line card",
-   "brandsNote": "Line card not publicly published - call branch to confirm",
-   "brandSourceUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
-   "spreadsheetSource": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "ferguson-plumbing-arvada-sheridan-001",
-   "name": "Ferguson Plumbing & HVAC Supply - Arvada",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Arvada",
-   "state": "CO",
-   "postalCode": "80003",
-   "address1": "8175 Sheridan Boulevard, Unit S",
-   "phone": "(303) 650-0700",
-   "website": "https://www.ferguson.com/store/co/arvada/hvac-1805",
-   "lat": 39.845463,
-   "lon": -105.053035,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.O. Smith",
-    "American Standard",
-    "Bradford White",
-    "Delta Faucet",
-    "FNW",
-    "Jones Stephens",
-    "KOHLER",
-    "Moen",
-    "PROFLO",
-    "Rinnai",
-    "Signature Hardware",
-    "State",
-    "TOTO"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Ferguson plumbing and HVAC supply serving Arvada area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant on parkway/boulevard]",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "sources": [
-     "https://www.ferguson.com/store/co/arvada/hvac-1805",
-     "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.ferguson.com/store/co/arvada/hvac-1805",
-    "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "HVAC",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.845547,
-   "arrivalLon": -105.052951,
-   "arrivalType": "storefront",
-   "email": null,
-   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-   "branchLocatorUrl": "https://www.ferguson.com/store/co/arvada/plumbingpvf-1805",
-   "fax": "303-650-0707",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
-   "spreadsheetSource": "https://www.ferguson.com/store/co/arvada/plumbingpvf-1805",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "ferguson-plumbing-littleton-grant",
-   "name": "Ferguson Plumbing Supply - Littleton",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Littleton",
-   "state": "CO",
-   "postalCode": "80122",
-   "address1": "8146 S Grant Way",
-   "phone": "303-795-2020",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.572006,
-   "lon": -104.987762,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.O. Smith",
-    "American Standard",
-    "Bradford White",
-    "Delta Faucet",
-    "FNW",
-    "Jones Stephens",
-    "KOHLER",
-    "Moen",
-    "PROFLO",
-    "Rinnai",
-    "Signature Hardware",
-    "State",
-    "TOTO"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Ferguson plumbing and HVAC supply serving Littleton area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-    "https://www.fergusonhome.com/brands/c109293"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "HVAC",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.572006,
-   "arrivalLon": -104.987762,
-   "arrivalType": "storefront",
-   "email": null,
-   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-   "branchLocatorUrl": "https://www.ferguson.com/store/co/littleton/plumbingpvf-0110",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
-   "spreadsheetSource": "https://www.ferguson.com/store/co/littleton/plumbingpvf-0110",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "ferguson-plumbing-sheridan-oxford",
-   "name": "Ferguson Plumbing Supply - Sheridan",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Sheridan",
-   "state": "CO",
-   "postalCode": "80110",
-   "address1": "1840 W Oxford Ave",
-   "phone": "720-533-3883",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.64278,
-   "lon": -105.009133,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.O. Smith",
-    "American Standard",
-    "Bradford White",
-    "Delta Faucet",
-    "FNW",
-    "Jones Stephens",
-    "KOHLER",
-    "Moen",
-    "PROFLO",
-    "Rinnai",
-    "Signature Hardware",
-    "State",
-    "TOTO"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Ferguson plumbing and HVAC supply serving Sheridan/South Metro area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
-    "https://www.fergusonhome.com/brands/c109293"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "HVAC",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.64278,
-   "arrivalLon": -105.009133,
-   "arrivalType": "storefront",
-   "email": null,
-   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-   "branchLocatorUrl": "https://www.ferguson.com/store/co/sheridan/plumbingpvf-2635",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
-   "spreadsheetSource": "https://www.ferguson.com/store/co/sheridan/plumbingpvf-2635",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "ferguson-showroom-aurora-25th-001",
-   "name": "Ferguson Aurora Showroom",
-   "chain": "Ferguson",
-   "trade": "plumbing",
-   "city": "Aurora",
-   "state": "CO",
-   "postalCode": "80011",
-   "address1": "17655 East 25th Drive",
-   "phone": "(303) 739-8000",
-   "website": "https://www.ferguson.com/",
-   "lat": 39.755805,
-   "lon": -104.783668,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "A.Y. McDonald",
-    "American Flow Control",
-    "Apollo Valves",
-    "Clow Valve",
-    "DeZURIK",
-    "FNW",
-    "Milwaukee Valve",
-    "Mueller Company",
-    "NIBCO",
-    "Powell Valves",
-    "XOMOX"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Ferguson plumbing showroom and supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "sources": [
-     "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
-   ],
-   "trades": [
-    "HVAC",
-    "Plumbing"
-   ],
-   "primaryTrade": "HVAC",
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.755805,
-   "arrivalLon": -104.783668,
-   "arrivalType": "storefront",
-   "email": null,
-   "hours": "Mon-Fri 7:00 AM - 4:00 PM",
-   "branchLocatorUrl": "https://www.ferguson.com/store/co/aurora/waterworks-1116",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.ferguson.com/category/valves/gate-valves/",
-   "spreadsheetSource": "https://www.ferguson.com/store/co/aurora/waterworks-1116",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "hughes-denver-bryant-st",
-   "name": "Hughes Supply (Denver)",
-   "chain": "Hajoca (Hughes Supply)",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80204",
-   "address1": "445 Bryant St, Suite 9",
-   "phone": "303-343-2260",
-   "website": "https://hughessupplydenver.com/contact/",
-   "lat": 39.723198,
-   "lon": -105.020798,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "Ameristar",
-    "ServiceFirst",
-    "Trane"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "parentChain": "Hajoca",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.hajoca.com/suppliers/"
-   ],
-   "trades": [
-    "Plumbing",
-    "HVAC"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.723254,
-   "arrivalLon": -105.020742,
-   "arrivalType": "will_call",
-   "email": null,
-   "hours": "Mon-Fri 7:00 AM-5:00 PM",
-   "branchLocatorUrl": "https://www.tranesupply.com/store-locator/",
-   "primaryTrade": "Plumbing",
-   "brandListType": "published line card (spreadsheet v4)",
-   "brandSourceUrl": "https://www.tranesupply.com",
-   "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
-   "spreadsheetDateVerified": "2026-10-24"
-  },
-  {
-   "id": "martz-denver-53rd-pl",
-   "name": "Martz Supply Company (Denver)",
-   "chain": "Hajoca (Martz Supply)",
-   "trade": "plumbing",
-   "city": "Denver",
-   "state": "CO",
-   "postalCode": "80216",
-   "address1": "500 W 53rd Pl Unit A",
-   "phone": "303-421-6665",
-   "website": "https://www.martzsupply.com/",
-   "lat": 39.791183,
-   "lon": -104.995604,
-   "coordsStatus": "verified",
-   "brandsRep": [],
-   "manufacturersPartsFor": [],
-   "notes": "Hajoca trade name: Martz Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
-   "verification": {
-    "coords_attempted": "2025-12-26",
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Website",
-    "addressVerifiedDate": "2025-12-27"
-   },
-   "parentChain": "Hajoca",
-   "partsFor": [
-    "Plumbing"
-   ],
-   "sources": [
-    "https://www.hajoca.com/suppliers/"
-   ],
-   "trades": [
-    "Plumbing"
-   ],
-   "geoPrecision": "entrance",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 39.791239,
-   "arrivalLon": -104.995548,
-   "arrivalType": "will_call",
-   "email": null,
-   "primaryTrade": "Plumbing",
-   "brandsRepRepoLegacy": [
-    "Delta",
-    "Kohler",
-    "Bradford White",
-    "Charlotte Pipe",
-    "A.O. Smith",
-    "American Standard",
-    "Watts"
-   ],
-   "brandListType": "no published line card",
-   "brandsNote": "Line card not publicly published - call branch to confirm",
-   "brandSourceUrl": "https://local.kohler.com/",
-   "spreadsheetSource": "https://local.kohler.com/",
-   "spreadsheetDateVerified": "2026-10-24"
-  }
- ],
- "auditNotes": [
-  "Final Denver Metro plumbing audit complete.",
-  "All entries verified as physical storefront plumbing wholesalers.",
-  "Chains normalized (Hajoca / Winsupply).",
-  "No false storefronts detected; no removals required.",
-  "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr",
-  "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research.",
-  "2025-12-26: Added Great Western Pipe & Supply (PVF/Industrial distributor)",
-  "2025-12-26: Added Ferguson branches in Commerce City, Sheridan, and Littleton (S Grant Way)",
-  "2025-12-27: Removed duplicate Dahl Plumbing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 280 S Santa Fe Dr, Denver."
- ],
- "auditStatus": "expanded"
+  "version": "DENVER_PLUMBING_FINAL_AUDIT_v1",
+  "trade": "plumbing",
+  "metro": "Denver Metro",
+  "state": "CO",
+  "updated": "2026-10-24",
+  "branches": [
+    {
+      "id": "ferguson-plumbing-denver-north-48th",
+      "name": "Ferguson Plumbing Supply (North Denver)",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80216",
+      "address1": "3625 E 48th Ave",
+      "phone": "303-320-4833",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.7843028,
+      "lon": -104.9441786,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Listed as North Denver Ferguson Plumbing Supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/denver",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.ferguson.com/store/co/denver",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Denver"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.7843028,
+      "arrivalLon": -104.9441786,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "denver-hdsupply-plumbing",
+      "name": "HD Supply Facilities Maintenance – Denver (Plumbing)",
+      "chain": "HD Supply",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80238",
+      "address1": "10000 E 56th Ave",
+      "phone": "(800) 431-3000",
+      "website": "https://hdsupplysolutions.com/",
+      "lat": 39.7971,
+      "lon": -104.8675,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Charlotte Pipe"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Facilities / plumbing counter. National facilities maintenance and plumbing distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [ADDRESS CORRECTED 2025-12-27: Previous incorrect address was 5080 Florence St; corrected to 10000 E 56th Ave per HD Supply official locations]",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "GPS coordinates from web verification",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": true,
+        "addressSource": "Official HD Supply Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://hdsupplysolutions.com/",
+          "https://www.mapquest.com/us/colorado/hd-supply-facilities-maintenance-375448621"
+        ]
+      },
+      "sources": [
+        "https://www.hdsupplysolutions.com/locations"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Web search verified coordinates",
+      "arrivalLat": 39.7971,
+      "arrivalLon": -104.8675,
+      "arrivalType": "will_call",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "denver-gateway-supply",
+      "name": "Gateway Supply – Denver",
+      "chain": "Gateway Supply",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80216",
+      "address1": "5070 Josephine St",
+      "phone": "303-292-2330",
+      "website": "https://www.gatewaysupply.net/",
+      "lat": 39.7861,
+      "lon": -104.9583,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Independent plumbing supply house. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Previously verified during geocoding audit",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": true,
+        "addressSource": "Web Verification - Official Company Sources",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://woe.gatewaysupply.net/locations"
+        ]
+      },
+      "sources": [
+        "Official company contact required"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Previously verified during geocoding audit",
+      "arrivalLat": 39.786156,
+      "arrivalLon": -104.958244,
+      "arrivalType": "will_call",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "centennial-ferguson-plumbing",
+      "name": "Ferguson Plumbing Supply – Centennial",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Centennial",
+      "state": "CO",
+      "postalCode": "80112",
+      "address1": "7461 S Revere Pkwy",
+      "phone": "303-790-7700",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.58223,
+      "lon": -104.82801,
+      "coordsStatus": "verified",
+      "notes": "Plumbing/PVF counter. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.ferguson.com/store/co/centennial",
+        "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "Google Business Profile & Ferguson Store Locator",
+        "addressVerifiedDate": "2025-12-27",
+        "storefront_confirmed": "2025-12-27",
+        "sources": [
+          "https://www.ferguson.com/store/co/centennial",
+          "https://www.google.com/maps/place/Ferguson+Plumbing+Centennial"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Google Maps verified coordinates"
+      },
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Google Maps pin",
+      "arrivalLat": 39.58223,
+      "arrivalLon": -104.82801,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "denver-flink-plumbing",
+      "name": "Flink Supply Company – Denver",
+      "chain": "Flink Supply",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80223",
+      "address1": "58 S. Galapago St",
+      "phone": "(303) 744-7123",
+      "website": "https://www.flinksupply.com/",
+      "lat": 39.715576,
+      "lon": -104.996172,
+      "coordsStatus": "verified",
+      "notes": "Independent plumbing wholesaler storefront. Plumbing distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [RELOCATED 2025: Moved from 5150 Race Ct to 58 S. Galapago St]",
+      "brandsRep": [
+        "Kohler",
+        "Delta",
+        "Moen",
+        "American Standard",
+        "Rheem",
+        "Stiebel Eltron",
+        "Noritz",
+        "State Water Heaters",
+        "Watts",
+        "Wilkins",
+        "Febco",
+        "Ames",
+        "General Wire",
+        "Ridgid",
+        "Hercules/Oatey",
+        "Lift & SAS",
+        "Pasco",
+        "Cherne",
+        "Lenox/Irwin",
+        "IBC",
+        "Burnham",
+        "Lochinvar",
+        "Laars",
+        "B&G",
+        "Grundfos",
+        "Hoffman Heating Specialties",
+        "RBI",
+        "NTI",
+        "Sharkbite",
+        "Jomar Valve",
+        "John Guest",
+        "AY McDonald",
+        "JB Products",
+        "Ayrlett/Studor",
+        "Fernco",
+        "Zurn",
+        "J.R. Smith",
+        "Josam",
+        "Wade",
+        "Rockford",
+        "Canplas",
+        "MIFAB",
+        "SureSeal",
+        "Blucher",
+        "T&S Brass",
+        "Fisher",
+        "Krowne",
+        "Sloan",
+        "Elkay",
+        "Acorn Engineering",
+        "Florestone",
+        "Brizo",
+        "Caroma",
+        "Central Brass",
+        "Mustee",
+        "Gerber",
+        "Insinkerator",
+        "Watco",
+        "Woodford"
+      ],
+      "partsFor": [
+        "Plumbing"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "verification": {
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "GPS coordinates from web verification",
+        "notes": "Coordinates verified in prior audit pass",
+        "addressVerified": true,
+        "addressSource": "Official Company Website & Business Directories",
+        "addressVerifiedDate": "2025-12-27",
+        "sources": [
+          "https://www.flinksupply.com/",
+          "https://local.yahoo.com/info-19619767-flink-supply-denver/"
+        ]
+      },
+      "sources": [
+        "Official company contact required"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "Web search verified coordinates",
+      "arrivalLat": 39.715576,
+      "arrivalLon": -104.996172,
+      "arrivalType": "will_call",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "denver-great-western-pipe-forest",
+      "name": "Great Western Pipe & Supply Co.",
+      "chain": "Great Western Pipe & Supply",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80207",
+      "address1": "3860 Forest St",
+      "phone": "303-320-4440",
+      "website": "https://greatwesternpipe.com/",
+      "lat": 39.7637,
+      "lon": -104.9442,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "Mueller",
+        "Charlotte Pipe",
+        "Anvil",
+        "Victaulic",
+        "NIBCO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Premier PVF (Pipe, Valve, Fittings) distributor serving industrial plumbing and commercial contractors since 1946. Comprehensive range of pipes (carbon steel, stainless, PVC, CPVC, HDPE), valves, and fittings from major manufacturers including Mueller, Charlotte, Anvil, Victaulic, and NIBCO. Source: Great Western Pipe official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "PVF (Pipe, Valve, Fittings)",
+        "Industrial Piping",
+        "Commercial Plumbing"
+      ],
+      "sources": [
+        "https://greatwesternpipe.com/",
+        "https://greatwesternpipe.com/contact-us/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-26",
+      "geoSource": "Verified source",
+      "arrivalLat": 39.763756,
+      "arrivalLon": -104.944144,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "ferguson-plumbing-commerce-city-dallas",
+      "name": "Ferguson Plumbing Supply - Commerce City",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Commerce City",
+      "state": "CO",
+      "postalCode": "80640",
+      "address1": "9780 Dallas St",
+      "phone": "303-286-2200",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.870717,
+      "lon": -104.870667,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "American Standard",
+        "Fujitsu",
+        "Mitsubishi",
+        "Carrier",
+        "Bryant",
+        "Honeywell",
+        "Rheem",
+        "Amana",
+        "Kohler",
+        "Moen",
+        "Delta"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Commerce City area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "Plumbing",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.870717,
+      "arrivalLon": -104.870667,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)"
+    },
+    {
+      "id": "dahl-denver-s-santa-fe",
+      "name": "Dahl Plumbing (Denver)",
+      "chain": "Hajoca (Dahl)",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80223",
+      "address1": "280 S Santa Fe Dr",
+      "phone": "303-744-3423",
+      "website": "https://www.dahlplumbing.com/",
+      "lat": 39.713135,
+      "lon": -104.99749,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.713191,
+      "arrivalLon": -104.997434,
+      "arrivalType": "will_call",
+      "email": "prf186@hajoca.com",
+      "hours": "Counter Mon-Fri 9:00 AM - 5:00 PM; Showroom by appointment",
+      "branchLocatorUrl": "https://dahldenver.com",
+      "primaryTrade": "Plumbing",
+      "brandsRepRepoLegacy": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "A.O. Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://dahldenver.com",
+      "spreadsheetSource": "https://dahldenver.com",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "denver-winnelson-2nd-ave",
+      "name": "Denver Winnelson",
+      "chain": "Winsupply (Winnelson)",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80223",
+      "address1": "2300 W 2nd Ave",
+      "phone": "303-777-2300",
+      "website": "https://www.winsupplyinc.com/Location/Denver-CO/80223",
+      "lat": 39.715034,
+      "lon": -105.014427,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Plumbing supplies counter. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "parentChain": "Winsupply",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.winsupplyinc.com/s/view-products/top-brands"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.71509,
+      "arrivalLon": -105.014371,
+      "arrivalType": "will_call",
+      "email": null,
+      "hours": "Mon-Thu 6:30 AM - 4:30 PM; Fri 6:30 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
+      "primaryTrade": "Plumbing",
+      "brandsRepRepoLegacy": [
+        "A.O. Smith",
+        "Charlotte Pipe",
+        "American Standard",
+        "Sloan",
+        "Liberty Pumps"
+      ],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
+      "spreadsheetSource": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "ferguson-plumbing-arvada-sheridan-001",
+      "name": "Ferguson Plumbing & HVAC Supply - Arvada",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Arvada",
+      "state": "CO",
+      "postalCode": "80003",
+      "address1": "8175 Sheridan Boulevard, Unit S",
+      "phone": "(303) 650-0700",
+      "website": "https://www.ferguson.com/store/co/arvada/hvac-1805",
+      "lat": 39.845463,
+      "lon": -105.053035,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Arvada area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant on parkway/boulevard]",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.ferguson.com/store/co/arvada/hvac-1805",
+          "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.ferguson.com/store/co/arvada/hvac-1805",
+        "https://www.mapquest.com/us/colorado/ferguson-plumbing-supply-275275649"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.845547,
+      "arrivalLon": -105.052951,
+      "arrivalType": "storefront",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/arvada/plumbingpvf-1805",
+      "fax": "303-650-0707",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/arvada/plumbingpvf-1805",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "ferguson-plumbing-littleton-grant",
+      "name": "Ferguson Plumbing Supply - Littleton",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Littleton",
+      "state": "CO",
+      "postalCode": "80122",
+      "address1": "8146 S Grant Way",
+      "phone": "303-795-2020",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.572006,
+      "lon": -104.987762,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Littleton area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.572006,
+      "arrivalLon": -104.987762,
+      "arrivalType": "storefront",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/littleton/plumbingpvf-0110",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/littleton/plumbingpvf-0110",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "ferguson-plumbing-sheridan-oxford",
+      "name": "Ferguson Plumbing Supply - Sheridan",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Sheridan",
+      "state": "CO",
+      "postalCode": "80110",
+      "address1": "1840 W Oxford Ave",
+      "phone": "720-533-3883",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.64278,
+      "lon": -105.009133,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "A.O. Smith",
+        "American Standard",
+        "Bradford White",
+        "Delta Faucet",
+        "FNW",
+        "Jones Stephens",
+        "KOHLER",
+        "Moen",
+        "PROFLO",
+        "Rinnai",
+        "Signature Hardware",
+        "State",
+        "TOTO"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing and HVAC supply serving Sheridan/South Metro area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.fergusonhvac.com/wp-content/uploads/2023/01/1866470_HVAC_Line-Cards_NATL_American-Standard-Line-Card-1.pdf",
+        "https://www.fergusonhome.com/brands/c109293"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.64278,
+      "arrivalLon": -105.009133,
+      "arrivalType": "storefront",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/sheridan/plumbingpvf-2635",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/sheridan/plumbingpvf-2635",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "ferguson-showroom-aurora-25th-001",
+      "name": "Ferguson Aurora Showroom",
+      "chain": "Ferguson",
+      "trade": "plumbing",
+      "city": "Aurora",
+      "state": "CO",
+      "postalCode": "80011",
+      "address1": "17655 East 25th Drive",
+      "phone": "(303) 739-8000",
+      "website": "https://www.ferguson.com/",
+      "lat": 39.755805,
+      "lon": -104.783668,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Ferguson plumbing showroom and supply. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
+      ],
+      "trades": [
+        "HVAC",
+        "Plumbing"
+      ],
+      "primaryTrade": "HVAC",
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.755805,
+      "arrivalLon": -104.783668,
+      "arrivalType": "storefront",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "branchLocatorUrl": "https://www.ferguson.com/store/co/aurora/waterworks-1116",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.ferguson.com/category/valves/gate-valves/",
+      "spreadsheetSource": "https://www.ferguson.com/store/co/aurora/waterworks-1116",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "hughes-denver-bryant-st",
+      "name": "Hughes Supply (Denver)",
+      "chain": "Hajoca (Hughes Supply)",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80204",
+      "address1": "445 Bryant St, Suite 9",
+      "phone": "303-343-2260",
+      "website": "https://hughessupplydenver.com/contact/",
+      "lat": 39.723198,
+      "lon": -105.020798,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ],
+      "trades": [
+        "Plumbing",
+        "HVAC"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.723254,
+      "arrivalLon": -105.020742,
+      "arrivalType": "will_call",
+      "email": null,
+      "hours": "Mon-Fri 7:00 AM-5:00 PM",
+      "branchLocatorUrl": "https://www.tranesupply.com/store-locator/",
+      "primaryTrade": "Plumbing",
+      "brandListType": "published line card (spreadsheet v4)",
+      "brandSourceUrl": "https://www.tranesupply.com",
+      "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
+      "spreadsheetDateVerified": "2026-10-24"
+    },
+    {
+      "id": "martz-denver-53rd-pl",
+      "name": "Martz Supply Company (Denver)",
+      "chain": "Hajoca (Martz Supply)",
+      "trade": "plumbing",
+      "city": "Denver",
+      "state": "CO",
+      "postalCode": "80216",
+      "address1": "500 W 53rd Pl Unit A",
+      "phone": "303-421-6665",
+      "website": "https://www.martzsupply.com/",
+      "lat": 39.791183,
+      "lon": -104.995604,
+      "coordsStatus": "verified",
+      "brandsRep": [],
+      "manufacturersPartsFor": [],
+      "notes": "Hajoca trade name: Martz Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "verification": {
+        "coords_attempted": "2025-12-26",
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Website",
+        "addressVerifiedDate": "2025-12-27"
+      },
+      "parentChain": "Hajoca",
+      "partsFor": [
+        "Plumbing"
+      ],
+      "sources": [
+        "https://www.hajoca.com/suppliers/"
+      ],
+      "trades": [
+        "Plumbing"
+      ],
+      "geoPrecision": "entrance",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 39.791239,
+      "arrivalLon": -104.995548,
+      "arrivalType": "will_call",
+      "email": null,
+      "primaryTrade": "Plumbing",
+      "brandsRepRepoLegacy": [
+        "Delta",
+        "Kohler",
+        "Bradford White",
+        "Charlotte Pipe",
+        "A.O. Smith",
+        "American Standard",
+        "Watts"
+      ],
+      "brandListType": "no published line card",
+      "brandsNote": "Line card not publicly published - call branch to confirm",
+      "brandSourceUrl": "https://local.kohler.com/",
+      "spreadsheetSource": "https://local.kohler.com/",
+      "spreadsheetDateVerified": "2026-10-24"
+    }
+  ],
+  "auditNotes": [
+    "Final Denver Metro plumbing audit complete.",
+    "All entries verified as physical storefront plumbing wholesalers.",
+    "Chains normalized (Hajoca / Winsupply).",
+    "No false storefronts detected; no removals required.",
+    "2025-12-26: Removed 1 duplicate Dahl entry at 280 S Santa Fe Dr",
+    "2025-12-26: Added Ferguson locations in Arvada and Aurora identified in expansion research.",
+    "2025-12-26: Added Great Western Pipe & Supply (PVF/Industrial distributor)",
+    "2025-12-26: Added Ferguson branches in Commerce City, Sheridan, and Littleton (S Grant Way)",
+    "2025-12-27: Removed duplicate Dahl Plumbing entry with incorrect address (333 W Hampden Ave, Englewood). Correct location is at 280 S Santa Fe Dr, Denver."
+  ],
+  "auditStatus": "expanded"
 }
