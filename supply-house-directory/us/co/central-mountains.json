@@ -19,7 +19,7 @@
       "id": "co-leadville-city-electric-supply-212-w-7th",
       "state": "CO",
       "chain": "City Electric Supply",
-      "notes": "[2026-10-24: deep-check flag \u2014 this Leadville record is NOT on the official CES locator (23 CO branches, no Leadville). Possible closed branch \u2014 flagged, NOT deleted.]"
+      "notes": "[2026-10-24: deep-check flag — this Leadville record is NOT on the official CES locator (23 CO branches, no Leadville). Possible closed branch — flagged, NOT deleted.]"
     },
     {
       "id": "co-basalt-george-t-sanders-company-0051-valley-circle-new",
@@ -105,16 +105,18 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "https://www.gtsanders.com/AboutUs",
         "https://www.gtsanders.com"
       ],
-      "fax": "970-927-2456"
+      "fax": "970-927-2456",
+      "lat": 39.37602,
+      "lon": -107.07946
     },
     {
       "id": "co-steamboat-springs-m-n-plumbing-supply-company-2570-s-copper-frontage-3-new",
@@ -197,15 +199,17 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "V2 2026-10-24: No published per-branch line card found (checked Winsupply local-company sites/locator and trade listings). Each Winsupply local company is independently owned; do not assume a shared list. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
       "sources": [
         "http://www.steamboatspringswinnelson.com",
         "https://www.chamberofcommerce.com/united-states/colorado/steamboat-springs/blinds-shop/2007444629-steamboat-springs-winsupply"
-      ]
+      ],
+      "lat": 40.50683,
+      "lon": -106.85499
     },
     {
       "id": "co-steamboat-springs-ferguson-plumbing-supply-2831-elk-river-rd-new",
@@ -253,14 +257,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Ferguson Plumbing Supply, Steamboat Springs. Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. Ferguson Selection Center shares the same address (counted as one physical location).",
       "sources": [
         "https://www.ferguson.com/store/co/steamboat+springs/plumbingpvf-1182"
-      ]
+      ],
+      "lat": 40.51022,
+      "lon": -106.85841
     },
     {
       "id": "co-avon-ferguson-plumbing-supply-40800-highway-6-units-2-3-4-new",
@@ -308,14 +314,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Ferguson Plumbing Supply, Avon (Vail valley). Added 2026-10-24 in non-Winsupply chain sweep; branch was in neither dataset. XPRESSNET desk at the same address (counted as one physical location).",
       "sources": [
         "https://www.ferguson.com/store/co/avon/plumbingpvf-2779"
-      ]
+      ],
+      "lat": 39.6219,
+      "lon": -106.47908
     },
     {
       "id": "co-frisco-ces-801-ten-mile-dr-new",
@@ -349,14 +357,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "City Electric Supply, Frisco. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
       "sources": [
         "https://www.cityelectricsupply.com/branchLocator"
-      ]
+      ],
+      "lat": 39.58632,
+      "lon": -106.09332
     },
     {
       "id": "co-steamboat-springs-ces-2670-copper-ridge-new",
@@ -390,14 +400,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "City Electric Supply, Steamboat Springs. Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
       "sources": [
         "https://www.cityelectricsupply.com/branchLocator"
-      ]
+      ],
+      "lat": 40.51259,
+      "lon": -106.85469
     },
     {
       "id": "co-avon-ces-vail-40814-hwy-6-new",
@@ -431,14 +443,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from deep-check on Fred's list; branch was in neither dataset."
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "City Electric Supply, Vail (postal city Avon). Added 2026-10-24 from the official CES locator; branch was in neither dataset. No published per-branch line card.",
       "sources": [
         "https://www.cityelectricsupply.com/branchLocator"
-      ]
+      ],
+      "lat": 39.62181,
+      "lon": -106.4782
     },
     {
       "id": "co-avon-avon-216-east-benchmark-road-new",
@@ -454,7 +468,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -472,14 +486,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.63287,
+      "lon": -106.51965
     },
     {
       "id": "co-buena-vista-buena-vista-29785-hwy-24-n-new",
@@ -495,7 +511,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -513,14 +529,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 38.8511,
+      "lon": -106.14001
     },
     {
       "id": "co-fairplay-fairplay-299-highway-285-po-box-940-new",
@@ -536,7 +554,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -554,14 +572,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.22059,
+      "lon": -105.99261
     },
     {
       "id": "co-hayden-hayden-111-n-6th-st-new",
@@ -577,7 +597,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -595,14 +615,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 40.4951,
+      "lon": -107.26762
     },
     {
       "id": "co-leadville-leadville-1902-n-poplar-st-new",
@@ -618,7 +640,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -636,14 +658,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.25945,
+      "lon": -106.29224
     },
     {
       "id": "co-salida-salida-17052-502-e-rainbow-blvd-new",
@@ -659,7 +683,7 @@
       "branchLocatorUrl": "https://www.acehardware.com/store-details/17052",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -700,7 +724,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -718,14 +742,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 40.50163,
+      "lon": -106.85857
     },
     {
       "id": "co-vail-vail-2111-n-frontage-rd-w-new",
@@ -741,7 +767,7 @@
       "branchLocatorUrl": "https://www.acehardware.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "StoreLocators Colorado Ace list Oct 24 2026 + acehardware.com store pages",
       "spreadsheetDateVerified": "2026-10-24",
@@ -759,14 +785,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Ace Hardware cooperative member. Trading name not individually verified",
       "sources": [
         "https://www.acehardware.com"
-      ]
+      ],
+      "lat": 39.63175,
+      "lon": -106.41706
     },
     {
       "id": "co-breckenridge-breckenridge-13445-co-9-new",
@@ -782,7 +810,7 @@
       "branchLocatorUrl": "https://coloradobuildingsupply.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://coloradobuildingsupply.com",
       "spreadsheetDateVerified": "2026-10-24",
@@ -800,14 +828,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
-      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Full-service lumber/home-improvement with hardware tools paint & stain key cutting; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family \u2014 NOT one of the five chains",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Full-service lumber/home-improvement with hardware tools paint & stain key cutting; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family — NOT one of the five chains",
       "sources": [
         "https://coloradobuildingsupply.com"
-      ]
+      ],
+      "lat": 39.52859,
+      "lon": -106.04625
     },
     {
       "id": "co-idaho-springs-idaho-springs-2448-colorado-blvd-new",
@@ -823,7 +853,7 @@
       "branchLocatorUrl": null,
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "Place records + directories (see Notes)",
       "spreadsheetDateVerified": "2026-10-24",
@@ -841,12 +871,14 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Single-source place record; hardware & tools plus auto parts and outdoor gear; ZIP is town standard",
-      "sources": []
+      "sources": [],
+      "lat": 39.74183,
+      "lon": -105.50459
     },
     {
       "id": "co-phippsburg-flat-tops-ranch-supply-21475-hwy-131-new",
@@ -862,7 +894,7 @@
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
       "spreadsheetDateVerified": "2026-10-24",
@@ -903,7 +935,7 @@
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://www.doitbest.com/find-a-store/colorado/",
       "spreadsheetDateVerified": "2026-10-24",
@@ -921,14 +953,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Do it Best publishes no store numbers. Official locator + nearby-store listings",
       "sources": [
         "https://www.doitbest.com/find-a-store/colorado/"
-      ]
+      ],
+      "lat": 40.73487,
+      "lon": -106.28187
     },
     {
       "id": "co-edwards-edwards-33636-us-9-new",
@@ -944,7 +978,7 @@
       "branchLocatorUrl": "https://coloradobuildingsupply.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://coloradobuildingsupply.com",
       "spreadsheetDateVerified": "2026-10-24",
@@ -966,7 +1000,7 @@
       "geoPrecision": "centroid",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Coordinates not verified - see coordsStatus",
-      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Sister store to Breckenridge; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family \u2014 NOT one of the five chains",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Sister store to Breckenridge; formerly Do it Best (to Apr 2025) now US LBM Colorado Building Supply family — NOT one of the five chains",
       "sources": [
         "https://coloradobuildingsupply.com"
       ]
@@ -985,7 +1019,7 @@
       "branchLocatorUrl": null,
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "Place records + directories (see Notes)",
       "spreadsheetDateVerified": "2026-10-24",
@@ -1003,12 +1037,14 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
-      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. AFFILIATION UNRESOLVED: doitbest.com microsite + place records exist, but store is ABSENT from the current Do it Best Colorado locator (verified by text fetch AND live locator check Oct 24 2026, 29 stores) \u2014 listed under its own name, NOT counted as Do it Best",
-      "sources": []
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
+      "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. AFFILIATION UNRESOLVED: doitbest.com microsite + place records exist, but store is ABSENT from the current Do it Best Colorado locator (verified by text fetch AND live locator check Oct 24 2026, 29 stores) — listed under its own name, NOT counted as Do it Best",
+      "sources": [],
+      "lat": 38.51512,
+      "lon": -106.06898
     },
     {
       "id": "co-buena-vista-buena-vista-735-us-highway-24-n-new",
@@ -1024,7 +1060,7 @@
       "branchLocatorUrl": "https://sterlinglbr.com",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://sterlinglbr.com",
       "spreadsheetDateVerified": "2026-10-24",
@@ -1042,14 +1078,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. Lumber/hardware store (kitchen bath & paint millwork lumber); ZIP is town standard (store record did not show one)",
       "sources": [
         "https://sterlinglbr.com"
-      ]
+      ],
+      "lat": 38.84973,
+      "lon": -106.13643
     },
     {
       "id": "co-avon-avon-vail-1525-295-yoder-ave-new",
@@ -1065,7 +1103,7 @@
       "branchLocatorUrl": "https://www.homedepot.com/l/CO",
       "brandsRep": [],
       "brandListType": "no published line card",
-      "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
+      "brandsNote": "Hardware retail — no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
       "spreadsheetSource": "https://www.homedepot.com/l/CO (official directory) + store-number compilation (matched official on all 19 overlaps)",
       "spreadsheetDateVerified": "2026-10-24",
@@ -1083,14 +1121,16 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet Hardware category; coordinates not verified"
       },
-      "coordsStatus": "needs_verification",
-      "geoPrecision": "centroid",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Coordinates not verified - see coordsStatus",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "notes": "Hardware category (new 2026-10-24). Wiki number",
       "sources": [
         "https://www.homedepot.com/l/CO"
-      ]
+      ],
+      "lat": 39.62631,
+      "lon": -106.49809
     }
   ]
 }
