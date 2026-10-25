@@ -8064,41 +8064,6 @@
       "lon": -104.81352
     },
     {
-      "id": "co-denver-graybar-1375-w-47th-ave-new",
-      "name": "Graybar Denver Counter",
-      "chain": "Graybar",
-      "address1": "1375 W 47th Ave",
-      "city": "Denver",
-      "state": "CO",
-      "phone": "303-652-5300",
-      "website": "",
-      "brandsRep": [],
-      "brandListType": "repo representative (not spreadsheet line card)",
-      "partsFor": [
-        "Electrical"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "primaryTrade": "Electrical",
-      "postalCode": "80211",
-      "verification": {
-        "addressVerified": false,
-        "addressSource": "Business listing (comparison report §2.3)",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Counter/will-call only, Mon-Fri 7:00 AM-4:00 PM. Separate from Graybar Denver Area Service Center at 480 E 55th Ave."
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "address",
-      "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Counter/will-call only, Mon-Fri 7:00 AM-4:00 PM. Separate from Graybar Denver Area Service Center at 480 E 55th Ave.",
-      "branchType": "counter/will-call only (not a full service center; included per Fred no-compromises instruction)",
-      "sources": [],
-      "lat": 39.78263,
-      "lon": -105.00339
-    },
-    {
       "id": "co-aurora-aurora-winnelson-15102-e-moncrieff-pl-new",
       "name": "Aurora Winnelson",
       "chain": "Aurora Winnelson",
