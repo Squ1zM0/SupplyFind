@@ -831,7 +831,9 @@
       "email": null,
       "hours": "Mon-Fri 7-5; Sat 8-1",
       "branchLocatorUrl": "https://coloradobuildingsupply.com",
-      "brandsRep": [],
+      "brandsRep": [
+        "Andersen"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,
@@ -1049,7 +1051,11 @@
       "email": null,
       "hours": "Mon-Fri 7-5:30; Sat 8-5; Sun closed",
       "branchLocatorUrl": null,
-      "brandsRep": [],
+      "brandsRep": [
+        "Benjamin Moore",
+        "Corotech",
+        "Insl-X"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,

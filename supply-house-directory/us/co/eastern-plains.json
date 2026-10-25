@@ -14,7 +14,23 @@
       "phone": "+19705801912",
       "lat": 40.63324,
       "lon": -103.20035,
-      "brandsRep": [],
+      "brandsRep": [
+        "Hubbell",
+        "Burndy",
+        "Columbia Lighting",
+        "Hubbell Lighting",
+        "Killark",
+        "Quazite",
+        "Raco",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia",
+        "Lutron",
+        "Milwaukee",
+        "Pass & Seymour",
+        "On-Q",
+        "Square D"
+      ],
       "partsFor": [
         "Electrical"
       ],
@@ -65,7 +81,14 @@
       "phone": "+19705226161",
       "lat": 40.6297,
       "lon": -103.21008,
-      "brandsRep": [],
+      "brandsRep": [
+        "Hubbell",
+        "Leviton",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia",
+        "Lutron"
+      ],
       "partsFor": [
         "Electrical"
       ],
@@ -1011,7 +1034,9 @@
       "email": null,
       "hours": "Sun 9-3; Mon-Fri 7-6; Sat 7-5",
       "branchLocatorUrl": "https://brushhometown.com",
-      "brandsRep": [],
+      "brandsRep": [
+        "NAPA"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Hardware retail \u2014 no per-branch brand list published - call branch to confirm",
       "brandSourceUrl": null,

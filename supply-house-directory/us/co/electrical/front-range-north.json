@@ -292,7 +292,19 @@
       "lat": 40.42845,
       "lon": -104.6852,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Acuity Brands Lighting",
+        "Eaton",
+        "Hubbell",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia",
+        "Pass & Seymour",
+        "Schneider Electric",
+        "Siemens",
+        "Square D",
+        "Wiremold"
+      ],
       "manufacturersPartsFor": [],
       "notes": "Family-owned, independent wholesale electrical distributor serving Colorado, Wyoming, Kansas, and Nebraska. Full-line electrical supplies for contractors and builders. Verified 2026-01-30.",
       "verification": {
@@ -918,7 +930,14 @@
       "lat": 40.591482,
       "lon": -105.052608,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Hubbell",
+        "Leviton",
+        "Klein Tools",
+        "Milwaukee",
+        "Lithonia",
+        "Lutron"
+      ],
       "manufacturersPartsFor": [],
       "notes": "Crescent Electric Supply Fort Collins branch. Full-service electrical distributor with national inventory access. Verified 2025-12-26",
       "verification": {
