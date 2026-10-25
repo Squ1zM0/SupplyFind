@@ -1,84 +1,85 @@
 {
- "version": "audited_zero_v1",
- "trade": "electrical",
- "metro": "Eastern Plains",
- "state": "CO",
- "branches": [
-  {
-   "id": "ced-alamosa-rd10665-001",
-   "name": "CED - Alamosa",
-   "chain": "CED",
-   "trade": "electrical",
-   "city": "Alamosa",
-   "state": "CO",
-   "postalCode": "81101",
-   "address1": "6310 Road 10665 S",
-   "phone": "",
-   "website": "https://cedcareers.com/",
-   "lat": 37.419902,
-   "lon": -105.756146,
-   "coordsStatus": "verified",
-   "brandsRep": [
-    "ABB",
-    "Acuity",
-    "Belden",
-    "Brady",
-    "Cantex",
-    "Cooper",
-    "Eaton",
-    "Fluke",
-    "Greenlee",
-    "Hubbell",
-    "Ideal",
-    "Klein Tools",
-    "Leviton",
-    "Lithonia",
-    "Milwaukee",
-    "Panduit",
-    "Schneider",
-    "Siemens",
-    "Southwire",
-    "Square D"
-   ],
-   "manufacturersPartsFor": [],
-   "notes": "CED electrical supply serving San Luis Valley region. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-   "verification": {
-    "storefront_confirmed": "2025-12-26",
-    "sources": [
-     "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
-    ],
-    "coords_verified": "2025-12-27",
-    "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
-    "addressVerified": true,
-    "addressSource": "Official Store Locator",
-    "addressVerifiedDate": "2025-12-26"
-   },
-   "partsFor": [
-    "Electrical",
-    "Lighting",
-    "Wire & Cable",
-    "Tools",
-    "Controls"
-   ],
-   "sources": [
-    "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
-   ],
-   "trades": [
-    "Electrical"
-   ],
-   "geoPrecision": "storefront",
-   "geoVerifiedDate": "2025-12-27",
-   "geoSource": "gps-coordinates.org",
-   "arrivalLat": 37.419902,
-   "arrivalLon": -105.756146,
-   "arrivalType": "storefront",
-   "brandListType": "repo representative (not spreadsheet line card)"
-  }
- ],
- "auditStatus": "expanded",
- "auditNotes": [
-  "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
-  "2025-12-26: Added CED Alamosa location identified in expansion research."
- ],
- "updated": "2026-10-24"
+  "version": "audited_zero_v1",
+  "trade": "electrical",
+  "metro": "Eastern Plains",
+  "state": "CO",
+  "branches": [
+    {
+      "id": "ced-alamosa-rd10665-001",
+      "name": "CED - Alamosa",
+      "chain": "CED",
+      "trade": "electrical",
+      "city": "Alamosa",
+      "state": "CO",
+      "postalCode": "81101",
+      "address1": "6310 Road 10665 S",
+      "phone": "(719) 589-5143",
+      "website": "https://cedcareers.com/",
+      "lat": 37.419902,
+      "lon": -105.756146,
+      "coordsStatus": "verified",
+      "brandsRep": [
+        "ABB",
+        "Acuity",
+        "Belden",
+        "Brady",
+        "Cantex",
+        "Cooper",
+        "Eaton",
+        "Fluke",
+        "Greenlee",
+        "Hubbell",
+        "Ideal",
+        "Klein Tools",
+        "Leviton",
+        "Lithonia",
+        "Milwaukee",
+        "Panduit",
+        "Schneider",
+        "Siemens",
+        "Southwire",
+        "Square D"
+      ],
+      "manufacturersPartsFor": [],
+      "notes": "CED electrical supply serving San Luis Valley region. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: hours + phone from Google Maps place for American Electric (americanelectric.portalced.com), same road address.]",
+      "verification": {
+        "storefront_confirmed": "2025-12-26",
+        "sources": [
+          "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
+        ],
+        "coords_verified": "2025-12-27",
+        "geocoding_method": "Web search verified (gps-coordinates.org, latlong.net)",
+        "addressVerified": true,
+        "addressSource": "Official Store Locator",
+        "addressVerifiedDate": "2025-12-26"
+      },
+      "partsFor": [
+        "Electrical",
+        "Lighting",
+        "Wire & Cable",
+        "Tools",
+        "Controls"
+      ],
+      "sources": [
+        "https://start.cortera.com/company/research/k3n1jvl5j/consolidated-electrical-distributors-inc/"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "geoPrecision": "storefront",
+      "geoVerifiedDate": "2025-12-27",
+      "geoSource": "gps-coordinates.org",
+      "arrivalLat": 37.419902,
+      "arrivalLon": -105.756146,
+      "arrivalType": "storefront",
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+    }
+  ],
+  "auditStatus": "expanded",
+  "auditNotes": [
+    "Statewide completion pass: audited and confirmed no physical counter storefronts beyond documented metros.",
+    "2025-12-26: Added CED Alamosa location identified in expansion research."
+  ],
+  "updated": "2026-10-24"
 }

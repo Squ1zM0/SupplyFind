@@ -8,12 +8,12 @@
       "id": "co-cos-comfortair-001",
       "name": "Comfort Air Distributing \u2013 Colorado Springs",
       "chain": "Comfort Air Distributing",
-      "address1": "3275 N El Paso St",
+      "address1": "1440 Paonia St",
       "city": "Colorado Springs",
       "state": "CO",
-      "phone": "+17194738000",
-      "lat": 38.8754,
-      "lon": -104.8272,
+      "phone": "(719) 573-8662",
+      "lat": 38.85196,
+      "lon": -104.71659,
       "tags": [
         "hvac",
         "equipment",
@@ -30,7 +30,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [2026-10-24: branch moved to 1440 Paonia St per official comfortairdistributing.com locations page; address/phone/hours/coords updated.]",
       "sources": [
         "https://www.comfortairdistributing.com/"
       ],
@@ -47,13 +47,15 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 38.875456,
       "arrivalLon": -104.827144,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "80915",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-cos-lennoxstores-001",
@@ -163,12 +165,12 @@
       "id": "co-cos-sidharvey-001",
       "name": "Sid Harvey \u2013 Colorado Springs",
       "chain": "Sid Harvey",
-      "address1": "901 Motor City Dr",
+      "address1": "741 Clark Pl Unit 140",
       "city": "Colorado Springs",
       "state": "CO",
-      "phone": "+17196335000",
-      "lat": 38.8122,
-      "lon": -104.8244,
+      "phone": "719-442-6446",
+      "lat": 38.84435,
+      "lon": -104.74043,
       "tags": [
         "hvac",
         "equipment",
@@ -185,7 +187,7 @@
       "partsFor": [
         "HVAC"
       ],
-      "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "notes": "Major HVAC distributor with 1,700+ manufactured/remanufactured parts. Source: sidharvey.com/OurBrands, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [2026-10-24: branch moved to 741 Clark Pl Unit 140 per sidharvey.com locator; address/phone/hours/coords updated, hours via linked Maps page.]",
       "sources": [
         "https://www.sidharvey.com/wps/portal/c/OurBrands"
       ],
@@ -202,13 +204,15 @@
         "addressVerifiedDate": "2025-12-27"
       },
       "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 38.812256,
       "arrivalLon": -104.824344,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "80915",
+      "hours": "Mon-Fri 7:30 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "co-cos-ct-supply-001",
@@ -3267,13 +3271,13 @@
       "id": "co-colorado-springs-wesco-1490-garden-of-the-gods-rd-new",
       "name": "WESCO - Colorado Springs",
       "chain": "WESCO",
-      "address1": "1490 Garden of the Gods Rd",
+      "address1": "11675 Ridgeline Dr",
       "city": "Colorado Springs",
       "state": "CO",
-      "phone": null,
+      "phone": "(719) 260-0061",
       "website": "https://www.wesco.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -3469,12 +3473,13 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [2026-10-24: branch moved to 11675 Ridgeline Dr per official WESCO locator (no Garden of the Gods branch listed); address/phone/coords updated, hours from Bing local pack tied to same address+phone.]",
       "sources": [
         "https://www.wesco.com"
       ],
-      "lat": 38.89859,
-      "lon": -104.85553
+      "lat": 39.00137,
+      "lon": -104.79467,
+      "zip": "80921"
     },
     {
       "id": "co-colorado-springs-winwater-works-7821-red-granite-loop-new",

@@ -9,15 +9,15 @@
       "name": "Dahl Plumbing - Glenwood Springs",
       "chain": "Hajoca (Dahl)",
       "trade": "plumbing",
-      "address1": "133 Wulfsohn Rd",
+      "address1": "3366 S Glen Ave",
       "address2": "",
       "city": "Glenwood Springs",
       "state": "CO",
       "postalCode": "81601",
-      "phone": "970-945-7037",
+      "phone": "(970) 945-2331",
       "website": "https://dahlplumbing.com/glenwoodsprings/",
-      "lat": 39.543603,
-      "lon": -107.34668,
+      "lat": 39.51718,
+      "lon": -107.3175,
       "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
@@ -29,7 +29,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: list cross-check flag \u2014 possible stale duplicate of the Dahl Glenwood Springs branch at 3366 S Glen Ave (970-945-2331, which matches the spreadsheet); same chain/city, different address/phone \u2014 flagged, NOT merged, pending Fred's decision.]",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: list cross-check flag \u2014 possible stale duplicate of the Dahl Glenwood Springs branch at 3366 S Glen Ave (970-945-2331, which matches the spreadsheet); same chain/city, different address/phone \u2014 flagged, NOT merged, pending Fred's decision.] [2026-10-24: branch moved to 3366 S Glen Ave per Dahl's own branch page; address/phone/hours/coords updated.]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -49,28 +49,30 @@
       "trades": [
         "Plumbing"
       ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + verified shopping center location",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 39.543659,
       "arrivalLon": -107.346624,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "81601",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
       "id": "co-durango-dahl-plumbing-1",
       "name": "Dahl Plumbing - Durango",
       "chain": "Hajoca (Dahl)",
       "trade": "plumbing",
-      "address1": "2814 Main Ave",
+      "address1": "182 Girard St",
       "address2": "",
       "city": "Durango",
       "state": "CO",
       "postalCode": "81301",
-      "phone": "970-247-8654",
+      "phone": "(970) 385-4446",
       "website": "https://dahlplumbing.com/durango/",
-      "lat": 37.29818,
-      "lon": -107.87433,
+      "lat": 37.24005,
+      "lon": -107.87499,
       "coordsStatus": "verified",
       "brandsRep": [
         "Delta",
@@ -82,7 +84,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor with showroom and warehouse serving Durango area. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor with showroom and warehouse serving Durango area. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: branch moved to 182 Girard St per Dahl's own branch page; address/phone/hours/coords updated.]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -102,14 +104,16 @@
       "trades": [
         "Plumbing"
       ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 37.298236,
       "arrivalLon": -107.874274,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "dual-address question - spreadsheet 182 Girard St vs repo 2814 Main Ave (showroom vs counter, or relocation); both records kept, do not merge without Hajoca locator check"
+      "branchType": "dual-address question - spreadsheet 182 Girard St vs repo 2814 Main Ave (showroom vs counter, or relocation); both records kept, do not merge without Hajoca locator check",
+      "zip": "81303",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-cortez-plumbing-store-broadway",
