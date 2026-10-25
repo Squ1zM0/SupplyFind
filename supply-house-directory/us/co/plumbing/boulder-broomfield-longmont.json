@@ -57,67 +57,6 @@
       "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
-      "id": "ferguson-plumbing-boulder-1840-55th",
-      "name": "Ferguson Plumbing Supply (Boulder)",
-      "chain": "Ferguson",
-      "trade": "plumbing",
-      "city": "Boulder",
-      "state": "CO",
-      "postalCode": "80301",
-      "address1": "1840 55th St",
-      "phone": "303-245-0456",
-      "website": "https://www.yelp.com/biz/ferguson-plumbing-supply-boulder-2",
-      "lat": 40.0267,
-      "lon": -105.2217,
-      "coordsStatus": "verified",
-      "notes": "Plumbing supply counter; confirm status/hours on Ferguson branch page if available. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
-      "brandsRep": [
-        "American Standard",
-        "Fujitsu",
-        "Mitsubishi",
-        "Carrier",
-        "Bryant",
-        "Honeywell",
-        "Rheem",
-        "Amana",
-        "Kohler",
-        "Moen",
-        "Delta"
-      ],
-      "manufacturersPartsFor": [],
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Ferguson Store Locator",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.ferguson.com/store/co/boulder",
-          "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "partsFor": [
-        "Plumbing"
-      ],
-      "sources": [
-        "https://www.ferguson.com/store/co/boulder",
-        "https://www.google.com/maps/place/Ferguson+Plumbing+Boulder"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 40.0267,
-      "arrivalLon": -105.2217,
-      "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "longmont-hughes-supply",
       "name": "Hughes Supply \u2013 Longmont",
       "chain": "Hajoca (Hughes Supply)",

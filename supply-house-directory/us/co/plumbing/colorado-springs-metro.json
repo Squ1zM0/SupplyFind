@@ -55,57 +55,6 @@
       "hours": "Mon-Fri 6:30 AM - 4:00 PM"
     },
     {
-      "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply \u2013 Colorado Springs",
-      "chain": "Gateway Supply",
-      "trade": "plumbing",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "postalCode": "80915",
-      "address1": "2840 S Circle Dr",
-      "phone": "719-597-4300",
-      "website": "https://www.gatewaysupply.net/",
-      "lat": 38.7927,
-      "lon": -104.7745,
-      "coordsStatus": "verified",
-      "notes": "Independent plumbing wholesaler. Plumbing and heating distributor. Regional plumbing supply, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "brandsRep": [
-        "Kohler",
-        "Delta",
-        "Moen",
-        "American Standard"
-      ],
-      "partsFor": [
-        "Plumbing"
-      ],
-      "trades": [
-        "HVAC",
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Web Verification - Official Company Sources",
-        "addressVerifiedDate": "2025-12-27",
-        "sources": [
-          "https://woe.gatewaysupply.net/locations"
-        ]
-      },
-      "sources": [
-        "Official company contact required"
-      ],
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 38.792756,
-      "arrivalLon": -104.774444,
-      "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "abc-plumbing-cos-fillmore",
       "name": "ABC Plumbing & Electrical Supplies - Colorado Springs",
       "chain": "ABC Plumbing",

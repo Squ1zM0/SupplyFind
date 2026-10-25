@@ -681,69 +681,6 @@
       "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 12:00 PM"
     },
     {
-      "id": "co-grandjunction-sidharvey-i70-001",
-      "name": "Sid Harvey - Grand Junction",
-      "chain": "Sid Harvey",
-      "trade": "hvac",
-      "address1": "2922A I-70 Business Loop",
-      "address2": "",
-      "city": "Grand Junction",
-      "state": "CO",
-      "postalCode": "81504",
-      "phone": "(970) 256-0700",
-      "website": "https://www.sidharvey.com/",
-      "lat": 39.082866,
-      "lon": -108.527343,
-      "coverage": "regional",
-      "verified": "web_verified",
-      "verifiedDate": "2025-12-26",
-      "notes": "Western slope HVAC distributor",
-      "tags": [
-        "hvac",
-        "wholesale"
-      ],
-      "partsFor": [
-        "HVAC",
-        "Refrigeration"
-      ],
-      "brandsRep": [
-        "Goodman",
-        "Armstrong",
-        "Rheem",
-        "Mitsubishi",
-        "Honeywell",
-        "Fujitsu"
-      ],
-      "services": [],
-      "sources": [
-        "https://www.sidharvey.com/wps/portal/c/Locations",
-        "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "coordsStatus": "verified",
-      "verification": {
-        "addressVerified": true,
-        "addressSource": "Google Business Profile & Multiple Verified Directories",
-        "addressVerifiedDate": "2025-12-27",
-        "storefront_confirmed": "2025-12-27",
-        "sources": [
-          "https://www.sidharvey.com/wps/portal/c/Locations",
-          "https://www.google.com/maps/place/Sid+Harvey+Grand+Junction"
-        ],
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Google Maps verified coordinates"
-      },
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
-      "arrivalLat": 39.082866,
-      "arrivalLon": -108.527343,
-      "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "co-grand-junction-cfm-westgate-001",
       "name": "CFM Company - Grand Junction (West Office)",
       "chain": "CFM Company",

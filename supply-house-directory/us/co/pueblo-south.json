@@ -53,57 +53,6 @@
       "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
-      "id": "co-pueblo-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Pueblo",
-      "chain": "Comfort Air Distributing",
-      "address1": "120 E Industrial Blvd",
-      "city": "Pueblo West",
-      "state": "CO",
-      "phone": "+17195620000",
-      "lat": 38.344106,
-      "lon": -104.71935,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Coordinate refinement 2025-12-27: Moved from boulevard position to warehouse entrance. Industrial location with loading dock access.] [Arrival coordinates refined 2025-12-27: Warehouse location]",
-      "sources": [
-        "https://www.comfortairdistributing.com/"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "81007",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "warehouse",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + Commercial mapping platforms",
-      "arrivalLat": 38.34419,
-      "arrivalLon": -104.719266,
-      "arrivalType": "warehouse",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "co-pueblo-pueblowinair-ilex-001",
       "name": "Pueblo Winair",
       "chain": "Winair",

@@ -1616,7 +1616,7 @@
         "hvac",
         "wholesale"
       ],
-      "notes": "Carrier, Bryant, and Payne distributor. Part of Carrier West network. Source: Lohmiller & Company official website, verified 2025-12-26",
+      "notes": "Carrier, Bryant, and Payne distributor. Part of Carrier West network. Source: Lohmiller & Company official website, verified 2025-12-26 [2026-10-24: hours set to Mon-Fri 7:00 AM - 5:00 PM; official Lohmiller page states 7:00am-5:00pm with no days, weekday scope applied per Freddy's approval.]",
       "sources": [
         "https://www.lohmiller.com/colorado-springs/"
       ],
@@ -1649,7 +1649,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.lohmillercompany.com/wp-content/uploads/2024/09/LMLinecard-2024.pdf",
       "spreadsheetSource": "http://firstco.com/locate/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-cos-rampart-union-001",

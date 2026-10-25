@@ -5,23 +5,6 @@
   "metro": "Central Mountains",
   "branches": [
     {
-      "name": "City Electric Supply",
-      "city": "Leadville",
-      "phone": "719-486-1700",
-      "lat": 39.2508,
-      "lon": -106.2925,
-      "trades": [
-        "Electrical"
-      ],
-      "brandsRep": [],
-      "brandListType": "repo representative (not spreadsheet line card)",
-      "address1": "212 W 7th St, Leadville, CO 80461",
-      "id": "co-leadville-city-electric-supply-212-w-7th",
-      "state": "CO",
-      "chain": "City Electric Supply",
-      "notes": "[2026-10-24: deep-check flag \u2014 this Leadville record is NOT on the official CES locator (23 CO branches, no Leadville). Possible closed branch \u2014 flagged, NOT deleted.]"
-    },
-    {
       "id": "co-basalt-george-t-sanders-company-0051-valley-circle-new",
       "name": "George T. Sanders Company - Basalt",
       "chain": "George T. Sanders Company",

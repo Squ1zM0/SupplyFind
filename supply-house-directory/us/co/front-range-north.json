@@ -64,57 +64,6 @@
       "hours": "Mon-Fri 7:30 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
-      "id": "co-loveland-comfortair-001",
-      "name": "Comfort Air Distributing \u2013 Loveland",
-      "chain": "Comfort Air Distributing",
-      "address1": "2840 N Lincoln Ave",
-      "city": "Loveland",
-      "state": "CO",
-      "phone": "+19706690000",
-      "lat": 40.4219,
-      "lon": -105.0759,
-      "tags": [
-        "hvac",
-        "equipment",
-        "parts"
-      ],
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "partsFor": [
-        "HVAC"
-      ],
-      "notes": "Exclusive Rheem distributor for Colorado/Wyoming, also carrying Honeywell, Aprilaire, LG, and Bosch. Source: Comfort Air Distributing Denver, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
-      "sources": [
-        "https://www.comfortairdistributing.com/"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "postalCode": "80538",
-      "verification": {
-        "coords_verified": "2025-12-27",
-        "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
-        "addressVerified": true,
-        "addressSource": "Official Website",
-        "addressVerifiedDate": "2025-12-27"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "entrance",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Previously verified during geocoding audit",
-      "arrivalLat": 40.421956,
-      "arrivalLon": -105.075844,
-      "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
-    },
-    {
       "id": "co-loveland-lennoxstores-001",
       "name": "Lennox Stores \u2013 Loveland",
       "chain": "Lennox Stores",
@@ -1111,52 +1060,6 @@
       ],
       "lat": 40.52188,
       "lon": -105.04683
-    },
-    {
-      "id": "co-greeley-monarch-plumbing-supply-co-310-east-8th-street-new",
-      "name": "Monarch Plumbing Supply Co. - Greeley",
-      "chain": "Monarch Plumbing Supply Co.",
-      "address1": "310 East 8th Street",
-      "city": "Greeley",
-      "state": "CO",
-      "phone": "(970) 352-2856",
-      "website": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
-      "email": null,
-      "hours": "",
-      "branchLocatorUrl": "",
-      "brandsRep": [
-        "Plumbing equipment & supplies (per Thomasnet description",
-        "no brand line card published)"
-      ],
-      "brandListType": "published line card (spreadsheet v4)",
-      "brandsNote": "",
-      "brandSourceUrl": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
-      "spreadsheetSource": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
-      "spreadsheetDateVerified": "2026-10-24",
-      "partsFor": [
-        "Plumbing"
-      ],
-      "trades": [
-        "Plumbing"
-      ],
-      "primaryTrade": "Plumbing",
-      "postalCode": "80631",
-      "verification": {
-        "addressVerified": false,
-        "addressSource": "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "address",
-      "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "V1 OMISSION RESOLVED - directory-verified,  NOT official-site verified: street address + phone corroborated by Manta listing (est. 1957,  president Steven Beck) and Thomasnet (Greeley 80631,  distributor of plumbing equipment & supplies). No official company website or Google Business profile found in this round; call to confirm before publishing as official-site verified. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-      "sources": [
-        "https://www.manta.com/c/mmc7hvf/monarch-plumbing-supply-co"
-      ],
-      "lat": 40.42478,
-      "lon": -104.67509
     },
     {
       "id": "co-loveland-qed-sonepar-541-w-67th-st-new",
