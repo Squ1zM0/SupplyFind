@@ -849,7 +849,10 @@
       "lat": 39.723198,
       "lon": -105.020798,
       "coordsStatus": "verified",
-      "brandsRep": [],
+      "brandsRep": [
+        "Kohler",
+        "American Standard"
+      ],
       "manufacturersPartsFor": [],
       "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
       "verification": {

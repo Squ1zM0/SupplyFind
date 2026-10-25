@@ -1872,7 +1872,10 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM-5:00 PM",
       "branchLocatorUrl": "",
-      "brandsRep": [],
+      "brandsRep": [
+        "Eaton",
+        "Progress Lighting"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
@@ -2521,7 +2524,6 @@
         "GE",
         "Generac",
         "General Cable",
-        "Grainger Approved",
         "Hubbell",
         "Ideal",
         "Leeson Electric",
