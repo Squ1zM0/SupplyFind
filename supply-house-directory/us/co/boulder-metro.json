@@ -61,7 +61,8 @@
       "arrivalLat": 39.922956,
       "arrivalLon": -105.069544,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-longmont-winair-001",

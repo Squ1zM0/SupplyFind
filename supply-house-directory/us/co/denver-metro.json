@@ -472,7 +472,8 @@
       "arrivalLat": 39.591956,
       "arrivalLon": -104.797744,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-centennial-rsd-001",
@@ -1262,7 +1263,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.inddist.com/mergers-acquisitions/news/22005644/hvac-plumbing-distributor-marcone-acquires-munchs-supply-professional-plumbing-group",
       "spreadsheetSource": "https://www.cityof.com/co/denver/comfort-air-distributing-inc-3113706",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
