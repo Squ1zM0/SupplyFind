@@ -29,7 +29,7 @@
         "Watts"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: list cross-check flag \u2014 possible stale duplicate of the Dahl Glenwood Springs branch at 3366 S Glen Ave (970-945-2331, which matches the spreadsheet); same chain/city, different address/phone \u2014 flagged, NOT merged, pending Fred's decision.] [2026-10-24: branch moved to 3366 S Glen Ave per Dahl's own branch page; address/phone/hours/coords updated.]",
+      "notes": "Hajoca trade name: Dahl. Part of Hajoca Corporation. Plumbing distributor serving Eagle and Garfield counties with showroom and warehouse for both residential and industrial needs. Source: Hajoca suppliers network and Dahl official website, verified 2025-12-26 [Coordinate refinement 2025-12-27: Glenwood Meadows shopping area - moved to facility entrance. Verified coordinates within commercial center.] [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [2026-10-24: list cross-check flag \u2014 possible stale duplicate of the Dahl Glenwood Springs branch at 3366 S Glen Ave (970-945-2331, which matches the spreadsheet); same chain/city, different address/phone \u2014 flagged, NOT merged, pending Fred's decision.] [2026-10-24: branch moved to 3366 S Glen Ave per Dahl's own branch page; address/phone/hours/coords updated.] Separate showroom at 2550 Hwy 82 Suite B208 (per merged duplicate record).",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -57,7 +57,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "zip": "81601",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-durango-dahl-plumbing-1",
@@ -113,7 +114,8 @@
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "dual-address question - spreadsheet 182 Girard St vs repo 2814 Main Ave (showroom vs counter, or relocation); both records kept, do not merge without Hajoca locator check",
       "zip": "81303",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "primaryTrade": "Plumbing"
     },
     {
       "id": "co-cortez-plumbing-store-broadway",

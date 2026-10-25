@@ -600,10 +600,9 @@
         "https://www.manta.com/c/mmst70t/ferguson-aurora-showroom"
       ],
       "trades": [
-        "HVAC",
-        "Plumbing"
+        "Waterworks"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Waterworks",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",

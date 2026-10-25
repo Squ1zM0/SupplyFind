@@ -55,7 +55,9 @@
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
       "zip": "80915",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "website": "http://www.comfortairdistributing.com/",
+      "primaryTrade": "HVAC"
     },
     {
       "id": "co-cos-lennoxstores-001",
@@ -1928,101 +1930,6 @@
       "fax": "719-630-0337",
       "lat": 38.84364,
       "lon": -104.73614,
-      "zip": "80915"
-    },
-    {
-      "id": "co-colorado-springs-ced-consolidated-electrical-distributors-3616-n-stone-ave-new",
-      "name": "CED Consolidated Electrical Distributors - CED - Colorado Springs",
-      "chain": "CED Consolidated Electrical Distributors",
-      "address1": "3616 N Stone Ave",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "+1 719-475-8160",
-      "website": "http://cedcoloradosprings.portalced.com/",
-      "email": null,
-      "hours": "Mon-Fri 6:30 AM-5:00 PM",
-      "branchLocatorUrl": "",
-      "brandsRep": [],
-      "brandListType": "no published line card",
-      "brandsNote": "Line card not publicly published - call branch to confirm",
-      "brandSourceUrl": "https://www.ced.com",
-      "spreadsheetSource": "http://cedcoloradosprings.portalced.com/",
-      "spreadsheetDateVerified": "2026-10-24",
-      "partsFor": [
-        "Electrical"
-      ],
-      "trades": [
-        "Electrical"
-      ],
-      "primaryTrade": "Electrical",
-      "postalCode": "80907",
-      "verification": {
-        "addressVerified": false,
-        "addressSource": "http://cedcoloradosprings.portalced.com/",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "address",
-      "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Brands are company-wide generic, not branch-specific. | V2 2026-10-24: Sources checked: ced.com and CED portal branch sites (Boulder, Denver, Colorado Springs, Fort Collins, Grand Junction, Gunnison, All-Phase), plus trade listings. No company-wide published line card found - CED is decentralised by profit centre, so carriage varies by branch. IMPORTANT: the PDF linked in V1 for CED is NOT a CED document - it is Connexion's (cxconnect.com, Buffalo Grove, IL) Electrical Products Line Card, so it was NOT used as CED's list. Branch sites document examples including Square D, Eaton / Cutler-Hammer, BRK, Broan, NuTone, Generac, Ideal Tools, Ilsco, Intermatic, Klein Tools, Leviton, RAB and RACO, but that is not a complete company list - call the branch to confirm. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-      "sources": [
-        "http://cedcoloradosprings.portalced.com/"
-      ],
-      "lat": 38.88438,
-      "lon": -104.81638,
-      "zip": "80907"
-    },
-    {
-      "id": "co-colorado-springs-comfort-air-distributing-munch-s-supply-1440-paonia-st-new",
-      "name": "Comfort Air Distributing (Munch's Supply) - Comfort Air - Colorado Springs",
-      "chain": "Comfort Air Distributing (Munch's Supply)",
-      "address1": "1440 Paonia St",
-      "city": "Colorado Springs",
-      "state": "CO",
-      "phone": "(719) 573-8662",
-      "website": "http://www.comfortairdistributing.com/",
-      "email": null,
-      "hours": "Mon-Fri 7:00 AM-4:30 PM",
-      "branchLocatorUrl": "",
-      "brandsRep": [
-        "Rheem",
-        "Honeywell",
-        "Aprilaire",
-        "LG",
-        "Bosch",
-        "Nu-Calgon"
-      ],
-      "brandListType": "published line card (spreadsheet v4)",
-      "brandsNote": "",
-      "brandSourceUrl": "https://www.inddist.com/mergers-acquisitions/news/22005644/hvac-plumbing-distributor-marcone-acquires-munchs-supply-professional-plumbing-group",
-      "spreadsheetSource": "https://reviews.birdeye.com/comfort-air-distributing-165363955195064",
-      "spreadsheetDateVerified": "2026-10-24",
-      "partsFor": [
-        "HVAC"
-      ],
-      "trades": [
-        "HVAC"
-      ],
-      "primaryTrade": "HVAC",
-      "postalCode": "80915",
-      "verification": {
-        "addressVerified": false,
-        "addressSource": "https://reviews.birdeye.com/comfort-air-distributing-165363955195064",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
-      },
-      "coordsStatus": "verified",
-      "geoPrecision": "address",
-      "geoVerifiedDate": "2026-10-24",
-      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "V1 OMISSION RESOLVED: branch number (719) 573-8662 corroborated by Birdeye (29 reviews) and Datanyze. BBB profile for this address shows (303) 399-1752,  which is the Denver branch number - do NOT use it for Colorado Springs. | V2 2026-10-24: PARENT-COMPANY named brands only (Munch Supply distributor brands, incl. Comfort Air Distributing as a Munch operating company). No Comfort Air-specific published line card found; do not present as a branch line card. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
-      "sources": [
-        "https://reviews.birdeye.com/comfort-air-distributing-165363955195064"
-      ],
-      "lat": 38.85196,
-      "lon": -104.71659,
       "zip": "80915"
     },
     {
