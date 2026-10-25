@@ -61,7 +61,8 @@
       "arrivalLat": 39.789756,
       "arrivalLon": -105.014744,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-galarson-washington-001",
@@ -124,7 +125,8 @@
       "arrivalLon": -104.977605,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -172,7 +174,8 @@
       "arrivalLat": 39.783156,
       "arrivalLon": -105.006744,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-lennoxstores-001",
@@ -219,7 +222,8 @@
       "arrivalLon": -105.015644,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)"
+      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -266,7 +270,8 @@
       "arrivalLon": -104.763744,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)"
+      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-denver-acdist-001",
@@ -535,7 +540,8 @@
       "arrivalLat": 39.5869,
       "arrivalLon": -104.8276,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
@@ -590,7 +596,8 @@
       "arrivalLat": 39.7862,
       "arrivalLon": -104.8655,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-sdi-oneida-001",
@@ -689,7 +696,8 @@
       "arrivalLat": 39.784756,
       "arrivalLon": -104.999444,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 3:30 PM"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
@@ -1028,7 +1036,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.borderstates.com/brands/Hubbell/TechSolutionPartners",
       "spreadsheetSource": "https://www.borderstates.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
@@ -2483,7 +2492,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.lohmillercompany.com/wp-content/uploads/2024/09/LMLinecard-2024.pdf",
       "spreadsheetSource": "http://firstco.com/locate/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 9:00 AM - 6:00 PM"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -3419,7 +3429,7 @@
       "phone": "(303) 792-2022",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -3482,7 +3492,7 @@
       "phone": "303-623-7747",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -4782,7 +4792,7 @@
       "phone": "970-532-2790",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -4879,7 +4889,7 @@
       "phone": "303-654-0711",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -5072,7 +5082,7 @@
       "phone": "303-750-4550",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -5169,7 +5179,7 @@
       "phone": "720-381-6297",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com",
       "brandsRep": [
         "A.Y. McDonald",
@@ -5361,7 +5371,7 @@
       "phone": "303-791-5858",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -5458,7 +5468,7 @@
       "phone": "970-731-1900",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:30 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -5555,7 +5565,7 @@
       "phone": "303-423-9660",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:30 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -6189,7 +6199,7 @@
       "phone": "800-700-5011",
       "website": "https://www.qedelectric.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 5:30 AM - 4:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -6811,7 +6821,7 @@
       "phone": "(303) 222-9322",
       "website": "https://www.qedelectric.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 9:00 AM - 5:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -7122,7 +7132,7 @@
       "phone": "(303) 928-3400",
       "website": "https://www.qedelectric.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:00 AM - 4:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -7477,7 +7487,7 @@
       "phone": "+1 800-748-3116",
       "website": "https://www.wue.coop",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -8063,7 +8073,8 @@
       "branchType": "needs official CES branch-page confirmation (business-listing confirmed, included per Fred no-compromises instruction)",
       "sources": [],
       "lat": 40.00094,
-      "lon": -104.81352
+      "lon": -104.81352,
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "co-aurora-aurora-winnelson-15102-e-moncrieff-pl-new",
@@ -8075,7 +8086,7 @@
       "phone": "303-344-5980",
       "website": "https://www.winsupplyinc.com/Location/Aurora-CO/80011/Plumbing-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Aurora-CO/80011/Plumbing-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8118,7 +8129,7 @@
       "phone": "303-688-3373",
       "website": "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Plumbing-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Plumbing-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8161,7 +8172,7 @@
       "phone": "303-778-0300",
       "website": "https://www.winsupplyinc.com/Location/Denver-CO/80229/Electrical-supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Thu 6:00 AM - 5:00 PM; Fri 6:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80229/Electrical-supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8204,7 +8215,7 @@
       "phone": "303-214-3346",
       "website": "http://denverwinwater.com/",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Thu 7:00 AM - 5:00 PM; Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "http://denverwinwater.com/",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8247,7 +8258,7 @@
       "phone": "303-663-4500",
       "website": "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Waterworks-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Waterworks-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8333,7 +8344,7 @@
       "phone": "303-287-2884",
       "website": "https://www.winsupplyinc.com/Location/Commerce-City-CO/80022/Hydronic-Industrial-Pipe-and-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Commerce-City-CO/80022/Hydronic-Industrial-Pipe-and-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8376,7 +8387,7 @@
       "phone": "303-777-6666",
       "website": "https://www.winsupplyinc.com/Location/Englewood-CO/80110/Industrial-PVF-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Englewood-CO/80110/Industrial-PVF-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8860,7 +8871,7 @@
       "phone": "720-245-2583",
       "website": "https://www.cityelectricsupply.com/branchLocator",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -8903,7 +8914,7 @@
       "phone": "303-790-7370",
       "website": "https://www.cityelectricsupply.com/branchLocator",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -11053,7 +11064,7 @@
       "phone": "303-699-7060",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:30 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -11139,7 +11150,7 @@
       "phone": "303-421-1484",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 1:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",

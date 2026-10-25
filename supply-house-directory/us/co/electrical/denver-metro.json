@@ -75,7 +75,8 @@
       "arrivalLat": 39.7821,
       "arrivalLon": -104.8772,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM"
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
@@ -297,7 +298,8 @@
       "arrivalLat": 39.770984,
       "arrivalLon": -104.868543,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "ces-denver-boulder-001",
@@ -358,7 +360,8 @@
       "arrivalLat": 40.034199,
       "arrivalLon": -105.248718,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -1308,7 +1311,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.omniapartners.com/site-files/user_upload/Wesco_Brands_OMNIA_2025.pdf",
       "spreadsheetSource": "https://www.wesco.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
       "id": "co-castle-rock-city-electric-supply-1416-park-st-new",

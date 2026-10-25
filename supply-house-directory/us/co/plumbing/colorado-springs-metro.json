@@ -51,11 +51,12 @@
       "arrivalLat": 38.863451,
       "arrivalLon": -104.701077,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
     },
     {
       "id": "cos-gateway-supply-plumbing",
-      "name": "Gateway Supply – Colorado Springs",
+      "name": "Gateway Supply \u2013 Colorado Springs",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Colorado Springs",
@@ -156,7 +157,8 @@
       "arrivalLat": 38.847815,
       "arrivalLon": -104.812823,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:30 PM; Sat 8:00 AM - 2:00 PM"
     },
     {
       "id": "dahl-castle-rock-perry",

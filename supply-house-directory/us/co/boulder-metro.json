@@ -111,7 +111,8 @@
       "arrivalLat": 40.156806,
       "arrivalLon": -105.11206,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
@@ -332,7 +333,7 @@
       "phone": "(303) 444-6555",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -487,7 +488,7 @@
       "phone": "303-926-8870",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",

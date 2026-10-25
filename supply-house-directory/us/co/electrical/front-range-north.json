@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "greeley-ced",
-      "name": "CED – Greeley",
+      "name": "CED \u2013 Greeley",
       "chain": "CED",
       "trade": "electrical",
       "city": "Greeley",
@@ -74,7 +74,8 @@
       "arrivalLat": 40.4251,
       "arrivalLon": -104.701,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "rexel-greeley-3255",
@@ -138,7 +139,8 @@
       "arrivalLat": 40.391701,
       "arrivalLon": -104.67776,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "rexel-ft-collins-7619",
@@ -202,7 +204,8 @@
       "arrivalLat": 40.532844,
       "arrivalLon": -105.042323,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
     },
     {
       "id": "rexel-loveland-3214",
@@ -268,7 +271,8 @@
       "arrivalLat": 40.4123,
       "arrivalLon": -105.0389,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
     },
     {
       "id": "newco-greeley-6th-001",
@@ -317,7 +321,8 @@
       "arrivalLat": 40.42845,
       "arrivalLon": -104.6852,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "ces-greeley-29th-001",
@@ -373,7 +378,8 @@
       "arrivalLat": 40.403372,
       "arrivalLon": -104.731545,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "borderstates-greeley-4th-001",
@@ -812,7 +818,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "https://www.ced.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM"
     },
     {
       "id": "ces-fort-collins-2415-mulberry",
@@ -1195,7 +1202,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

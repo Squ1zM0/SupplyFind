@@ -50,7 +50,8 @@
       "arrivalLat": 38.902284,
       "arrivalLon": -104.843316,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM"
     },
     {
       "id": "air-force-filter-colorado-springs-elkton",
@@ -101,7 +102,8 @@
       "arrivalLat": 38.8974436,
       "arrivalLon": -104.8464564,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     }
   ]
 }

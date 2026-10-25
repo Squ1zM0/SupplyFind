@@ -42,7 +42,7 @@
         "Square D"
       ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Pueblo and southern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: list cross-check flag — alternate American Electric (CED) listing found: 304 S Main St, Pueblo, (719) 542-9071, aecpueblo.portalced.com; unverified whether this is a move of this branch or a second branch — NOT merged.]",
+      "notes": "CED electrical supply serving Pueblo and southern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: list cross-check flag \u2014 alternate American Electric (CED) listing found: 304 S Main St, Pueblo, (719) 542-9071, aecpueblo.portalced.com; unverified whether this is a move of this branch or a second branch \u2014 NOT merged.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -386,12 +386,13 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.omniapartners.com/site-files/user_upload/Wesco_Brands_OMNIA_2025.pdf",
       "spreadsheetSource": "https://www.wesco.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
     }
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added verified Graybar Pueblo storefront.",

@@ -72,7 +72,8 @@
       "arrivalLat": 40.633296,
       "arrivalLon": -103.200294,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-sterling-crescent-electric-1",
@@ -708,7 +709,7 @@
       "phone": "719-346-8089",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:00 AM - 6:00 PM; Sat 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -794,7 +795,7 @@
       "phone": "970-867-5646",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:30 AM - 6:00 PM; Sat 8:00 AM - 5:00 PM; Sun 9:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -837,7 +838,7 @@
       "phone": "719-743-2512",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM; Sat 8:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",

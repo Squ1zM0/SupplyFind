@@ -68,7 +68,7 @@
     },
     {
       "id": "denver-hdsupply-plumbing",
-      "name": "HD Supply Facilities Maintenance – Denver (Plumbing)",
+      "name": "HD Supply Facilities Maintenance \u2013 Denver (Plumbing)",
       "chain": "HD Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -116,11 +116,12 @@
       "arrivalLat": 39.7971,
       "arrivalLon": -104.8675,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
     },
     {
       "id": "denver-gateway-supply",
-      "name": "Gateway Supply – Denver",
+      "name": "Gateway Supply \u2013 Denver",
       "chain": "Gateway Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -172,7 +173,7 @@
     },
     {
       "id": "centennial-ferguson-plumbing",
-      "name": "Ferguson Plumbing Supply – Centennial",
+      "name": "Ferguson Plumbing Supply \u2013 Centennial",
       "chain": "Ferguson",
       "trade": "plumbing",
       "city": "Centennial",
@@ -232,7 +233,7 @@
     },
     {
       "id": "denver-flink-plumbing",
-      "name": "Flink Supply Company – Denver",
+      "name": "Flink Supply Company \u2013 Denver",
       "chain": "Flink Supply",
       "trade": "plumbing",
       "city": "Denver",
@@ -332,7 +333,8 @@
       "arrivalLat": 39.715576,
       "arrivalLon": -104.996172,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "denver-great-western-pipe-forest",
@@ -393,7 +395,8 @@
       "arrivalLat": 39.763756,
       "arrivalLon": -104.944144,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "ferguson-plumbing-commerce-city-dallas",
@@ -945,7 +948,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://local.kohler.com/",
       "spreadsheetSource": "https://local.kohler.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     }
   ],
   "auditNotes": [

@@ -100,7 +100,8 @@
       "arrivalLon": -104.69581,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)"
+      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-cos-winsupply-001",
@@ -155,7 +156,8 @@
       "arrivalLon": -104.81656,
       "arrivalType": "will_call",
       "address2": "Suite 180",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM"
     },
     {
       "id": "co-cos-sidharvey-001",
@@ -265,7 +267,8 @@
       "arrivalLat": 38.874368,
       "arrivalLon": -104.715118,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
     },
     {
       "id": "co-colorado-springs-blazer-electric-supply-1",
@@ -559,7 +562,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
       "spreadsheetSource": "https://cms.cdjones.com/media/2643/mitsubishi-training-dsb-schedule-fall-2025.pdf",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-cos-city-electric-002",
@@ -2228,7 +2232,7 @@
       "phone": "(719) 577-9524",
       "website": "https://www.fastenal.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 9:00 AM - 3:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -2319,7 +2323,7 @@
       "phone": "866-943-2525",
       "website": "http://www.gearypacific.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "http://www.gearypacific.com",
       "brandsRep": [
         "ADP",
@@ -2398,7 +2402,7 @@
       "phone": "719-591-5252",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -2495,7 +2499,7 @@
       "phone": "+1 800-472-4643",
       "website": "https://www.grainger.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M Electrical",
@@ -2647,7 +2651,7 @@
       "phone": "(719) 591-8341",
       "website": "https://www.qedelectric.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:00 AM - 4:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -2958,7 +2962,7 @@
       "phone": "800-700-5011",
       "website": "https://www.qedelectric.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:00 AM - 4:00 PM",
       "branchLocatorUrl": "",
       "brandsRep": [
         "3M",
@@ -3482,7 +3486,7 @@
       "phone": "719-572-0800",
       "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80939/Waterworks-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80939/Waterworks-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -3525,7 +3529,7 @@
       "phone": "719-622-8884",
       "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80970/Waterworks-Supplies",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80970/Waterworks-Supplies",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -3568,7 +3572,7 @@
       "phone": "719-633-8808",
       "website": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80907/Industrial-Pipe-and-Supplies-MRO-Plumbing",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Colorado-Springs-CO/80907/Industrial-Pipe-and-Supplies-MRO-Plumbing",
       "brandsRep": [],
       "brandListType": "no published line card",

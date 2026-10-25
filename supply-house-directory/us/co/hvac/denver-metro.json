@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-englewood-galarson-otero-001",
-      "name": "Gustave A. Larson – Denver South (Englewood)",
+      "name": "Gustave A. Larson \u2013 Denver South (Englewood)",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "14353 E Otero Ave, Suite 103",
@@ -65,7 +65,8 @@
       "arrivalLon": -104.821544,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
@@ -129,7 +130,8 @@
       "arrivalLat": 39.75538,
       "arrivalLon": -104.77284,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-denver-cfm-lipan-001",
@@ -259,7 +261,8 @@
       "arrivalLon": -105.00141,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)"
+      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
       "id": "co-centennial-sidharvey-revere-001",

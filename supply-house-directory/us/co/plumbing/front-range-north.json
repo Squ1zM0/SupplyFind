@@ -53,11 +53,12 @@
       "arrivalLat": 40.598386,
       "arrivalLon": -105.048198,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 6:30 AM - 4:30 PM"
     },
     {
       "id": "dahl-greeley-199-evans",
-      "name": "Dahl – Greeley (Evans)",
+      "name": "Dahl \u2013 Greeley (Evans)",
       "chain": "Dahl (Hajoca)",
       "trade": "plumbing",
       "city": "Evans",
@@ -103,7 +104,8 @@
       "arrivalLat": 40.37821,
       "arrivalLon": -104.716384,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
     },
     {
       "id": "dahl-loveland-11th-100",

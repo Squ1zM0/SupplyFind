@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-colorado-springs-galarson-aeroplaza-001",
-      "name": "Gustave A. Larson – Colorado Springs",
+      "name": "Gustave A. Larson \u2013 Colorado Springs",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "855 Aeroplaza Dr, Suite 100",
@@ -72,7 +72,8 @@
       "arrivalLon": -104.720968,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-colorado-springs-cfm-buckingham-001",
@@ -202,7 +203,8 @@
       "arrivalLon": -104.8369,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)"
+      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
       "id": "co-cosprings-tranesupply-list-001",

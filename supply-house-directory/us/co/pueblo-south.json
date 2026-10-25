@@ -49,7 +49,8 @@
       "arrivalLon": -104.616744,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)"
+      "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-pueblo-comfortair-001",
@@ -153,7 +154,8 @@
       "arrivalLat": 38.25778,
       "arrivalLon": -104.603895,
       "arrivalType": "will_call",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 5:00 PM"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
@@ -513,7 +515,7 @@
       "phone": "800-397-0419",
       "website": "https://www.herculesindustries.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.herculesindustries.com",
       "brandsRep": [
         "Hercules",
@@ -1631,7 +1633,7 @@
       "phone": "719-657-1171",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Sat 8:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -1717,7 +1719,7 @@
       "phone": "719-523-6233",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:30 AM - 6:00 PM; Sat 8:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",

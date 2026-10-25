@@ -72,7 +72,8 @@
       "arrivalLat": 37.248569,
       "arrivalLon": -107.880653,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-montrose-ferguson-plumbingpvf-1",
@@ -136,7 +137,8 @@
       "arrivalLat": 38.473785,
       "arrivalLon": -107.892914,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     },
     {
       "id": "co-granby-ferguson-plumbing-supply-1",
@@ -199,7 +201,8 @@
       "arrivalLat": 40.0794,
       "arrivalLon": -105.9378,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM"
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -1517,7 +1520,7 @@
       "phone": "(970) 945-4030",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -1580,7 +1583,7 @@
       "phone": "(970) 240-9988",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -1643,7 +1646,7 @@
       "phone": "(970) 368-7171",
       "website": "https://cdjones.com",
       "email": "marketing@cdjones.com",
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://cdjones.com",
       "brandsRep": [
         "American Water Heaters",
@@ -1979,7 +1982,7 @@
       "phone": "970-245-0727",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -2076,7 +2079,7 @@
       "phone": "970-249-5960",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -2173,7 +2176,7 @@
       "phone": "970-468-8254",
       "website": "https://www.gtsanders.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.gtsanders.com/AboutUs",
       "brandsRep": [
         "A.Y. McDonald",
@@ -2899,7 +2902,7 @@
       "phone": "970-255-9015",
       "website": "https://company.winsupply.com/locations/grand-junction-winwater-works-co",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://company.winsupply.com/locations/grand-junction-winwater-works-co",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -2942,7 +2945,7 @@
       "phone": "970-625-8183",
       "website": "https://www.dnow.com",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.dnow.com",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -2985,7 +2988,7 @@
       "phone": "970-930-1500",
       "website": "https://www.cityelectricsupply.com/branchLocator",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -3028,7 +3031,7 @@
       "phone": "970-964-9950",
       "website": "https://www.cityelectricsupply.com/branchLocator",
       "email": null,
-      "hours": "",
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
       "brandsRep": [],
       "brandListType": "no published line card",
@@ -4404,7 +4407,7 @@
       "phone": "970-724-3550",
       "website": "https://www.doitbest.com",
       "email": null,
-      "hours": "Not shown",
+      "hours": "Mon-Fri 7:30 AM - 5:30 PM; Sat 8:00 AM - 4:00 PM; Sun 9:00 AM - 3:00 PM",
       "branchLocatorUrl": "https://www.doitbest.com/find-a-store/colorado/",
       "brandsRep": [],
       "brandListType": "no published line card",

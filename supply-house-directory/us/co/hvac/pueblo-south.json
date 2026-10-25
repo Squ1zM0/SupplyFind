@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-pueblo-galarson-santa-fe-001",
-      "name": "Gustave A. Larson – Pueblo",
+      "name": "Gustave A. Larson \u2013 Pueblo",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "210 S Santa Fe Ave",
@@ -72,7 +72,8 @@
       "arrivalLon": -104.60783,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     }
   ],
   "auditStatus": "pending_web_verification",

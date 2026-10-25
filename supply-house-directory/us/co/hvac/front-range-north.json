@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-fort-collins-galarson-redman-001",
-      "name": "Gustave A. Larson – Fort Collins",
+      "name": "Gustave A. Larson \u2013 Fort Collins",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "4036 Redman Dr, Suite 130",
@@ -72,7 +72,8 @@
       "arrivalLon": -105.012454,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "co-fortcollins-lennoxstores-academy-001",
@@ -129,7 +130,8 @@
       "arrivalLat": 40.596356,
       "arrivalLon": -105.051944,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "co-fort-collins-cfm-oakridge-001",
@@ -259,7 +261,8 @@
       "arrivalLon": -105.0585,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)"
+      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     }
   ],
   "auditStatus": "expanded",

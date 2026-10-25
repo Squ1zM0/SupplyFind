@@ -75,7 +75,8 @@
       "arrivalLat": 40.160836,
       "arrivalLon": -105.102854,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "rexel-longmont-3252",

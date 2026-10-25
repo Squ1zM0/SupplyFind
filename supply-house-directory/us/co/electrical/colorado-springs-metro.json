@@ -7,7 +7,7 @@
   "branches": [
     {
       "id": "cos-ced",
-      "name": "CED – Colorado Springs",
+      "name": "CED \u2013 Colorado Springs",
       "chain": "CED",
       "trade": "electrical",
       "city": "Colorado Springs",
@@ -139,7 +139,8 @@
       "arrivalLat": 38.910556,
       "arrivalLon": -104.792644,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
     },
     {
       "id": "rexel-colorado-springs-3224",
@@ -231,7 +232,7 @@
   ],
   "auditStatus": "expanded",
   "auditNotes": [
-    "Rounds 1–5 initialized for Electrical under strict storefront rules.",
+    "Rounds 1\u20135 initialized for Electrical under strict storefront rules.",
     "No storefronts were added in this pass because web verification (store locator + address + phone + map confirmation) has not yet been executed in this environment.",
     "Next step: web audit chain-by-chain (Graybar, Rexel/Platt, CED, Wesco/Anixter, Border States, City Electric Supply, Elliott Electric, etc.) then add only confirmed counter storefronts.",
     "Added confirmed electrical storefronts; coords pending verification.",

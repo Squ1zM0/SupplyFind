@@ -58,7 +58,8 @@
       "arrivalLat": 38.537835,
       "arrivalLon": -106.003346,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
     },
     {
       "id": "abc-plumbing-pueblo-spring",
@@ -112,7 +113,8 @@
       "arrivalLat": 38.268428,
       "arrivalLon": -104.610091,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM; Sat 10:00 AM - 2:00 PM"
     },
     {
       "id": "ferguson-plumbing-pueblo-s-santa-fe",

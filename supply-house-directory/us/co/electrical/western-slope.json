@@ -74,7 +74,8 @@
       "arrivalLat": 38.4908,
       "arrivalLon": -107.8762,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 5:00 AM - 5:00 PM"
     },
     {
       "id": "ced-craig-001",
@@ -142,7 +143,8 @@
       "arrivalLat": 40.511965,
       "arrivalLon": -107.554471,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
     },
     {
       "id": "ced-steamboat-springs-001",
@@ -210,7 +212,8 @@
       "arrivalLat": 40.48275,
       "arrivalLon": -106.8372,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "ced-gunnison-s10th-001",
@@ -571,7 +574,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "hours": "Mon-Thu 5:00 AM - 5:00 PM; Fri 5:00 AM - 4:00 PM"
     },
     {
       "id": "ced-glenwoodsprings-cr154-001",

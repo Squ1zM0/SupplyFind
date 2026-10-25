@@ -6,7 +6,7 @@
   "branches": [
     {
       "id": "co-grand-junction-galarson-north-ave-001",
-      "name": "Gustave A. Larson – Grand Junction",
+      "name": "Gustave A. Larson \u2013 Grand Junction",
       "chain": "Gustave A. Larson",
       "trade": "hvac",
       "address1": "2930 North Ave",
@@ -72,7 +72,8 @@
       "arrivalLon": -108.5454,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)"
+      "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
     },
     {
       "id": "co-durango-johnstone-girard-001",
@@ -676,7 +677,8 @@
       "arrivalLat": 37.2417,
       "arrivalLon": -107.8689,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 12:00 PM"
     },
     {
       "id": "co-grandjunction-sidharvey-i70-001",
@@ -869,7 +871,8 @@
       "arrivalLon": -108.5911,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)"
+      "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
     }
   ],
   "auditStatus": "expanded",
