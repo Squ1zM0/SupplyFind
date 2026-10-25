@@ -3092,7 +3092,10 @@
       "hours": "Mon-Fri 7:00 AM-5:00 PM; Sat 8:00 AM-12:00 PM",
       "lat": 39.67752,
       "lon": -105.00594,
-      "brandsRep": [],
+      "brandsRep": [
+        "American Standard",
+        "Arzel"
+      ],
       "partsFor": [
         "HVAC"
       ],
@@ -8455,7 +8458,14 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 4:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Englewood-CO/80110/Industrial-PVF-Supplies",
-      "brandsRep": [],
+      "brandsRep": [
+        "Aquatherm",
+        "Bell & Gossett",
+        "Mueller Steam",
+        "Nibco",
+        "Ridgid",
+        "Watts"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Englewood-CO/80110/Industrial-PVF-Supplies",
