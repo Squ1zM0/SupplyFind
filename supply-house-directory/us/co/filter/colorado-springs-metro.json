@@ -51,7 +51,8 @@
       "arrivalLon": -104.843316,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM",
+      "zip": "80907"
     },
     {
       "id": "air-force-filter-colorado-springs-elkton",
@@ -103,7 +104,8 @@
       "arrivalLon": -104.8464564,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "80907"
     }
   ]
 }

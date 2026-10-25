@@ -76,7 +76,8 @@
       "arrivalLon": -105.102854,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80501"
     },
     {
       "id": "rexel-longmont-3252",
@@ -163,7 +164,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Longmont/3252",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80504"
     },
     {
       "id": "ced-boulder-walnut-001",
@@ -264,7 +266,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "https://cedboulder.portalced.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80301"
     },
     {
       "id": "co-longmont-city-electric-supply-795-s-sherman-st-12-bldg-2a-new",
@@ -307,7 +310,8 @@
         "https://www.cityelectricsupply.com/branches/co/longmont/longmont"
       ],
       "lat": 40.150384,
-      "lon": -105.11763
+      "lon": -105.11763,
+      "zip": "80501"
     }
   ],
   "auditStatus": "expanded",

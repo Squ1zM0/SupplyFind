@@ -59,7 +59,8 @@
       "arrivalLon": -106.003346,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "81201"
     },
     {
       "id": "abc-plumbing-pueblo-spring",
@@ -114,7 +115,8 @@
       "arrivalLon": -104.610091,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 8:00 AM - 5:00 PM; Sat 10:00 AM - 2:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM; Sat 10:00 AM - 2:00 PM",
+      "zip": "81003"
     },
     {
       "id": "ferguson-plumbing-pueblo-s-santa-fe",
@@ -183,7 +185,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/pueblo/plumbingpvf-0113",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81006"
     },
     {
       "id": "pueblo-winnelson-ilex",
@@ -240,7 +243,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/Plumbing-Hydronic-Supplies",
       "spreadsheetSource": "https://www.winsupplyinc.com/Location/Pueblo-CO/81003/Plumbing-Hydronic-Supplies",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81003"
     }
   ],
   "auditNotes": [

@@ -75,7 +75,8 @@
       "arrivalLon": -107.8762,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 5:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 5:00 AM - 5:00 PM",
+      "zip": "81401"
     },
     {
       "id": "ced-craig-001",
@@ -144,7 +145,8 @@
       "arrivalLon": -107.554471,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "zip": "81625"
     },
     {
       "id": "ced-steamboat-springs-001",
@@ -213,7 +215,8 @@
       "arrivalLon": -106.8372,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80487"
     },
     {
       "id": "ced-gunnison-s10th-001",
@@ -312,7 +315,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "http://cedgunni.portalced.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81230"
     },
     {
       "id": "rexel-eagle-3203",
@@ -401,7 +405,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Eagle/3203",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81631"
     },
     {
       "id": "rexel-grand-junction-3213",
@@ -490,7 +495,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Grand-Junction/3213",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81505"
     },
     {
       "id": "rexel-montrose-3228",
@@ -575,7 +581,8 @@
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Thu 5:00 AM - 5:00 PM; Fri 5:00 AM - 4:00 PM"
+      "hours": "Mon-Thu 5:00 AM - 5:00 PM; Fri 5:00 AM - 4:00 PM",
+      "zip": "81401"
     },
     {
       "id": "ced-glenwoodsprings-cr154-001",
@@ -676,7 +683,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/co/-glenwood-springs/3204",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81601"
     }
   ],
   "auditStatus": "expanded",

@@ -54,7 +54,8 @@
       "arrivalLon": -105.048198,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 6:30 AM - 4:30 PM",
+      "zip": "80524"
     },
     {
       "id": "dahl-greeley-199-evans",
@@ -105,7 +106,8 @@
       "arrivalLon": -104.716384,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80620"
     },
     {
       "id": "dahl-loveland-11th-100",
@@ -171,7 +173,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.interiola.com/US/Loveland/177647982268741/Dahl-Loveland",
       "spreadsheetSource": "https://www.interiola.com/US/Loveland/177647982268741/Dahl-Loveland",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80537"
     }
   ],
   "auditNotes": [

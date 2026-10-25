@@ -73,7 +73,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "81003"
     }
   ],
   "auditStatus": "pending_web_verification",

@@ -49,7 +49,8 @@
       "arrivalLon": -105.049046,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 9:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 9:00 AM - 5:00 PM",
+      "zip": "80524"
     }
   ]
 }

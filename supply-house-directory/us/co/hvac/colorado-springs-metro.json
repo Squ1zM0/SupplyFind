@@ -73,7 +73,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80916"
     },
     {
       "id": "co-colorado-springs-cfm-buckingham-001",
@@ -204,7 +205,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80907"
     },
     {
       "id": "co-cosprings-tranesupply-list-001",
@@ -270,7 +272,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.tranesupply.com",
       "spreadsheetSource": "https://www.n49.com/biz/2105874/trane-supply-co-colorado-springs-4840-list-dr/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80919"
     }
   ],
   "auditStatus": "expanded",

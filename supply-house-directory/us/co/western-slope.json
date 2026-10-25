@@ -73,7 +73,8 @@
       "arrivalLon": -107.880653,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "81303"
     },
     {
       "id": "co-montrose-ferguson-plumbingpvf-1",
@@ -138,7 +139,8 @@
       "arrivalLon": -107.892914,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "81403"
     },
     {
       "id": "co-granby-ferguson-plumbing-supply-1",
@@ -202,7 +204,8 @@
       "arrivalLon": -105.9378,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:00 PM",
+      "zip": "80446"
     },
     {
       "id": "co-grand-junction-ced-1",
@@ -301,7 +304,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "https://gjced.portalced.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81501"
     },
     {
       "id": "co-grand-junction-city-electric-supply-1",
@@ -373,7 +377,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com",
       "spreadsheetSource": "https://www.cityelectricsupply.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81501"
     },
     {
       "id": "co-durango-ferguson-home-1",
@@ -444,7 +449,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/durango/plumbingpvf-0421",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81303"
     },
     {
       "id": "co-grand-junction-ferguson-plumbingpvf-1",
@@ -517,7 +523,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/grand+junction/plumbingpvf-1021",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81501"
     },
     {
       "id": "co-silverthorne-ferguson-plumbingpvf-1",
@@ -590,7 +597,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80498"
     },
     {
       "id": "co-grand-junction-keenan-dahl-supply-1",
@@ -654,7 +662,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://local.kohler.com/colorado/grand-junction/dahl-design-kitchen-bath-showroom-grand-junction/2398256",
       "spreadsheetSource": "https://local.kohler.com/colorado/grand-junction/dahl-design-kitchen-bath-showroom-grand-junction/2398256",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81505"
     },
     {
       "id": "co-ws-johnstone-002",
@@ -1257,7 +1266,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.johnstonesupply.com/manufacturer-list",
       "spreadsheetSource": "https://www.johnstonesupply.com/store542",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81504"
     },
     {
       "id": "co-grand-junction-blazer-electric-supply-555-25-rd-new",
@@ -1465,7 +1475,8 @@
         "https://www.miningstockeducation.com/2025/10/blazer-electric-supply-opens-new-branch-in-grand-junction/"
       ],
       "lat": 39.08499,
-      "lon": -108.5898
+      "lon": -108.5898,
+      "zip": "81505"
     },
     {
       "id": "co-grand-junction-ced-consolidated-electrical-distributors-2776-crossroads-blvd-new",
@@ -1571,7 +1582,8 @@
         "https://www.adapt.io/company/charles-d--jones-co"
       ],
       "lat": 39.45427,
-      "lon": -107.26125
+      "lon": -107.26125,
+      "zip": "81623"
     },
     {
       "id": "co-montrose-charles-d-jones-co-122-apollo-rd-new",
@@ -1634,7 +1646,8 @@
         "https://www.adapt.io/company/charles-d--jones-co"
       ],
       "lat": 38.46725,
-      "lon": -107.87643
+      "lon": -107.87643,
+      "zip": "81401"
     },
     {
       "id": "co-silverthorne-charles-d-jones-co-365-warren-ave-207-new",
@@ -1697,7 +1710,8 @@
         "https://www.adapt.io/company/charles-d--jones-co"
       ],
       "lat": 39.63015,
-      "lon": -106.07914
+      "lon": -106.07914,
+      "zip": "80498"
     },
     {
       "id": "co-durango-dahl-plumbing-supply-hajoca-182-girard-st-new",
@@ -1786,7 +1800,8 @@
         "https://www.bbb.org/us/co/glenwood-springs/profile/plumbing-supplies/dahl-plumbing-0805-46019379"
       ],
       "lat": 39.51718,
-      "lon": -107.3175
+      "lon": -107.3175,
+      "zip": "81601"
     },
     {
       "id": "co-grand-junction-fastenal-2765-riverside-pkwy-new",
@@ -1878,7 +1893,8 @@
       ],
       "fax": "(970) 243-5768",
       "lat": 39.06251,
-      "lon": -108.54053
+      "lon": -108.54053,
+      "zip": "81501"
     },
     {
       "id": "co-montrose-fastenal-2430-n-townsend-ave-new",
@@ -1970,7 +1986,8 @@
       ],
       "fax": "(970) 240-1646",
       "lat": 38.50269,
-      "lon": -107.9035
+      "lon": -107.9035,
+      "zip": "81401"
     },
     {
       "id": "co-grand-junction-george-t-sanders-company-2301-logos-drive-new",
@@ -2067,7 +2084,8 @@
       ],
       "fax": "970-245-2365",
       "lat": 39.11034,
-      "lon": -108.62587
+      "lon": -108.62587,
+      "zip": "81505"
     },
     {
       "id": "co-montrose-george-t-sanders-company-116-par-place-new",
@@ -2164,7 +2182,8 @@
       ],
       "fax": "970-249-6772",
       "lat": 38.48577,
-      "lon": -107.85752
+      "lon": -107.85752,
+      "zip": "81401"
     },
     {
       "id": "co-silverthorne-george-t-sanders-company-191-west-9th-street-new",
@@ -2261,7 +2280,8 @@
       ],
       "fax": "970-468-8258",
       "lat": 39.63951,
-      "lon": -106.07901
+      "lon": -106.07901,
+      "zip": "80498"
     },
     {
       "id": "co-grand-junction-hartline-supply-inc-2334-interstate-ave-new",
@@ -2662,7 +2682,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.05871,
-      "lon": -108.54857
+      "lon": -108.54857,
+      "zip": "81501"
     },
     {
       "id": "co-grand-junction-trane-supply-2387-river-road-110-new",
@@ -2710,7 +2731,8 @@
         "https://location.com/categories/contractors/co/grand-junction/en/trane-supply-2668215930"
       ],
       "lat": 39.092,
-      "lon": -108.61225
+      "lon": -108.61225,
+      "zip": "81505"
     },
     {
       "id": "co-durango-winsupply-of-durango-545-turner-dr-new",
@@ -2756,7 +2778,8 @@
         "https://www.winsupplyinc.com/Location/Durango-CO/81303/Plumbing-Hydronic-HVAC"
       ],
       "lat": 37.24401,
-      "lon": -107.87934
+      "lon": -107.87934,
+      "zip": "81303"
     },
     {
       "id": "co-grand-junction-grand-junction-winair-2764-winair-dr-new",
@@ -2802,7 +2825,8 @@
         "https://www.winsupplyinc.com/Location/Grand-Junction-CO/81501/HVAC-Supplies"
       ],
       "lat": 39.06113,
-      "lon": -108.54045
+      "lon": -108.54045,
+      "zip": "81501"
     },
     {
       "id": "co-craig-standard-plumbing-supply-445-center-st-new",
@@ -2847,7 +2871,8 @@
         "https://www.standardplumbing.com/locations/CR"
       ],
       "lat": 40.512858,
-      "lon": -107.530134
+      "lon": -107.530134,
+      "zip": "81625"
     },
     {
       "id": "co-delta-smc-electrical-18436-f-rd-new",
@@ -2890,7 +2915,8 @@
         "https://www.smcelectric.com/"
       ],
       "lat": 38.726442,
-      "lon": -108.015264
+      "lon": -108.015264,
+      "zip": "81416"
     },
     {
       "id": "co-grand-junction-winwater-works-2326-interstate-ave-new",
@@ -2933,7 +2959,8 @@
         "https://company.winsupply.com/locations/grand-junction-winwater-works-co"
       ],
       "lat": 39.11318,
-      "lon": -108.6217
+      "lon": -108.6217,
+      "zip": "81505"
     },
     {
       "id": "co-rifle-dnow-2009-airport-rd-new",
@@ -2976,7 +3003,8 @@
         "https://www.dnow.com"
       ],
       "lat": 39.52298,
-      "lon": -107.75705
+      "lon": -107.75705,
+      "zip": "81650"
     },
     {
       "id": "co-glenwood-springs-ces-2922-s-glen-ave-new",
@@ -3019,7 +3047,8 @@
         "https://www.cityelectricsupply.com/branchLocator"
       ],
       "lat": 39.52179,
-      "lon": -107.3208
+      "lon": -107.3208,
+      "zip": "81601"
     },
     {
       "id": "co-montrose-ces-2460-n-townsend-ave-new",
@@ -3062,7 +3091,8 @@
         "https://www.cityelectricsupply.com/branchLocator"
       ],
       "lat": 38.50306,
-      "lon": -107.90358
+      "lon": -107.90358,
+      "zip": "81401"
     },
     {
       "id": "co-aspen-ace-hardware-of-aspen-300-puppy-smith-st-new",
@@ -3105,7 +3135,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.19284,
-      "lon": -106.81901
+      "lon": -106.81901,
+      "zip": "81611"
     },
     {
       "id": "co-carbondale-ace-hardware-of-carbondale-1011-highway-133-new",
@@ -3148,7 +3179,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.40142,
-      "lon": -107.22052
+      "lon": -107.22052,
+      "zip": "81623"
     },
     {
       "id": "co-cedaredge-cedaredge-200-sw-2nd-st-new",
@@ -3191,7 +3223,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.89931,
-      "lon": -107.92581
+      "lon": -107.92581,
+      "zip": "81413"
     },
     {
       "id": "co-collbran-collbran-supply-inc-ace-203-main-st-new",
@@ -3234,7 +3267,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.23985,
-      "lon": -107.96125
+      "lon": -107.96125,
+      "zip": "81624"
     },
     {
       "id": "co-cortez-cortez-525-n-broadway-new",
@@ -3277,7 +3311,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.35436,
-      "lon": -108.58982
+      "lon": -108.58982,
+      "zip": "81321"
     },
     {
       "id": "co-craig-m-j-k-sales-and-feed-inc-ace-2315-w-1st-st-new",
@@ -3320,7 +3355,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.5071,
-      "lon": -107.5735
+      "lon": -107.5735,
+      "zip": "81625"
     },
     {
       "id": "co-crested-butte-crested-butte-17342-607-6th-street-new",
@@ -3363,7 +3399,8 @@
         "https://www.acehardware.com/store-details/17342"
       ],
       "lat": 38.86767,
-      "lon": -106.98119
+      "lon": -106.98119,
+      "zip": "81224"
     },
     {
       "id": "co-delta-delta-121-w-gunnison-river-dr-unit-1-new",
@@ -3406,7 +3443,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.74952,
-      "lon": -108.07093
+      "lon": -108.07093,
+      "zip": "81416"
     },
     {
       "id": "co-durango-durango-8-town-plz-new",
@@ -3449,7 +3487,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.27453,
-      "lon": -107.88189
+      "lon": -107.88189,
+      "zip": "81301"
     },
     {
       "id": "co-fraser-fraser-valley-ace-hardware-425-zerex-new",
@@ -3492,7 +3531,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.94834,
-      "lon": -105.81704
+      "lon": -105.81704,
+      "zip": "80442"
     },
     {
       "id": "co-fruita-ace-hardware-fruita-co-op-1650-highway-6-and-50-new",
@@ -3535,7 +3575,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.16287,
-      "lon": -108.74699
+      "lon": -108.74699,
+      "zip": "81521"
     },
     {
       "id": "co-glenwood-springs-glenwood-springs-2602-s-glen-ave-new",
@@ -3578,7 +3619,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.52619,
-      "lon": -107.32223
+      "lon": -107.32223,
+      "zip": "81601"
     },
     {
       "id": "co-granby-country-ace-hardware-12004-627-w-agate-ave-new",
@@ -3621,7 +3663,8 @@
         "https://www.acehardware.com/store-details/12004"
       ],
       "lat": 40.08751,
-      "lon": -105.95049
+      "lon": -105.95049,
+      "zip": "80446"
     },
     {
       "id": "co-grand-junction-ace-hardware-of-clifton-569-32-road-4-new",
@@ -3664,7 +3707,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.087271,
-      "lon": -108.462429
+      "lon": -108.462429,
+      "zip": "81504"
     },
     {
       "id": "co-gunnison-gunnison-17399-820-w-tomichi-ave-new",
@@ -3707,7 +3751,8 @@
         "https://www.acehardware.com/store-details/17399"
       ],
       "lat": 38.54492,
-      "lon": -106.93714
+      "lon": -106.93714,
+      "zip": "81230"
     },
     {
       "id": "co-gypsum-gypsum-220-cooley-mesa-rd-new",
@@ -3750,7 +3795,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.64351,
-      "lon": -106.89014
+      "lon": -106.89014,
+      "zip": "81637"
     },
     {
       "id": "co-meeker-meeker-401-e-market-st-new",
@@ -3793,7 +3839,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.03827,
-      "lon": -107.90161
+      "lon": -107.90161,
+      "zip": "81641"
     },
     {
       "id": "co-montrose-montrose-12251-22-s-townsend-ave-new",
@@ -3836,7 +3883,8 @@
         "https://www.acehardware.com/store-details/12251"
       ],
       "lat": 38.47813,
-      "lon": -107.87739
+      "lon": -107.87739,
+      "zip": "81401"
     },
     {
       "id": "co-norwood-ace-hardware-of-norwood-1920-grand-ave-new",
@@ -3879,7 +3927,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.13037,
-      "lon": -108.28497
+      "lon": -108.28497,
+      "zip": "81423"
     },
     {
       "id": "co-nucla-nucla-995-main-new",
@@ -3922,7 +3971,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.26201,
-      "lon": -108.54551
+      "lon": -108.54551,
+      "zip": "81424"
     },
     {
       "id": "co-palisade-ace-hardware-fruita-co-op-205-w-8th-st-new",
@@ -3965,7 +4015,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.10561,
-      "lon": -108.35167
+      "lon": -108.35167,
+      "zip": "81526"
     },
     {
       "id": "co-parachute-grand-valley-ace-hardware-71-sipprelle-dr-unit-4-new",
@@ -4008,7 +4059,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.44402,
-      "lon": -108.02438
+      "lon": -108.02438,
+      "zip": "81635"
     },
     {
       "id": "co-rangely-rangely-609-highway-64-w-new",
@@ -4051,7 +4103,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.08741,
-      "lon": -108.79701
+      "lon": -108.79701,
+      "zip": "81648"
     },
     {
       "id": "co-ridgway-ridgway-283-palomino-trl-new",
@@ -4094,7 +4147,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.15082,
-      "lon": -107.74705
+      "lon": -107.74705,
+      "zip": "81432"
     },
     {
       "id": "co-silverthorne-summit-county-ace-hardware-18749-209-summit-pl-new",
@@ -4137,7 +4191,8 @@
         "https://www.acehardware.com/store-details/18749"
       ],
       "lat": 39.62668,
-      "lon": -106.06468
+      "lon": -106.06468,
+      "zip": "80498"
     },
     {
       "id": "co-telluride-telluride-ace-hardware-200-e-colorado-ave-new",
@@ -4180,7 +4235,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.9367,
-      "lon": -107.80969
+      "lon": -107.80969,
+      "zip": "81435"
     },
     {
       "id": "co-lake-city-lake-city-310-bluff-st-new",
@@ -4223,7 +4279,8 @@
         "https://bluesprucelc.com"
       ],
       "lat": 38.02968,
-      "lon": -107.31783
+      "lon": -107.31783,
+      "zip": "81235"
     },
     {
       "id": "co-grand-junction-grand-junction-1838-n-12th-st-new",
@@ -4352,7 +4409,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 38.79883,
-      "lon": -107.72059
+      "lon": -107.72059,
+      "zip": "81419"
     },
     {
       "id": "co-ignacio-qis-supply-1100-goddard-ave-new",
@@ -4395,7 +4453,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 37.10882,
-      "lon": -107.63261
+      "lon": -107.63261,
+      "zip": "81137"
     },
     {
       "id": "co-kremmling-northwest-ranch-supply-100-central-ave-new",
@@ -4438,7 +4497,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 40.05973,
-      "lon": -106.39412
+      "lon": -106.39412,
+      "zip": "80459"
     },
     {
       "id": "co-grand-lake-grand-lake-700-grand-ave-po-box-589-new",
@@ -4479,7 +4539,8 @@
       "notes": "Hardware category (new 2026-10-24). Independent / unaffiliated hardware store. AFFILIATION UNRESOLVED: doitbest.com store page + subdomain + place records exist, but store is ABSENT from the current Do it Best Colorado locator (verified by text fetch AND live locator check Oct 24 2026, 29 stores) \u2014 listed under its own name, NOT counted as Do it Best",
       "sources": [],
       "lat": 40.25212,
-      "lon": -105.82427
+      "lon": -105.82427,
+      "zip": "80447"
     },
     {
       "id": "co-glenwood-springs-glenwood-springs-1905-215-w-meadows-dr-new",
@@ -4522,7 +4583,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.55638,
-      "lon": -107.34661
+      "lon": -107.34661,
+      "zip": "81601"
     },
     {
       "id": "co-grand-junction-grand-junction-1554-2525-rimrock-ave-new",
@@ -4565,7 +4627,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.07789,
-      "lon": -108.58508
+      "lon": -108.58508,
+      "zip": "81505"
     },
     {
       "id": "co-silverthorne-silverthorne-3206-201-buffalo-mountain-dr-new",
@@ -4608,7 +4671,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.62544,
-      "lon": -106.07443
+      "lon": -106.07443,
+      "zip": "80498"
     },
     {
       "id": "co-durango-durango-1534-1301-s-camino-del-rio-new",
@@ -4651,7 +4715,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 37.22411,
-      "lon": -107.85919
+      "lon": -107.85919,
+      "zip": "81303"
     },
     {
       "id": "co-grand-junction-grand-junction-1513-2436-f-rd-new",
@@ -4694,7 +4759,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.095635,
-      "lon": -108.600866
+      "lon": -108.600866,
+      "zip": "81505"
     },
     {
       "id": "co-montrose-montrose-1537-1401-ogden-rd-new",
@@ -4737,7 +4803,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 38.45226,
-      "lon": -107.86805
+      "lon": -107.86805,
+      "zip": "81401"
     },
     {
       "id": "co-aspen-miners-building-true-value-8631-319-e-main-st-new",
@@ -4780,7 +4847,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.19052,
-      "lon": -106.81985
+      "lon": -106.81985,
+      "zip": "81611"
     },
     {
       "id": "co-bayfield-lewis-true-value-mercantile-10011-311-bayfield-center-dr-new",
@@ -4823,7 +4891,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 37.23467,
-      "lon": -107.59995
+      "lon": -107.59995,
+      "zip": "81122"
     },
     {
       "id": "co-carbondale-roaring-fork-valley-coop-true-value-0760-hwy-133-new",
@@ -4866,7 +4935,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.40554,
-      "lon": -107.22051
+      "lon": -107.22051,
+      "zip": "81623"
     },
     {
       "id": "co-cortez-slavens-true-value-hardware-15268-237-w-main-st-new",
@@ -4909,7 +4979,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 37.34842,
-      "lon": -108.58872
+      "lon": -108.58872,
+      "zip": "81321"
     },
     {
       "id": "co-craig-samuelson-true-value-hardware-15128-456-breeze-st-new",
@@ -4952,7 +5023,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 40.51333,
-      "lon": -107.54873
+      "lon": -107.54873,
+      "zip": "81625"
     },
     {
       "id": "co-durango-ted-s-true-value-rental-999-college-dr-new",
@@ -4995,7 +5067,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 37.26813,
-      "lon": -107.86987
+      "lon": -107.86987,
+      "zip": "81301"
     },
     {
       "id": "co-fruita-fruita-true-value-1690-highway-6-50-new",
@@ -5038,7 +5111,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.16011,
-      "lon": -108.7411
+      "lon": -108.7411,
+      "zip": "81521"
     },
     {
       "id": "co-grand-junction-peach-tree-true-value-hardware-9252-2963-north-ave-new",
@@ -5081,7 +5155,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.07691,
-      "lon": -108.49921
+      "lon": -108.49921,
+      "zip": "81504"
     },
     {
       "id": "co-meeker-samuelson-true-value-meeker-16668-43900-highway-13-new",
@@ -5124,7 +5199,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 40.04619,
-      "lon": -107.87752
+      "lon": -107.87752,
+      "zip": "81641"
     },
     {
       "id": "co-olathe-olathe-true-value-hardware-9543-321-main-st-new",
@@ -5167,7 +5243,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.60649,
-      "lon": -107.9835
+      "lon": -107.9835,
+      "zip": "81425"
     },
     {
       "id": "co-ouray-ouray-true-value-hardware-mercantile-700-main-st-new",
@@ -5210,7 +5287,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.024,
-      "lon": -107.6717
+      "lon": -107.6717,
+      "zip": "81427"
     },
     {
       "id": "co-paonia-dependable-lumber-true-value-415-second-st-new",
@@ -5253,7 +5331,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.86684,
-      "lon": -107.59461
+      "lon": -107.59461,
+      "zip": "81428"
     },
     {
       "id": "co-rangely-rangely-true-value-4507-105-w-main-st-new",
@@ -5296,7 +5375,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 40.08739,
-      "lon": -108.80458
+      "lon": -108.80458,
+      "zip": "81648"
     },
     {
       "id": "co-ridgway-ridgway-true-value-hardware-276-s-lena-st-new",
@@ -5339,7 +5419,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.1506,
-      "lon": -107.75607
+      "lon": -107.75607,
+      "zip": "81432"
     },
     {
       "id": "co-silverton-silverton-hardware-740-greene-st-new",
@@ -5382,7 +5463,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 37.80791,
-      "lon": -107.66764
+      "lon": -107.66764,
+      "zip": "81433"
     }
   ],
   "auditStatus": "in_progress",

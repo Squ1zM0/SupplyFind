@@ -66,7 +66,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80112"
     },
     {
       "id": "co-aurora-rsd-lisbon-001",
@@ -131,7 +132,8 @@
       "arrivalLon": -104.77284,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80011"
     },
     {
       "id": "co-denver-cfm-lipan-001",
@@ -262,7 +264,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80223"
     },
     {
       "id": "co-centennial-sidharvey-revere-001",
@@ -336,7 +339,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.achrnews.com/articles/145492-meet-the-wholesaler-sid-harvey?v=preview",
       "spreadsheetSource": "http://www.sidharvey.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80112"
     },
     {
       "id": "co-denver-sidharvey-w6th-001",
@@ -410,7 +414,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.achrnews.com/articles/145492-meet-the-wholesaler-sid-harvey?v=preview",
       "spreadsheetSource": "https://www.thomasnet.com/company/sid-harvey-industries-inc-1185105/profile",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "co-englewood-tranesupply-inverness-001",
@@ -476,7 +481,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.tranesupply.com",
       "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80112"
     }
   ],
   "auditStatus": "expanded",

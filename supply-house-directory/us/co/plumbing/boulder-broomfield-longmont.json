@@ -54,7 +54,8 @@
       "arrivalLon": -105.246314,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80301"
     },
     {
       "id": "longmont-hughes-supply",
@@ -104,7 +105,8 @@
       "arrivalLon": -104.995223,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 6:30 AM - 4:30 PM",
+      "zip": "80504"
     },
     {
       "id": "winnelson-longmont-795-s-sherman-13",
@@ -161,7 +163,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Longmont-CO/80501/Plumbing-Supplies",
       "spreadsheetSource": "https://www.winsupplyinc.com/Location/Longmont-CO/80501/Plumbing-Supplies",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80501"
     }
   ],
   "auditNotes": [

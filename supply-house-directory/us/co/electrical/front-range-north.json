@@ -75,7 +75,8 @@
       "arrivalLon": -104.701,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80631"
     },
     {
       "id": "rexel-greeley-3255",
@@ -140,7 +141,8 @@
       "arrivalLon": -104.67776,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80631"
     },
     {
       "id": "rexel-ft-collins-7619",
@@ -205,7 +207,8 @@
       "arrivalLon": -105.042323,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM",
+      "zip": "80525"
     },
     {
       "id": "rexel-loveland-3214",
@@ -272,7 +275,8 @@
       "arrivalLon": -105.0389,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM",
+      "zip": "80538"
     },
     {
       "id": "newco-greeley-6th-001",
@@ -322,7 +326,8 @@
       "arrivalLon": -104.6852,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80631"
     },
     {
       "id": "ces-greeley-29th-001",
@@ -379,7 +384,8 @@
       "arrivalLon": -104.731545,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
+      "zip": "80631"
     },
     {
       "id": "borderstates-greeley-4th-001",
@@ -718,7 +724,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.borderstates.com/brands/Hubbell/TechSolutionPartners",
       "spreadsheetSource": "https://solutions.borderstates.com/locations/greeley-colorado/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80631"
     },
     {
       "id": "ced-fortcollins-sharp-001",
@@ -819,7 +826,8 @@
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "https://www.ced.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 6:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM",
+      "zip": "80525"
     },
     {
       "id": "ces-fort-collins-2415-mulberry",
@@ -907,7 +915,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com",
       "spreadsheetSource": "https://www.cityelectricsupply.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80524"
     },
     {
       "id": "crescent-electric-fort-collins-1404-magnolia",
@@ -969,7 +978,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.crescentelectric.com",
       "spreadsheetSource": "https://www.crescentelectric.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80524"
     },
     {
       "id": "elliott-electric-fort-collins-3942-automation",
@@ -1197,7 +1207,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "http://www.elliottelectric.com/linesheet.aspx",
       "spreadsheetSource": "https://www.elliottelectric.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80525"
     }
   ],
   "auditStatus": "expanded",

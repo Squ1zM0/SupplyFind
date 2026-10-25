@@ -52,7 +52,8 @@
       "arrivalLon": -104.701077,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:30 AM - 4:00 PM"
+      "hours": "Mon-Fri 6:30 AM - 4:00 PM",
+      "zip": "80915"
     },
     {
       "id": "abc-plumbing-cos-fillmore",
@@ -107,7 +108,8 @@
       "arrivalLon": -104.812823,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 8:00 AM - 5:30 PM; Sat 8:00 AM - 2:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:30 PM; Sat 8:00 AM - 2:00 PM",
+      "zip": "80907"
     },
     {
       "id": "dahl-castle-rock-perry",
@@ -167,7 +169,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
       "spreadsheetSource": "https://www.loc8nearme.com/colorado/castle-rock/castle-rock/2875755/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80104"
     },
     {
       "id": "dahl-colorado-springs-sinton",
@@ -257,7 +260,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://dahlplumbing.com/wp-content/uploads/sites/13/2016/01/Colorado-Springs-Showroom-Linecard_Final.pdf",
       "spreadsheetSource": "https://www.dahlcospringskitchenandbath.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80907"
     },
     {
       "id": "ferguson-plumbing-cos-northpark",
@@ -327,7 +331,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/colorado+springs/plumbingpvf-0270",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80918"
     }
   ],
   "auditNotes": [

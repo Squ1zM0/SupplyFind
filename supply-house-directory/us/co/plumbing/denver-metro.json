@@ -56,7 +56,8 @@
       "arrivalLon": -104.8675,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "zip": "80238"
     },
     {
       "id": "denver-flink-plumbing",
@@ -161,7 +162,8 @@
       "arrivalLon": -104.996172,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM; Sat 8:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM; Sat 8:00 AM - 12:00 PM",
+      "zip": "80223"
     },
     {
       "id": "denver-great-western-pipe-forest",
@@ -223,7 +225,8 @@
       "arrivalLon": -104.944144,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "80207"
     },
     {
       "id": "dahl-denver-s-santa-fe",
@@ -283,7 +286,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://dahldenver.com",
       "spreadsheetSource": "https://dahldenver.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "denver-winnelson-2nd-ave",
@@ -341,7 +345,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
       "spreadsheetSource": "https://www.winsupplyinc.com/Location/Denver-CO/80223/Plumbing-Supplies",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "ferguson-plumbing-arvada-sheridan-001",
@@ -411,7 +416,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/arvada/plumbingpvf-1805",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80003"
     },
     {
       "id": "ferguson-plumbing-littleton-grant",
@@ -476,7 +482,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/littleton/plumbingpvf-0110",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80122"
     },
     {
       "id": "ferguson-plumbing-sheridan-oxford",
@@ -541,7 +548,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/sheridan/plumbingpvf-2635",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80110"
     },
     {
       "id": "ferguson-showroom-aurora-25th-001",
@@ -606,7 +614,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/valves/gate-valves/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/aurora/waterworks-1116",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80011"
     },
     {
       "id": "hughes-denver-bryant-st",
@@ -660,7 +669,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.tranesupply.com",
       "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "martz-denver-53rd-pl",
@@ -719,7 +729,8 @@
       "brandSourceUrl": "https://local.kohler.com/",
       "spreadsheetSource": "https://local.kohler.com/",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80216"
     }
   ],
   "auditNotes": [

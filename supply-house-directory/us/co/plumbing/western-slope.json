@@ -68,7 +68,7 @@
       "address2": "",
       "city": "Durango",
       "state": "CO",
-      "postalCode": "81301",
+      "postalCode": "81303",
       "phone": "(970) 385-4446",
       "website": "https://dahlplumbing.com/durango/",
       "lat": 37.24005,
@@ -171,7 +171,8 @@
       "arrivalLon": -108.58541,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 1:00 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 1:00 PM",
+      "zip": "81321"
     },
     {
       "id": "co-avon-dahl-plumbing-1",
@@ -234,7 +235,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "http://www.dahlplumbing.com/avon",
       "spreadsheetSource": "http://www.dahlplumbing.com/avon",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81620"
     },
     {
       "id": "co-montrose-dahl-plumbing-1",
@@ -297,7 +299,8 @@
       "brandSourceUrl": "https://www.dahlmontroseshowroom.com/",
       "spreadsheetSource": "https://www.dahlmontroseshowroom.com/",
       "spreadsheetDateVerified": "2026-10-24",
-      "branchType": "closure flag - MapQuest lists Hajoca Corp at this address permanently closed, verify before relying (included per Fred no-compromises instruction)"
+      "branchType": "closure flag - MapQuest lists Hajoca Corp at this address permanently closed, verify before relying (included per Fred no-compromises instruction)",
+      "zip": "81401"
     },
     {
       "id": "co-glenwood-springs-ferguson-plumbing-1",
@@ -367,7 +370,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/glenwood+springs/plumbingpvf-2705",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81601"
     },
     {
       "id": "co-grand-junction-winnelson-1",
@@ -426,7 +430,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Grand-Junction-CO/81502/Plumbing-Hydronic-Supplies",
       "spreadsheetSource": "https://www.winsupplyinc.com/Location/Grand-Junction-CO/81502/Plumbing-Hydronic-Supplies",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81501"
     }
   ],
   "auditStatus": "expanded",

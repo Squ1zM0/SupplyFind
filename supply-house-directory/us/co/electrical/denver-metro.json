@@ -76,7 +76,8 @@
       "arrivalLon": -104.8772,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM",
+      "zip": "80238"
     },
     {
       "id": "elliott-electric-denver-10070-e-40th",
@@ -299,7 +300,8 @@
       "arrivalLon": -104.868543,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 6:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
+      "zip": "80238"
     },
     {
       "id": "ces-denver-boulder-001",
@@ -361,7 +363,8 @@
       "arrivalLon": -105.248718,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
+      "zip": "80301"
     },
     {
       "id": "borderstates-brighton-havana-001",
@@ -699,7 +702,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.borderstates.com/brands/Hubbell/TechSolutionPartners",
       "spreadsheetSource": "https://solutions.borderstates.com/locations/brighton-colorado/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80601"
     },
     {
       "id": "ces-broomfield-001",
@@ -769,7 +773,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com",
       "spreadsheetSource": "https://www.cityelectricsupply.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80020"
     },
     {
       "id": "elliott-electric-centennial-15152-fremont",
@@ -996,7 +1001,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.inddist.com/mergers-acquisitions/news/22005644/hvac-plumbing-distributor-marcone-acquires-munchs-supply-professional-plumbing-group",
       "spreadsheetSource": "https://mergr.com/comfort-air-distributing-acquired-by-munch-s-supply",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80112"
     },
     {
       "id": "rexel-centennial-7611",
@@ -1083,7 +1089,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Centennial/7611",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80112"
     },
     {
       "id": "kva-supply-denver-11198-e-45th",
@@ -1312,7 +1319,8 @@
       "brandSourceUrl": "https://www.omniapartners.com/site-files/user_upload/Wesco_Brands_OMNIA_2025.pdf",
       "spreadsheetSource": "https://www.wesco.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80239"
     },
     {
       "id": "co-castle-rock-city-electric-supply-1416-park-st-new",
@@ -1355,7 +1363,8 @@
         "https://www.cityelectricsupply.com/branches/co/castle-rock/castle-rock"
       ],
       "lat": 39.383825,
-      "lon": -104.866652
+      "lon": -104.866652,
+      "zip": "80109"
     }
   ],
   "auditStatus": "expanded",

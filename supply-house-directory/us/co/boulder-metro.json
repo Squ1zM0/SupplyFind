@@ -62,7 +62,8 @@
       "arrivalLon": -105.069544,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80020"
     },
     {
       "id": "co-longmont-winair-001",
@@ -112,7 +113,8 @@
       "arrivalLon": -105.11206,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80501"
     },
     {
       "id": "co-longmont-ferguson-hvac-001",
@@ -187,7 +189,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80504"
     },
     {
       "id": "co-louisville-uri-001",
@@ -277,7 +280,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.uri.com/INTERSHOP/web/WFS/URI-URIUS-Site/en_US/-/USD/ViewPage-AboutUs",
       "spreadsheetSource": "http://www.uri.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80027"
     },
     {
       "id": "co-boulder-boulder-winnelson-winsupply-3777-pearl-st-new",
@@ -321,7 +325,8 @@
         "https://www.winsupplyinc.com/Location/Boulder-CO/80301/Plumbing-Hydronic-Supplies"
       ],
       "lat": 40.02481,
-      "lon": -105.24623
+      "lon": -105.24623,
+      "zip": "80301"
     },
     {
       "id": "co-boulder-charles-d-jones-co-4635-nautilus-ct-s-unit-b-new",
@@ -384,7 +389,8 @@
         "https://www.adapt.io/company/charles-d--jones-co"
       ],
       "lat": 40.05913,
-      "lon": -105.20414
+      "lon": -105.20414,
+      "zip": "80301"
     },
     {
       "id": "co-longmont-fastenal-1461-skyway-dr-new",
@@ -476,7 +482,8 @@
       ],
       "fax": "303/776-1841",
       "lat": 40.15843,
-      "lon": -105.02786
+      "lon": -105.02786,
+      "zip": "80504"
     },
     {
       "id": "co-louisville-george-t-sanders-company-437-south-arthur-avenue-new",
@@ -573,7 +580,8 @@
       ],
       "fax": "303-926-8861",
       "lat": 39.96389,
-      "lon": -105.12491
+      "lon": -105.12491,
+      "zip": "80027"
     },
     {
       "id": "co-broomfield-qed-sonepar-1785-w-160th-ave-suite-100-new",
@@ -884,7 +892,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.98786,
-      "lon": -105.01179
+      "lon": -105.01179,
+      "zip": "80023"
     },
     {
       "id": "co-boulder-mcguckin-hardware-16605-2525-arapahoe-ave-new",
@@ -927,7 +936,8 @@
         "https://www.acehardware.com/store-details/16605"
       ],
       "lat": 40.01557,
-      "lon": -105.26164
+      "lon": -105.26164,
+      "zip": "80302"
     },
     {
       "id": "co-broomfield-broomfield-ace-hardware-1100-us-highway-287-unit-500-new",
@@ -970,7 +980,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.93172,
-      "lon": -105.0891
+      "lon": -105.0891,
+      "zip": "80020"
     },
     {
       "id": "co-longmont-ace-hardware-longmont-1727-main-st-new",
@@ -1013,7 +1024,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.19007,
-      "lon": -105.10408
+      "lon": -105.10408,
+      "zip": "80501"
     },
     {
       "id": "co-louisville-coal-creek-ace-hardware-1343-e-south-boulder-rd-new",
@@ -1056,7 +1068,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.98824,
-      "lon": -105.12662
+      "lon": -105.12662,
+      "zip": "80027"
     },
     {
       "id": "co-nederland-indian-peaks-ace-hardware-74-hwy-119-s-1450-new",
@@ -1099,7 +1112,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.96287,
-      "lon": -105.50943
+      "lon": -105.50943,
+      "zip": "80466"
     },
     {
       "id": "co-longmont-longmont-780-boston-ave-new",
@@ -1149,7 +1163,8 @@
         "https://budgethomesupply.com"
       ],
       "lat": 40.15867,
-      "lon": -105.10566
+      "lon": -105.10566,
+      "zip": "80501"
     },
     {
       "id": "co-longmont-hygiene-feed-mercantile-7455-hygiene-rd-new",
@@ -1192,7 +1207,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 40.18859,
-      "lon": -105.17922
+      "lon": -105.17922,
+      "zip": "80503"
     },
     {
       "id": "co-longmont-longmont-1874-355-ken-pratt-blvd-new",
@@ -1235,7 +1251,8 @@
         "https://www.lowes.com"
       ],
       "lat": 40.15052,
-      "lon": -105.0992
+      "lon": -105.0992,
+      "zip": "80501"
     },
     {
       "id": "co-boulder-boulder-1546-1600-29th-st-new",
@@ -1278,7 +1295,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 40.01604,
-      "lon": -105.2549
+      "lon": -105.2549,
+      "zip": "80301"
     },
     {
       "id": "co-broomfield-broomfield-1524-12171-sheridan-blvd-new",
@@ -1321,7 +1339,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.91665,
-      "lon": -105.05692
+      "lon": -105.05692,
+      "zip": "80020"
     },
     {
       "id": "co-longmont-longmont-1521-393-s-hover-rd-new",
@@ -1364,7 +1383,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 40.16891,
-      "lon": -105.13102
+      "lon": -105.13102,
+      "zip": "80501"
     },
     {
       "id": "co-louisville-louisville-1506-1200-w-dillon-rd-new",
@@ -1407,7 +1427,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.96109,
-      "lon": -105.16928
+      "lon": -105.16928,
+      "zip": "80027"
     }
   ]
 }

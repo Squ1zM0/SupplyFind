@@ -73,7 +73,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "81504"
     },
     {
       "id": "co-durango-johnstone-girard-001",
@@ -678,7 +679,8 @@
       "arrivalLon": -107.8689,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM; Sat 9:00 AM - 12:00 PM",
+      "zip": "81303"
     },
     {
       "id": "co-grand-junction-cfm-westgate-001",
@@ -809,7 +811,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "rep/distributor office - walk-in counter status unproven (included per Fred no-compromises instruction; Fred decision D1)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "81505"
     }
   ],
   "auditStatus": "expanded",

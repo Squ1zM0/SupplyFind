@@ -164,7 +164,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Pueblo/3223",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81001"
     },
     {
       "id": "wesco-pueblo-115-s-main",
@@ -389,7 +390,8 @@
       "brandSourceUrl": "https://www.omniapartners.com/site-files/user_upload/Wesco_Brands_OMNIA_2025.pdf",
       "spreadsheetSource": "https://www.wesco.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "zip": "81003"
     }
   ],
   "auditStatus": "expanded",

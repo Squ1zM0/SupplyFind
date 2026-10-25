@@ -62,7 +62,8 @@
       "arrivalLon": -105.014744,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 8:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "zip": "80221"
     },
     {
       "id": "co-denver-galarson-washington-001",
@@ -126,7 +127,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "distributor - walk-in counter status to confirm (included per Fred no-compromises instruction; Fred decision D2)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80216"
     },
     {
       "id": "co-denver-lohmiller-osage-001",
@@ -175,7 +177,8 @@
       "arrivalLon": -105.006744,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80221"
     },
     {
       "id": "co-denver-lennoxstores-001",
@@ -223,7 +226,8 @@
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "80221"
     },
     {
       "id": "co-aurora-lennoxstores-001",
@@ -271,7 +275,8 @@
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "80011"
     },
     {
       "id": "co-centennial-comfortair-002",
@@ -323,7 +328,8 @@
       "arrivalLon": -104.797744,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80112"
     },
     {
       "id": "co-centennial-rsd-001",
@@ -386,7 +392,8 @@
       "arrivalLon": -104.8276,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80112"
     },
     {
       "id": "co-denver-electrical-anixter-denver-10432-e-49th",
@@ -442,7 +449,8 @@
       "arrivalLon": -104.8655,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM",
+      "zip": "80238"
     },
     {
       "id": "co-denver-sdi-oneida-001",
@@ -542,7 +550,8 @@
       "arrivalLon": -104.999444,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 3:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 3:30 PM",
+      "zip": "80216"
     },
     {
       "id": "co-denver-electrical-border-states-denver-5475-joliet",
@@ -882,7 +891,8 @@
       "brandSourceUrl": "https://www.borderstates.com/brands/Hubbell/TechSolutionPartners",
       "spreadsheetSource": "https://www.borderstates.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80239"
     },
     {
       "id": "co-denver-electrical-ced-denver-2405-w-5th",
@@ -983,7 +993,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.ced.com",
       "spreadsheetSource": "http://denver.portalced.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "co-denver-electrical-ces-denver-central-2630-w-2nd",
@@ -1059,7 +1070,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com",
       "spreadsheetSource": "https://www.cityelectricsupply.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80219"
     },
     {
       "id": "co-denver-comfortair-001",
@@ -1118,7 +1130,8 @@
       "brandSourceUrl": "https://www.inddist.com/mergers-acquisitions/news/22005644/hvac-plumbing-distributor-marcone-acquires-munchs-supply-professional-plumbing-group",
       "spreadsheetSource": "https://www.cityof.com/co/denver/comfort-air-distributing-inc-3113706",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80238"
     },
     {
       "id": "co-denver-electrical-crescent-electric-denver-5925-washington",
@@ -1184,7 +1197,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.crescentelectric.com",
       "spreadsheetSource": "https://www.crescentelectric.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80216"
     },
     {
       "id": "co-denver-ferguson-denver-0383",
@@ -1254,7 +1268,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.ferguson.com/category/plumbing-parts-supplies/",
       "spreadsheetSource": "https://www.ferguson.com/store/co/denver/plumbingpvf-0383",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "co-denver-electrical-graybar-denver-area-service-center-480-e-55th",
@@ -1449,7 +1464,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://res.cloudinary.com/dngevqko7/image/upload/v1770689898/graybar-gsa-line-card.pdf",
       "spreadsheetSource": "https://www.graybar.com/store-finder",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80216"
     },
     {
       "name": "Hercules Industries (HQ) - Denver",
@@ -1507,7 +1523,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.herculesindustries.com/about",
       "spreadsheetSource": "https://www.herculesindustries.com/about",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "co-denver-johnstone-7th-001",
@@ -2111,7 +2128,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.johnstonesupply.com/manufacturer-list",
       "spreadsheetSource": "https://www.johnstonesupply.com/store5",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "name": "Lennox Stores - Centennial",
@@ -2174,7 +2192,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.lennox.com/about/",
       "spreadsheetSource": "https://www.lennoxpros.com/stores/location/colorado-springs",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80112"
     },
     {
       "id": "co-denver-rsd-osage-001",
@@ -2232,7 +2251,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.lohmillercompany.com/wp-content/uploads/2024/09/LMLinecard-2024.pdf",
       "spreadsheetSource": "https://www.lohmillercompany.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80221"
     },
     {
       "id": "co-englewood-lohmiller-concord-001",
@@ -2338,7 +2358,8 @@
       "brandSourceUrl": "https://www.lohmillercompany.com/wp-content/uploads/2024/09/LMLinecard-2024.pdf",
       "spreadsheetSource": "http://firstco.com/locate/",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 9:00 AM - 6:00 PM"
+      "hours": "Mon-Fri 9:00 AM - 6:00 PM",
+      "zip": "80112"
     },
     {
       "id": "co-denver-electrical-qed-denver-1661-w-3rd",
@@ -2661,7 +2682,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://susacdn.azureedge.net/qed/Docs/e732d0f2-bb2d-41e6-ade8-4140e5ef48ba.pdf?t=2025-04-07T15%3A16%3A00",
       "spreadsheetSource": "https://www.qedelectric.com/about/location/denver",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "co-denver-rampart-001",
@@ -2725,7 +2747,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rampartsupply.com/",
       "spreadsheetSource": "https://www.rampartsupply.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "co-denver-electrical-rexel-denver-east-11175-e-55th",
@@ -2814,7 +2837,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Denver/3217",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80239"
     },
     {
       "id": "co-denver-electrical-rexel-denver-425-quivas",
@@ -2903,7 +2927,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com",
       "spreadsheetSource": "https://www.rexelusa.com/locations/CO/Denver/7325",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "co-denver-tranesupply-denver-bryant-001",
@@ -2961,7 +2986,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.tranesupply.com",
       "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80204"
     },
     {
       "id": "co-denver-uri-pecos-001",
@@ -3049,7 +3075,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.uri.com/INTERSHOP/web/WFS/URI-URIUS-Site/en_US/-/USD/ViewPage-AboutUs",
       "spreadsheetSource": "http://www.uri.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "name": "Denver Winair",
@@ -3114,7 +3141,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "Line card not publicly published - call branch to confirm",
       "spreadsheetSource": "https://www.denverwinair.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80223"
     },
     {
       "id": "co-denver-northwinair-76th-001",
@@ -3175,7 +3203,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.mapquest.com/us/colorado/longmont-winair-277402322",
       "spreadsheetSource": "https://www.winsupplyinc.com/Location/Denver-CO/80229/HVAC-Supplies",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80229"
     },
     {
       "id": "co-denver-baker-distributing-company-700-w-mississippi-ave-suite-c1-new",
@@ -3262,7 +3291,8 @@
         "https://cednorthdenver.portalced.com/"
       ],
       "lat": 39.79346,
-      "lon": -104.97724
+      "lon": -104.97724,
+      "zip": "80216"
     },
     {
       "id": "co-centennial-charles-d-jones-co-9750-e-easter-ave-160-new",
@@ -3325,7 +3355,8 @@
         "https://www.adapt.io/company/charles-d--jones-co"
       ],
       "lat": 39.58576,
-      "lon": -104.87584
+      "lon": -104.87584,
+      "zip": "80112"
     },
     {
       "id": "co-denver-charles-d-jones-co-4900-osage-st-suite-100-new",
@@ -3388,7 +3419,8 @@
         "https://cdjones.com/advancedwebpage.aspx?cmspage=request-account"
       ],
       "lat": 39.78679,
-      "lon": -105.00377
+      "lon": -105.00377,
+      "zip": "80221"
     },
     {
       "id": "co-denver-city-electric-supply-6425-washington-st-new",
@@ -3431,7 +3463,8 @@
         "https://www.cityelectricsupply.com"
       ],
       "lat": 39.81307,
-      "lon": -104.97886
+      "lon": -104.97886,
+      "zip": "80229"
     },
     {
       "id": "co-denver-city-electric-supply-1610-w-evans-ave-new",
@@ -3582,7 +3615,8 @@
         "https://lifestyle.travelshq.com/story/657284/colorado-air-filter-llc-highlights-growing-demand-for-custom-air-filtration-solutions-across-commercial-industries/"
       ],
       "lat": 39.79779,
-      "lon": -104.98334
+      "lon": -104.98334,
+      "zip": "80216"
     },
     {
       "id": "co-commerce-city-crescent-electric-supply-17195-e-85th-ave-new",
@@ -3781,7 +3815,8 @@
       ],
       "fax": "(303) 853-4117",
       "lat": 39.78459,
-      "lon": -104.99344
+      "lon": -104.99344,
+      "zip": "80216"
     },
     {
       "id": "co-denver-fastenal-12330-e-46th-ave-new",
@@ -3872,7 +3907,8 @@
         "https://www.fastenal.com"
       ],
       "lat": 39.77807,
-      "lon": -104.84422
+      "lon": -104.84422,
+      "zip": "80239"
     },
     {
       "id": "co-evans-fastenal-1104-42nd-st-new",
@@ -3964,7 +4000,8 @@
       ],
       "fax": "970/353-3011",
       "lat": 40.3698,
-      "lon": -104.69869
+      "lon": -104.69869,
+      "zip": "80620"
     },
     {
       "id": "co-fort-lupton-fastenal-510-n-denver-ave-new",
@@ -4055,7 +4092,8 @@
         "https://www.fastenal.com"
       ],
       "lat": 40.08439,
-      "lon": -104.81025
+      "lon": -104.81025,
+      "zip": "80621"
     },
     {
       "id": "co-golden-fastenal-701-pine-ridge-rd-1-new",
@@ -4147,7 +4185,8 @@
       ],
       "fax": "(303) 278-7381",
       "lat": 39.77836,
-      "lon": -105.23285
+      "lon": -105.23285,
+      "zip": "80403"
     },
     {
       "id": "co-lafayette-fastenal-1218-commerce-ct-new",
@@ -4239,7 +4278,8 @@
       ],
       "fax": "(303) 666-8543",
       "lat": 39.97979,
-      "lon": -105.07407
+      "lon": -105.07407,
+      "zip": "80026"
     },
     {
       "id": "co-westminster-fastenal-10855-dover-st-ste-1100-1200-new",
@@ -4331,7 +4371,8 @@
       ],
       "fax": "303-469-3060",
       "lat": 39.89413,
-      "lon": -105.09495
+      "lon": -105.09495,
+      "zip": "80021"
     },
     {
       "id": "co-thornton-ferguson-plumbing-supply-14827-grant-street-building-6-new",
@@ -4389,7 +4430,8 @@
         "https://www.ferguson.com/store/co/thornton/plumbingpvf-1739"
       ],
       "lat": 39.96585,
-      "lon": -104.98194
+      "lon": -104.98194,
+      "zip": "80023"
     },
     {
       "id": "co-centennial-geary-pacific-supply-6840-s-quentin-st-suite-140-new",
@@ -4546,7 +4588,8 @@
       ],
       "fax": "303-292-7357",
       "lat": 39.80384,
-      "lon": -104.98852
+      "lon": -104.98852,
+      "zip": "80216"
     },
     {
       "id": "co-eagle-geary-pacific-supply-827-chambers-ave-new",
@@ -4625,7 +4668,8 @@
       ],
       "fax": "970-328-0728",
       "lat": 39.66331,
-      "lon": -106.82112
+      "lon": -106.82112,
+      "zip": "81631"
     },
     {
       "id": "co-berthoud-george-t-sanders-company-2257-1st-street-new",
@@ -4722,7 +4766,8 @@
       ],
       "fax": "970-532-4116",
       "lat": 40.33137,
-      "lon": -105.07504
+      "lon": -105.07504,
+      "zip": "80513"
     },
     {
       "id": "co-brighton-george-t-sanders-company-726-baseline-place-new",
@@ -4819,7 +4864,8 @@
       ],
       "fax": "303-654-0712",
       "lat": 40.00082,
-      "lon": -104.81258
+      "lon": -104.81258,
+      "zip": "80603"
     },
     {
       "id": "co-centennial-george-t-sanders-company-9950-e-easter-ave-suite-b-new",
@@ -4915,7 +4961,8 @@
         "https://www.gtsanders.com"
       ],
       "lat": 39.58739,
-      "lon": -104.8733
+      "lon": -104.8733,
+      "zip": "80112"
     },
     {
       "id": "co-denver-george-t-sanders-company-1910-south-quebec-street-new",
@@ -5012,7 +5059,8 @@
       ],
       "fax": "303-751-7620",
       "lat": 39.68183,
-      "lon": -104.90285
+      "lon": -104.90285,
+      "zip": "80231"
     },
     {
       "id": "co-englewood-george-t-sanders-company-3259-s-platte-river-drive-new",
@@ -5204,7 +5252,8 @@
         "https://www.gtsanders.com"
       ],
       "lat": 39.86905,
-      "lon": -104.88538
+      "lon": -104.88538,
+      "zip": "80640"
     },
     {
       "id": "co-littleton-george-t-sanders-company-8040-brandon-drive-new",
@@ -5301,7 +5350,8 @@
       ],
       "fax": "303-791-5072",
       "lat": 39.54335,
-      "lon": -105.03701
+      "lon": -105.03701,
+      "zip": "80125"
     },
     {
       "id": "co-pagosa-springs-george-t-sanders-company-31-goldmine-drive-new",
@@ -5398,7 +5448,8 @@
       ],
       "fax": "970-731-1905",
       "lat": 37.26856,
-      "lon": -107.02976
+      "lon": -107.02976,
+      "zip": "81147"
     },
     {
       "id": "co-wheat-ridge-george-t-sanders-company-10201-west-49th-avenue-new",
@@ -5495,7 +5546,8 @@
       ],
       "fax": "303-940-5290",
       "lat": 39.78621,
-      "lon": -105.11283
+      "lon": -105.11283,
+      "zip": "80033"
     },
     {
       "id": "co-denver-grainger-95-s-tejon-st-new",
@@ -5594,7 +5646,8 @@
         "https://www.grainger.com"
       ],
       "lat": 39.71523,
-      "lon": -105.0126
+      "lon": -105.0126,
+      "zip": "80223"
     },
     {
       "id": "co-denver-grainger-4885-paris-st-new",
@@ -5693,7 +5746,8 @@
         "https://www.grainger.com"
       ],
       "lat": 39.78544,
-      "lon": -104.84978
+      "lon": -104.84978,
+      "zip": "80239"
     },
     {
       "id": "co-denver-grainger-6935-broadway-new",
@@ -5736,7 +5790,8 @@
         "https://www.grainger.com"
       ],
       "lat": 39.82181,
-      "lon": -104.98787
+      "lon": -104.98787,
+      "zip": "80221"
     },
     {
       "id": "co-denver-hercules-industries-4690-florence-st-new",
@@ -5783,7 +5838,8 @@
         "https://www.herculesindustries.com/"
       ],
       "lat": 39.78199,
-      "lon": -104.87194
+      "lon": -104.87194,
+      "zip": "80238"
     },
     {
       "id": "co-denver-hercules-industries-490-e-52nd-ave-110-new",
@@ -5883,7 +5939,8 @@
         "https://www.lennoxpros.com/stores/location/colorado-springs"
       ],
       "lat": 39.7999,
-      "lon": -105.00639
+      "lon": -105.00639,
+      "zip": "80221"
     },
     {
       "id": "co-johnstown-lohmiller-company-dba-carrier-west-3867-ronald-reagan-blvd-new",
@@ -5981,7 +6038,8 @@
         "https://reviews.birdeye.com/carrier-west-166976884475694"
       ],
       "lat": 40.4043,
-      "lon": -104.96162
+      "lon": -104.96162,
+      "zip": "80534"
     },
     {
       "id": "co-denver-m-n-plumbing-supply-company-1325-e-58th-ave-new",
@@ -6343,7 +6401,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.73824,
-      "lon": -104.74231
+      "lon": -104.74231,
+      "zip": "80018"
     },
     {
       "id": "co-centennial-qed-sonepar-7000-s-jordan-rd-new",
@@ -6654,7 +6713,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.58963,
-      "lon": -104.81715
+      "lon": -104.81715,
+      "zip": "80112"
     },
     {
       "id": "co-greenwood-village-qed-sonepar-9670-e-arapahoe-rd-new",
@@ -6965,7 +7025,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.59471,
-      "lon": -104.87694
+      "lon": -104.87694,
+      "zip": "80112"
     },
     {
       "id": "co-littleton-qed-sonepar-3395-carder-court-new",
@@ -7276,7 +7337,8 @@
         "http://qedelectric.com/about/locations"
       ],
       "lat": 39.55157,
-      "lon": -105.03411
+      "lon": -105.03411,
+      "zip": "80129"
     },
     {
       "id": "co-denver-reece-hvac-4800-e-48th-ave-new",
@@ -7745,7 +7807,8 @@
       ],
       "fax": "(303) 659-8598",
       "lat": 39.98519,
-      "lon": -104.73456
+      "lon": -104.73456,
+      "zip": "80603"
     },
     {
       "id": "co-denver-wholesale-specialties-4800-e-48th-ave-new",
@@ -7791,7 +7854,8 @@
       ],
       "fax": "(303) 296-2536",
       "lat": 39.78281,
-      "lon": -104.93007
+      "lon": -104.93007,
+      "zip": "80216"
     },
     {
       "id": "co-centennial-winnelson-winsupply-6800-s-dawson-cir-ste-103-new",
@@ -7839,7 +7903,8 @@
         "https://company.winsupply.com/locations/parker-winnelson-co"
       ],
       "lat": 39.59315,
-      "lon": -104.81676
+      "lon": -104.81676,
+      "zip": "80112"
     },
     {
       "id": "co-denver-winnelson-winsupply-480-e-76th-ave-bldg-5b-new",
@@ -7883,7 +7948,8 @@
         "https://www.winsupplyinc.com/Location/Denver-CO/80229/Plumbing-Supplies"
       ],
       "lat": 39.8318,
-      "lon": -104.98188
+      "lon": -104.98188,
+      "zip": "80229"
     },
     {
       "id": "co-brighton-city-electric-supply-736-baseline-pl-unit-b-new",
@@ -7919,7 +7985,8 @@
       "sources": [],
       "lat": 40.00094,
       "lon": -104.81352,
-      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
+      "zip": "80603"
     },
     {
       "id": "co-aurora-aurora-winnelson-15102-e-moncrieff-pl-new",
@@ -7962,7 +8029,8 @@
         "https://www.winsupplyinc.com/Location/Aurora-CO/80011/Plumbing-Supplies"
       ],
       "lat": 39.76188,
-      "lon": -104.81181
+      "lon": -104.81181,
+      "zip": "80011"
     },
     {
       "id": "co-castle-rock-castle-rock-winnelson-1758-park-st-ste-a-new",
@@ -8005,7 +8073,8 @@
         "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Plumbing-Supplies"
       ],
       "lat": 39.38659,
-      "lon": -104.86824
+      "lon": -104.86824,
+      "zip": "80109"
     },
     {
       "id": "co-denver-northglenn-winlectric-500-e-76th-ave-unit-a-new",
@@ -8048,7 +8117,8 @@
         "https://www.winsupplyinc.com/Location/Denver-CO/80229/Electrical-supplies"
       ],
       "lat": 39.83359,
-      "lon": -104.98143
+      "lon": -104.98143,
+      "zip": "80229"
     },
     {
       "id": "co-commerce-city-denver-winwater-8331-pontiac-st-new",
@@ -8091,7 +8161,8 @@
         "http://denverwinwater.com/"
       ],
       "lat": 39.84746,
-      "lon": -104.90655
+      "lon": -104.90655,
+      "zip": "80022"
     },
     {
       "id": "co-castle-rock-castle-pines-winwater-1419-park-st-new",
@@ -8134,7 +8205,8 @@
         "https://www.winsupplyinc.com/Location/Castle-Rock-CO/80109/Waterworks-Supplies"
       ],
       "lat": 39.38393,
-      "lon": -104.86743
+      "lon": -104.86743,
+      "zip": "80109"
     },
     {
       "id": "co-denver-winsupply-fire-protection-4790-paris-st-new",
@@ -8177,7 +8249,8 @@
         "https://www.winsupplyinc.com/Location/Denver-CO/80216/Fire-Sprinkler-Supplies"
       ],
       "lat": 39.784485,
-      "lon": -104.848284
+      "lon": -104.848284,
+      "zip": "80216"
     },
     {
       "id": "co-commerce-city-denver-windustrial-4830-monaco-st-new",
@@ -8220,7 +8293,8 @@
         "https://www.winsupplyinc.com/Location/Commerce-City-CO/80022/Hydronic-Industrial-Pipe-and-Supplies"
       ],
       "lat": 39.78442,
-      "lon": -104.91239
+      "lon": -104.91239,
+      "zip": "80022"
     },
     {
       "id": "co-denver-south-denver-windustrial-500-e-76th-ave-unit-c-new",
@@ -8263,7 +8337,8 @@
         "https://www.winsupplyinc.com/Location/Englewood-CO/80110/Industrial-PVF-Supplies"
       ],
       "lat": 39.83359,
-      "lon": -104.98143
+      "lon": -104.98143,
+      "zip": "80229"
     },
     {
       "id": "co-denver-airpro-3875-elm-st-new",
@@ -8310,7 +8385,8 @@
         "https://airpro.net/"
       ],
       "lat": 39.77089,
-      "lon": -104.92974
+      "lon": -104.92974,
+      "zip": "80011"
     },
     {
       "id": "co-denver-cochrane-supply-700-w-mississippi-ave-new",
@@ -8414,7 +8490,8 @@
         "https://www.cochranesupply.com/"
       ],
       "lat": 39.69633,
-      "lon": -104.99604
+      "lon": -104.99604,
+      "zip": "80223"
     },
     {
       "id": "co-denver-crum-electric-6260-washington-st-new",
@@ -8457,7 +8534,8 @@
         "https://www.crum.com/"
       ],
       "lat": 39.81057,
-      "lon": -104.97633
+      "lon": -104.97633,
+      "zip": "80216"
     },
     {
       "id": "co-denver-denver-breaker-4901-ironton-st-new",
@@ -8504,7 +8582,8 @@
         "http://www.denverbreaker.com/"
       ],
       "lat": 39.7861,
-      "lon": -104.86384
+      "lon": -104.86384,
+      "zip": "80239"
     },
     {
       "id": "co-aurora-george-t-sanders-2250-airport-blvd-new",
@@ -8704,7 +8783,8 @@
         "http://cedcentennial.portalced.com/"
       ],
       "lat": 39.58972,
-      "lon": -104.81948
+      "lon": -104.81948,
+      "zip": "80112"
     },
     {
       "id": "co-littleton-ces-7595-shaffer-pkwy-new",
@@ -8747,7 +8827,8 @@
         "https://www.cityelectricsupply.com/branchLocator"
       ],
       "lat": 39.57855,
-      "lon": -105.13798
+      "lon": -105.13798,
+      "zip": "80127"
     },
     {
       "id": "co-centennial-ces-denver-south-7039-s-jordan-rd-new",
@@ -8790,7 +8871,8 @@
         "https://www.cityelectricsupply.com/branchLocator"
       ],
       "lat": 39.58825,
-      "lon": -104.81758
+      "lon": -104.81758,
+      "zip": "80112"
     },
     {
       "id": "co-arvada-ace-hardware-arvada-10000-ralston-rd-new",
@@ -8833,7 +8915,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.80776,
-      "lon": -105.11028
+      "lon": -105.11028,
+      "zip": "80004"
     },
     {
       "id": "co-arvada-ace-hardware-at-westwoods-15530-w-64th-ave-ste-g-new",
@@ -8876,7 +8959,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.81041,
-      "lon": -105.17347
+      "lon": -105.17347,
+      "zip": "80007"
     },
     {
       "id": "co-aurora-ace-hardware-arapahoe-crossing-6514-s-parker-rd-new",
@@ -8919,7 +9003,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.59861,
-      "lon": -104.80138
+      "lon": -104.80138,
+      "zip": "80016"
     },
     {
       "id": "co-aurora-ace-hardware-saddle-rock-7420-s-gartrell-rd-unit-b-new",
@@ -8962,7 +9047,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.58051,
-      "lon": -104.7226
+      "lon": -104.7226,
+      "zip": "80016"
     },
     {
       "id": "co-aurora-ace-hardware-buckley-sq-17190-e-iliff-ave-new",
@@ -9005,7 +9091,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.67246,
-      "lon": -104.78834
+      "lon": -104.78834,
+      "zip": "80013"
     },
     {
       "id": "co-bailey-moore-lumber-ace-hardware-paint-10551-5195-county-road-64-new",
@@ -9048,7 +9135,8 @@
         "https://www.acehardware.com/store-details/10551"
       ],
       "lat": 39.40628,
-      "lon": -105.47821
+      "lon": -105.47821,
+      "zip": "80421"
     },
     {
       "id": "co-bennett-moore-lumber-ace-hardware-bennett-10914-1555-s-1st-street-new",
@@ -9091,7 +9179,8 @@
         "https://www.acehardware.com/store-details/10914"
       ],
       "lat": 39.73616,
-      "lon": -104.43425
+      "lon": -104.43425,
+      "zip": "80102"
     },
     {
       "id": "co-berthoud-berthoud-ace-hardware-525-3rd-st-new",
@@ -9134,7 +9223,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.30564,
-      "lon": -105.07883
+      "lon": -105.07883,
+      "zip": "80513"
     },
     {
       "id": "co-brighton-agfinity-inc-55-w-bromley-ln-new",
@@ -9177,7 +9267,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.97285,
-      "lon": -104.82327
+      "lon": -104.82327,
+      "zip": "80601"
     },
     {
       "id": "co-castle-rock-moore-lumber-ace-hardware-castle-rock-1335-park-st-new",
@@ -9220,7 +9311,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.38301,
-      "lon": -104.86705
+      "lon": -104.86705,
+      "zip": "80109"
     },
     {
       "id": "co-centennial-big-tool-box-8080-s-holly-st-new",
@@ -9263,7 +9355,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.57187,
-      "lon": -104.92216
+      "lon": -104.92216,
+      "zip": "80122"
     },
     {
       "id": "co-commerce-city-ace-hardware-at-reunion-15181-east-104th-ave-new",
@@ -9306,7 +9399,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.88754,
-      "lon": -104.81073
+      "lon": -104.81073,
+      "zip": "80022"
     },
     {
       "id": "co-commerce-city-commerce-city-ace-hardware-6900-eudora-dr-new",
@@ -9349,7 +9443,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.82216,
-      "lon": -104.92981
+      "lon": -104.92981,
+      "zip": "80022"
     },
     {
       "id": "co-conifer-moore-lumber-ace-hardware-paint-26572-barkley-rd-new",
@@ -9392,7 +9487,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.5367,
-      "lon": -105.30392
+      "lon": -105.30392,
+      "zip": "80433"
     },
     {
       "id": "co-denver-12th-avenue-ace-hardware-2640-e-12th-ave-new",
@@ -9435,7 +9531,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.73502,
-      "lon": -104.95536
+      "lon": -104.95536,
+      "zip": "80206"
     },
     {
       "id": "co-denver-9th-avenue-ace-hardware-1030-e-9th-ave-new",
@@ -9478,7 +9575,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.73031,
-      "lon": -104.97453
+      "lon": -104.97453,
+      "zip": "80218"
     },
     {
       "id": "co-denver-ace-hardware-15th-st-1040-15th-st-new",
@@ -9521,7 +9619,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.74666,
-      "lon": -104.99675
+      "lon": -104.99675,
+      "zip": "80202"
     },
     {
       "id": "co-denver-ace-hardware-58th-ave-401-e-58th-ave-new",
@@ -9564,7 +9663,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.8032,
-      "lon": -104.98241
+      "lon": -104.98241,
+      "zip": "80216"
     },
     {
       "id": "co-denver-ace-hardware-at-the-highlands-3758-osage-st-new",
@@ -9607,7 +9707,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.76911,
-      "lon": -105.00506
+      "lon": -105.00506,
+      "zip": "80211"
     },
     {
       "id": "co-denver-ace-on-the-fax-7100-e-colfax-ave-new",
@@ -9650,7 +9751,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.73999,
-      "lon": -104.90514
+      "lon": -104.90514,
+      "zip": "80220"
     },
     {
       "id": "co-denver-chamber-s-place-ace-hardware-4830-chambers-rd-new",
@@ -9693,7 +9795,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.78454,
-      "lon": -104.80782
+      "lon": -104.80782,
+      "zip": "80239"
     },
     {
       "id": "co-denver-cherry-creek-ace-hardware-16593-1417-s-holly-st-new",
@@ -9736,7 +9839,8 @@
         "https://www.acehardware.com/store-details/16593"
       ],
       "lat": 39.69068,
-      "lon": -104.92278
+      "lon": -104.92278,
+      "zip": "80222"
     },
     {
       "id": "co-denver-jerry-s-ace-hardware-at-city-park-2101-n-humboldt-st-new",
@@ -9779,7 +9883,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.74852,
-      "lon": -104.96989
+      "lon": -104.96989,
+      "zip": "80205"
     },
     {
       "id": "co-denver-mile-high-ace-hardware-garden-2800-w-104th-ave-new",
@@ -9822,7 +9927,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.88329,
-      "lon": -105.02134
+      "lon": -105.02134,
+      "zip": "80234"
     },
     {
       "id": "co-denver-perl-mack-ace-hardware-00685-7041-pecos-st-new",
@@ -9865,7 +9971,8 @@
         "https://www.acehardware.com/store-details/00685"
       ],
       "lat": 39.82464,
-      "lon": -105.00668
+      "lon": -105.00668,
+      "zip": "80221"
     },
     {
       "id": "co-denver-tamarac-square-ace-hardware-08484-3333-s-tamarac-dr-new",
@@ -9908,7 +10015,8 @@
         "https://www.acehardware.com/store-details/08484"
       ],
       "lat": 39.65629,
-      "lon": -104.90093
+      "lon": -104.90093,
+      "zip": "80231"
     },
     {
       "id": "co-denver-university-hills-ace-hdw-2500-s-colorado-blvd-new",
@@ -9951,7 +10059,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.67048,
-      "lon": -104.93936
+      "lon": -104.93936,
+      "zip": "80222"
     },
     {
       "id": "co-edgewater-ace-hardware-sloan-s-lake-11439-1719-sheridan-blvd-new",
@@ -9994,7 +10103,8 @@
         "https://www.acehardware.com/store-details/11439"
       ],
       "lat": 39.74423,
-      "lon": -105.05604
+      "lon": -105.05604,
+      "zip": "80214"
     },
     {
       "id": "co-englewood-a-a-ace-hardware-4509-s-broadway-new",
@@ -10037,7 +10147,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.63461,
-      "lon": -104.98822
+      "lon": -104.98822,
+      "zip": "80113"
     },
     {
       "id": "co-evergreen-evergreen-ace-hardware-paint-1153-bergen-pkwy-space-o-new",
@@ -10080,7 +10191,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.69381,
-      "lon": -105.3573
+      "lon": -105.3573,
+      "zip": "80439"
     },
     {
       "id": "co-fort-lupton-ace-hdw-of-fort-lupton-201-s-rollie-ave-new",
@@ -10123,7 +10235,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.07868,
-      "lon": -104.8058
+      "lon": -104.8058,
+      "zip": "80621"
     },
     {
       "id": "co-golden-golden-ace-hardware-17720-s-golden-rd-new",
@@ -10166,7 +10279,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.74065,
-      "lon": -105.20078
+      "lon": -105.20078,
+      "zip": "80401"
     },
     {
       "id": "co-greenwood-village-ace-hardware-cherry-hills-marketplace-14516-5910-s-university-suite-a-17-new",
@@ -10209,7 +10323,8 @@
         "https://www.acehardware.com/store-details/14516"
       ],
       "lat": 39.60819,
-      "lon": -104.95837
+      "lon": -104.95837,
+      "zip": "80121"
     },
     {
       "id": "co-highlands-ranch-ace-hardware-highlands-ranch-9579-s-university-blvd-100-st-new",
@@ -10252,7 +10367,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.54255,
-      "lon": -104.94016
+      "lon": -104.94016,
+      "zip": "80126"
     },
     {
       "id": "co-johnstown-johnstown-ace-hardware-9-s-parish-ave-new",
@@ -10295,7 +10411,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 40.33571,
-      "lon": -104.90596
+      "lon": -104.90596,
+      "zip": "80534"
     },
     {
       "id": "co-lakewood-ace-hardware-jewell-sq-7777-w-jewell-ave-1b-new",
@@ -10338,7 +10455,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.68366,
-      "lon": -105.08473
+      "lon": -105.08473,
+      "zip": "80232"
     },
     {
       "id": "co-lakewood-green-mountain-ace-hardware-12035-w-alameda-pkwy-new",
@@ -10381,7 +10499,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.71024,
-      "lon": -105.13508
+      "lon": -105.13508,
+      "zip": "80228"
     },
     {
       "id": "co-lakewood-lake-ridge-ace-hardware-2563-kipling-st-new",
@@ -10424,7 +10543,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.75387,
-      "lon": -105.11027
+      "lon": -105.11027,
+      "zip": "80215"
     },
     {
       "id": "co-littleton-chatfield-ace-hardware-8214-south-kipling-new",
@@ -10467,7 +10587,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.56673,
-      "lon": -105.10808
+      "lon": -105.10808,
+      "zip": "80127"
     },
     {
       "id": "co-littleton-columbine-ace-hardware-6720-s-pierce-st-new",
@@ -10510,7 +10631,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.5936,
-      "lon": -105.07091
+      "lon": -105.07091,
+      "zip": "80128"
     },
     {
       "id": "co-littleton-kipling-ace-hardware-5914-s-kipling-pkwy-new",
@@ -10553,7 +10675,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.60926,
-      "lon": -105.10799
+      "lon": -105.10799,
+      "zip": "80127"
     },
     {
       "id": "co-littleton-littleton-ace-hardware-151-west-mineral-ste-100-new",
@@ -10596,7 +10719,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.57543,
-      "lon": -104.98939
+      "lon": -104.98939,
+      "zip": "80120"
     },
     {
       "id": "co-pagosa-springs-pagosa-springs-525-navajo-trail-dr-new",
@@ -10639,7 +10763,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.25093,
-      "lon": -107.0855
+      "lon": -107.0855,
+      "zip": "81147"
     },
     {
       "id": "co-parker-big-tool-box-19850-cockriel-drive-new",
@@ -10682,7 +10807,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.49039,
-      "lon": -104.75864
+      "lon": -104.75864,
+      "zip": "80134"
     },
     {
       "id": "co-pine-moore-lumber-ace-hardware-pine-15638-186-mount-evans-blvd-new",
@@ -10725,7 +10851,8 @@
         "https://www.acehardware.com/store-details/15638"
       ],
       "lat": 39.46733,
-      "lon": -105.39875
+      "lon": -105.39875,
+      "zip": "80470"
     },
     {
       "id": "co-thornton-thornton-ace-hardware-3851-e-120th-ave-new",
@@ -10768,7 +10895,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.91623,
-      "lon": -104.94327
+      "lon": -104.94327,
+      "zip": "80233"
     },
     {
       "id": "co-westminster-hidden-lakes-ace-hardware-5005-w-72nd-ave-new",
@@ -10811,7 +10939,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.82857,
-      "lon": -105.05143
+      "lon": -105.05143,
+      "zip": "80030"
     },
     {
       "id": "co-westminster-standley-shores-ace-hardware-9979-wadsworth-pkwy-suite-200-new",
@@ -10854,7 +10983,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 39.87614,
-      "lon": -105.09735
+      "lon": -105.09735,
+      "zip": "80021"
     },
     {
       "id": "co-aurora-strait-lumber-company-11150-e-colfax-ave-new",
@@ -10897,7 +11027,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 39.73989,
-      "lon": -104.85784
+      "lon": -104.85784,
+      "zip": "80010"
     },
     {
       "id": "co-centennial-adams-lumber-company-6720-s-jordan-rd-new",
@@ -10940,7 +11071,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 39.59403,
-      "lon": -104.81962
+      "lon": -104.81962,
+      "zip": "80112"
     },
     {
       "id": "co-englewood-front-range-building-supply-3390-s-zuni-st-new",
@@ -10983,7 +11115,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 39.65525,
-      "lon": -105.01549
+      "lon": -105.01549,
+      "zip": "80110"
     },
     {
       "id": "co-wheat-ridge-jordan-s-building-center-5000-ward-rd-new",
@@ -11026,7 +11159,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 39.78738,
-      "lon": -105.1374
+      "lon": -105.1374,
+      "zip": "80033"
     },
     {
       "id": "co-arvada-arvada-0340-5405-wadsworth-bypass-new",
@@ -11069,7 +11203,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.79554,
-      "lon": -105.08041
+      "lon": -105.08041,
+      "zip": "80002"
     },
     {
       "id": "co-aurora-aurora-havana-0102-1701-s-havana-st-new",
@@ -11112,7 +11247,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.6847,
-      "lon": -104.86798
+      "lon": -104.86798,
+      "zip": "80012"
     },
     {
       "id": "co-aurora-e-aurora-wheatlands-2780-24505-e-wheatlands-pkwy-new",
@@ -11155,7 +11291,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.59777,
-      "lon": -104.70333
+      "lon": -104.70333,
+      "zip": "80016"
     },
     {
       "id": "co-aurora-s-e-aurora-buckley-1730-4455-s-buckley-rd-new",
@@ -11198,7 +11335,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.63577,
-      "lon": -104.79317
+      "lon": -104.79317,
+      "zip": "80015"
     },
     {
       "id": "co-brighton-brighton-2479-4980-e-bromley-ln-new",
@@ -11241,7 +11379,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.96917,
-      "lon": -104.75783
+      "lon": -104.75783,
+      "zip": "80601"
     },
     {
       "id": "co-castle-rock-castle-rock-2274-1360-new-beale-st-new",
@@ -11284,7 +11423,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.41188,
-      "lon": -104.87626
+      "lon": -104.87626,
+      "zip": "80108"
     },
     {
       "id": "co-greenwood-village-greenwood-village-0311-9100-e-peakview-ave-new",
@@ -11327,7 +11467,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.59785,
-      "lon": -104.88378
+      "lon": -104.88378,
+      "zip": "80111"
     },
     {
       "id": "co-lakewood-n-lakewood-colfax-1903-10555-w-colfax-ave-new",
@@ -11370,7 +11511,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.7404,
-      "lon": -105.11634
+      "lon": -105.11634,
+      "zip": "80215"
     },
     {
       "id": "co-littleton-lakewood-1630-5258-s-wadsworth-blvd-new",
@@ -11413,7 +11555,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.6214,
-      "lon": -105.08829
+      "lon": -105.08829,
+      "zip": "80123"
     },
     {
       "id": "co-littleton-littleton-santa-fe-2419-5095-s-santa-fe-dr-new",
@@ -11456,7 +11599,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.62562,
-      "lon": -105.01358
+      "lon": -105.01358,
+      "zip": "80120"
     },
     {
       "id": "co-northglenn-northglenn-0246-261-w-104th-ave-new",
@@ -11499,7 +11643,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.88559,
-      "lon": -104.99014
+      "lon": -104.99014,
+      "zip": "80234"
     },
     {
       "id": "co-parker-parker-1755-10000-s-twenty-mile-rd-new",
@@ -11542,7 +11687,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.53561,
-      "lon": -104.77424
+      "lon": -104.77424,
+      "zip": "80134"
     },
     {
       "id": "co-westminster-n-westminster-2432-13650-orchard-pkwy-new",
@@ -11585,7 +11731,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.94453,
-      "lon": -104.99068
+      "lon": -104.99068,
+      "zip": "80023"
     },
     {
       "id": "co-westminster-westminster-1989-5600-w-88th-ave-new",
@@ -11628,7 +11775,8 @@
         "https://www.lowes.com"
       ],
       "lat": 39.85491,
-      "lon": -105.05744
+      "lon": -105.05744,
+      "zip": "80031"
     },
     {
       "id": "co-arvada-arvada-1502-5215-wadsworth-blvd-new",
@@ -11671,7 +11819,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.79242,
-      "lon": -105.0829
+      "lon": -105.0829,
+      "zip": "80002"
     },
     {
       "id": "co-aurora-aurora-1501-14001-e-mississippi-ave-new",
@@ -11714,7 +11863,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.6983,
-      "lon": -104.82492
+      "lon": -104.82492,
+      "zip": "80012"
     },
     {
       "id": "co-aurora-north-aurora-1551-3475-n-salida-ct-new",
@@ -11757,7 +11907,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.76223,
-      "lon": -104.77738
+      "lon": -104.77738,
+      "zip": "80011"
     },
     {
       "id": "co-aurora-pioneer-hills-aurora-1523-5600-s-chambers-rd-new",
@@ -11800,7 +11951,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.61638,
-      "lon": -104.81167
+      "lon": -104.81167,
+      "zip": "80015"
     },
     {
       "id": "co-aurora-saddlerock-aurora-1528-6000-s-gun-club-rd-new",
@@ -11843,7 +11995,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.60685,
-      "lon": -104.71582
+      "lon": -104.71582,
+      "zip": "80016"
     },
     {
       "id": "co-brighton-brighton-1547-2440-buckley-rd-new",
@@ -11886,7 +12039,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.95165,
-      "lon": -104.78719
+      "lon": -104.78719,
+      "zip": "80601"
     },
     {
       "id": "co-castle-rock-castle-rock-1531-333-w-allen-st-new",
@@ -11929,7 +12083,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.41562,
-      "lon": -104.86561
+      "lon": -104.86561,
+      "zip": "80108"
     },
     {
       "id": "co-denver-bear-valley-denver-1520-3130-s-sheridan-blvd-new",
@@ -11972,7 +12127,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.65469,
-      "lon": -105.04925
+      "lon": -105.04925,
+      "zip": "80227"
     },
     {
       "id": "co-denver-denver-sw-crestline-1507-7990-w-crestline-ave-new",
@@ -12015,7 +12171,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.61752,
-      "lon": -105.08552
+      "lon": -105.08552,
+      "zip": "80123"
     },
     {
       "id": "co-denver-santa-fe-denver-1505-500-s-santa-fe-dr-new",
@@ -12058,7 +12215,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.70699,
-      "lon": -104.99407
+      "lon": -104.99407,
+      "zip": "80223"
     },
     {
       "id": "co-denver-stapleton-denver-1532-3870-quebec-st-new",
@@ -12101,7 +12259,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.77035,
-      "lon": -104.90116
+      "lon": -104.90116,
+      "zip": "80207"
     },
     {
       "id": "co-evergreen-evergreen-1535-1014-el-rancho-rd-new",
@@ -12144,7 +12303,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.69909,
-      "lon": -105.32644
+      "lon": -105.32644,
+      "zip": "80439"
     },
     {
       "id": "co-glendale-glendale-1526-860-s-colorado-blvd-new",
@@ -12187,7 +12347,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.70112,
-      "lon": -104.93719
+      "lon": -104.93719,
+      "zip": "80246"
     },
     {
       "id": "co-golden-golden-1522-16900-w-colfax-ave-new",
@@ -12230,7 +12391,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.72246,
-      "lon": -105.1901
+      "lon": -105.1901,
+      "zip": "80401"
     },
     {
       "id": "co-greenwood-village-greenwood-village-1509-9401-e-arapahoe-rd-new",
@@ -12273,7 +12435,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.59754,
-      "lon": -104.87909
+      "lon": -104.87909,
+      "zip": "80112"
     },
     {
       "id": "co-highlands-ranch-highlands-ranch-1540-1200-mayberry-dr-new",
@@ -12316,7 +12479,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.54526,
-      "lon": -105.001
+      "lon": -105.001,
+      "zip": "80129"
     },
     {
       "id": "co-lakewood-lakewood-alameda-1514-6701-w-alameda-ave-new",
@@ -12359,7 +12523,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.71203,
-      "lon": -105.06999
+      "lon": -105.06999,
+      "zip": "80226"
     },
     {
       "id": "co-lakewood-lakewood-north-colfax-1550-7200-w-colfax-ave-new",
@@ -12402,7 +12567,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.73928,
-      "lon": -105.0778
+      "lon": -105.0778,
+      "zip": "80214"
     },
     {
       "id": "co-littleton-littleton-belleview-1519-3000-w-belleview-ave-new",
@@ -12445,7 +12611,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.62313,
-      "lon": -105.02462
+      "lon": -105.02462,
+      "zip": "80123"
     },
     {
       "id": "co-lone-tree-park-meadows-lone-tree-1508-8477-s-yosemite-ave-new",
@@ -12488,7 +12655,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.56235,
-      "lon": -104.88385
+      "lon": -104.88385,
+      "zip": "80124"
     },
     {
       "id": "co-morrison-jefferson-county-morrison-1549-4277-s-eldridge-st-new",
@@ -12531,7 +12699,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.63626,
-      "lon": -105.16044
+      "lon": -105.16044,
+      "zip": "80465"
     },
     {
       "id": "co-parker-parker-1516-11111-s-parker-rd-new",
@@ -12574,7 +12743,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.51438,
-      "lon": -104.76585
+      "lon": -104.76585,
+      "zip": "80134"
     },
     {
       "id": "co-thornton-north-thornton-1548-16420-washington-st-new",
@@ -12617,7 +12787,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.99477,
-      "lon": -104.97408
+      "lon": -104.97408,
+      "zip": "80023"
     },
     {
       "id": "co-thornton-thornton-grant-1503-10003-grant-st-new",
@@ -12660,7 +12831,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.88042,
-      "lon": -104.98602
+      "lon": -104.98602,
+      "zip": "80229"
     },
     {
       "id": "co-westminster-westminster-1517-7125-w-88th-ave-new",
@@ -12703,7 +12875,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 39.85819,
-      "lon": -105.07657
+      "lon": -105.07657,
+      "zip": "80021"
     },
     {
       "id": "co-commerce-city-younger-bros-lumber-hardware-true-value-16811-6350-e-72nd-pl-new",
@@ -12746,7 +12919,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.82806,
-      "lon": -104.91385
+      "lon": -104.91385,
+      "zip": "80022"
     },
     {
       "id": "co-denver-denver-true-value-hardware-6420-e-colfax-ave-new",
@@ -12789,7 +12963,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.7398,
-      "lon": -104.91364
+      "lon": -104.91364,
+      "zip": "80220"
     },
     {
       "id": "co-elizabeth-true-value-elizabeth-175-w-kiowa-ave-new",
@@ -12832,7 +13007,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 39.36219,
-      "lon": -104.60113
+      "lon": -104.60113,
+      "zip": "80107"
     },
     {
       "id": "co-aurora-aurora-17851-e-40th-ave-ste-100-new",
@@ -12873,7 +13049,8 @@
       "notes": "Hardware category (new 2026-10-24). Lowe's Pro Supply branch (pro-focused, not a Lowe's retail store) \u2014 added per Fred's decision Oct 24 2026. Appeared on the Do it Best Colorado locator (29-store list) but every place record at this address/phone identifies the occupant as Lowe's Pro Supply and no doitbest.com store page exists for it; counted as Lowe's Pro Supply, not Do it Best. Hours not shown in sources.",
       "sources": [],
       "lat": 39.77467,
-      "lon": -104.77973
+      "lon": -104.77973,
+      "zip": "80011"
     }
   ]
 }

@@ -57,7 +57,8 @@
       "arrivalLon": -103.216929,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 11:30 AM; Mon-Fri 12:30 PM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 11:30 AM; Mon-Fri 12:30 PM - 4:00 PM",
+      "zip": "80751"
     },
     {
       "id": "co-fort-morgan-dahl-plumbing-1",
@@ -119,7 +120,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.mapquest.com/us/colorado/dahl-plumbing-459446447",
       "spreadsheetSource": "https://www.mapquest.com/us/colorado/dahl-plumbing-459446447",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "80701"
     }
   ],
   "auditStatus": "expanded",

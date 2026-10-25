@@ -50,7 +50,8 @@
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "branchType": "unverified - absent from current LennoxPros roster, verify (included per Fred no-compromises instruction)",
-      "hours": "Mon-Fri 7:30 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:30 AM - 4:30 PM",
+      "zip": "81008"
     },
     {
       "id": "co-pueblo-pueblowinair-ilex-001",
@@ -104,7 +105,8 @@
       "arrivalLon": -104.603895,
       "arrivalType": "will_call",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:30 AM - 5:00 PM"
+      "hours": "Mon-Fri 7:30 AM - 5:00 PM",
+      "zip": "81003"
     },
     {
       "id": "co-pueblo-blazer-electric-supply-1",
@@ -323,7 +325,8 @@
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.buyblazer.com/request-login",
       "spreadsheetSource": "https://www.buyblazer.com",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81003"
     },
     {
       "id": "co-pueblo-rampart-001",
@@ -389,7 +392,8 @@
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "http://www.rampartsupply.com/",
       "spreadsheetSource": "http://www.rampartsupply.com/",
-      "spreadsheetDateVerified": "2026-10-24"
+      "spreadsheetDateVerified": "2026-10-24",
+      "zip": "81003"
     },
     {
       "id": "co-pueblo-charles-d-jones-co-220-n-greenwood-st-new",
@@ -452,7 +456,8 @@
         "https://www.mapquest.com/us/colorado/jones-charles-d-424862413"
       ],
       "lat": 38.27004,
-      "lon": -104.61291
+      "lon": -104.61291,
+      "zip": "81003"
     },
     {
       "id": "co-pueblo-hercules-industries-720-w-6th-st-new",
@@ -499,7 +504,8 @@
         "http://firstco.com/locate/"
       ],
       "lat": 38.27195,
-      "lon": -104.61738
+      "lon": -104.61738,
+      "zip": "81003"
     },
     {
       "id": "co-pueblo-johnstone-supply-4225-n-elizabeth-st-new",
@@ -1136,7 +1142,8 @@
       "notes": "Winsupply of Canon City (branded CA\u00d1ON CITY). Plumbing and HVAC supply. Added 2026-10-24 in Winsupply gap-fill; branch was in neither the Colorado spreadsheet nor the SupplyFind tree. No published per-branch line card; call branch to confirm brands.",
       "sources": [
         "https://www.winsupplyinc.com/Location/Canon-City-CO/81212/Plumbing-HVAC-Supplies"
-      ]
+      ],
+      "zip": "81212"
     },
     {
       "id": "co-aguilar-aguilar-155-e-main-st-new",
@@ -1179,7 +1186,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.4023,
-      "lon": -104.65401
+      "lon": -104.65401,
+      "zip": "81020"
     },
     {
       "id": "co-alamosa-alamosa-157-craft-dr-new",
@@ -1222,7 +1230,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.47769,
-      "lon": -105.89426
+      "lon": -105.89426,
+      "zip": "81101"
     },
     {
       "id": "co-canon-city-mead-lumber-ace-3090-e-main-st-new",
@@ -1265,7 +1274,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.44556,
-      "lon": -105.19363
+      "lon": -105.19363,
+      "zip": "81212"
     },
     {
       "id": "co-colorado-city-colorado-city-16850-6850-highway-165-new",
@@ -1308,7 +1318,8 @@
         "https://www.acehardware.com/store-details/16850"
       ],
       "lat": 37.95312,
-      "lon": -104.81608
+      "lon": -104.81608,
+      "zip": "81019"
     },
     {
       "id": "co-florence-florence-950-e-main-st-new",
@@ -1351,7 +1362,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.38696,
-      "lon": -105.10207
+      "lon": -105.10207,
+      "zip": "81226"
     },
     {
       "id": "co-la-jara-la-jara-trading-post-08872-16555-co-136-new",
@@ -1394,7 +1406,8 @@
         "https://www.acehardware.com/store-details/08872"
       ],
       "lat": 37.26956,
-      "lon": -105.95444
+      "lon": -105.95444,
+      "zip": "81140"
     },
     {
       "id": "co-la-junta-la-junta-202-san-juan-ave-new",
@@ -1437,7 +1450,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 37.98659,
-      "lon": -103.54618
+      "lon": -103.54618,
+      "zip": "81050"
     },
     {
       "id": "co-pueblo-west-lambert-ace-hardware-1010-n-market-plz-new",
@@ -1480,7 +1494,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.32542,
-      "lon": -104.69968
+      "lon": -104.69968,
+      "zip": "81007"
     },
     {
       "id": "co-westcliffe-valley-ace-hardware-1-enterprise-dr-new",
@@ -1523,7 +1538,8 @@
         "https://www.acehardware.com"
       ],
       "lat": 38.12639,
-      "lon": -105.46095
+      "lon": -105.46095,
+      "zip": "81252"
     },
     {
       "id": "co-alamosa-alamosa-1403-tremont-st-new",
@@ -1570,7 +1586,8 @@
         "https://alamosabuildingsupply.com"
       ],
       "lat": 37.46665,
-      "lon": -105.87744
+      "lon": -105.87744,
+      "zip": "81101"
     },
     {
       "id": "co-del-norte-homestead-hardware-1280-grand-ave-unit-1-new",
@@ -1613,7 +1630,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 37.67884,
-      "lon": -106.34597
+      "lon": -106.34597,
+      "zip": "81132"
     },
     {
       "id": "co-las-animas-hat-spur-hardware-346-5th-st-new",
@@ -1656,7 +1674,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 38.06879,
-      "lon": -103.22027
+      "lon": -103.22027,
+      "zip": "81054"
     },
     {
       "id": "co-springfield-everitt-moore-lumber-co-464-main-st-new",
@@ -1699,7 +1718,8 @@
         "https://www.doitbest.com/find-a-store/colorado/"
       ],
       "lat": 37.4097,
-      "lon": -102.61643
+      "lon": -102.61643,
+      "zip": "81073"
     },
     {
       "id": "co-pueblo-pueblo-0318-1225-w-us-hwy-50-new",
@@ -1742,7 +1762,8 @@
         "https://www.lowes.com"
       ],
       "lat": 38.30992,
-      "lon": -104.62349
+      "lon": -104.62349,
+      "zip": "81008"
     },
     {
       "id": "co-pueblo-s-pueblo-2742-2900-w-pueblo-blvd-new",
@@ -1785,7 +1806,8 @@
         "https://www.lowes.com"
       ],
       "lat": 38.21915,
-      "lon": -104.64665
+      "lon": -104.64665,
+      "zip": "81005"
     },
     {
       "id": "co-ordway-ordway-218-main-st-new",
@@ -1828,7 +1850,8 @@
         "https://ordwaybuildingsupply.com"
       ],
       "lat": 38.21652,
-      "lon": -103.7568
+      "lon": -103.7568,
+      "zip": "81063"
     },
     {
       "id": "co-la-junta-la-junta-27332-frontage-rd-new",
@@ -1876,7 +1899,8 @@
         "https://sutherlands.com"
       ],
       "lat": 37.99297,
-      "lon": -103.57715
+      "lon": -103.57715,
+      "zip": "81050"
     },
     {
       "id": "co-canon-city-canon-city-1542-141-mackenzie-ave-new",
@@ -1919,7 +1943,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 38.4459,
-      "lon": -105.17953
+      "lon": -105.17953,
+      "zip": "81212"
     },
     {
       "id": "co-pueblo-pueblo-1511-4450-n-freeway-rd-new",
@@ -1962,7 +1987,8 @@
         "https://www.homedepot.com/l/CO"
       ],
       "lat": 38.31565,
-      "lon": -104.61328
+      "lon": -104.61328,
+      "zip": "81008"
     },
     {
       "id": "co-fowler-otero-true-value-224-s-main-st-new",
@@ -2005,7 +2031,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.13,
-      "lon": -104.02434
+      "lon": -104.02434,
+      "zip": "81039"
     },
     {
       "id": "co-penrose-penrose-true-value-635-shoop-dr-new",
@@ -2048,7 +2075,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.43604,
-      "lon": -105.11375
+      "lon": -105.11375,
+      "zip": "81240"
     },
     {
       "id": "co-pueblo-ashley-true-value-hardware-40-cambridge-ave-new",
@@ -2091,7 +2119,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.24501,
-      "lon": -104.64682
+      "lon": -104.64682,
+      "zip": "81005"
     },
     {
       "id": "co-rocky-ford-arkansas-valley-lumber-supply-true-value-20363-highway-50-new",
@@ -2134,7 +2163,8 @@
         "https://www.truevalue.com/find-a-store/colorado/"
       ],
       "lat": 38.04745,
-      "lon": -103.7039
+      "lon": -103.7039,
+      "zip": "81067"
     }
   ]
 }

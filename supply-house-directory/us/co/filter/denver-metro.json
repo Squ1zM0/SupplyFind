@@ -45,7 +45,8 @@
       "arrivalLat": 39.598723,
       "arrivalLon": -105.118884,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "80127"
     },
     {
       "id": "superior-filtration-denver-yuma",
@@ -93,7 +94,8 @@
       "arrivalLon": -105.0111,
       "arrivalType": "entrance",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80219"
     },
     {
       "id": "air-force-filter-denver-bryant",
@@ -144,7 +146,8 @@
       "arrivalLon": -105.025144,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80219"
     },
     {
       "id": "air-purification-company-denver",
@@ -189,7 +192,8 @@
       "arrivalLon": -105.011284,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80221"
     },
     {
       "id": "camfil-denver-8th-ave",
@@ -244,7 +248,8 @@
       "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
       "spreadsheetSource": "http://firstco.com/locate/",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:30 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:30 PM",
+      "zip": "80204"
     },
     {
       "id": "scan-air-filters-wheat-ridge",
@@ -295,7 +300,8 @@
       "brandSourceUrl": "https://scanaircolorado.com/",
       "spreadsheetSource": "https://www.thomasnet.com",
       "spreadsheetDateVerified": "2026-10-24",
-      "hours": "Mon-Fri 7:00 AM - 4:00 PM"
+      "hours": "Mon-Fri 7:00 AM - 4:00 PM",
+      "zip": "80033"
     }
   ]
 }
