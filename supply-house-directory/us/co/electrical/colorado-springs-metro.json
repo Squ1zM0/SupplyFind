@@ -13,13 +13,13 @@
       "city": "Colorado Springs",
       "state": "CO",
       "postalCode": "80907",
-      "address1": "4305 N Sinton Rd",
-      "phone": "719-598-1414",
+      "address1": "3616 N Stone Ave",
+      "phone": "(719) 475-8160",
       "website": "https://www.ced.com/",
       "coordsStatus": "verified",
-      "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26",
-      "lat": 38.89527,
-      "lon": -104.82972,
+      "notes": "Electrical supply counter storefront. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: branch moved to 3616 N Stone Ave per official CED portal; address/phone/hours/coords updated.]",
+      "lat": 38.88438,
+      "lon": -104.81638,
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Official CED Portal",
@@ -68,13 +68,15 @@
       "trades": [
         "Electrical"
       ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps pin",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 38.89527,
       "arrivalLon": -104.82972,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "80907",
+      "hours": "Mon-Fri 6:30 AM - 5:00 PM"
     },
     {
       "id": "ces-colorado-springs-central-001",

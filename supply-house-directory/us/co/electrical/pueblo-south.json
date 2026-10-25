@@ -13,11 +13,11 @@
       "city": "Pueblo",
       "state": "CO",
       "postalCode": "81003",
-      "address1": "125 W C Street",
-      "phone": "(719) 543-7510",
+      "address1": "304 S Main St",
+      "phone": "(719) 542-9071",
       "website": "https://aecpueblo.portalced.com",
-      "lat": 38.265319,
-      "lon": -104.610294,
+      "lat": 38.26234,
+      "lon": -104.61375,
       "coordsStatus": "verified",
       "brandsRep": [
         "ABB",
@@ -42,7 +42,7 @@
         "Square D"
       ],
       "manufacturersPartsFor": [],
-      "notes": "CED electrical supply serving Pueblo and southern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: list cross-check flag \u2014 alternate American Electric (CED) listing found: 304 S Main St, Pueblo, (719) 542-9071, aecpueblo.portalced.com; unverified whether this is a move of this branch or a second branch \u2014 NOT merged.]",
+      "notes": "CED electrical supply serving Pueblo and southern Colorado. Major electrical distributor carrying Square D, Leviton, Eaton, Cooper, Hubbell, Lithonia Lighting, and other leading manufacturers. Source: CED national line card, verified 2025-12-26 [2026-10-24: branch moved to 304 S Main St per its own official CED portal; address/phone/hours/coords updated, cross-check flag resolved.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -69,13 +69,15 @@
       "trades": [
         "Electrical"
       ],
-      "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "gps-coordinates.org",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-24",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
       "arrivalLat": 38.265319,
       "arrivalLon": -104.610294,
       "arrivalType": "storefront",
-      "brandListType": "repo representative (not spreadsheet line card)"
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "zip": "81003",
+      "hours": "Mon-Fri 6:00 AM - 5:00 PM"
     },
     {
       "id": "rexel-pueblo-3223",
