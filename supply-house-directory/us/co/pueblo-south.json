@@ -65,9 +65,7 @@
       "lon": -104.6039515,
       "brandsRep": [
         "American Standard",
-        "Trane",
-        "Rheem",
-        "Ruud"
+        "Fieldpiece"
       ],
       "partsFor": [
         "HVAC",
@@ -1112,7 +1110,16 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 5:00 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Canon-City-CO/81212/Plumbing-HVAC-Supplies",
-      "brandsRep": [],
+      "brandsRep": [
+        "Uponor",
+        "Rinnai",
+        "American Standard",
+        "Viega",
+        "Rheem",
+        "NIBCO",
+        "Champion",
+        "Southwark Sheet Metal"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.winsupplyinc.com/Location/Canon-City-CO/81212/Plumbing-HVAC-Supplies",

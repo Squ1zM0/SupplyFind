@@ -338,7 +338,10 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-      "brandsRep": [],
+      "brandsRep": [
+        "Klein Tools",
+        "Milwaukee"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
@@ -382,7 +385,10 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-      "brandsRep": [],
+      "brandsRep": [
+        "Klein Tools",
+        "Milwaukee"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",
@@ -426,7 +432,10 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 5:00 PM; Sat 8:00 AM - 12:00 PM",
       "branchLocatorUrl": "https://www.cityelectricsupply.com/branchLocator",
-      "brandsRep": [],
+      "brandsRep": [
+        "Klein Tools",
+        "Milwaukee"
+      ],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.cityelectricsupply.com/branchLocator",

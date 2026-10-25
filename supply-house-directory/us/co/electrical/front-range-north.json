@@ -344,12 +344,8 @@
       "lon": -104.731545,
       "coordsStatus": "verified",
       "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Philips",
-        "RAB"
+        "Klein Tools",
+        "Milwaukee"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Greeley branch. Full-line electrical distributor carrying Southwire, Siemens, Eaton, Square D, Philips lighting, RAB, and other major brands. Verified 2026-01-30.",
@@ -846,20 +842,8 @@
       "lon": -105.0432,
       "coordsStatus": "verified",
       "brandsRep": [
-        "Southwire",
-        "Siemens",
-        "Eaton",
-        "Square D",
-        "Schneider",
-        "Philips",
-        "Acuity",
-        "RAB",
-        "Lutron",
         "Klein Tools",
-        "Fluke",
-        "Milwaukee",
-        "Hubbell",
-        "Leviton"
+        "Milwaukee"
       ],
       "manufacturersPartsFor": [],
       "notes": "City Electric Supply Fort Collins branch. Contractor-focused electrical distributor. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
