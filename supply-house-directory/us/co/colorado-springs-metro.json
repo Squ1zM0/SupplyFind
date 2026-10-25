@@ -1955,7 +1955,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80907",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://cedcoloradosprings.portalced.com/",
@@ -1971,7 +1971,8 @@
         "http://cedcoloradosprings.portalced.com/"
       ],
       "lat": 38.88438,
-      "lon": -104.81638
+      "lon": -104.81638,
+      "zip": "80907"
     },
     {
       "id": "co-colorado-springs-comfort-air-distributing-munch-s-supply-1440-paonia-st-new",
@@ -2224,7 +2225,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80915",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.elliottelectric.com",
@@ -2240,7 +2241,8 @@
         "https://www.elliottelectric.com"
       ],
       "lat": 38.84355,
-      "lon": -104.71142
+      "lon": -104.71142,
+      "zip": "80915"
     },
     {
       "id": "co-colorado-springs-fastenal-3395-fillmore-ridge-heights-new",
@@ -2315,7 +2317,7 @@
         "Filter"
       ],
       "primaryTrade": "Filter",
-      "postalCode": null,
+      "postalCode": "80907",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.fastenal.com",
@@ -2331,7 +2333,8 @@
         "https://www.fastenal.com"
       ],
       "lat": 38.8807,
-      "lon": -104.84072
+      "lon": -104.84072,
+      "zip": "80907"
     },
     {
       "id": "co-colorado-springs-geary-pacific-supply-2640-zeppelin-rd-100-new",
@@ -3660,7 +3663,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80915",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official site / place record (see notes)",
@@ -3676,7 +3679,8 @@
         "https://www.crum.com/"
       ],
       "lat": 38.84579,
-      "lon": -104.70988
+      "lon": -104.70988,
+      "zip": "80915"
     },
     {
       "id": "co-colorado-springs-ace-hardware-circle-1225-n-circle-dr-new",

@@ -3231,7 +3231,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "80223",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://www.bakerdist.com/",
@@ -3248,7 +3248,8 @@
         "http://www.bakerdist.com/"
       ],
       "lat": 39.69633,
-      "lon": -104.99604
+      "lon": -104.99604,
+      "zip": "80223"
     },
     {
       "id": "co-denver-ced-consolidated-electrical-distributors-5360-n-washington-unit-a-and-a-new",
@@ -3491,7 +3492,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80110",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.cityelectricsupply.com",
@@ -3507,7 +3508,8 @@
         "https://www.cityelectricsupply.com"
       ],
       "lat": 39.67766,
-      "lon": -105.00724
+      "lon": -105.00724,
+      "zip": "80110"
     },
     {
       "id": "co-denver-city-electric-supply-4955-peoria-st-unit-b-new",
@@ -3534,7 +3536,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80239",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.cityelectricsupply.com",
@@ -3550,7 +3552,8 @@
         "https://www.cityelectricsupply.com"
       ],
       "lat": 39.78756,
-      "lon": -104.84758
+      "lon": -104.84758,
+      "zip": "80239"
     },
     {
       "id": "co-denver-colorado-air-filter-llc-340-e-56th-ave-new",
@@ -3643,7 +3646,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80022",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.crescentelectric.com",
@@ -3659,7 +3662,8 @@
         "https://www.crescentelectric.com"
       ],
       "lat": 39.85102,
-      "lon": -104.78932
+      "lon": -104.78932,
+      "zip": "80022"
     },
     {
       "id": "co-golden-essential-electric-supply-13401-w-43rd-dr-new",
@@ -3707,7 +3711,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "80403",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://essentialparts.com",
@@ -3723,7 +3727,8 @@
         "https://essentialparts.com"
       ],
       "lat": 39.77609,
-      "lon": -105.15103
+      "lon": -105.15103,
+      "zip": "80403"
     },
     {
       "id": "co-denver-fastenal-555-w-48th-ave-d-new",
@@ -4492,7 +4497,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "80112",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://www.gearypacific.com/",
@@ -4509,7 +4514,8 @@
         "http://www.gearypacific.com/"
       ],
       "lat": 39.59282,
-      "lon": -104.84526
+      "lon": -104.84526,
+      "zip": "80112"
     },
     {
       "id": "co-denver-geary-pacific-supply-5901-broadway-new",
@@ -5139,7 +5145,7 @@
         "HVAC"
       ],
       "primaryTrade": "Plumbing",
-      "postalCode": null,
+      "postalCode": "80110",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf",
@@ -5156,7 +5162,8 @@
         "https://www.gtsanders.com/userfiles/documents/line%20cards/2019%20line%20card%202.pdf"
       ],
       "lat": 39.65917,
-      "lon": -105.00598
+      "lon": -105.00598,
+      "zip": "80110"
     },
     {
       "id": "co-henderson-george-t-sanders-company-8804-e-95th-pl-new",
@@ -5869,7 +5876,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "80216",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.herculesindustries.com/",
@@ -5886,7 +5893,8 @@
         "https://www.herculesindustries.com/"
       ],
       "lat": 39.79013,
-      "lon": -104.98027
+      "lon": -104.98027,
+      "zip": "80216"
     },
     {
       "id": "co-denver-lennox-stores-partsplus-5725-pecos-st-bldg-3-new",
@@ -6073,7 +6081,7 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing",
-      "postalCode": null,
+      "postalCode": "80216",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.mnplbgsupply.com/",
@@ -6090,7 +6098,8 @@
         "https://www.mnplbgsupply.com/"
       ],
       "lat": 39.80286,
-      "lon": -104.97132
+      "lon": -104.97132,
+      "zip": "80216"
     },
     {
       "id": "co-aurora-qed-sonepar-21001-e-13th-ave-new",
@@ -7365,7 +7374,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "80216",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.reece.com/hvac",
@@ -7382,7 +7391,8 @@
         "https://www.reece.com/hvac"
       ],
       "lat": 39.78281,
-      "lon": -104.93007
+      "lon": -104.93007,
+      "zip": "80216"
     },
     {
       "id": "co-brighton-western-united-electric-supply-100-bromley-business-parkway-new",
@@ -8660,7 +8670,7 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing",
-      "postalCode": null,
+      "postalCode": "80011",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official site / place record (see notes)",
@@ -8676,7 +8686,8 @@
         "https://www.gtsanders.com/"
       ],
       "lat": 39.75113,
-      "lon": -104.79039
+      "lon": -104.79039,
+      "zip": "80011"
     },
     {
       "id": "co-westminster-sps-companies-3200-w-71st-ave-new",
@@ -8703,7 +8714,7 @@
         "Industrial PVF"
       ],
       "primaryTrade": "Industrial PVF",
-      "postalCode": null,
+      "postalCode": "80030",
       "verification": {
         "addressVerified": true,
         "addressSource": "Official site / place record (see notes)",
@@ -8719,7 +8730,8 @@
         "https://www.spscompanies.com/"
       ],
       "lat": 39.82394,
-      "lon": -105.02885
+      "lon": -105.02885,
+      "zip": "80030"
     },
     {
       "id": "co-centennial-ced-6999-s-jordan-rd-new",

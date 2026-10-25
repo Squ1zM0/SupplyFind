@@ -1503,7 +1503,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "81506",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://apgj.portalced.com/",
@@ -1519,7 +1519,8 @@
         "https://apgj.portalced.com/"
       ],
       "lat": 39.11594,
-      "lon": -108.53807
+      "lon": -108.53807,
+      "zip": "81506"
     },
     {
       "id": "co-carbondale-charles-d-jones-co-0062-co-rd-113-bldg-b-new",
@@ -1738,7 +1739,7 @@
         "Plumbing"
       ],
       "primaryTrade": "Plumbing",
-      "postalCode": null,
+      "postalCode": "81303",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://dahlplumbing.com/durango/",
@@ -1756,7 +1757,8 @@
       ],
       "branchType": "dual-address question - spreadsheet 182 Girard St vs repo 2814 Main Ave (showroom vs counter, or relocation); both records kept, do not merge without Hajoca locator check",
       "lat": 37.24005,
-      "lon": -107.87499
+      "lon": -107.87499,
+      "zip": "81303"
     },
     {
       "id": "co-glenwood-springs-dahl-plumbing-supply-hajoca-3366-s-glen-ave-new",
@@ -2308,7 +2310,7 @@
         "Electrical"
       ],
       "primaryTrade": "Electrical",
-      "postalCode": null,
+      "postalCode": "81505",
       "verification": {
         "addressVerified": false,
         "addressSource": "http://www.hartlinesupply.com",
@@ -2324,7 +2326,8 @@
         "http://www.hartlinesupply.com"
       ],
       "lat": 39.113,
-      "lon": -108.61989
+      "lon": -108.61989,
+      "zip": "81505"
     },
     {
       "id": "co-grand-junction-hercules-industries-1453-4th-ave-new",
@@ -2354,7 +2357,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "81501",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.herculesindustries.com/",
@@ -2371,7 +2374,8 @@
         "https://www.herculesindustries.com/"
       ],
       "lat": 39.05974,
-      "lon": -108.54825
+      "lon": -108.54825,
+      "zip": "81501"
     },
     {
       "id": "co-grand-junction-qed-sonepar-1440-winters-ave-new",
@@ -4307,7 +4311,7 @@
         "Hardware"
       ],
       "primaryTrade": "Hardware",
-      "postalCode": null,
+      "postalCode": "81501",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://truevalueorchardmesa.com",
@@ -4323,7 +4327,8 @@
         "https://truevalueorchardmesa.com"
       ],
       "lat": 39.08404,
-      "lon": -108.55102
+      "lon": -108.55102,
+      "zip": "81501"
     },
     {
       "id": "co-grand-junction-orchard-mesa-2686-us-hwy-50-new",
@@ -4350,7 +4355,7 @@
         "Hardware"
       ],
       "primaryTrade": "Hardware",
-      "postalCode": null,
+      "postalCode": "81503",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://truevalueorchardmesa.com",
@@ -4366,7 +4371,8 @@
         "https://truevalueorchardmesa.com"
       ],
       "lat": 39.04437,
-      "lon": -108.55478
+      "lon": -108.55478,
+      "zip": "81503"
     },
     {
       "id": "co-hotchkiss-gambles-hardware-121-e-bridge-st-new",

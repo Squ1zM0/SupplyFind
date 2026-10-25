@@ -1080,7 +1080,7 @@
         "HVAC"
       ],
       "primaryTrade": "HVAC",
-      "postalCode": null,
+      "postalCode": "81008",
       "verification": {
         "addressVerified": false,
         "addressSource": "https://www.johnstonesupply.com/store722",
@@ -1097,7 +1097,8 @@
         "https://www.johnstonesupply.com/store722"
       ],
       "lat": 38.31462,
-      "lon": -104.61678
+      "lon": -104.61678,
+      "zip": "81008"
     },
     {
       "id": "co-canon-city-winsupply-of-canon-city-59-county-road-143-new",
