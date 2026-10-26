@@ -3371,8 +3371,8 @@
     },
     {
       "id": "co-colorado-springs-wesco-1490-garden-of-the-gods-rd-new",
-      "name": "WESCO - Colorado Springs",
-      "chain": "WESCO",
+      "name": "CSC Colorado Springs",
+      "chain": "CSC",
       "address1": "11675 Ridgeline Dr",
       "city": "Colorado Springs",
       "state": "CO",
@@ -3380,11 +3380,11 @@
       "website": "https://www.wesco.com",
       "email": null,
       "hours": "Mon-Fri 8:00 AM - 5:00 PM",
-      "branchLocatorUrl": "",
+      "branchLocatorUrl": "https://branchlocator.wesco.com/",
       "brandsRep": [],
       "brandListType": "published line card (spreadsheet v4)",
       "brandsNote": "",
-      "brandSourceUrl": "https://www.omniapartners.com/site-files/user_upload/Wesco_Brands_OMNIA_2025.pdf",
+      "brandSourceUrl": "",
       "spreadsheetSource": "https://www.wesco.com",
       "spreadsheetDateVerified": "2026-10-24",
       "partsFor": [
@@ -3396,16 +3396,16 @@
       "primaryTrade": "Electrical",
       "postalCode": "80921",
       "verification": {
-        "addressVerified": false,
-        "addressSource": "https://www.wesco.com",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
+        "addressVerified": true,
+        "addressSource": "https://branchlocator.wesco.com/",
+        "addressVerifiedDate": "2026-10-26",
+        "notes": "Address confirmed by official WESCO locator (branchlocator.wesco.com, Oct 26, 2026) as CSC Colorado Springs (Branch Id 1986, ascending CSC); coordinates not verified (point predates relabel; geocoder check still needed)."
       },
       "coordsStatus": "needs_verification",
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: CORRECTION - the 2026-10-24 'per official WESCO locator' move is unsupported (no locator page was ever retrieved) and is withdrawn. 11675 Ridgeline Dr + 719-260-0061 are Liberty AV Solutions HQ per Liberty's own documents (Liberty is a WESCO subsidiary via Communications Supply Corp.), NOT a verified WESCO counter address/phone; lat/lon are the Ridgeline (Liberty HQ) point. The Garden of the Gods Rd address in this record's id is historical only (2021 lease). No current verified WESCO Colorado Springs counter address exists - conflict flag stands; do not treat Ridgeline as the counter.] [Oct 26, 2026: official WESCO locator (branchlocator.wesco.com, live check) DOES list 11675 Ridgeline Dr as 'CSC Colorado Springs', Branch Id 1986, ascending CSC, phone (719) 260-0061, toll-free (800) 530-8998, fax (719) 260-0075, manager Edward Jankowski. It does NOT label it Liberty AV Solutions and does NOT show WESCO Distribution Inc. as ascending org (unlike Denver/Pueblo). So the locator confirms a CSC-side location at Ridgeline, not a WESCO Distribution counter; conflict flag stands. Whether to relabel this record as CSC is Fred's call.]",
+      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: CORRECTION - the 2026-10-24 'per official WESCO locator' move is unsupported (no locator page was ever retrieved) and is withdrawn. 11675 Ridgeline Dr + 719-260-0061 are Liberty AV Solutions HQ per Liberty's own documents (Liberty is a WESCO subsidiary via Communications Supply Corp.), NOT a verified WESCO counter address/phone; lat/lon are the Ridgeline (Liberty HQ) point. The Garden of the Gods Rd address in this record's id is historical only (2021 lease). No current verified WESCO Colorado Springs counter address exists - conflict flag stands; do not treat Ridgeline as the counter.] [Oct 26, 2026: official WESCO locator (branchlocator.wesco.com, live check) DOES list 11675 Ridgeline Dr as 'CSC Colorado Springs', Branch Id 1986, ascending CSC, phone (719) 260-0061, toll-free (800) 530-8998, fax (719) 260-0075, manager Edward Jankowski. It does NOT label it Liberty AV Solutions and does NOT show WESCO Distribution Inc. as ascending org (unlike Denver/Pueblo). So the locator confirms a CSC-side location at Ridgeline, not a WESCO Distribution counter; conflict flag stands. Whether to relabel this record as CSC is Fred's call.] [Oct 26, 2026: RELABELED WESCO \u2192 CSC Colorado Springs per official WESCO locator (branchlocator.wesco.com, live check): entry 'CSC Colorado Springs', Branch Id 1986, ascending CSC, phone (719) 260-0061, toll-free (800) 530-8998, fax (719) 260-0075 \u2014 NOT a WESCO Distribution branch (Fred's call, Oct 26). Record id kept for branch-id stability though it carries the old WESCO/Garden of the Gods slug. WESCO OMNIA brand source retired (record carries no brands); a CSC brand list, if any, needs its own source. Phone (719) 260-0061 and ZIP 80921 are the locator's published values (the 'Phone/ZIP not verified' clause above is superseded). Address verified via locator; coordinates still needs_verification (point predates relabel; geocoder check still needed). Trade kept Electrical (no Communications trade in the schema; CSC is the communications-supply side of WESCO).]",
       "sources": [
         "https://www.wesco.com"
       ],
