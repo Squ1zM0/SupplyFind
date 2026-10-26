@@ -2132,14 +2132,12 @@
       "spreadsheetSource": "https://www.gtsanders.com",
       "spreadsheetDateVerified": "2026-10-24",
       "partsFor": [
-        "HVAC",
         "Plumbing"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "81505",
       "verification": {
         "addressVerified": false,
@@ -2151,7 +2149,7 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Sanders is a plumbing and heating supplier; its official 2019 line card carries 49 plumbing/water-heating brands and no HVAC-cooling lines. Heating/hydronic lines stay under Plumbing (no separate Heating trade in the schema). (Fred's correction.)]",
       "sources": [
         "https://www.gtsanders.com/AboutUs",
         "https://www.gtsanders.com"
@@ -2241,14 +2239,12 @@
       "spreadsheetSource": "https://www.gtsanders.com",
       "spreadsheetDateVerified": "2026-10-24",
       "partsFor": [
-        "HVAC",
         "Plumbing"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "81401",
       "verification": {
         "addressVerified": false,
@@ -2260,7 +2256,7 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Sanders is a plumbing and heating supplier; its official 2019 line card carries 49 plumbing/water-heating brands and no HVAC-cooling lines. Heating/hydronic lines stay under Plumbing (no separate Heating trade in the schema). (Fred's correction.)]",
       "sources": [
         "https://www.gtsanders.com/AboutUs",
         "https://www.gtsanders.com"
@@ -2350,14 +2346,12 @@
       "spreadsheetSource": "https://www.gtsanders.com",
       "spreadsheetDateVerified": "2026-10-24",
       "partsFor": [
-        "HVAC",
         "Plumbing"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "80498",
       "verification": {
         "addressVerified": false,
@@ -2369,7 +2363,7 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.]",
+      "notes": "Company-wide line card | V2 2026-10-24: Company-wide. NO newer/full line card found despite checking gtsanders.com; this is the official 2019 line card carried over from v1 (49 brands, not ~48 as v1 noted). Treat as last published card, not confirmed current. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Sanders is a plumbing and heating supplier; its official 2019 line card carries 49 plumbing/water-heating brands and no HVAC-cooling lines. Heating/hydronic lines stay under Plumbing (no separate Heating trade in the schema). (Fred's correction.)]",
       "sources": [
         "https://www.gtsanders.com/AboutUs",
         "https://www.gtsanders.com"

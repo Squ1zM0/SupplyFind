@@ -960,7 +960,7 @@
         "Taylor"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26 [2026-10-24 SupplyFind update: address/phone corrected to spreadsheet (repo 15152 E Fremont Dr stale); trade corrected Electrical->HVAC; coordinates still point to prior address - re-geocode.] 2026-10-24: brandsRep set to Elliott company linesheet (cleaned Colorado Springs/Fort Collins form, 174 names); company-linesheet-inherited, not branch-verified stock. [Oct 26, 2026: address/phone corrected \u2014 prior values were Comfort Air Centennial's (15501 E Fremont Dr, 303-690-0901), a cross-record mislabel; coordinates nulled pending re-geocode for 15152 E Fremont Dr.]",
+      "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26 [2026-10-24 SupplyFind update: address/phone corrected to spreadsheet (repo 15152 E Fremont Dr stale); trade corrected Electrical->HVAC; coordinates still point to prior address - re-geocode.] 2026-10-24: brandsRep set to Elliott company linesheet (cleaned Colorado Springs/Fort Collins form, 174 names); company-linesheet-inherited, not branch-verified stock. [Oct 26, 2026: address/phone corrected \u2014 prior values were Comfort Air Centennial's (15501 E Fremont Dr, 303-690-0901), a cross-record mislabel; coordinates nulled pending re-geocode for 15152 E Fremont Dr.] [Oct 26, 2026: Trade corrected HVAC \u2192 Electrical \u2014 Elliott Electric Supply is an electrical distributor; the HVAC tag was a repo-side error (workbook row is Electrical). (Trade-consistency fix.)]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -973,14 +973,10 @@
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
-        "Electrical",
-        "Lighting",
-        "Wire & Cable",
-        "Tools",
-        "Controls"
+        "Electrical"
       ],
       "trades": [
-        "HVAC"
+        "Electrical"
       ],
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-26",
@@ -990,7 +986,7 @@
       "arrivalType": null,
       "email": null,
       "hours": "Mon-Fri 7:00 AM-4:30 PM",
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Electrical",
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.inddist.com/mergers-acquisitions/news/22005644/hvac-plumbing-distributor-marcone-acquires-munchs-supply-professional-plumbing-group",
       "spreadsheetSource": "https://mergr.com/comfort-air-distributing-acquired-by-munch-s-supply",

@@ -338,9 +338,6 @@
       "lon": -104.60332,
       "brandsRep": [],
       "partsFor": [
-        "Boilers",
-        "Hydronic components",
-        "Heating",
         "Plumbing"
       ],
       "tags": [
@@ -348,10 +345,9 @@
         "wholesale"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "81003",
       "verification": {
         "coords_verified": "2025-12-27",
@@ -391,7 +387,8 @@
       "brandSourceUrl": "http://www.rampartsupply.com/",
       "spreadsheetSource": "http://www.rampartsupply.com/",
       "spreadsheetDateVerified": "2026-10-24",
-      "zip": "81003"
+      "zip": "81003",
+      "notes": " [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Rampart's verified scope is plumbing/hydronics/PVF (no HVAC counter lines verified; the company-wide Cregger index does not transfer to counters). Heating/hydronic lines stay under Plumbing. (Trade-consistency fix.)]"
     },
     {
       "id": "co-pueblo-charles-d-jones-co-220-n-greenwood-st-new",
