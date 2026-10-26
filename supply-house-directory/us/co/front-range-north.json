@@ -191,8 +191,8 @@
     },
     {
       "id": "co-greeley-winsupply-001",
-      "name": "WinSupply HVAC \u2013 Greeley",
-      "chain": "WinSupply HVAC",
+      "name": "Winsupply \u2013 Greeley",
+      "chain": "Winsupply",
       "address1": "1979 2nd Ave",
       "city": "Greeley",
       "state": "CO",
@@ -200,17 +200,16 @@
       "lat": 40.39639,
       "lon": -104.684443,
       "tags": [
-        "hvac",
+        "plumbing",
         "equipment",
         "parts"
       ],
       "brandsRep": [],
       "partsFor": [
-        "HVAC"
+        "Plumbing"
       ],
-      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision]",
+      "notes": "Part of Winsupply network. HVAC distributor, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Generic entrance precision] [Oct 26, 2026: Corrected to Plumbing-only \u2014 this record's own website/locator URL is the official Plumbing-Supplies page ('Plumbing & hydronics wholesaler'); no Greeley Winair/HVAC division exists. Name/chain corrected from 'WinSupply HVAC' (the record's own source contradicted the HVAC label). Hydronic heating/cooling in offerings is Plumbing under project definitions; no forced-air/AC lines evidenced. (Trade-scope research.)]",
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
       "postalCode": "80631",
@@ -241,7 +240,7 @@
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "branchLocatorUrl": "https://www.winsupplyinc.com/Location/Greeley-CO/80631/Plumbing-Supplies",
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "brandsRepRepoLegacy": [
         "Carrier",
         "Bryant",

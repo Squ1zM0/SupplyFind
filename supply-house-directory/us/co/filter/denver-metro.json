@@ -213,7 +213,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.] [Oct 26, 2026: branchLocatorUrl blanked \u2014 https://cdjones.com is CD Jones's site, cross-record pollution, not Camfil's.] [Oct 26, 2026: brandSourceUrl replaced \u2014 the Blue Book URL was Charles D. Jones Co.'s profile (same-address collision; CD Jones at 2500 W 8th Ave), not a Camfil source; replaced with Camfil's own Denver branch page. brandListType corrected; First Co. spreadsheetSource blanked as unrelated pollution. brandsRep unchanged (Camfil's own brand).]",
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.] [Oct 26, 2026: branchLocatorUrl blanked \u2014 https://cdjones.com is CD Jones's site, cross-record pollution, not Camfil's.] [Oct 26, 2026: brandSourceUrl replaced \u2014 the Blue Book URL was Charles D. Jones Co.'s profile (same-address collision; CD Jones at 2500 W 8th Ave), not a Camfil source; replaced with Camfil's own Denver branch page. brandListType corrected; First Co. spreadsheetSource blanked as unrelated pollution. brandsRep unchanged (Camfil's own brand).] [Oct 26, 2026: Trades corrected to Filter-only per Fred's call \u2014 Camfil is filters only, no HVAC trade. (Trade-scope follow-up.)]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -232,8 +232,7 @@
         "Dust Collectors"
       ],
       "trades": [
-        "Filter",
-        "HVAC"
+        "Filter"
       ],
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-26",

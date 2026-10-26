@@ -382,12 +382,12 @@
     },
     {
       "id": "co-durango-ferguson-home-1",
-      "name": "Ferguson Home",
+      "name": "Ferguson Plumbing Supply \u2013 Durango",
       "chain": "Ferguson",
       "address1": "76 Sheppard Dr",
       "city": "Durango",
       "state": "CO",
-      "phone": "+19702595005",
+      "phone": "+19703176062",
       "lat": 37.222682,
       "lon": -107.871575,
       "brandsRep": [
@@ -409,20 +409,17 @@
         "Plumbing"
       ],
       "tags": [
-        "plumbing",
-        "showroom"
+        "plumbing"
       ],
-      "website": "https://www.fergusonhome.com/",
+      "website": "https://www.ferguson.com/store/co/durango/plumbingpvf-0421",
       "sources": [
-        "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
-        "https://www.google.com/maps/place/Ferguson+Home+Durango"
+        "https://www.ferguson.com/store/co/durango/plumbingpvf-0421"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [2026-10-24: spreadsheet holds Ferguson Plumbing Supply at this same address with phone 970-317-6062 (official store page) \u2014 possible counter + showroom pair at one address; NOT merged without confirmation.]",
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [2026-10-24: spreadsheet holds Ferguson Plumbing Supply at this same address with phone 970-317-6062 (official store page) \u2014 possible counter + showroom pair at one address; NOT merged without confirmation.] [Oct 26, 2026: CONVERTED from Ferguson Home showroom record to the plumbing counter per Fred's call \u2014 trades Plumbing-only per Ferguson's official designation; phone/website now the counter's (970-317-6062, Ferguson store page plumbingpvf-0421). Id kept for stability (was the showroom record). The pre-conversion multi-trade note is superseded for trade scope. The showroom is not separately represented in the repo. Brand list carried over (13 Ferguson plumbing brands, matching the workbook counter row); a counter-verified brand list is still pending.]",
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "81303",
       "coordsStatus": "verified",
       "verification": {
@@ -431,7 +428,7 @@
         "addressVerifiedDate": "2025-12-27",
         "storefront_confirmed": "2025-12-27",
         "sources": [
-          "https://www.fergusonhome.com/showroom/branch/durango-co-selection-center-0421",
+          "https://www.ferguson.com/store/co/durango/plumbingpvf-0421",
           "https://www.google.com/maps/place/Ferguson+Home+Durango"
         ],
         "coords_verified": "2025-12-27",
