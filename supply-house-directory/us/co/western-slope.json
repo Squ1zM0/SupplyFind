@@ -490,12 +490,11 @@
         "https://www.ferguson.com/store/co/grand-junction/plumbingpvf-1021",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Grand+Junction"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "81501",
       "coordsStatus": "verified",
       "verification": {
@@ -565,12 +564,11 @@
         "https://www.ferguson.com/store/co/silverthorne/plumbingpvf-0431",
         "https://www.google.com/maps/place/Ferguson+Silverthorne"
       ],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26",
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "80498",
       "coordsStatus": "verified",
       "verification": {

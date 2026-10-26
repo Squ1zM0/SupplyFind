@@ -143,26 +143,22 @@
         "TOTO"
       ],
       "partsFor": [
-        "HVAC equipment",
-        "HVAC parts",
-        "Plumbing",
-        "Supplies"
+        "Plumbing"
       ],
       "tags": [
         "hvac",
         "plumbing",
         "wholesale"
       ],
-      "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-1178. Source: Ferguson official website, verified 2025-12-26",
+      "notes": "Ferguson Plumbing/PVF location also carrying HVAC products. Store code: plumbingpvf-1178. Source: Ferguson official website, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "sources": [
         "https://www.ferguson.com/store/co/longmont/plumbingpvf-1178",
         "https://www.google.com/maps/place/Ferguson+Plumbing+Supply+Longmont"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "postalCode": "80504",
       "verification": {
         "addressVerified": true,

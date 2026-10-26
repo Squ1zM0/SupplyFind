@@ -609,7 +609,7 @@
         "TOTO"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), pipe, valves and fittings. Source: Ferguson official line cards, verified 2025-12-26 [2026-10-24: phone corrected to 970-945-2065 per official Ferguson store page; tree previously showed 970-945-5858.]",
+      "notes": "Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), pipe, valves and fittings. Source: Ferguson official line cards, verified 2025-12-26 [2026-10-24: phone corrected to 970-945-2065 per official Ferguson store page; tree previously showed 970-945-5858.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "verification": {
         "addressVerified": true,
         "addressSource": "Google Business Profile & Ferguson Store Locator",
@@ -630,10 +630,9 @@
         "https://www.google.com/maps/place/Ferguson+Plumbing+Glenwood+Springs"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps pin",

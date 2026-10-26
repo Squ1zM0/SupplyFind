@@ -453,7 +453,7 @@
         "TOTO"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Ferguson plumbing and HVAC supply serving Littleton area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "notes": "Ferguson plumbing and HVAC supply serving Littleton area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -470,10 +470,9 @@
         "https://www.fergusonhome.com/brands/c109293"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
@@ -519,7 +518,7 @@
         "TOTO"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Ferguson plumbing and HVAC supply serving Sheridan/South Metro area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26",
+      "notes": "Ferguson plumbing and HVAC supply serving Sheridan/South Metro area. Multi-trade distributor carrying HVAC (American Standard, Fujitsu, Mitsubishi, Honeywell), plumbing (Kohler, Moen, Delta), and waterworks products. Source: Ferguson official line cards and store locator, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Ferguson's official branch designation for this address is Plumbing/PVF only; no Ferguson HVAC designation found here. (Trade-scope research.)]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -536,10 +535,9 @@
         "https://www.fergusonhome.com/brands/c109293"
       ],
       "trades": [
-        "HVAC",
         "Plumbing"
       ],
-      "primaryTrade": "HVAC",
+      "primaryTrade": "Plumbing",
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
