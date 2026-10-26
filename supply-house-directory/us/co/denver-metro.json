@@ -14102,6 +14102,49 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-26",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip"
+    },
+    {
+      "id": "co-denver-wesco-11198-e-45th-ave-6660",
+      "name": "WESCO - Denver Branch 6660",
+      "chain": "WESCO",
+      "address1": "11198 E 45th Ave Ste 150",
+      "city": "Denver",
+      "state": "CO",
+      "phone": "+1 303-322-1722",
+      "fax": "(303) 322-0455",
+      "website": "https://www.wesco.com",
+      "email": null,
+      "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+      "branchLocatorUrl": "https://branchlocator.wesco.com/",
+      "lat": 39.77764,
+      "lon": -104.85435,
+      "brandsRep": [],
+      "partsFor": [
+        "Electrical"
+      ],
+      "trades": [
+        "Electrical"
+      ],
+      "primaryTrade": "Electrical",
+      "postalCode": "80239",
+      "zip": "80239",
+      "coordsStatus": "verified",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
+      "verification": {
+        "addressVerified": true,
+        "addressSource": "https://branchlocator.wesco.com/",
+        "addressVerifiedDate": "2026-10-26",
+        "notes": "Address/phone/branch id confirmed by official WESCO locator (live check Oct 26, 2026): DENVER CO, 11198 E 45th Ave, Denver 80239, (303) 322-1722, Branch Id 6660, ascending WESCO Distribution Inc. Suite Ste 150 from LEDtronics distributor list + place listings (locator gives no suite)."
+      },
+      "brandListType": "",
+      "brandSourceUrl": "",
+      "sources": [
+        "https://branchlocator.wesco.com/",
+        "https://www2.ledtronics.com/Distributor.aspx?c=Wesco"
+      ],
+      "notes": "WESCO Distribution Branch 6660 (locator ascending org: WESCO Distribution Inc.). SEPARATE record from KVA Supply Co at the same street address (repo id kva-supply-denver-11198-e-45th): WESCO's own locator lists two Denver entries (6660 + KVA); published phones differ (6660: 303-322-1722; KVA: 303-217-7500); published hours differ (6660 place listings Mon-Fri 8-5; KVA Mon-Fri 7-4); 6660 is Ste 150 per LEDtronics + place listings while KVA publishes no suite; KVA is a WESCO subsidiary operating under the KVA brand (acquired ~2000) with a medium-voltage underground specialty. Do NOT merge with the KVA record. Brands: the workbook Denver 6660 row carries the WESCO OMNIA 169-brand list; it is NOT attached here (OMNIA extraction is flagged trade-relevant, not verified complete) \u2014 cross-ref WESCO strings already cover those brands at company level via Denver + Pueblo. Hours: place-listing tier (wesco.com place listing + Waze agree 8-5); Birdeye lists 7:30-4:30 \u2014 conflict flagged, verify before treating hours as confirmed. Coords: street-address geocoder point (suite-level precision not claimed); the KVA record's storefront point differs by ~200 m and was NOT reused."
     }
   ]
 }

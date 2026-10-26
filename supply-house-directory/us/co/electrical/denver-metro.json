@@ -1085,7 +1085,7 @@
       "coordsStatus": "verified",
       "brandsRep": [],
       "manufacturersPartsFor": [],
-      "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27.",
+      "notes": "KVA Supply Co is a WESCO subsidiary operating under the KVA brand. This is the only WESCO-affiliated location in Denver. Specializes in medium-voltage underground electrical materials and distribution equipment. Major electrical distributor carrying ABB, Eaton, Schneider Electric, Siemens, Leviton, Hubbell, and hundreds of other manufacturers. Source: WESCO official line card, verified 2025-12-27. [Oct 26, 2026: Fax flag \u2014 this record's fax (303) 322-0455 matches WESCO Distribution Branch 6660's published fax; no KVA publication shows a fax, so verify before relying on it for KVA (shared-building fax cannot be ruled out).] [Oct 26, 2026: Superseded \u2014 the 'only WESCO-affiliated location in Denver' note above is no longer accurate: WESCO's locator lists two Denver entries (Branch 6660 + KVA) at 11198 E 45th Ave; a separate Branch 6660 record now exists alongside this KVA record. Do not merge.]",
       "verification": {
         "storefront_confirmed": "2025-12-27",
         "sources": [
