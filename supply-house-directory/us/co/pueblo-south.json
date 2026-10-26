@@ -2319,7 +2319,7 @@
       "sources": [
         "https://showroom.rampartsupply.com/brands.HTML"
       ],
-      "notes": "The Showroom at Rampart Supply, Pueblo. Showroom-scoped brands only \u2014 not counter stock. Address from Elkay locator (third-party); no phone verified, so no phone field is published. Distinct from the Pueblo counter at 320 E 4th St."
+      "notes": "The Showroom at Rampart Supply, Pueblo. Showroom-scoped brands only \u2014 not counter stock. Address from Elkay locator (third-party); no phone verified, so no phone field is published. Distinct from the Pueblo counter at 320 E 4th St. [Oct 26, 2026: business-name search places 'The Showroom at Rampart Supply' at 319 N Santa Fe Ave, Pueblo, differing from this record's 720 N Main St (Elkay locator); address discrepancy unresolved, coords held.]"
     },
     {
       "id": "co-pueblo-pueblo-winair-300-andenucio-rd-new",
@@ -2345,13 +2345,16 @@
       ],
       "brandsRep": [],
       "brandListType": "call branch to confirm",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verification",
+      "lat": 38.257896,
+      "lon": -104.603856,
+      "coordsStatus": "verified",
       "sources": [
         "http://www.pueblowinair.com/"
       ],
-      "notes": "wholesale HVAC supply center, Southern Colorado. Separate from Winsupply of Pueblo (719-544-1584). ZIP 81003 from address-level listings for this street address, not a Winair-specific source \u2014 flagged. Source: http://www.pueblowinair.com/."
+      "notes": "wholesale HVAC supply center, Southern Colorado. Separate from Winsupply of Pueblo (719-544-1584). ZIP 81003 from address-level listings for this street address, not a Winair-specific source \u2014 flagged. Source: http://www.pueblowinair.com/. [Oct 26, 2026: coords are business-place-listing precision (exact address + phone matched); reverse-geocode snaps to the adjacent 300 Ilex St parcel - not rooftop.]",
+      "geoPrecision": "place record",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Pueblo Winair business-place listing coordinates (38.257896, -104.603856)"
     }
   ]
 }

@@ -13721,14 +13721,17 @@
       ],
       "brandListType": "workbook line card (partial, 18 brands; see workbook All Locations row 23) \u2014 company states 300+ manufacturers, list is NOT exhaustive",
       "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verification",
+      "lat": 39.72897,
+      "lon": -105.0183,
+      "coordsStatus": "verified",
       "sources": [
         "https://cdjones.com",
         "http://firstco.com/locate/"
       ],
-      "notes": "Denver (8th Ave) branch. Same street address as repo record camfil-denver-8th-ave (Camfil, 2500 West 8th Ave Ste B) \u2014 different tenant/suite, NOT a duplicate. Hours from Item 2 evidence (cdjones.com place record Mon-Fri 6:30-4:30); workbook Hours cell is blank. Full 18-brand list in workbook row 23; brandsRep here is the workbook Primary/Flagship subset only."
+      "notes": "Denver (8th Ave) branch. Same street address as repo record camfil-denver-8th-ave (Camfil, 2500 West 8th Ave Ste B) \u2014 different tenant/suite, NOT a duplicate. Hours from Item 2 evidence (cdjones.com place record Mon-Fri 6:30-4:30); workbook Hours cell is blank. Full 18-brand list in workbook row 23; brandsRep here is the workbook Primary/Flagship subset only.",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip"
     },
     {
       "id": "co-denver-super-tech-filter-1495-s-platte-river-dr-new",
@@ -13760,13 +13763,16 @@
       ],
       "brandListType": "workbook line card \u2014 SAME Colorado Air Filter brand list (workbook row 174 note: not a separate independent line card; see workbook row 38 for sourcing notes)",
       "brandSourceUrl": "http://coloradoairfilter.com/products/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verification",
+      "lat": 39.68959,
+      "lon": -105.0005,
+      "coordsStatus": "verified",
       "sources": [
         "https://www.superpages.com"
       ],
-      "notes": "DBA of Colorado Air Filter LLC (FMCSA SAFER: COLORADO AIR FILTER LLC DBA SUPER-TECH FILTER, same address/phone; coloradoairfilter.com terms page same DBA + address \u2014 Item 2 evidence). Kept as its OWN record at its OWN address/phone; do NOT merge into repo record co-denver-colorado-air-filter-llc-340-e-56th-ave-new (340 E 56th Ave, +1 303-225-5871 \u2014 different address + phone). Workbook row 38 carries an older caution ('may be prior location \u2026 verify current status before ordering'); Item 2's CONFIRMED verdict rests on the FMCSA + terms-page DBA evidence and governs this staging. Hours, website and email are NOT in Item 2 evidence or the workbook row and are deliberately omitted \u2014 the 56th Ave row's hours (Mon-Fri 7:00 AM-3:30 PM) were NOT copied across, because they belong to a different address."
+      "notes": "DBA of Colorado Air Filter LLC (FMCSA SAFER: COLORADO AIR FILTER LLC DBA SUPER-TECH FILTER, same address/phone; coloradoairfilter.com terms page same DBA + address \u2014 Item 2 evidence). Kept as its OWN record at its OWN address/phone; do NOT merge into repo record co-denver-colorado-air-filter-llc-340-e-56th-ave-new (340 E 56th Ave, +1 303-225-5871 \u2014 different address + phone). Workbook row 38 carries an older caution ('may be prior location \u2026 verify current status before ordering'); Item 2's CONFIRMED verdict rests on the FMCSA + terms-page DBA evidence and governs this staging. Hours, website and email are NOT in Item 2 evidence or the workbook row and are deliberately omitted \u2014 the 56th Ave row's hours (Mon-Fri 7:00 AM-3:30 PM) were NOT copied across, because they belong to a different address.",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip"
     },
     {
       "id": "co-denver-rexel-3217-11175-e-55th-ave-new",
@@ -13792,13 +13798,16 @@
       "brandsRep": [],
       "brandListType": "call branch to confirm",
       "brandSourceUrl": "https://www.rexelusa.com/locations/co/denver-distribution-center/3217",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verification",
+      "lat": 39.7962,
+      "lon": -104.85801,
+      "coordsStatus": "verified",
       "sources": [
         "https://www.rexelusa.com/locations/co/denver-distribution-center/3217"
       ],
-      "notes": "Rexel Denver Distribution Center (#3217) per rexelusa.com. Distinct from #3201 Denver East (UNIT 100, same street, 303-728-5888) \u2014 do not merge. Brands: call branch to confirm; the workbook #3217 brands cell is the company-wide Rexel list, not branch-verified stocking, so it is not copied here."
+      "notes": "Rexel Denver Distribution Center (#3217) per rexelusa.com. Distinct from #3201 Denver East (UNIT 100, same street, 303-728-5888) \u2014 do not merge. Brands: call branch to confirm; the workbook #3217 brands cell is the company-wide Rexel list, not branch-verified stocking, so it is not copied here.",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip"
     }
   ]
 }

@@ -4805,13 +4805,16 @@
       ],
       "brandListType": "workbook line card (company-wide Ferguson HVAC brands, regional variation stated; see workbook All Locations row 72)",
       "brandSourceUrl": "https://www.fergusonhvac.com/product-info/",
-      "lat": null,
-      "lon": null,
-      "coordsStatus": "needs_verification",
+      "lat": 38.90204,
+      "lon": -104.82552,
+      "coordsStatus": "verified",
       "sources": [
         "https://www.ferguson.com/store/co/colorado+springs/hvac-0270"
       ],
-      "notes": "HVAC branch, Suite B, phone 719-216-0924 \u2014 DISTINCT from Ferguson Plumbing at the same complex (Ste A, 719-260-9446, repo records co-cos-ferguson-002 and ferguson-plumbing-cos-northpark). Suite + phone + trade all differ; do NOT merge into the plumbing record. Email is Ferguson company-wide customer support as published (workbook note), not a branch-direct address."
+      "notes": "HVAC branch, Suite B, phone 719-216-0924 \u2014 DISTINCT from Ferguson Plumbing at the same complex (Ste A, 719-260-9446, repo records co-cos-ferguson-002 and ferguson-plumbing-cos-northpark). Suite + phone + trade all differ; do NOT merge into the plumbing record. Email is Ferguson company-wide customer support as published (workbook note), not a branch-direct address.",
+      "geoPrecision": "address",
+      "geoVerifiedDate": "2026-10-26",
+      "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip"
     }
   ],
   "auditStatus": "in_progress",
