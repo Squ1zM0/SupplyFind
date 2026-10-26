@@ -3401,11 +3401,11 @@
         "addressVerifiedDate": "2026-10-24",
         "notes": "Added 2026-10-24 from Colorado spreadsheet v4; coordinates not verified"
       },
-      "coordsStatus": "verified",
+      "coordsStatus": "needs_verification",
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [2026-10-24: branch moved to 11675 Ridgeline Dr per official WESCO locator (no Garden of the Gods branch listed); address/phone/coords updated, hours from Bing local pack tied to same address+phone.]",
+      "notes": "Phone/ZIP not verified in sources found - verify via WESCO locator. | V2 2026-10-24: General-line distributor, not trade-exclusive. List as extracted from WESCO's published OMNIA brands PDF (2025 template); the PDF text extraction collapsed some middle columns, so treat this as the trade-relevant extracted list and verify I-N entries against wesco.com before merging into the master file. WESCO's full catalog runs to thousands of brands. [Added to SupplyFind 2026-10-24 from Colorado spreadsheet v4; coordinates pending verification.] [Oct 26, 2026: CORRECTION - the 2026-10-24 'per official WESCO locator' move is unsupported (no locator page was ever retrieved) and is withdrawn. 11675 Ridgeline Dr + 719-260-0061 are Liberty AV Solutions HQ per Liberty's own documents (Liberty is a WESCO subsidiary via Communications Supply Corp.), NOT a verified WESCO counter address/phone; lat/lon are the Ridgeline (Liberty HQ) point. The Garden of the Gods Rd address in this record's id is historical only (2021 lease). No current verified WESCO Colorado Springs counter address exists - conflict flag stands; do not treat Ridgeline as the counter.]",
       "sources": [
         "https://www.wesco.com"
       ],
