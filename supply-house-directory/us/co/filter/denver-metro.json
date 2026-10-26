@@ -213,7 +213,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.] [Oct 26, 2026: branchLocatorUrl blanked \u2014 https://cdjones.com is CD Jones's site, cross-record pollution, not Camfil's.]",
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.] [Oct 26, 2026: branchLocatorUrl blanked \u2014 https://cdjones.com is CD Jones's site, cross-record pollution, not Camfil's.] [Oct 26, 2026: brandSourceUrl replaced \u2014 the Blue Book URL was Charles D. Jones Co.'s profile (same-address collision; CD Jones at 2500 W 8th Ave), not a Camfil source; replaced with Camfil's own Denver branch page. brandListType corrected; First Co. spreadsheetSource blanked as unrelated pollution. brandsRep unchanged (Camfil's own brand).]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -244,9 +244,9 @@
       "email": null,
       "branchLocatorUrl": null,
       "primaryTrade": "Filter",
-      "brandListType": "published line card (spreadsheet v4)",
-      "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
-      "spreadsheetSource": "http://firstco.com/locate/",
+      "brandListType": "repo representative (not spreadsheet line card)",
+      "brandSourceUrl": "https://cleanair.camfil.us/denver-usa-airfilters-colorado/",
+      "spreadsheetSource": "",
       "spreadsheetDateVerified": "2026-10-24",
       "hours": "Mon-Fri 7:00 AM - 4:30 PM",
       "zip": "80204"
