@@ -27,7 +27,7 @@
         "Liberty Pumps"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Plumbing and HVAC supply serving Arkansas Valley region. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26",
+      "notes": "Plumbing and HVAC supply serving Arkansas Valley region. Part of Winsupply network. Plumbing distributor carrying AO Smith, Charlotte Pipe, American Standard, Sloan, and Liberty Pumps. Source: Winsupply, verified 2025-12-26 [Oct 26, 2026: partsFor corrected to [Plumbing, HVAC] \u2014 trades already Both; live-browser verification of the branch's own About Us page confirms 'specializing in plumbing, hydronics, and HVAC' (winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies). (Trade-scope research.)]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -41,7 +41,8 @@
         "addressVerifiedDate": "2025-12-26"
       },
       "partsFor": [
-        "Plumbing"
+        "Plumbing",
+        "HVAC"
       ],
       "sources": [
         "https://www.winsupplyinc.com/Location/Salida-CO/81201/Plumbing-Supplies",
