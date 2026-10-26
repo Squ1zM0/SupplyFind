@@ -1671,7 +1671,9 @@
       "phone": "719-471-7200",
       "lat": 38.8756,
       "lon": -104.8275,
-      "brandsRep": [],
+      "brandsRep": [
+        "Triangle Tube"
+      ],
       "partsFor": [
         "Plumbing"
       ],
@@ -1682,7 +1684,7 @@
         "boilers",
         "hydronics"
       ],
-      "notes": "Wholesale distributor specializing in boilers, hydronic heating equipment, water heaters, and plumbing supplies. Source: Rampart Supply official website, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Rampart's verified scope is plumbing/hydronics/PVF (no HVAC counter lines verified; the company-wide Cregger index does not transfer to counters). Heating/hydronic lines stay under Plumbing. (Trade-consistency fix.)]",
+      "notes": "Wholesale distributor specializing in boilers, hydronic heating equipment, water heaters, and plumbing supplies. Source: Rampart Supply official website, verified 2025-12-26 [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Rampart's verified scope is plumbing/hydronics/PVF (no HVAC counter lines verified; the company-wide Cregger index does not transfer to counters). Heating/hydronic lines stay under Plumbing. (Trade-consistency fix.)] [Oct 26, 2026: Triangle Tube VERIFIED for this branch via Triangle Tube's distributor locator (Colorado distributor list, Type = Distributor): listing names 'Rampart Supply (Colorado Springs), 1801 N. Union Blvd., Colorado Springs CO 80909' \u2014 matches this record's address. The company-wide Cregger 104 index still does NOT transfer to counters; all other brands remain unverified. (brandSourceUrl replaced: the BBB profile URL was not a brand source.)]",
       "sources": [
         "https://www.rampartsupply.com/",
         "https://www.yellowpages.com/colorado-springs-co/mip/rampart-supply-576600743"
@@ -1723,9 +1725,9 @@
         "Rinnai",
         "Bradford White"
       ],
-      "brandListType": "no published line card",
-      "brandsNote": "Line card not publicly published - call branch to confirm",
-      "brandSourceUrl": "https://www.bbb.org/us/co/colorado-springs/profile/plumbing-fixtures/rampart-supply-inc-a-division-of-cregger-company-inc-0785-4717200",
+      "brandListType": "manufacturer distributor locator (branch-specific)",
+      "brandsNote": "Triangle Tube verified for this branch via Triangle Tube's distributor locator (Oct 26, 2026); full line card not publicly published \u2014 call branch to confirm other brands.",
+      "brandSourceUrl": "https://triangletube.com/professional-resources/contractor-locator/",
       "spreadsheetSource": "https://www.bbb.org/us/co/colorado-springs/profile/plumbing-fixtures/rampart-supply-inc-a-division-of-cregger-company-inc-0785-4717200",
       "spreadsheetDateVerified": "2026-10-24",
       "zip": "80909"

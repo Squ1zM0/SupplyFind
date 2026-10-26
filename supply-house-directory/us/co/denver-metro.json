@@ -3272,7 +3272,9 @@
       "phone": "+13036296122",
       "lat": 39.715679,
       "lon": -104.99742,
-      "brandsRep": [],
+      "brandsRep": [
+        "Triangle Tube"
+      ],
       "partsFor": [
         "Plumbing"
       ],
@@ -3300,7 +3302,7 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "Google Maps + MapQuest verified showroom entrance",
-      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Rampart's verified scope is plumbing/hydronics/PVF (no HVAC counter lines verified; the company-wide Cregger index does not transfer to counters). Heating/hydronic lines stay under Plumbing. (Trade-consistency fix.)]",
+      "notes": "[Coordinate refinement 2025-12-27: Moved from boulevard position to showroom/entrance driveway. Verified entrance coordinates for customer access.] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 Rampart's verified scope is plumbing/hydronics/PVF (no HVAC counter lines verified; the company-wide Cregger index does not transfer to counters). Heating/hydronic lines stay under Plumbing. (Trade-consistency fix.)] [Oct 26, 2026: Triangle Tube VERIFIED for this branch via Triangle Tube's distributor locator (Colorado distributor list, Type = Distributor): listing names 'Rampart supply, 285 Rio Grande blvd., Denver CO 80223' \u2014 matches this record's address. The company-wide Cregger 104 index still does NOT transfer to counters; all other brands remain unverified.]",
       "arrivalLat": 39.715679,
       "arrivalLon": -104.99742,
       "arrivalType": "storefront",
@@ -3316,9 +3318,9 @@
         "Triangle Tube",
         "Weil-McLain"
       ],
-      "brandListType": "no published line card",
-      "brandsNote": "Line card not publicly published - call branch to confirm",
-      "brandSourceUrl": "https://www.rampartsupply.com/",
+      "brandListType": "manufacturer distributor locator (branch-specific)",
+      "brandsNote": "Triangle Tube verified for this branch via Triangle Tube's distributor locator (Oct 26, 2026); full line card not publicly published \u2014 call branch to confirm other brands.",
+      "brandSourceUrl": "https://triangletube.com/professional-resources/contractor-locator/",
       "spreadsheetSource": "https://www.rampartsupply.com/",
       "spreadsheetDateVerified": "2026-10-24",
       "zip": "80223"
