@@ -9441,7 +9441,7 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "Crum Electric Supply, Denver. Added 2026-10-24 from Fred's list cross-check; branch was in neither dataset. No published per-branch line card.",
+      "notes": "Crum Electric Supply, Denver. Added 2026-10-24 from Fred's list cross-check; branch was in neither dataset. No published per-branch line card. [Oct 26, 2026: Consistency flag \u2014 this record carries 126 brandsRep entries while brandListType/brandsNote still say 'no published line card'; the list's scope is not stated on this record, so the entries are NOT branch-verified Denver stock until a source check confirms scope. Call branch to confirm. (Flagged during the SPS company-wide-list review.)]",
       "sources": [
         "https://www.crum.com/"
       ],
@@ -9615,9 +9615,9 @@
       "hours": "Mon-Fri 7:00 AM - 3:30 PM",
       "branchLocatorUrl": "https://spscompanies.com/stores/denver/",
       "brandsRep": [],
-      "brandListType": "no published line card",
-      "brandsNote": "Line card not publicly published - call branch to confirm",
-      "brandSourceUrl": "https://www.spscompanies.com/",
+      "brandListType": "company-wide list only (not branch-verified stocking)",
+      "brandsNote": "SPS publishes a 175-brand Product Lines list (company-wide across all SPS divisions); branch-level stocking not individually confirmed. Brands carried in the spreadsheet cross-reference as SPS Companies (Plumbing). Call branch to confirm branch stock. Source: https://spscompanies.com/product-lines/",
+      "brandSourceUrl": "https://spscompanies.com/product-lines/",
       "spreadsheetSource": "https://www.spscompanies.com/",
       "spreadsheetDateVerified": "2026-10-26",
       "partsFor": [
@@ -9638,7 +9638,7 @@
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "SPS Companies, Westminster (SPS lists this branch as 'Denver'; street address is Westminster). Minnesota plumbing wholesaler (spscompanies.com) \u2014 NOT Kansas Steel and Pipe Supply; the Steel and Pipe Supply family description previously on this record is withdrawn as misattribution. Added 2026-10-24 from Fred's list cross-check. Older SPS Metals Denver address 940 Wyandot St flagged as variant, NOT merged; Metals Denver current footprint (280 W. 47th Ave) unconfirmed. No published per-branch line card; brands stay call-to-confirm (cross-reference carries the company-wide 175-brand Product Lines list as SPS Companies (Plumbing), not attached to this record).",
+      "notes": "SPS Companies, Westminster (SPS lists this branch as 'Denver'; street address is Westminster). Minnesota plumbing wholesaler (spscompanies.com) \u2014 NOT Kansas Steel and Pipe Supply; the Steel and Pipe Supply family description previously on this record is withdrawn as misattribution. Added 2026-10-24 from Fred's list cross-check. Older SPS Metals Denver address 940 Wyandot St flagged as variant, NOT merged; Metals Denver current footprint (280 W. 47th Ave) unconfirmed. No published per-branch line card; brands stay call-to-confirm (cross-reference carries the company-wide 175-brand Product Lines list as SPS Companies (Plumbing), not attached to this record). [Oct 26, 2026: 175-brand Product Lines list NOT attached to this branch \u2014 the list is company-wide across all SPS divisions (incl. non-plumbing lines) and the Denver branch page lists no brands; per the Rexel precedent the list stays at company/division level in the cross-reference. brandsRep stays empty; branch stock remains call-to-confirm. Label confirmed Westminster (address city governs; SPS's 'Denver' branch name already noted).]",
       "sources": [
         "https://www.spscompanies.com/"
       ],
