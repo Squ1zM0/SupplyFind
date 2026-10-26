@@ -213,7 +213,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.]",
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.] [Oct 26, 2026: branchLocatorUrl blanked \u2014 https://cdjones.com is CD Jones's site, cross-record pollution, not Camfil's.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -242,7 +242,7 @@
       "arrivalLon": -105.018144,
       "arrivalType": "storefront",
       "email": null,
-      "branchLocatorUrl": "https://cdjones.com",
+      "branchLocatorUrl": null,
       "primaryTrade": "Filter",
       "brandListType": "published line card (spreadsheet v4)",
       "brandSourceUrl": "https://www.thebluebook.com/iProView/794243/charles-d-jones-co/material-suppliers/",
