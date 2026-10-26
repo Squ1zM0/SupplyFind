@@ -9319,32 +9319,32 @@
       "website": "https://www.spscompanies.com/",
       "email": null,
       "hours": "Mon-Fri 7:00 AM - 3:30 PM",
-      "branchLocatorUrl": "https://www.spscompanies.com/",
+      "branchLocatorUrl": "https://spscompanies.com/stores/denver/",
       "brandsRep": [],
       "brandListType": "no published line card",
       "brandsNote": "Line card not publicly published - call branch to confirm",
       "brandSourceUrl": "https://www.spscompanies.com/",
       "spreadsheetSource": "https://www.spscompanies.com/",
-      "spreadsheetDateVerified": "2026-10-24",
+      "spreadsheetDateVerified": "2026-10-26",
       "partsFor": [
-        "Industrial PVF"
+        "Plumbing"
       ],
       "trades": [
-        "Industrial PVF"
+        "Plumbing"
       ],
-      "primaryTrade": "Industrial PVF",
+      "primaryTrade": "Plumbing",
       "postalCode": "80030",
       "verification": {
         "addressVerified": true,
-        "addressSource": "Official site / place record (see notes)",
-        "addressVerifiedDate": "2026-10-24",
-        "notes": "Added 2026-10-24 from Fred's list cross-check; branch was in neither dataset."
+        "addressSource": "https://spscompanies.com/stores/denver/ (official branch page, Oct 26, 2026)",
+        "addressVerifiedDate": "2026-10-26",
+        "notes": "Added 2026-10-24 from Fred's list cross-check; branch was in neither dataset. [Oct 26, 2026: identity corrected \u2014 Minnesota plumbing wholesaler, not Kansas steel; branch page confirms address/phone/hours.]"
       },
       "coordsStatus": "verified",
       "geoPrecision": "address",
       "geoVerifiedDate": "2026-10-24",
       "geoSource": "Map geocoder, full-address match, verified against branch street/city/zip",
-      "notes": "SPS Companies, Westminster. Steel service center: carbon/stainless steel products, galvanized tubing, pipe (Steel and Pipe Supply family). Added 2026-10-24 from Fred's list cross-check (listed as Denver); site-linked current record is Westminster; older Denver address 940 Wyandot St flagged as variant, NOT merged. No published per-branch line card.",
+      "notes": "SPS Companies, Westminster (SPS lists this branch as 'Denver'; street address is Westminster). Minnesota plumbing wholesaler (spscompanies.com) \u2014 NOT Kansas Steel and Pipe Supply; the Steel and Pipe Supply family description previously on this record is withdrawn as misattribution. Added 2026-10-24 from Fred's list cross-check. Older SPS Metals Denver address 940 Wyandot St flagged as variant, NOT merged; Metals Denver current footprint (280 W. 47th Ave) unconfirmed. No published per-branch line card; brands stay call-to-confirm (cross-reference carries the company-wide 175-brand Product Lines list as SPS Companies (Plumbing), not attached to this record).",
       "sources": [
         "https://www.spscompanies.com/"
       ],

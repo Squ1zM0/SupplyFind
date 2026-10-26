@@ -17,7 +17,7 @@ SupplyFind maintains a production-grade dataset of HVAC, Plumbing, and Electrica
 - **Total Branch Records**: 584
 - **Distinct Physical Addresses (non-Hardware)**: 298
 - **Non-Hardware Branches**: 307
-- **Core-4 Trades (HVAC, Plumbing, Electrical, Filter)**: 294 records (trades-list basis)
+- **Core-4 Trades (HVAC, Plumbing, Electrical, Filter)**: 295 records (trades-list basis)
 - **Trades Covered**: HVAC, Plumbing, Electrical, Filters
 - **Major Chains**: Ferguson, CED, Graybar, Rexel, Johnstone Supply, Baker Distributing, and 60+ more
 - **Data Quality**: Production-ready with full verification metadata
