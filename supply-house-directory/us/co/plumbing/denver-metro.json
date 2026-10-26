@@ -639,7 +639,7 @@
         "American Standard"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "notes": "Hajoca trade name: Hughes Supply. Part of Hajoca Corporation. Plumbing distributor carrying Delta, Kohler, Bradford White, Charlotte Pipe, AO Smith, and other major brands. Source: Hajoca suppliers network, verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Multi-tenant complex] [Oct 26, 2026: Trade corrected to Plumbing-only \u2014 official branch page (hughessupply.com/denver) is 'Plumbing, Heating & Industrial Supplies' with no AC/cooling/furnace lines; sibling Hughes branches are Plumbing-only. The three Trane Supply URLs in this record were same-address pollution (Trane Supply Denver is a separate HVAC branch at 445 Bryant St Unit 5 \u2014 not Hughes, Suite 9; do not merge) and were replaced with Hughes/Hajoca sources: branch page for the locator, Hajoca suppliers network for the brand list. (Trade-consistency fix.)]",
       "verification": {
         "coords_attempted": "2025-12-26",
         "coords_verified": "2025-12-27",
@@ -656,8 +656,7 @@
         "https://www.hajoca.com/suppliers/"
       ],
       "trades": [
-        "Plumbing",
-        "HVAC"
+        "Plumbing"
       ],
       "geoPrecision": "entrance",
       "geoVerifiedDate": "2025-12-27",
@@ -667,11 +666,11 @@
       "arrivalType": "will_call",
       "email": null,
       "hours": "Mon-Fri 7:00 AM-5:00 PM",
-      "branchLocatorUrl": "https://www.tranesupply.com/store-locator/",
+      "branchLocatorUrl": "http://hughessupply.com/denver",
       "primaryTrade": "Plumbing",
       "brandListType": "published line card (spreadsheet v4)",
-      "brandSourceUrl": "https://www.tranesupply.com",
-      "spreadsheetSource": "https://www.tranesupply.com/store-locator/",
+      "brandSourceUrl": "https://www.hajoca.com/suppliers/",
+      "spreadsheetSource": "http://hughessupply.com/denver",
       "spreadsheetDateVerified": "2026-10-24",
       "zip": "80204"
     },
