@@ -777,11 +777,11 @@
       "city": "Centennial",
       "state": "CO",
       "postalCode": "80112",
-      "address1": "15501 E Fremont Dr",
-      "phone": "303-690-0901",
+      "address1": "15152 E Fremont Dr",
+      "phone": "+1 720-278-7555",
       "website": "https://www.elliottelectric.com",
-      "lat": 39.583993,
-      "lon": -104.812113,
+      "lat": null,
+      "lon": null,
       "coordsStatus": "needs_verification",
       "brandsRep": [
         "A.L.P. Lighting",
@@ -960,7 +960,7 @@
         "Taylor"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26 [2026-10-24 SupplyFind update: address/phone corrected to spreadsheet (repo 15152 E Fremont Dr stale); trade corrected Electrical->HVAC; coordinates still point to prior address - re-geocode.] 2026-10-24: brandsRep set to Elliott company linesheet (cleaned Colorado Springs/Fort Collins form, 174 names); company-linesheet-inherited, not branch-verified stock.",
+      "notes": "Elliott Electric Supply Centennial regional hub opened in 2024. Full-service electrical distributor. Verified 2025-12-26 [2026-10-24 SupplyFind update: address/phone corrected to spreadsheet (repo 15152 E Fremont Dr stale); trade corrected Electrical->HVAC; coordinates still point to prior address - re-geocode.] 2026-10-24: brandsRep set to Elliott company linesheet (cleaned Colorado Springs/Fort Collins form, 174 names); company-linesheet-inherited, not branch-verified stock. [Oct 26, 2026: address/phone corrected \u2014 prior values were Comfort Air Centennial's (15501 E Fremont Dr, 303-690-0901), a cross-record mislabel; coordinates nulled pending re-geocode for 15152 E Fremont Dr.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -985,8 +985,8 @@
       "geoPrecision": "storefront",
       "geoVerifiedDate": "2025-12-27",
       "geoSource": "gps-coordinates.org",
-      "arrivalLat": 39.583993,
-      "arrivalLon": -104.812113,
+      "arrivalLat": null,
+      "arrivalLon": null,
       "arrivalType": "storefront",
       "email": null,
       "hours": "Mon-Fri 7:00 AM-4:30 PM",

@@ -13,8 +13,11 @@ SupplyFind maintains a production-grade dataset of HVAC, Plumbing, and Electrica
 ## 📊 Current Coverage
 
 ### Colorado Dataset
-- **Counting basis (2026-10-24 update)**: unique physical locations. Counter/will-call-only, rep/distributor-office, and doubtful branches are INCLUDED and labelled with a `branchType` field (e.g. Graybar Denver Counter, CFM offices, 5 doubtful Lennox stores, Dahl Montrose closure flag) — no branch was dropped for being counter-only, rep-office, or doubtful. The stale 227 claim is superseded by this count.
-- **Total Branches**: 293
+- **Counting basis (2026-10-26 update)**: counts are branch records in the tree (both file sets, deduped by branch id). Distinct physical addresses are counted separately among non-Hardware records by suite-stripped street + city: suite/unit markers (Suite, Ste, Unit, Apt, #) and everything after them are removed, directional and street-suffix abbreviations are normalized (W→West, Ave→Avenue, etc.), then street + city are deduped — because two records can share one street address (suites, counters vs showrooms). Counter/will-call-only, rep/distributor-office, and doubtful branches are INCLUDED and labelled with a `branchType` field — no branch was dropped for being counter-only, rep-office, or doubtful. The old “Total Branches: 293” figure was this distinct-address count at 578 records, mislabeled as a branch total; it is superseded by the counts below.
+- **Total Branch Records**: 584
+- **Distinct Physical Addresses (non-Hardware)**: 298
+- **Non-Hardware Branches**: 307
+- **Core-4 Trades (HVAC, Plumbing, Electrical, Filter)**: 294 records (trades-list basis)
 - **Trades Covered**: HVAC, Plumbing, Electrical, Filters
 - **Major Chains**: Ferguson, CED, Graybar, Rexel, Johnstone Supply, Baker Distributing, and 60+ more
 - **Data Quality**: Production-ready with full verification metadata
@@ -212,7 +215,7 @@ This project maintains a public dataset of supply house locations. All data is v
 
 ---
 
-**Last Updated**: October 24, 2026  
-**Total Branches**: 293  
+**Last Updated**: October 26, 2026  
+**Total Branch Records**: 584  
 **Data Quality**: Production-Grade ✅  
 **Documentation**: Comprehensive ✅

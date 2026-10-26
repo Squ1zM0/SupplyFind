@@ -1,22 +1,23 @@
 {
- "state": "CO",
- "trades": [
-  "hvac",
-  "plumbing",
-  "electrical",
-  "filter"
- ],
- "status": "canonical_complete",
- "updated": "2026-10-24",
- "notes": [
-  "All trades completed under hardened rules.",
-  "Every region is either populated with verified storefronts or explicitly audited as zero.",
-  "No inferred locations included.",
-  "Filter trade added 2025-12-26 with statewide coverage of filter-specific suppliers.",
-  "2026-10-24 SupplyFind update: union of spreadsheet v4 (193 locations) + repo branches + CES Brighton + Graybar Denver Counter = 293 unique physical locations. Branches needing coordinate verification (105) are labelled coordsStatus=needs_verification with no invented coordinates.",
-  "2026-10-24 Hardware category added: 276 hardware stores (Home Depot 46, Lowe's 28, Ace 133, True Value 25, Do it Best 27, independents 15, affiliation-unresolved 2) as a separate Hardware filter in the spreadsheet and tree; all tree records coordsStatus needs_verification; no per-branch brand lists published (call to confirm)."
- ],
- "totalBranches": 293,
- "branchesWithVerifiedCoordinates": 188,
- "branchesNeedingCoordinateVerification": 105
+    "state": "CO",
+    "trades": [
+        "hvac",
+        "plumbing",
+        "electrical",
+        "filter"
+    ],
+    "status": "canonical_complete",
+    "updated": "2026-10-26",
+    "notes": [
+        "All trades completed under hardened rules.",
+        "Every region is either populated with verified storefronts or explicitly audited as zero.",
+        "No inferred locations included.",
+        "Filter trade added 2025-12-26 with statewide coverage of filter-specific suppliers.",
+        "2026-10-24 SupplyFind update: union of spreadsheet v4 (193 locations) + repo branches + CES Brighton + Graybar Denver Counter = 293 unique physical locations. Branches needing coordinate verification (105) are labelled coordsStatus=needs_verification with no invented coordinates.",
+        "2026-10-24 Hardware category added: 276 hardware stores (Home Depot 46, Lowe's 28, Ace 133, True Value 25, Do it Best 27, independents 15, affiliation-unresolved 2) as a separate Hardware filter in the spreadsheet and tree; all tree records coordsStatus needs_verification; no per-branch brand lists published (call to confirm).",
+        "2026-10-26 SupplyFind v2 port: 6 new region records (CD Jones Denver 8th Ave, Ferguson HVAC Colorado Springs, Super Tech Filter Denver, Rampart Pueblo showroom, Rexel #3217 Denver, Pueblo Winair) + chain brand ADDs + 7 phone corrections + Elliott/Camfil fixes; _meta re-inverted to v2.1 (3,006 brands). Totals recomputed under stated rules: 584 branch records; 298 distinct suite-stripped street+city addresses among non-Hardware records (rule: suite/unit markers and everything after removed, directional/street-suffix abbreviations normalized); 307 non-Hardware branches; 294 core-4-trade records (trades-list basis). Coordinate fields are branch-record counts by coordsStatus (577 verified, 7 needs_verification); the prior 188/105 summed to 293 but did not match live coordsStatus data (577 verified / 1 needs_verification at 578 records) and are superseded."
+    ],
+    "totalBranches": 298,
+    "branchesWithVerifiedCoordinates": 577,
+    "branchesNeedingCoordinateVerification": 7
 }

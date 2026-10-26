@@ -213,7 +213,7 @@
         "Camfil"
       ],
       "manufacturersPartsFor": [],
-      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location]",
+      "notes": "Global leader in air filtration. Provides commercial and industrial HVAC filters (standard, HEPA, ULPA), carbon products, dust collectors, filtration housings, and media. Expert advice and broad product catalog. Verified 2025-12-26 [Arrival coordinates refined 2025-12-27: Industrial/warehouse location] [Oct 26, 2026: email blanked \u2014 marketing@cdjones.com is CD Jones's email, cross-record pollution, not Camfil's.]",
       "verification": {
         "storefront_confirmed": "2025-12-26",
         "sources": [
@@ -241,7 +241,7 @@
       "arrivalLat": 39.728856,
       "arrivalLon": -105.018144,
       "arrivalType": "storefront",
-      "email": "marketing@cdjones.com",
+      "email": null,
       "branchLocatorUrl": "https://cdjones.com",
       "primaryTrade": "Filter",
       "brandListType": "published line card (spreadsheet v4)",
