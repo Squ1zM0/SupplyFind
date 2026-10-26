@@ -3256,6 +3256,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -3279,7 +3284,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Westminster"
+    "Westminster",
+    "Aurora"
    ],
    "source": "https://www.3m.com",
    "notes": ""
@@ -4359,6 +4365,11 @@
      "company": "CFM Company",
      "branch": "CFM Company - Grand Junction (West Office)",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -4381,7 +4392,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": ""
@@ -4631,6 +4643,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -4641,7 +4658,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -4735,6 +4753,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -4745,7 +4768,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.acdelco.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -5496,6 +5520,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -5507,7 +5536,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.te.com",
    "notes": "AMP is TE Connectivity"
@@ -6100,6 +6130,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -6110,7 +6145,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -6257,6 +6293,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -6267,7 +6308,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.accesslighting.com",
    "notes": ""
@@ -6319,6 +6361,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -6329,7 +6376,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -6447,6 +6495,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -6460,7 +6513,8 @@
     "Johnstown",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "Generic name; see Acme Electric entry"
@@ -6917,6 +6971,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -6937,7 +6996,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.acuitybrands.com",
    "notes": ""
@@ -7326,6 +7386,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -7336,7 +7401,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous generic name; no specific category verifiable QED card 2024 (Sonepar)"
@@ -8658,6 +8724,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -8668,7 +8739,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.southwire.com",
    "notes": "Legacy aluminum cable brand; now largely Southwire/Nexans lineage - category wire & cable QED card 2024 (Sonepar)"
@@ -9341,6 +9413,11 @@
      "company": "CED",
      "branch": "CED - Alamosa",
      "city": "Alamosa"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -9353,7 +9430,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.alliedmoulded.com",
    "notes": ""
@@ -9500,6 +9578,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -9512,7 +9595,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.atkore.com",
    "notes": ""
@@ -10543,6 +10627,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -10555,7 +10644,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.americanfittings.com",
    "notes": ""
@@ -10777,6 +10867,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -10791,7 +10886,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.americanlighting.com",
    "notes": ""
@@ -11081,6 +11177,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -11093,7 +11194,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.polywater.com",
    "notes": ""
@@ -11936,6 +12038,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -11949,7 +12056,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.amprobe.com",
    "notes": ""
@@ -12506,6 +12614,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -12516,7 +12629,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -13198,6 +13312,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -13211,7 +13330,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.emerson.com",
    "notes": ""
@@ -13981,6 +14101,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -13995,7 +14120,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.aifittings.com",
    "notes": "[Legacy audit, Oct 2026 — KEEP v4 parent, ADD announced-acquisition flag + homonym warning] Arlington Industries, Inc. (electrical fittings, aifittings.com, founded 1949, Stark family 1956) -> Blackstone Energy Transition Partners ANNOUNCED definitive agreement Jan 2026, expected close Q1 2026 — closing UNVERIFIED, treat as announced not completed. Do NOT merge separate ARLINGTON IT-distribution rebrand (Carolina Wholesale/Digitek). Which Arlington the Johnstone listing refers to is unverified from lineage alone. [Gap-fill, Oct 2026 — verified] Product lines: Electrical fittings / wiring installation accessories — NOT HVAC equipment (conduit bodies; cord grips; EMT fittings; fan and fixture boxes; flex/AC/MC fittings; floor boxes; Gard-N-Post; grounding; INBOX weatherproof boxes; liquid-tight fittings; low-voltage cable management; NM cable fittings; rigid/IMC fittings; siding mounting blocks; specialty boxes; non-metallic photovoltaic cable connectors). Most plausible Johnstone match is Arlington Industries, Inc. (aifittings.com) — but which Arlington the Johnstone listing refers to is unverified from lineage alone and needs a Johnstone product check to confirm. Do NOT merge with the separate 'ARLINGTON' IT-distribution rebrand (Carolina Wholesale Group / Digitek, merged to one name Jan 1, 2019). Broader Arlington range beyond the verified fitting categories was NOT separately verified. Verbatim source URLs retained in report: http://aifittings.com/catalog/cord-grips/ and http://www.aifittings.com/landing/nmpv/."
@@ -14485,6 +14611,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -14495,7 +14626,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -15070,6 +15202,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -15080,7 +15217,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.atkore.com",
    "notes": ""
@@ -15690,6 +15828,11 @@
      "company": "CED",
      "branch": "CED - Glenwood Springs",
      "city": "Glenwood Springs"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -15703,7 +15846,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "B-Line is Eaton"
@@ -16032,6 +16176,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -16042,7 +16191,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.bega.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -16218,6 +16368,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -16228,7 +16383,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.bklighting.com",
    "notes": ""
@@ -16410,6 +16566,11 @@
      "company": "CED",
      "branch": "CED - Glenwood Springs",
      "city": "Glenwood Springs"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -16422,7 +16583,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.brkelectronics.com",
    "notes": "BRK/First Alert"
@@ -16808,6 +16970,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -16821,7 +16988,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": "Baldor is ABB"
@@ -17355,6 +17523,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -17365,7 +17538,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -17864,6 +18038,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -17883,7 +18062,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.belden.com",
    "notes": ""
@@ -18365,6 +18545,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -18375,7 +18560,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.bergenindustries.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -18485,6 +18671,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -18495,7 +18686,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.marleyengineeredproducts.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -18649,6 +18841,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -18659,7 +18856,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.beta-calco.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -18838,6 +19036,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -18848,7 +19051,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -19441,6 +19645,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -19451,7 +19660,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.signify.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -20486,6 +20696,11 @@
      "company": "CED",
      "branch": "CED - Gunnison",
      "city": "Gunnison"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -20504,7 +20719,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.bradyid.com",
    "notes": ""
@@ -21252,6 +21468,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -21263,7 +21484,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.bptfittings.com",
    "notes": ""
@@ -21682,6 +21904,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -21696,7 +21923,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.creggercompany.com/catalog/manufacturer",
    "notes": ""
@@ -22137,6 +22365,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -22148,7 +22381,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.te.com",
    "notes": ""
@@ -22521,6 +22755,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -22542,7 +22781,8 @@
     "Monument",
     "Pueblo",
     "Sterling",
-    "Westminster"
+    "Westminster",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": ""
@@ -23838,6 +24078,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -23848,7 +24093,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.crcindustries.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -24018,6 +24264,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -24028,7 +24279,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.csllighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -24138,6 +24390,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -24150,7 +24407,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.legrand.us",
    "notes": ""
@@ -24259,6 +24517,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -24272,7 +24535,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.nvent.com",
    "notes": ""
@@ -24377,6 +24641,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -24388,7 +24657,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.nvent.com",
    "notes": ""
@@ -24904,6 +25174,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -24916,7 +25191,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.slb.com",
    "notes": "Industrial valves"
@@ -25255,6 +25531,11 @@
      "company": "CED",
      "branch": "CED - Gunnison",
      "city": "Gunnison"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -25273,7 +25554,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.cantexinc.com",
    "notes": ""
@@ -25413,6 +25695,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -25424,7 +25711,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "Legacy recessed lighting"
@@ -25806,6 +26094,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -25826,7 +26119,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Westminster"
+    "Westminster",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": "Carlon is ABB Installation Products"
@@ -26546,6 +26840,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -26558,7 +26857,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cementexusa.com",
    "notes": ""
@@ -26885,6 +27185,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -26895,7 +27200,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cerrowire.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -26947,6 +27253,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -26957,7 +27268,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -27337,6 +27649,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -27347,7 +27664,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.chargepoint.com",
    "notes": ""
@@ -27728,6 +28046,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -27738,7 +28061,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.chemlink.com",
    "notes": ""
@@ -29465,6 +29789,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -29478,7 +29807,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.southwire.com",
    "notes": "[Legacy audit, Oct 2026 — KEEP v4 parent, add deal detail + correction] Coleman Cable, Inc. -> Southwire Company. Definitive merger agreement 20 Dec 2013: $26.25/share, $492m equity + $294m assumed debt = ~$786m total, close expected Q1 2014; confirmed acquired 2014. $492m was equity portion only. [Gap-fill, Oct 2026 — verified] Product lines: Electrical/electronic wire and cable — NOT HVAC equipment (building wire THHN/THWN; electronic/multiconductor cable; fire-alarm cable; thermostat cable; speaker wire; automotive primary wire; service/portable cords incl. Cold Flex, SJTW extension cords, SPT-3 air-conditioner cords; coaxial cable; hook-up/machine-tool wire MTW; cord reels and power strips/adapters still listed under the Coleman Cable name in distributor listings). Current production status under the Coleman Cable name vs full absorption into Southwire branding UNVERIFIED — distributor listings still show Coleman Cable-branded stock, but no live official Southwire Coleman Cable catalog was retrieved. Do not present as a current standalone manufacturer."
@@ -29684,6 +30014,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -29696,7 +30031,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.currentlighting.com",
    "notes": "Columbia is Current/HLI"
@@ -30290,6 +30626,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -30301,7 +30642,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Generic"
@@ -30762,6 +31104,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -30772,7 +31119,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cwcropes.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -31146,6 +31494,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -31156,7 +31509,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -31252,6 +31606,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -31265,7 +31624,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "Now Cooper Lighting Solutions / Signify? Note: Cooper Lighting Solutions is Signify-owned since 2020 - see Notes"
@@ -31597,6 +31957,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -31608,7 +31973,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": ""
@@ -32194,6 +32560,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -32204,7 +32575,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cooperlighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -32760,6 +33132,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -32771,7 +33148,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.creelighting.com",
    "notes": "Cree Lighting is now separate from Wolfspeed"
@@ -33153,6 +33531,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -33163,7 +33546,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -33250,6 +33634,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -33262,7 +33651,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": ""
@@ -33666,6 +34056,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -33679,7 +34074,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.currentlighting.com",
    "notes": ""
@@ -34238,6 +34634,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -34248,7 +34649,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.dmflighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -34861,6 +35263,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -34872,7 +35279,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.signify.com",
    "notes": ""
@@ -35036,6 +35444,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -35051,7 +35464,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.dewalt.com",
    "notes": "[Gap-fill, Oct 2026 — verified] Product lines: Power tools, hand tools, measuring/layout tools, outdoor power equipment, jobsite equipment/storage, power-tool accessories. NO dedicated HVAC equipment line verified (battery platforms 12V MAX, 20V MAX, FLEXVOLT 60V MAX, POWERSTACK; drills/drivers; saws; grinders; rotary hammers; sanders; routers; nailers; hand tools; lasers; outdoor tools; LED work lights; wet/dry vacuums; tool storage TSTAK/ToughSystem; accessories incl. plumbing-tool accessories). Do NOT list DeWalt as an HVAC equipment brand — verified relevance is tools and trade accessories only. CUBIX in-line centrifugal fans and TOUGHWIRE hangers were NOT verified on dewalt.com in this pass and are NOT included above. [Gap-fill lineage, Oct 2026] DeWalt Industrial Tool Company (founded 1924, Towson MD) — registered trademark of Black & Decker, subsidiary of Stanley Black & Decker (Black & Decker 1960 -> Stanley Black & Decker 2010)"
@@ -35129,6 +35543,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -35139,7 +35558,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.deako.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -35469,6 +35889,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -35479,7 +35904,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -35977,6 +36403,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -35987,7 +36418,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.deltalighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -36131,6 +36563,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -36141,7 +36578,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.delta-therm.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -36549,6 +36987,11 @@
      "company": "CED",
      "branch": "CED - Craig",
      "city": "Craig"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -36560,7 +37003,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.dialight.com",
    "notes": ""
@@ -36612,6 +37056,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -36622,7 +37071,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -36728,6 +37178,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -36739,7 +37194,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.diodeled.com",
    "notes": ""
@@ -37216,6 +37672,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -37228,7 +37689,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.lhdottie.com",
    "notes": ""
@@ -37280,6 +37742,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -37290,7 +37757,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.douglaslightingcontrols.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -37543,6 +38011,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -37556,7 +38029,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": "Dual-Lite is Hubbell Lighting"
@@ -38225,6 +38699,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -38235,7 +38714,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.dymo.com",
    "notes": ""
@@ -38336,6 +38816,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -38346,7 +38831,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -38730,6 +39216,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -38741,7 +39232,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.emon.com",
    "notes": ""
@@ -38861,6 +39353,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -38871,7 +39368,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.engproducts.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -39141,6 +39639,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -39152,7 +39655,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "From branch brandsRep only; not in spreadsheet cross-reference"
@@ -39221,6 +39725,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -39231,7 +39740,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.etcconnect.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -39793,6 +40303,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -39805,7 +40320,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.emerson.com",
    "notes": ""
@@ -40319,6 +40835,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -40329,7 +40850,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.ecofasten.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -40557,6 +41079,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -40568,7 +41095,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.edwards-signals.com",
    "notes": ""
@@ -40844,6 +41372,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -40856,7 +41389,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.elcolighting.com",
    "notes": ""
@@ -41153,6 +41687,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -41163,7 +41702,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.elitelighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -41621,6 +42161,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -41631,7 +42176,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.signify.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -41790,6 +42336,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -41800,7 +42351,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": ""
@@ -41887,6 +42439,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -41899,7 +42456,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.emerson.com",
    "notes": ""
@@ -42189,6 +42747,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -42199,7 +42762,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -42271,6 +42835,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -42281,7 +42850,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.emporiaenergy.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -42415,6 +42985,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -42425,7 +43000,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.encorewire.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -42562,6 +43138,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -42572,7 +43153,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -42873,6 +43455,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -42883,7 +43470,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.enphase.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -43254,6 +43842,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -43384,6 +43977,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -43396,7 +43994,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.ericson.com",
    "notes": ""
@@ -43468,6 +44067,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -43478,7 +44082,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -43765,6 +44370,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -43775,7 +44385,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Not trade equipment Source URL left blank: no individual official/distributor URL verified in this pass; category is trade-standard for this brand name, not individually URL-cited. QED card 2024 (Sonepar)"
@@ -44124,6 +44735,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -44134,7 +44750,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.exitronics.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -44714,6 +45331,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -44724,7 +45346,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -45266,6 +45889,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -45276,7 +45904,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Generic name as listed by QED/Sonepar; specific manufacturer not verifiable from name alone. QED card 2024 (Sonepar)"
@@ -45477,6 +46106,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -45487,7 +46121,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -45782,6 +46417,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -45792,7 +46432,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://denver.portalced.com/manufacturers",
    "notes": ""
@@ -46160,6 +46801,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -46170,7 +46816,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -47438,6 +48085,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -47460,7 +48112,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.fluke.com",
    "notes": ""
@@ -47659,6 +48312,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -47669,7 +48327,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -48815,6 +49474,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -48830,7 +49494,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -48945,6 +49610,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -48956,7 +49626,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -49137,6 +49808,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -49147,7 +49823,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "No verifiable standalone line found. QED card 2024 (Sonepar)"
@@ -49219,6 +49896,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -49229,7 +49911,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Utility/T&D supplier. QED card 2024 (Sonepar)"
@@ -49301,6 +49984,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -49311,7 +49999,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -49444,6 +50133,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -49454,7 +50148,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "No verifiable standalone line found. QED card 2024 (Sonepar)"
@@ -49977,6 +50672,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -49990,7 +50690,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.generac.com",
    "notes": ""
@@ -50097,6 +50798,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -50109,7 +50815,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -50708,6 +51415,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -50718,7 +51430,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -51346,6 +52059,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -51356,7 +52074,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -51923,6 +52642,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -51943,7 +52667,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.greenlee.com",
    "notes": ""
@@ -52861,6 +53586,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -52871,7 +53601,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -53315,6 +54046,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -53325,7 +54061,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "No verifiable standalone line found. QED card 2024 (Sonepar)"
@@ -53466,6 +54203,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -53476,7 +54218,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -53628,6 +54371,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -53638,7 +54386,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -53908,6 +54657,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -53919,7 +54673,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -54047,6 +54802,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -54057,7 +54817,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Duplicate of Harger. QED card 2024 (Sonepar)"
@@ -54420,6 +55181,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -54431,7 +55197,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -54864,6 +55631,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -54874,7 +55646,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -55443,6 +56216,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -55453,7 +56231,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -55615,6 +56394,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -55626,7 +56410,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -55816,6 +56601,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -55827,7 +56617,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -56068,6 +56859,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -56082,7 +56878,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -56246,6 +57043,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -56386,6 +57188,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -56398,7 +57205,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -56677,6 +57485,11 @@
      "company": "Dahl (Hajoca)",
      "branch": "Dahl – Greeley (Evans)",
      "city": "Evans"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -56699,7 +57512,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Silverthorne"
+    "Silverthorne",
+    "Aurora"
    ],
    "source": "https://www.honeywell.com",
    "notes": ""
@@ -57134,6 +57948,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -57145,7 +57964,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -57288,6 +58108,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -57299,7 +58124,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -57616,6 +58442,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -57645,7 +58476,8 @@
     "Pueblo",
     "Steamboat Springs",
     "Sterling",
-    "Westminster"
+    "Westminster",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": ""
@@ -57740,6 +58572,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -57750,7 +58587,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -57822,6 +58660,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -57834,7 +58677,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -58429,6 +59273,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -58439,7 +59288,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -59276,6 +60126,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -59286,7 +60141,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -59775,6 +60631,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -59794,7 +60655,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.idealind.com",
    "notes": ""
@@ -60014,6 +60876,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -60024,7 +60891,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -60134,6 +61002,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -60145,7 +61018,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -61032,6 +61906,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -61042,7 +61921,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Generic name; not verifiable. QED card 2024 (Sonepar)"
@@ -61094,6 +61974,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -61104,7 +61989,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -61326,6 +62212,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -61339,7 +62230,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.intermatic.com",
    "notes": ""
@@ -61525,6 +62417,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -61535,7 +62432,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -62894,6 +63792,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -62904,7 +63807,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -63573,6 +64477,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -63583,7 +64492,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Abbreviation; not verifiable. QED card 2024 (Sonepar)"
@@ -63667,6 +64577,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -63678,7 +64593,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://denver.portalced.com/manufacturers",
    "notes": ""
@@ -63959,6 +64875,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -63969,7 +64890,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -64050,6 +64972,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64060,7 +64987,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -64190,6 +65118,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64202,7 +65135,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -64460,6 +65394,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64473,7 +65412,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -64555,6 +65495,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64567,7 +65512,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -64667,6 +65613,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64678,7 +65629,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -64923,6 +65875,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -64933,7 +65890,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -65033,6 +65991,11 @@
      "company": "Dahl (Hajoca)",
      "branch": "Dahl – Greeley (Evans)",
      "city": "Evans"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -65045,7 +66008,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -65516,6 +66480,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -65526,7 +66495,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -66267,6 +67237,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -66278,7 +67253,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -66495,6 +67471,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -66506,7 +67487,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -66807,6 +67789,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -66817,7 +67804,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Abbreviation for lighting as listed. QED card 2024 (Sonepar)"
@@ -67032,6 +68020,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -67042,7 +68035,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -67416,6 +68410,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -67426,7 +68425,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -68117,6 +69117,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -68127,7 +69132,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -68179,6 +69185,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -68189,7 +69200,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -68440,6 +69452,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -68454,7 +69471,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.legrand.us",
    "notes": ""
@@ -69029,6 +70047,11 @@
      "company": "CED",
      "branch": "CED - Glenwood Springs",
      "city": "Glenwood Springs"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69051,7 +70074,8 @@
     "Monument",
     "Pueblo",
     "Steamboat Springs",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.leviton.com",
    "notes": ""
@@ -69134,6 +70158,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69144,7 +70173,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -69302,6 +70332,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69312,7 +70347,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -69404,6 +70440,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69414,7 +70455,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "No verifiable standalone line found. QED card 2024 (Sonepar)"
@@ -69640,6 +70682,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69652,7 +70699,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -69896,6 +70944,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -69906,7 +70959,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -70180,6 +71234,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -70202,7 +71261,8 @@
     "Monument",
     "Pueblo",
     "Steamboat Springs",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -70355,6 +71415,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -70366,7 +71431,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -70747,6 +71813,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -70757,7 +71828,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -70809,6 +71881,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -70819,7 +71896,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "QED card 2024 (Sonepar)"
@@ -71113,6 +72191,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -71123,7 +72206,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -71197,6 +72281,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -71207,7 +72296,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": ""
@@ -71389,6 +72479,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -71406,7 +72501,8 @@
     "Loveland",
     "Monument",
     "Pueblo",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.lutron.com",
    "notes": ""
@@ -72284,6 +73380,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -72294,7 +73395,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.mphusky.com",
    "notes": ""
@@ -72360,6 +73462,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -72370,7 +73477,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -72808,6 +73916,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -72818,7 +73931,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.madison-electric.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -73775,6 +74889,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -73785,7 +74904,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -74388,6 +75508,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -74398,7 +75523,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "No verifiable manufacturer product line found. QED card 2024 (Sonepar)"
@@ -74454,6 +75580,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -74465,7 +75596,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.analog.com",
    "notes": "Semiconductor brand; not HVAC equipment."
@@ -74592,6 +75724,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -74602,7 +75739,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.maxlite.com",
    "notes": ""
@@ -75021,6 +76159,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -75033,7 +76176,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.mersen.com",
    "notes": ""
@@ -75084,6 +76228,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -75094,7 +76243,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rectorseal.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -75259,6 +76409,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -75269,7 +76424,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cooperlighting.com",
    "notes": "Metalux is a Cooper Lighting brand. QED card 2024 (Sonepar)"
@@ -75550,6 +76706,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -75562,7 +76723,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "Midwest is an Eaton brand in this context."
@@ -75716,6 +76878,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -75728,7 +76895,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.milbankworks.com",
    "notes": "Duplicate of Milbank Manufacturing Company in source."
@@ -76043,6 +77211,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -76053,7 +77226,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.millerburn.com",
    "notes": "Blower-wheel manufacturer; verify current ownership before ordering. QED card 2024 (Sonepar)"
@@ -76419,6 +77593,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -76450,7 +77629,8 @@
     "Monument",
     "Pueblo",
     "Steamboat Springs",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.milwaukeetool.com",
    "notes": "Duplicate variants in source."
@@ -76831,6 +78011,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -76841,7 +78026,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.minkagroup.net",
    "notes": "Variant of Minka in source. QED card 2024 (Sonepar)"
@@ -78445,6 +79631,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -78455,7 +79646,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.mulberrymetal.com",
    "notes": "Duplicate of Mulberry Metal Products in source. QED card 2024 (Sonepar)"
@@ -78928,6 +80120,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -78939,7 +80136,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.nsiindustries.com",
    "notes": ""
@@ -79769,6 +80967,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -79779,7 +80982,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "No verifiable manufacturer product line found. QED card 2024 (Sonepar)"
@@ -79970,6 +81174,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -79980,7 +81189,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.cooperlighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -80567,6 +81777,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -80578,7 +81793,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.nicorlighting.com",
    "notes": ""
@@ -80646,6 +81862,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -80656,7 +81877,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -80767,6 +81989,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -80777,7 +82004,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.noralighting.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -81484,6 +82712,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -81494,7 +82727,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://denver.portalced.com/manufacturers",
    "notes": "No verifiable manufacturer product line found."
@@ -81618,6 +82852,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -81628,7 +82867,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.nuvo.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -81921,6 +83161,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -81931,7 +83176,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.eaton.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -82158,6 +83404,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -82168,7 +83419,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.tnb.com",
    "notes": "Ocal is a T&B/ABB conduit brand."
@@ -82257,6 +83509,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -82267,7 +83524,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.okonite.com",
    "notes": "Duplicate of Okonite Cable in source. QED card 2024 (Sonepar)"
@@ -82561,6 +83819,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -82573,7 +83836,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.legrand.us",
    "notes": ""
@@ -82675,6 +83939,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -82685,7 +83954,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.orbitelectric.com",
    "notes": "Duplicate of Orbit Industries in source. QED card 2024 (Sonepar)"
@@ -83019,6 +84289,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -83029,7 +84304,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.ouellet.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -83706,6 +84982,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -83716,7 +84997,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous acronym; no verifiable line identified. QED card 2024 (Sonepar)"
@@ -83799,6 +85081,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -83811,7 +85098,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.pipglobal.com",
    "notes": "Duplicate of PIP (Protective Industrial Products) and Protective Industrial Products."
@@ -84892,6 +86180,11 @@
      "company": "Rexel",
      "branch": "Rexel Montrose (#3228)",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -84918,7 +86211,8 @@
     "Monument",
     "Pueblo",
     "Steamboat Springs",
-    "Westminster"
+    "Westminster",
+    "Aurora"
    ],
    "source": "https://www.panduit.com",
    "notes": ""
@@ -85712,6 +87006,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -85730,7 +87029,8 @@
     "Loveland",
     "Monument",
     "Pueblo",
-    "Sterling"
+    "Sterling",
+    "Aurora"
    ],
    "source": "https://www.legrand.us",
    "notes": "Duplicate of Pass & Seymour - Legrand."
@@ -85818,6 +87118,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -85828,7 +87133,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Generic name; no verifiable manufacturer line identified. QED card 2024 (Sonepar)"
@@ -85993,6 +87299,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -86003,7 +87314,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -86054,6 +87366,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -86064,7 +87381,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Lighting brand; specific current manufacturer not verifiable — category from lighting context. QED card 2024 (Sonepar)"
@@ -86280,6 +87598,11 @@
      "company": "Dahl (Hajoca)",
      "branch": "Dahl – Greeley (Evans)",
      "city": "Evans"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -86293,7 +87616,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://showroom.rampartsupply.com/brands.HTML",
    "notes": "Ambiguous: multiple Peerless lines (boilers, pumps, etc.); see specific variants below."
@@ -87314,6 +88638,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -87326,7 +88655,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous; see Phoenix Contact and Phoenix Coolers variants."
@@ -87617,6 +88947,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -87628,7 +88963,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.picoma.com",
    "notes": ""
@@ -87747,6 +89083,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -87757,7 +89098,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous name; no single verifiable line identified. QED card 2024 (Sonepar)"
@@ -88408,6 +89750,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -88418,7 +89765,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.homedepot.com",
    "notes": "Retail private-label lighting line. QED card 2024 (Sonepar)"
@@ -89306,6 +90654,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -89318,7 +90671,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.prescolite.com",
    "notes": "Duplicate of Prescolite (Current)."
@@ -89508,6 +90862,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -89518,7 +90877,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous name; no single verifiable line identified. QED card 2024 (Sonepar)"
@@ -89669,6 +91029,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -89680,7 +91045,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.prioritywire.com",
    "notes": ""
@@ -89987,6 +91353,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -90002,7 +91373,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.progresslighting.com",
    "notes": ""
@@ -90261,6 +91633,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -90272,7 +91649,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous name (insurance vs. products); no verifiable trade product line identified."
@@ -90417,6 +91795,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -90427,7 +91810,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.prysmian.com",
    "notes": "Duplicates: Prysmian Cable, Prysmian Group."
@@ -91229,6 +92613,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -91239,7 +92628,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -91603,6 +92993,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -91614,7 +93009,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.rablighting.com",
    "notes": ""
@@ -91913,6 +93309,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -91923,7 +93324,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous acronym; no single verifiable line identified. QED card 2024 (Sonepar)"
@@ -92237,6 +93639,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -92247,7 +93654,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous acronym; no verifiable manufacturer line identified. QED card 2024 (Sonepar)"
@@ -92431,6 +93839,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -92442,7 +93855,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.rack-a-tiers.com",
    "notes": ""
@@ -92516,6 +93930,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -92526,7 +93945,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -92632,6 +94052,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -92642,7 +94067,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.ramset.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -92924,6 +94350,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -92937,7 +94368,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.te.com",
    "notes": ""
@@ -93369,6 +94801,11 @@
      "company": "Hajoca (Dahl)",
      "branch": "Dahl Plumbing - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -94123,6 +95560,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -94134,7 +95576,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Ambiguous; see Republic Conduit / Republic Wire variants."
@@ -94953,6 +96396,11 @@
      "company": "Hajoca (Dahl)",
      "branch": "Dahl Plumbing - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -94965,7 +96413,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.ridgid.com",
    "notes": ""
@@ -95016,6 +96465,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -95026,7 +96480,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "No verifiable manufacturer product line found. QED card 2024 (Sonepar)"
@@ -95708,6 +97163,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -95718,7 +97178,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -96590,6 +98051,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -96600,7 +98066,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -96992,6 +98459,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -97002,7 +98474,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -97054,6 +98527,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -97064,7 +98542,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.selux.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -97501,6 +98980,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -97511,7 +98995,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.solahd.com",
    "notes": "SolaHD power quality. QED card 2024 (Sonepar)"
@@ -97597,6 +99082,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -97607,7 +99097,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.span.io",
    "notes": "Span smart panel. QED card 2024 (Sonepar)"
@@ -97853,6 +99344,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -97863,7 +99359,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -98263,6 +99760,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -98273,7 +99775,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -99058,6 +100561,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -99070,7 +100578,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.saylite.com",
    "notes": ""
@@ -99121,6 +100630,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -99131,7 +100645,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -99929,6 +101444,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -99941,7 +101461,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.generationlighting.com",
    "notes": "Sea Gull Lighting became Generation Lighting."
@@ -100124,6 +101645,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -100134,7 +101660,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -100577,6 +102104,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -100587,7 +102119,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar)"
@@ -100755,6 +102288,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -100765,7 +102303,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -101375,6 +102914,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -101387,7 +102931,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.shat-r-shield.com",
    "notes": ""
@@ -101888,6 +103433,11 @@
      "company": "CED",
      "branch": "CED - Glenwood Springs",
      "city": "Glenwood Springs"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -101912,7 +103462,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.siemens.com",
    "notes": ""
@@ -102279,6 +103830,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -102289,7 +103845,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.signify.com",
    "notes": "Former Philips Lighting."
@@ -102393,6 +103950,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -102404,7 +103966,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.simkar.com",
    "notes": ""
@@ -102754,6 +104317,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -102764,7 +104332,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -103591,6 +105160,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -103601,7 +105175,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -103740,6 +105315,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -103750,7 +105330,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "Solar rooftop mounting/flashing context. QED card 2024 (Sonepar)"
@@ -103846,6 +105427,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -103856,7 +105442,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar)"
@@ -104123,6 +105710,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -104133,7 +105725,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -104709,6 +106302,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -104733,7 +106331,8 @@
     "Montrose",
     "Monument",
     "Pueblo",
-    "Steamboat Springs"
+    "Steamboat Springs",
+    "Aurora"
    ],
    "source": "https://www.southwire.com",
    "notes": ""
@@ -105022,6 +106621,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -105033,7 +106637,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": ""
@@ -105257,6 +106862,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -105267,7 +106877,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -105366,6 +106977,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -105377,7 +106993,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.stifirestop.com",
    "notes": ""
@@ -107673,6 +109290,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -107683,7 +109305,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -107732,6 +109355,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -107742,7 +109370,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -108621,6 +110250,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -108631,7 +110265,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -108740,6 +110375,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -108750,7 +110390,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": ""
@@ -109140,6 +110781,11 @@
      "company": "Border States",
      "branch": "Border States Electric - Greeley",
      "city": "Greeley"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -109153,7 +110799,8 @@
     "Greeley",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.signify.com",
    "notes": "Sylvania lighting brand."
@@ -109409,6 +111056,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -109419,7 +111071,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": "Thomas & Betts abbreviation. QED card 2024 (Sonepar)"
@@ -109560,6 +111213,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -109570,7 +111228,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -109971,6 +111630,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -109981,7 +111645,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.tjcope.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -110360,6 +112025,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -110374,7 +112044,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.tpicorp.com",
    "notes": ""
@@ -110877,6 +112548,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -110888,7 +112564,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": "Hubbell TayMac."
@@ -110945,6 +112622,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -110955,7 +112637,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.generationlighting.com",
    "notes": ""
@@ -111505,6 +113188,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -111517,7 +113205,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.terralux.com",
    "notes": ""
@@ -112067,6 +113756,11 @@
      "company": "Elliott Electric Supply",
      "branch": "Elliott Electric Supply - Fort Collins",
      "city": "Fort Collins"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -112078,7 +113772,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.thermoweld.com",
    "notes": "Grounding/welding for utility/electrical."
@@ -112336,6 +114031,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -112350,7 +114050,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.abb.com",
    "notes": ""
@@ -112477,6 +114178,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -112487,7 +114193,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.generationlighting.com",
    "notes": "Abbreviation of Thomas Lighting. QED card 2024 (Sonepar)"
@@ -113068,6 +114775,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -113079,7 +114791,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.topaz-usa.com",
    "notes": ""
@@ -113181,6 +114894,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -113194,7 +114912,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.nsiindustries.com",
    "notes": "Tork time switches."
@@ -113691,6 +115410,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -113701,7 +115425,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -113778,6 +115503,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -113788,7 +115518,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -114940,6 +116671,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -114950,7 +116686,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.te.com",
    "notes": "Former Tyco Electronics, now TE Connectivity. QED card 2024 (Sonepar)"
@@ -115411,6 +117148,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -115421,7 +117163,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -115655,6 +117398,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -115665,7 +117413,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.unirac.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -115717,6 +117466,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -115727,7 +117481,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.unistrut.com",
    "notes": "Atkore Unistrut. QED card 2024 (Sonepar)"
@@ -115882,6 +117637,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -115892,7 +117652,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -116692,6 +118453,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -116702,7 +118468,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.valmont.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -117091,6 +118858,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -117101,7 +118873,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.venturelighting.com",
    "notes": ""
@@ -117970,6 +119743,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -117980,7 +119758,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Payment brand, not a trade product brand. QED card 2024 (Sonepar)"
@@ -118131,6 +119910,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -118141,7 +119925,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -118192,6 +119977,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -118202,7 +119992,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -118390,6 +120181,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -118400,7 +120196,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Utility/T&D poles. QED card 2024 (Sonepar)"
@@ -118506,6 +120303,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -118517,7 +120319,8 @@
     "Greenwood Village",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.waclighting.com",
    "notes": ""
@@ -119126,6 +120929,11 @@
      "company": "Hajoca (Dahl)",
      "branch": "Dahl Plumbing - Montrose",
      "city": "Montrose"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -119138,7 +120946,8 @@
     "Loveland",
     "Montrose",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.warmup.com",
    "notes": ""
@@ -119888,6 +121697,11 @@
      "company": "CED",
      "branch": "CED - Alamosa",
      "city": "Alamosa"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -119900,7 +121714,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.legrand.com",
    "notes": "Legrand Wattstopper."
@@ -120048,6 +121863,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -120058,7 +121878,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -120574,6 +122395,11 @@
      "company": "Johnstone Supply",
      "branch": "Johnstone Supply - Durango",
      "city": "Durango"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -120586,7 +122412,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.wernerco.com",
    "notes": ""
@@ -120817,6 +122644,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -120827,7 +122659,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.rexelusa.com/brands",
    "notes": "QED card 2024 (Sonepar)"
@@ -121077,6 +122910,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -121087,7 +122925,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "From branch brandsRep only; not in spreadsheet cross-reference"
@@ -121285,6 +123124,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -121295,7 +123139,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -121372,6 +123217,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -121384,7 +123234,8 @@
     "Littleton",
     "Loveland",
     "Monument",
-    "Pueblo"
+    "Pueblo",
+    "Aurora"
    ],
    "source": "https://www.hubbell.com",
    "notes": "Hubbell Wiegmann enclosures."
@@ -121581,6 +123432,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -121591,7 +123447,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar)"
@@ -122025,6 +123882,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -122035,7 +123897,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.molex.com",
    "notes": "Molex Woodhead."
@@ -122216,6 +124079,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -122226,7 +124094,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "Category not verifiable from official sources for this distributor listing; category left blank rather than invented. QED card 2024 (Sonepar)"
@@ -123268,6 +125137,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -123278,7 +125152,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.zumtobel.com",
    "notes": "QED card 2024 (Sonepar)"
@@ -123400,6 +125275,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -123410,7 +125290,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "",
    "notes": "QED card 2024 (Sonepar) From branch brandsRep only; not in spreadsheet cross-reference"
@@ -123793,6 +125674,11 @@
      "company": "QED / Sonepar",
      "branch": "QED / Sonepar - QED - Grand Junction",
      "city": "Grand Junction"
+    },
+    {
+     "company": "QED / Sonepar",
+     "branch": "QED / Sonepar - QED - Aurora (CDC)",
+     "city": "Aurora"
     }
    ],
    "cities": [
@@ -123803,7 +125689,8 @@
     "Grand Junction",
     "Littleton",
     "Loveland",
-    "Monument"
+    "Monument",
+    "Aurora"
    ],
    "source": "https://www.johnstonesupply.com/manufacturer-list",
    "notes": "Generic name; not verifiable. QED card 2024 (Sonepar)"
