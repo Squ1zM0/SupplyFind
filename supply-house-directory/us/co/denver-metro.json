@@ -22,8 +22,8 @@
       "city": "Denver",
       "state": "CO",
       "phone": "+13038931120",
-      "lat": 39.7897,
-      "lon": -105.0148,
+      "lat": 39.78593,
+      "lon": -105.00325,
       "brandsRep": [
         "Manitowoc Ice",
         "Indigo NXT",
@@ -38,15 +38,15 @@
         "refrigeration",
         "hvac"
       ],
-      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex]",
+      "notes": "Ice Design Center. Authorized Goodman & Daikin distributor. Source: Baker Distributing official, verified 2025-12-26 [Coordinate refinement 2025-12-27: Multi-tenant suite - moved to Suite 300 entrance location. Verified coordinates for customer access.] [Arrival coordinates refined 2025-12-27: Multi-tenant complex] [Coordinate correction 2026-10-30: previous coords pointed at 5100 Zuni St (~0.7 mi NW); corrected to verified 5050 Osage St geocode (39.78593, -105.00325).]",
       "trades": [
         "HVAC"
       ],
       "postalCode": "80221",
       "verification": {
-        "coords_verified": "2025-12-27",
+        "coords_verified": "2026-10-30",
         "geocoding_method": "Previously verified during geocoding audit",
-        "notes": "Coordinates verified in prior audit pass",
+        "notes": "Coordinates corrected 2026-10-30: previous coords (39.7897, -105.0148) pointed at 5100 Zuni St, ~0.7 mi NW of the branch; corrected to verified 5050 Osage St geocode.",
         "addressVerified": false,
         "addressSource": "Manufacturer Line Card (requires re-verification)",
         "addressVerifiedDate": "2025-12-27"
@@ -56,10 +56,10 @@
         "https://www.bakerdist.com/locations"
       ],
       "geoPrecision": "storefront",
-      "geoVerifiedDate": "2025-12-27",
-      "geoSource": "Google Maps + verified business directories",
-      "arrivalLat": 39.789756,
-      "arrivalLon": -105.014744,
+      "geoVerifiedDate": "2026-10-30",
+      "geoSource": "Geocoder full-address match + Apple Maps pin (2026-10-30 correction)",
+      "arrivalLat": 39.78593,
+      "arrivalLon": -105.00325,
       "arrivalType": "storefront",
       "brandListType": "repo representative (not spreadsheet line card)",
       "hours": "Mon-Fri 8:00 AM - 5:00 PM",
