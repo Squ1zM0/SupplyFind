@@ -22168,11 +22168,6 @@
      "city": "Colorado Springs"
     },
     {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver",
-     "city": "Denver"
-    },
-    {
      "company": "Lohmiller & Company (Carrier West)",
      "branch": "Lohmiller & Company (Carrier West) – Denver",
      "city": "Denver"
@@ -22251,31 +22246,6 @@
      "company": "Fastenal",
      "branch": "Fastenal - Montrose",
      "city": "Montrose"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Colorado Springs",
-     "city": "Colorado Springs"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver South (Englewood)",
-     "city": "Englewood"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Fort Collins",
-     "city": "Fort Collins"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Pueblo",
-     "city": "Pueblo"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Grand Junction",
-     "city": "Grand Junction"
     }
    ],
    "cities": [
@@ -22292,7 +22262,6 @@
     "Lafayette",
     "Longmont",
     "Montrose",
-    "Pueblo",
     "Westminster"
    ],
    "source": "https://www.bryant.com",
@@ -26435,11 +26404,6 @@
      "city": "Colorado Springs"
     },
     {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver",
-     "city": "Denver"
-    },
-    {
      "company": "Lohmiller & Company (Carrier West)",
      "branch": "Lohmiller & Company (Carrier West) – Denver",
      "city": "Denver"
@@ -26473,31 +26437,6 @@
      "company": "Ferguson",
      "branch": "Ferguson Plumbing Supply",
      "city": "Granby"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Colorado Springs",
-     "city": "Colorado Springs"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver South (Englewood)",
-     "city": "Englewood"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Fort Collins",
-     "city": "Fort Collins"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Pueblo",
-     "city": "Pueblo"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Grand Junction",
-     "city": "Grand Junction"
     }
    ],
    "cities": [
@@ -26507,10 +26446,8 @@
     "Englewood",
     "Fort Collins",
     "Granby",
-    "Grand Junction",
     "Johnstown",
-    "Montrose",
-    "Pueblo"
+    "Montrose"
    ],
    "source": "https://www.carrier.com",
    "notes": ""
@@ -87400,11 +87337,6 @@
      "city": "Colorado Springs"
     },
     {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver",
-     "city": "Denver"
-    },
-    {
      "company": "Lohmiller & Company (Carrier West)",
      "branch": "Lohmiller & Company (Carrier West) – Denver",
      "city": "Denver"
@@ -87423,31 +87355,6 @@
      "company": "Sid Harvey",
      "branch": "Sid Harvey – Fort Collins",
      "city": "Fort Collins"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Colorado Springs",
-     "city": "Colorado Springs"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Denver South (Englewood)",
-     "city": "Englewood"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Fort Collins",
-     "city": "Fort Collins"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Pueblo",
-     "city": "Pueblo"
-    },
-    {
-     "company": "Gustave A. Larson",
-     "branch": "Gustave A. Larson – Grand Junction",
-     "city": "Grand Junction"
     }
    ],
    "cities": [
@@ -87455,9 +87362,7 @@
     "Denver",
     "Englewood",
     "Fort Collins",
-    "Grand Junction",
-    "Johnstown",
-    "Pueblo"
+    "Johnstown"
    ],
    "source": "https://www.payne.com",
    "notes": "Payne is a Carrier-brand value line."
